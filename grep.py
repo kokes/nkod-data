@@ -22,9 +22,9 @@ if __name__ == "__main__":
         cr = csv.DictReader(body)
         for j, line in enumerate(cr):
             name = line["název"]
-            if not name:
-                continue
             url = line["přístupovéUrl"]
+            if not name or not url:
+                continue
 
             if (name, url) in seen:
                 continue
