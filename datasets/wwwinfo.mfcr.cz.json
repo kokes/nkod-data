@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ARES - Výstup pro všechna IČO",
+    "url": "https://wwwinfo.mfcr.cz/ares/ares_vreo_all.tar.gz"
+  },
+  {
+    "name": "ARES - Seznam IČO k výstupu pro všechna IČO",
+    "url": "https://wwwinfo.mfcr.cz/ares/ares_seznamIC_VR_balik.csv.7z"
+  },
+  {
+    "name": "Webové služby ARES",
+    "url": "https://wwwinfo.mfcr.cz/ares/ares_xml.html.cz"
+  },
+  {
+    "name": "ARES - Seznam IČO z VR",
+    "url": "https://wwwinfo.mfcr.cz/ares/ares_seznamIC_VR.csv.7z"
+  },
+  {
+    "name": "ARES - Seznam IČO změnový",
+    "url": "https://wwwinfo.mfcr.cz/ares/ares_seznamIC_VR_zmen.7z"
+  },
+  {
+    "name": "ARES - Číselník veřejných rejstříků",
+    "url": "https://wwwinfo.mfcr.cz/ares/ares_ciselnik_VR.csv"
+  }
+]

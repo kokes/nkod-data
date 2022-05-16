@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Datová sada Úřední desky HZS",
+    "url": "https://opendata.mvcr.cz/api/boards?type=hzs"
+  },
+  {
+    "name": "Datová sada Úřední desky PČR",
+    "url": "https://opendata.mvcr.cz/api/boards?type=pcr"
+  },
+  {
+    "name": "Datová sada Úřední desky MV",
+    "url": "https://opendata.mvcr.cz/api/boards?type=mv"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "name": "Číselníky - XML a XLSX soubory v ZIP balíčku",
+    "url": "https://www.volby.cz/opendata/prez2018/PREZ2018ciselniky20171215.zip"
+  },
+  {
+    "name": "Číselníky - CSV soubory a JSON schémata v ZIP balíčku",
+    "url": "https://www.volby.cz/opendata/prez2018/PREZ2018ciselniky20171215_csv.zip"
+  },
+  {
+    "name": "Číselníky - XML a XLSX soubory v ZIP balíčku",
+    "url": "https://www.volby.cz/opendata/kz2016/KZ2016ciselniky20161007.zip"
+  },
+  {
+    "name": "Okrsková data - CSV s JSON schématem v ZIP balíčku",
+    "url": "https://www.volby.cz/opendata/ep2019/EP2019data20190526_csv.zip"
+  },
+  {
+    "name": "Okrsková data - XML soubory v ZIP balíčku",
+    "url": "https://www.volby.cz/opendata/ep2019/EP2019data20190526_xml.zip"
+  },
+  {
+    "name": "Soubor v CSV",
+    "url": "https://www.volby.cz/opendata/ps2021/csv_od/pscoco.csv"
+  },
+  {
+    "name": "Okrsková data - XML soubor komprimovaný v ZIP",
+    "url": "https://www.volby.cz/opendata/se2018/SENAT2018_data_20181013_k2_xml.zip"
+  },
+  {
+    "name": "Okrsková data - CSV soubor a JSON schéma v ZIP balíčku",
+    "url": "https://www.volby.cz/opendata/se2018/SENAT2018_data_20181013_k2_csv.zip"
+  },
+  {
+    "name": "Číselníky - CSV soubory a JSON schémata v ZIP balíčku",
+    "url": "https://www.volby.cz/opendata/se2018/SE2018ciselnik20181004_csv.zip"
+  },
+  {
+    "name": "Číselníky - XML a XLSX soubory v ZIP balíčku",
+    "url": "https://www.volby.cz/opendata/se2018/SE2018ciselnik20181004.zip"
+  },
+  {
+    "name": "Soubor v CSV",
+    "url": "https://www.volby.cz/opendata/ps2021/csv_od/psvolkr.csv"
+  },
+  {
+    "name": "XML s aktuálním složením Senátu Parlamentu ČR",
+    "url": "https://www.volby.cz/pls/senat/vysledky_celk"
+  },
+  {
+    "name": "Číselníky - CSV soubory a JSON schémata v ZIP balíčku",
+    "url": "https://www.volby.cz/opendata/se2020/SE2020ciselnik20200918_csv.zip"
+  },
+  {
+    "name": "Číselníky - XML a XLSX soubory v ZIP balíčku",
+    "url": "https://www.volby.cz/opendata/se2020/SE2020ciselnik20200918.zip"
+  },
+  {
+    "name": "XML s výsledky za jednotlivé senátní obvody",
+    "url": "https://www.volby.cz/pls/senat/vysledky?datum_voleb=20170127"
+  },
+  {
+    "name": "Číselníky - CSV soubory a JSON schémata v ZIP balíčku",
+    "url": "https://www.volby.cz/opendata/ep2019/EP2019ciselniky20190513_csv.zip"
+  },
+  {
+    "name": "Číselníky - XML a XLSX soubory v ZIP balíčku",
+    "url": "https://www.volby.cz/opendata/ep2019/EP2019ciselniky20190513.zip"
+  },
+  {
+    "name": "Okrsková data - XML soubor komprimovaný v ZIP",
+    "url": "https://www.volby.cz/opendata/se2020/SENAT2020_data_20201010_k2_xml.zip"
+  },
+  {
+    "name": "Okrsková data - CSV soubor a JSON schéma v ZIP balíčku",
+    "url": "https://www.volby.cz/opendata/se2020/SENAT2020_data_20201010_k2_csv.zip"
+  },
+  {
+    "name": "Soubor v CSV",
+    "url": "https://www.volby.cz/opendata/ps2021/csv_od/psrkl_slozeni.csv"
+  },
+  {
+    "name": "Soubor v CSV",
+    "url": "https://www.volby.cz/opendata/ps2021/csv_od/cpp.csv"
+  },
+  {
+    "name": "Soubor v CSV",
+    "url": "https://www.volby.cz/opendata/ps2021/csv_od/psrk.csv"
+  },
+  {
+    "name": "Okrsková data - CSV s JSON schématem v ZIP balíčku",
+    "url": "https://www.volby.cz/opendata/prez2018/PREZ2018data20180127_csv_kolo2.zip"
+  },
+  {
+    "name": "Soubor v CSV",
+    "url": "https://www.volby.cz/opendata/ps2021/csv_od/cisob.csv"
+  },
+  {
+    "name": "Soubor v CSV",
+    "url": "https://www.volby.cz/opendata/ps2021/csv_od/cnumnuts.csv"
+  },
+  {
+    "name": "Okrsková data - XML soubor komprimovaný v ZIP",
+    "url": "https://www.volby.cz/opendata/se2016/SE2016data20161015.zip"
+  },
+  {
+    "name": "XML s výsledky za jednotlivé senátní obvody",
+    "url": "https://www.volby.cz/pls/senat/vysledky?datum_voleb=20181005"
+  },
+  {
+    "name": "Okrsková data - XML soubor komprimovaný v ZIP",
+    "url": "https://www.volby.cz/opendata/se2017/SE2017data20170128.zip"
+  },
+  {
+    "name": "Soubor v CSV",
+    "url": "https://www.volby.cz/opendata/ps2021/csv_od/cns.csv"
+  },
+  {
+    "name": "Číselníky - XML a XLSX soubory v ZIP balíčku",
+    "url": "https://www.volby.cz/opendata/kz2020/KZ2020ciselniky20201002.zip"
+  },
+  {
+    "name": "Číselníky - CSV soubory a JSON schémata v ZIP balíčku",
+    "url": "https://www.volby.cz/opendata/kz2020/KZ2020ciselniky20200918_csv.zip"
+  },
+  {
+    "name": "XML s výsledky za jednotlivé senátní obvody",
+    "url": "https://www.volby.cz/pls/senat/vysledky?datum_voleb=20161007"
+  },
+  {
+    "name": "Soubor v CSV",
+    "url": "https://www.volby.cz/opendata/ps2021/csv_od/psrzvo.csv"
+  },
+  {
+    "name": "Soubor v CSV",
+    "url": "https://www.volby.cz/opendata/ps2021/csv_od/cvs_slozeni.csv"
+  },
+  {
+    "name": "XML s výsledky za jednotlivé senátní obvody",
+    "url": "https://www.volby.cz/pls/senat/vysledky?datum_voleb=20201002"
+  },
+  {
+    "name": "Soubor v CSV",
+    "url": "https://www.volby.cz/opendata/ps2021/csv_od/cvs.csv"
+  },
+  {
+    "name": "Soubor v CSV",
+    "url": "https://www.volby.cz/opendata/ps2021/csv_od/psrkl.csv"
+  }
+]

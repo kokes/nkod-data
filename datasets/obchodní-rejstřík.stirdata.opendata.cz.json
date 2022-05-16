@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Apache Jena Fuseki SPARQL endpoint",
+    "url": "https://obchodní-rejstřík.stirdata.opendata.cz/sparql"
+  },
+  {
+    "name": "OpenLink Virtuoso SPARQL endpoint",
+    "url": "https://obchodní-rejstřík.stirdata.opendata.cz/vsparql"
+  },
+  {
+    "name": "Linked Data Fragments (#LD) endpoint",
+    "url": "https://obchodní-rejstřík.stirdata.opendata.cz/ldf/"
+  }
+]

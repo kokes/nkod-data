@@ -1,0 +1,150 @@
+[
+  {
+    "name": "Zóna placeného parkování",
+    "url": "http://kod.olomouc.eu:80/dataset/9977d404-7c1a-4bbf-9581-4e9c7a214cc7/resource/356172d6-9f36-4cca-a9c5-4e0a03f14549/download/zona_placeneho_parkovani.geojson"
+  },
+  {
+    "name": "Plochy obcí ORP Olomouc (WGS 84)",
+    "url": "http://kod.olomouc.eu:80/dataset/f10b7dc1-3bc3-45f8-9cf9-3a232d75132e/resource/68e09781-0f8b-460a-b4af-aadde860be85/download/obce_plochy_orp_ol.geojson"
+  },
+  {
+    "name": "Plochy obcí ORP Olomouc (S-JTSK)",
+    "url": "http://kod.olomouc.eu:80/dataset/f10b7dc1-3bc3-45f8-9cf9-3a232d75132e/resource/e7ea4f0a-e85e-4723-be61-e291247aa8b9/download/obce_plochy_orp_ol.geojson"
+  },
+  {
+    "name": "Katastrální území ORP Olomouc (WGS 84)",
+    "url": "http://kod.olomouc.eu:80/dataset/affdaa13-5a49-4b3b-88f5-b46586ae7e03/resource/be489c5e-aacc-4116-ba2c-3b4bb9fb0a3d/download/ku_orp_olomouc.geojson"
+  },
+  {
+    "name": "Katastrální území ORP Olomouc (S-JTSK)",
+    "url": "http://kod.olomouc.eu:80/dataset/affdaa13-5a49-4b3b-88f5-b46586ae7e03/resource/bf285f0c-5210-4f5c-8f9d-487de350472a/download/ku_orp_olomouc.geojson"
+  },
+  {
+    "name": "Katastrální území Olomouc (WGS 84)",
+    "url": "http://kod.olomouc.eu:80/dataset/094d431a-19c4-4300-9944-9716dd2ce01e/resource/3b65a70a-b623-4f02-9e09-504ec247f078/download/ku_olomouc.geojson"
+  },
+  {
+    "name": "Katastrální území Olomouc (S-JTSK)",
+    "url": "http://kod.olomouc.eu:80/dataset/094d431a-19c4-4300-9944-9716dd2ce01e/resource/ad65248a-7a8b-4619-aa21-235ce4f5188a/download/ku_olomouc.geojson"
+  },
+  {
+    "name": "Zpoplatněné parkovací plochy",
+    "url": "http://kod.olomouc.eu:80/dataset/9ad737c0-5a22-4cb3-8b61-0835dd342d96/resource/dc05cbf9-1fca-4698-93fa-56c9c18deefa/download/zpoplatnene_parkovaci_plochy.geojson"
+  },
+  {
+    "name": "Plochy cenové mapy 2020",
+    "url": "http://kod.olomouc.eu:80/dataset/d937f450-5940-4ac7-b7ea-c75bd48ca87d/resource/e02f2b1e-dbe9-45ae-9535-57f1d0609ce5/download/cm_ol_2020.geojson"
+  },
+  {
+    "name": "Sdílená cyklo doprava Olomouc 2017",
+    "url": "http://kod.olomouc.eu:80/dataset/651cc36f-d0b2-4fb9-b1e6-85c1ca7e5769/resource/30024290-9227-4ad2-81ae-3389f84cb7fd/download/cyklo_rekola_ol_2017.rar"
+  },
+  {
+    "name": "Hranice města Olomouc (WGS 84)",
+    "url": "http://kod.olomouc.eu:80/dataset/ea952374-2772-46cb-8381-169e3dce4cad/resource/f91ed046-2af1-49c9-b28e-8bac622926c6/download/hranice_mesta_olomouc.geojson"
+  },
+  {
+    "name": "Hranice města Olomouc (S-JTSK)",
+    "url": "http://kod.olomouc.eu:80/dataset/ea952374-2772-46cb-8381-169e3dce4cad/resource/2a03287b-2821-466e-beaa-8747cd028d72/download/hranice_mesta_olomouc.geojson"
+  },
+  {
+    "name": "ÚSES ORP Olomouc (WGS 84)",
+    "url": "http://kod.olomouc.eu:80/dataset/dd679d5e-0922-418c-918d-df949607b973/resource/66cda450-0614-462b-a679-e48f90f7eafc/download/uses_4326.geojson"
+  },
+  {
+    "name": "ÚSES ORP Olomouc (S-JTSK)",
+    "url": "http://kod.olomouc.eu:80/dataset/dd679d5e-0922-418c-918d-df949607b973/resource/7fb4bf1a-4aca-4515-bbf8-c5310cd4c11a/download/uses_5514.geojson"
+  },
+  {
+    "name": "Partnerská města Olomouce",
+    "url": "http://kod.olomouc.eu:80/dataset/b34a0d16-7f99-4f65-9c5c-11d8f79b95a8/resource/3eca5ff6-88ac-4b9c-9479-71cc81f73ba9/download/partnerska_mesta_ol.geojson"
+  },
+  {
+    "name": "Zákaz vjezdu vozidel nad 6 tun",
+    "url": "http://kod.olomouc.eu:80/dataset/d414a36e-f547-4f8f-90a9-09bb52349b24/resource/3b2877ae-123d-4b53-9c37-960e472c6554/download/zakaz_6t.geojson"
+  },
+  {
+    "name": "Hranice KMČ Olomouc (WGS 84)",
+    "url": "http://kod.olomouc.eu:80/dataset/f57906be-9c1f-413c-88e7-dbdfa6a1cb43/resource/6c926e87-4edc-4fbe-9849-9b203b355d9e/download/hranice_kmc_ol.geojson"
+  },
+  {
+    "name": "Hranice KMČ Olomouc (S-JTSK)",
+    "url": "http://kod.olomouc.eu:80/dataset/f57906be-9c1f-413c-88e7-dbdfa6a1cb43/resource/ccd23745-dc4a-415d-81c5-3f6b76ede9b5/download/hranice_kmc_ol.geojson"
+  },
+  {
+    "name": "Brownfieldy Olomouc",
+    "url": "http://kod.olomouc.eu:80/dataset/dc963b4e-5691-4d39-a82c-babe697f7e63/resource/3e41ea63-0515-4883-8131-d30ba18bdd4a/download/brownfieldy_ol.geojson"
+  },
+  {
+    "name": "Plochy cenové mapy 2019",
+    "url": "http://kod.olomouc.eu:80/dataset/71c7afc1-afa7-42cb-b3f4-556c9e98841b/resource/294cd207-d018-4623-be97-7c8e6f77e7d7/download/cm_ol_2019.geojson"
+  },
+  {
+    "name": "Zóna placeného parkování",
+    "url": "http://kod.olomouc.eu:80/dataset/9977d404-7c1a-4bbf-9581-4e9c7a214cc7/resource/558aeee5-3bbf-4ebb-b923-4a19dfd4707d/download/zona_placeneho_parkovani.csv"
+  },
+  {
+    "name": "Plochy obcí ORP Olomouc",
+    "url": "http://kod.olomouc.eu:80/dataset/f10b7dc1-3bc3-45f8-9cf9-3a232d75132e/resource/ce8f0a64-4c05-4cd0-b69f-cb3a11444328/download/obce_plochy_orp_ol.csv"
+  },
+  {
+    "name": "Katastrální území ORP Olomouc",
+    "url": "http://kod.olomouc.eu:80/dataset/affdaa13-5a49-4b3b-88f5-b46586ae7e03/resource/ec61f8a6-3bd3-4d2d-bd4a-a1bcfbc3b317/download/ku_orp_olomouc.csv"
+  },
+  {
+    "name": "Nehody a uzavírky Olomouc 2020",
+    "url": "http://kod.olomouc.eu:80/dataset/bdc8e022-3e9d-4331-8a25-bd2cc1e8e5ac/resource/9380bc6d-86fa-4955-98a4-4b3ebf4e5f25/download/uzavirky_ol.csv"
+  },
+  {
+    "name": "Katastrální území Olomouc",
+    "url": "http://kod.olomouc.eu:80/dataset/094d431a-19c4-4300-9944-9716dd2ce01e/resource/e06954fe-ac12-4bd7-8dbc-031023cd2d52/download/ku_olomouc.csv"
+  },
+  {
+    "name": "Sdílená cyklo doprava Olomouc 2018",
+    "url": "http://kod.olomouc.eu:80/dataset/38457b6b-9039-40ca-b92d-d0a7cb387013/resource/d059e71a-448a-4b13-91a0-e881a410be02/download/cyklo_rekola_ol_2018.rar"
+  },
+  {
+    "name": "Zpoplatněné parkovací plochy",
+    "url": "http://kod.olomouc.eu:80/dataset/9ad737c0-5a22-4cb3-8b61-0835dd342d96/resource/3766adc2-7ddc-4b1b-82c8-12d3bc529462/download/zpoplatnene_parkovaci_plochy.csv"
+  },
+  {
+    "name": "Plochy cenové mapy 2020",
+    "url": "http://kod.olomouc.eu:80/dataset/d937f450-5940-4ac7-b7ea-c75bd48ca87d/resource/afae2b83-8eb3-4312-a22f-2c4acc31dc6a/download/cm_ol_2020.csv"
+  },
+  {
+    "name": "Sdílená cyklo doprava Olomouc 2017",
+    "url": "http://kod.olomouc.eu:80/dataset/651cc36f-d0b2-4fb9-b1e6-85c1ca7e5769/resource/f0c1b418-cb9a-4e5d-8bc8-d0bc2a817199/download/cyklo_rekola_ol_2017.csv"
+  },
+  {
+    "name": "Hranice města Olomouc",
+    "url": "http://kod.olomouc.eu:80/dataset/ea952374-2772-46cb-8381-169e3dce4cad/resource/7123aea5-cdea-4a1c-9356-873dfdc17988/download/hranice_mesta_olomouc.csv"
+  },
+  {
+    "name": "ÚSES ORP Olomouc1",
+    "url": "http://kod.olomouc.eu:80/dataset/dd679d5e-0922-418c-918d-df949607b973/resource/b9c00d75-7382-4dff-9dde-67221b93cdb5/download/uses.csv"
+  },
+  {
+    "name": "Partnerská města Olomouce",
+    "url": "http://kod.olomouc.eu:80/dataset/b34a0d16-7f99-4f65-9c5c-11d8f79b95a8/resource/48de234a-49ee-41c2-afc2-85984e4759bd/download/partnerska_mesta_ol.csv"
+  },
+  {
+    "name": "Zákaz vjezdu vozidel nad 6 tun",
+    "url": "http://kod.olomouc.eu:80/dataset/d414a36e-f547-4f8f-90a9-09bb52349b24/resource/6e49c698-1bed-40cf-85e0-41bb940cf9da/download/zakaz_6t.csv"
+  },
+  {
+    "name": "Hranice KMČ Olomouc",
+    "url": "http://kod.olomouc.eu:80/dataset/f57906be-9c1f-413c-88e7-dbdfa6a1cb43/resource/b5cdaf60-e370-49ac-874a-7f3d8c9b21bf/download/hranice_kmc_ol.csv"
+  },
+  {
+    "name": "Brownfieldy Olomouc",
+    "url": "http://kod.olomouc.eu:80/dataset/dc963b4e-5691-4d39-a82c-babe697f7e63/resource/fb02987d-2e78-4c10-acd9-4b2f80f5ebce/download/brownfieldy_ol.csv"
+  },
+  {
+    "name": "Plochy cenové mapy 2019",
+    "url": "http://kod.olomouc.eu:80/dataset/71c7afc1-afa7-42cb-b3f4-556c9e98841b/resource/03bcf5d8-5e9f-440d-9c60-f668e41fafcb/download/cm_ol_2019.csv"
+  },
+  {
+    "name": "Mobilní aplikace OL",
+    "url": "http://kod.olomouc.eu:80/dataset/0d545576-90d9-4f9c-b1e3-3ea2b1621af0/resource/7e3d994a-3d7d-4ec5-bfc0-fd1cbb049c33/download/mobilni_aplikace_ol.csv"
+  }
+]
