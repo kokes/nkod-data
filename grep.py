@@ -35,8 +35,9 @@ if __name__ == "__main__":
             datasets[netloc].append({"name": name, "url": url})
 
     for k, v in datasets.items():
-        with open(os.path.join(tdir, k + ".json"), "rt") as f:
-            v = json.load(f)
+        # re-sort pred commitem
+        # with open(os.path.join(tdir, k + ".json"), "rt") as f:
+        #     v = json.load(f)
         v.sort(key=lambda x: (x["name"], x["url"]))
         with open(os.path.join(tdir, k + ".json"), "wt", encoding="utf-8") as fw:
             json.dump(v, fw, ensure_ascii=False, indent=2)
