@@ -1,31 +1,11 @@
 [
   {
-    "name": "Pokuty v JSON-LD",
-    "url": "https://www.coi.cz/wp-content/uploads/2022/03/pokuty-paliva.jsonld"
+    "name": "Informace v JSON-LD",
+    "url": "https://www.coi.cz/wp-content/uploads/2022/03/informace-zakon-106-minimalni.jsonld"
   },
   {
-    "name": "Pokuty v JSON-LD",
-    "url": "https://www.coi.cz/wp-content/uploads/2022/03/pokuty-paliva-minimalni.jsonld"
-  },
-  {
-    "name": "Uložené pokuty",
-    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/sankce.csv"
-  },
-  {
-    "name": "Uložené pokuty",
-    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/sankce.xlsx"
-  },
-  {
-    "name": "Uložené pokuty",
-    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/sankce.ods"
-  },
-  {
-    "name": "Úřední deska v JSON-LD",
-    "url": "https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/uredni-deska.jsonld"
-  },
-  {
-    "name": "Číselník v JSON-LD",
-    "url": "https://www.coi.cz/wp-content/uploads/2022/01/druhy-paliv.jsonld"
+    "name": "Informace v JSON-LD",
+    "url": "https://www.coi.cz/wp-content/uploads/2022/03/informace-zakon-106.jsonld"
   },
   {
     "name": "Kontroly",
@@ -33,63 +13,19 @@
   },
   {
     "name": "Kontroly",
-    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/kontroly.xlsx"
-  },
-  {
-    "name": "Kontroly",
     "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/kontroly.ods"
   },
   {
-    "name": "Číselník v JSON-LD",
-    "url": "https://www.coi.cz/wp-content/uploads/2022/02/typy-rozhodnuti-o-pokute.jsonld"
+    "name": "Kontroly",
+    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/kontroly.xlsx"
   },
   {
-    "name": "Informace v JSON-LD",
-    "url": "https://www.coi.cz/wp-content/uploads/2022/03/informace-zakon-106-minimalni.jsonld"
+    "name": "Pokuty v JSON-LD",
+    "url": "https://www.coi.cz/wp-content/uploads/2022/03/pokuty-paliva-minimalni.jsonld"
   },
   {
-    "name": "Vydané zákazy",
-    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zakazy.csv"
-  },
-  {
-    "name": "Vydané zákazy",
-    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zakazy.xlsx"
-  },
-  {
-    "name": "Vydané zákazy",
-    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zakazy.ods"
-  },
-  {
-    "name": "Volná pracovní místa",
-    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/pracovni-mista.csv"
-  },
-  {
-    "name": "Volná pracovní místa",
-    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/pracovni-mista.xlsx"
-  },
-  {
-    "name": "Zaměření kontrol",
-    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zamereni.csv"
-  },
-  {
-    "name": "Zaměření kontrol",
-    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zamereni.xlsx"
-  },
-  {
-    "name": "Zaměření kontrol",
-    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zamereni.ods"
-  },
-  {
-    "name": "Zajištění zboží",
-    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zajisteni.csv"
-  },
-  {
-    "name": "Zajištění zboží",
-    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zajisteni.xlsx"
-  },
-  {
-    "name": "Zajištění zboží",
-    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zajisteni.ods"
+    "name": "Pokuty v JSON-LD",
+    "url": "https://www.coi.cz/wp-content/uploads/2022/03/pokuty-paliva.jsonld"
   },
   {
     "name": "Telefonní seznam",
@@ -100,11 +36,75 @@
     "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/telefonni-seznam.xlsx"
   },
   {
-    "name": "Informace v JSON-LD",
-    "url": "https://www.coi.cz/wp-content/uploads/2022/03/informace-zakon-106.jsonld"
+    "name": "Uložené pokuty",
+    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/sankce.csv"
+  },
+  {
+    "name": "Uložené pokuty",
+    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/sankce.ods"
+  },
+  {
+    "name": "Uložené pokuty",
+    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/sankce.xlsx"
+  },
+  {
+    "name": "Volná pracovní místa",
+    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/pracovni-mista.csv"
+  },
+  {
+    "name": "Volná pracovní místa",
+    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/pracovni-mista.xlsx"
+  },
+  {
+    "name": "Vydané zákazy",
+    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zakazy.csv"
+  },
+  {
+    "name": "Vydané zákazy",
+    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zakazy.ods"
+  },
+  {
+    "name": "Vydané zákazy",
+    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zakazy.xlsx"
+  },
+  {
+    "name": "Zajištění zboží",
+    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zajisteni.csv"
+  },
+  {
+    "name": "Zajištění zboží",
+    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zajisteni.ods"
+  },
+  {
+    "name": "Zajištění zboží",
+    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zajisteni.xlsx"
+  },
+  {
+    "name": "Zaměření kontrol",
+    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zamereni.csv"
+  },
+  {
+    "name": "Zaměření kontrol",
+    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zamereni.ods"
+  },
+  {
+    "name": "Zaměření kontrol",
+    "url": "http://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/zamereni.xlsx"
+  },
+  {
+    "name": "Úřední deska v JSON-LD",
+    "url": "https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/uredni-deska.jsonld"
+  },
+  {
+    "name": "Číselník v JSON-LD",
+    "url": "https://www.coi.cz/wp-content/uploads/2022/01/druhy-paliv.jsonld"
   },
   {
     "name": "Číselník v JSON-LD",
     "url": "https://www.coi.cz/wp-content/uploads/2022/01/inspektoraty.jsonld"
+  },
+  {
+    "name": "Číselník v JSON-LD",
+    "url": "https://www.coi.cz/wp-content/uploads/2022/02/typy-rozhodnuti-o-pokute.jsonld"
   }
 ]

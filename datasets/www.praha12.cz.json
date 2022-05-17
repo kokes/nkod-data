@@ -1,9 +1,5 @@
 [
   {
-    "name": "akce",
-    "url": "https://www.praha12.cz/rss2/?12"
-  },
-  {
     "name": "Dětská hřiště a sportoviště na MČ Praha 12",
     "url": "https://www.praha12.cz/vismo/bodyzajmu-export.asp?id_u=1444&n=detska-hriste-a-sportoviste"
   },
@@ -14,5 +10,9 @@
   {
     "name": "Umělecká díla ve veřejném prostoru MČ Praha 12",
     "url": "https://www.praha12.cz/vismo/bodyzajmu-export.asp?id_u=1283&n=umelecka-dila-ve-verejnem-prostoru"
+  },
+  {
+    "name": "akce",
+    "url": "https://www.praha12.cz/rss2/?12"
   }
 ]

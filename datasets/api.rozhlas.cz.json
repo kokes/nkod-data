@@ -4,23 +4,23 @@
     "url": "https://api.rozhlas.cz/data/v2/playlist/day/radiowave.json"
   },
   {
-    "name": "Konkrétní den",
-    "url": "https://api.rozhlas.cz/data/v2/playlist/day/%5BYYYY%5D/%5BMM%5D/%5BDD%5D/radiowave.json"
+    "name": "Aktuální den a konkrétní stanice",
+    "url": "https://api.rozhlas.cz/data/v2/schedule/day/%5BSTATION_ID%5D.json"
   },
   {
     "name": "Aktuální den a všechny stanice",
     "url": "https://api.rozhlas.cz/data/v2/schedule/day.json"
   },
   {
-    "name": "Aktuální den a konkrétní stanice",
-    "url": "https://api.rozhlas.cz/data/v2/schedule/day/%5BSTATION_ID%5D.json"
-  },
-  {
-    "name": "Konkrétní den a všechny stanice",
-    "url": "https://api.rozhlas.cz/data/v2/schedule/day/%5BYYYY%5D/%5BMM%5D/%5BDD%5D.json"
+    "name": "Konkrétní den",
+    "url": "https://api.rozhlas.cz/data/v2/playlist/day/%5BYYYY%5D/%5BMM%5D/%5BDD%5D/radiowave.json"
   },
   {
     "name": "Konkrétní den a konkrétní stanice",
     "url": "https://api.rozhlas.cz/data/v2/schedule/day/%5BYYYY%5D/%5BMM%5D/%5BDD%5D/%5BSTATION_ID%5D.json"
+  },
+  {
+    "name": "Konkrétní den a všechny stanice",
+    "url": "https://api.rozhlas.cz/data/v2/schedule/day/%5BYYYY%5D/%5BMM%5D/%5BDD%5D.json"
   }
 ]

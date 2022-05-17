@@ -1,18 +1,18 @@
 [
   {
-    "name": "Zastávky veřejné dopravy v Jihočeském kraji - KML",
-    "url": "https://geoportal.kraj-jihocesky.gov.cz/portal/media/Soubory/opendata/zastavky_JCK_KML_WGS84.zip"
-  },
-  {
-    "name": "Zastávky veřejné dopravy v Jihočeském kraji - SHP",
-    "url": "https://geoportal.kraj-jihocesky.gov.cz/portal/media/Soubory/opendata/zastavky_JCK_SHP.zip"
-  },
-  {
     "name": "Data ze ZÚR - FGDB",
     "url": "https://geoportal.kraj-jihocesky.gov.cz/portal/uzemni-planovani/jihocesky-kraj/zasady-uzemniho-rozvoje-jihoceskeho-kraje"
   },
   {
     "name": "Data ze ZÚR - Shapefile",
     "url": "https://geoportal.kraj-jihocesky.gov.cz/portal/uzemni-planovani/jihocesky-kraj/zasady-uzemniho-rozvoje-jihoceskeho-kraje"
+  },
+  {
+    "name": "Zastávky veřejné dopravy v Jihočeském kraji - KML",
+    "url": "https://geoportal.kraj-jihocesky.gov.cz/portal/media/Soubory/opendata/zastavky_JCK_KML_WGS84.zip"
+  },
+  {
+    "name": "Zastávky veřejné dopravy v Jihočeském kraji - SHP",
+    "url": "https://geoportal.kraj-jihocesky.gov.cz/portal/media/Soubory/opendata/zastavky_JCK_SHP.zip"
   }
 ]

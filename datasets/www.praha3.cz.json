@@ -1,15 +1,23 @@
 [
   {
-    "name": "Zprávy",
-    "url": "https://www.praha3.cz/radnicni-noviny/zpravy/rss:true"
+    "name": "Akce městské části",
+    "url": "https://www.praha3.cz/radnicni-noviny/akce-mestske-casti/rss:true"
   },
   {
-    "name": "Školství",
-    "url": "https://www.praha3.cz/radnicni-noviny/skolstvi/rss:true"
+    "name": "Kalendář akcí",
+    "url": "https://www.praha3.cz/kalendar-akci/export"
   },
   {
     "name": "Neziskový sektor",
     "url": "https://www.praha3.cz/radnicni-noviny/neziskovy-sektor/rss:true"
+  },
+  {
+    "name": "Názory zastupitelů",
+    "url": "https://www.praha3.cz/radnicni-noviny/nazory-zastupitelu/rss:true"
+  },
+  {
+    "name": "Rekonstrukce a privatizace",
+    "url": "https://www.praha3.cz/radnicni-noviny/rekonstrukce-a-privatizace/rss:true"
   },
   {
     "name": "Sociální péče",
@@ -20,27 +28,19 @@
     "url": "https://www.praha3.cz/radnicni-noviny/spolecnost/rss:true"
   },
   {
-    "name": "Názory zastupitelů",
-    "url": "https://www.praha3.cz/radnicni-noviny/nazory-zastupitelu/rss:true"
-  },
-  {
     "name": "Za Trojku",
     "url": "https://www.praha3.cz/radnicni-noviny/za-trojku/rss:true"
   },
   {
-    "name": "Akce městské části",
-    "url": "https://www.praha3.cz/radnicni-noviny/akce-mestske-casti/rss:true"
-  },
-  {
-    "name": "Rekonstrukce a privatizace",
-    "url": "https://www.praha3.cz/radnicni-noviny/rekonstrukce-a-privatizace/rss:true"
+    "name": "Zprávy",
+    "url": "https://www.praha3.cz/radnicni-noviny/zpravy/rss:true"
   },
   {
     "name": "Úřední deska",
     "url": "http://www.praha3.cz/eDeska/rss.jsp"
   },
   {
-    "name": "Kalendář akcí",
-    "url": "https://www.praha3.cz/kalendar-akci/export"
+    "name": "Školství",
+    "url": "https://www.praha3.cz/radnicni-noviny/skolstvi/rss:true"
   }
 ]

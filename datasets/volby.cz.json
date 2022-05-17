@@ -1,119 +1,51 @@
 [
   {
-    "name": "XML data - výsledky za okres Nový Jičín a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0804"
+    "name": "CSV soubor v ZIP balíčku",
+    "url": "https://volby.cz/opendata/ps2021/csv_od/pst4_csv_od.zip"
   },
   {
-    "name": "XML data - výsledky za okres Ostrava-město a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0806"
+    "name": "CSV soubor v ZIP balíčku",
+    "url": "https://volby.cz/opendata/ps2021/csv_od/pst4p_csv_od.zip"
   },
   {
-    "name": "XML data - výsledky za okres Karviná a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0803"
+    "name": "Okrsková data - CSV soubory a JSON schémata v ZIP balíčku",
+    "url": "https://volby.cz/opendata/kz2020/KZ2020_data_20201004a_csv.zip"
   },
   {
-    "name": "XML data - výsledky za okres Beroun a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0202"
+    "name": "Okrsková data - CSV soubory a JSON schémata v ZIP balíčku",
+    "url": "https://volby.cz/opendata/ps2017/PS2017data20171021_csv.zip"
   },
   {
-    "name": "XML data - výsledky za okres Frýdek-Místek a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0802"
+    "name": "Okrsková data - XML soubor komprimovaný v ZIP",
+    "url": "https://volby.cz/opendata/prez2018/PREZ2018data20180127_xml_kolo2.zip"
   },
   {
-    "name": "XML data - výsledky za okres Česká Lípa a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0511"
+    "name": "Okrsková data - XML soubory v ZIP balíčku",
+    "url": "https://volby.cz/opendata/kz2016/KZ2016data20161008.zip"
   },
   {
-    "name": "XML data - výsledky za okres Nymburk a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0208"
+    "name": "Okrsková data - XML soubory v ZIP balíčku",
+    "url": "https://volby.cz/opendata/kz2020/KZ2020_data_20201004a_xml.zip"
   },
   {
-    "name": "XML data - výsledky za okres Trutnov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0525"
+    "name": "Okrsková data - XML soubory v ZIP balíčku",
+    "url": "https://volby.cz/opendata/ps2017/PS2017data20171021.zip"
   },
   {
-    "name": "XML data - výsledky za okres Žďár nad Sázavou a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0635"
+    "name": "Registry - CSV soubory a JSON schémata v ZIP balíčku",
+    "url": "https://volby.cz/opendata/kz2020/KZ2020reg20201004a_csv.zip"
   },
   {
-    "name": "XML data - výsledky za okres Plzeň-jih a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0324"
+    "name": "Registry - XML soubory v ZIP balíčku",
+    "url": "https://volby.cz/opendata/kz2016/KZ2016reg20161008.zip"
   },
   {
-    "name": "XML data - výsledky za okres Zlín a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0724"
+    "name": "Registry - XML soubory v ZIP balíčku",
+    "url": "https://volby.cz/opendata/kz2020/KZ2020reg20201004a.zip"
   },
   {
-    "name": "XML data - výsledky za okres Náchod a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0523"
-  },
-  {
-    "name": "XML data - výsledky za okres Strakonice a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0316"
-  },
-  {
-    "name": "XML data - výsledky za okres Teplice a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0426"
-  },
-  {
-    "name": "XML data - výsledky za okres Břeclav a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0644"
-  },
-  {
-    "name": "XML data - výsledky za okres Havlíčkův Brod a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0631"
-  },
-  {
-    "name": "XML data - výsledky za okres Pelhřimov a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0633"
-  },
-  {
-    "name": "XML data - výsledky za okres Praha-západ a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ020A"
-  },
-  {
-    "name": "XML data - výsledky za okres Plzeň-jih a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0324"
-  },
-  {
-    "name": "XML data - výsledky za okres Ústí nad Labem a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0427"
-  },
-  {
-    "name": "XML data - výsledky za okres Plzeň-jih a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0324"
-  },
-  {
-    "name": "XML data - výsledky za kraje a krajská města",
-    "url": "https://volby.cz/pls/kz2016/vysledky_krajmesta"
-  },
-  {
-    "name": "XML data - výsledky za okres Plzeň-sever a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0325"
-  },
-  {
-    "name": "XML data - výsledky za okres Brno-město a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0642"
-  },
-  {
-    "name": "XML data - výsledky za okres Vsetín a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0723"
-  },
-  {
-    "name": "XML data - výsledky za okres Pelhřimov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0633"
-  },
-  {
-    "name": "XML data - výsledky za okres Jičín a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0522"
-  },
-  {
-    "name": "XML data - výsledky za okres České Budějovice a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0311"
-  },
-  {
-    "name": "XML data - výsledky za okres Pardubice a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0532"
+    "name": "Registry - XML soubory v ZIP balíčku",
+    "url": "https://volby.cz/opendata/ps2017/PS2017reg20171021.zip"
   },
   {
     "name": "Výsledky voleb do zastupitelstev obcí 2014",
@@ -128,648 +60,196 @@
     "url": "https://volby.cz/pls/kz2016/vysledky"
   },
   {
-    "name": "XML data - výsledky za okres Břeclav a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0644"
-  },
-  {
-    "name": "XML data - výsledky za okres Bruntál a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0801"
-  },
-  {
-    "name": "XML data - výsledky za okres Semily a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0514"
-  },
-  {
-    "name": "XML data - výsledky za okres Cheb a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0411"
-  },
-  {
-    "name": "XML data - výsledky za okres Jihlava a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0632"
-  },
-  {
-    "name": "XML data - výsledky za okres Domažlice a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0321"
-  },
-  {
     "name": "XML data - celkové výsledky za kraje a přehled za ČR",
     "url": "https://volby.cz/pls/kz2020/vysledky"
   },
   {
-    "name": "XML data - výsledky za okres Třebíč a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0634"
-  },
-  {
-    "name": "XML data - výsledky za okres Jablonec nad Nisou a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0512"
-  },
-  {
-    "name": "XML data - výsledky za okres Hodonín a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0645"
-  },
-  {
-    "name": "XML data - výsledky za okres Ostrava-město a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0806"
-  },
-  {
-    "name": "XML data - výsledky za okres Vyškov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0646"
-  },
-  {
-    "name": "XML data - výsledky za okres Jičín a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0522"
-  },
-  {
-    "name": "XML data - výsledky za okres Brno-venkov a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0643"
-  },
-  {
-    "name": "XML data - výsledky za okres Plzeň-město a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0323"
-  },
-  {
-    "name": "XML data - výsledky za okres Vsetín a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0723"
-  },
-  {
-    "name": "XML data - výsledky za okres Břeclav a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0644"
-  },
-  {
-    "name": "XML data - výsledky za okres Děčín a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0421"
-  },
-  {
-    "name": "XML data - výsledky za okres Přerov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0714"
-  },
-  {
-    "name": "XML data - výsledky za okres Klatovy a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0322"
-  },
-  {
-    "name": "XML data - výsledky za okres Bruntál a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0801"
-  },
-  {
-    "name": "XML data - výsledky za okres Mělník a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0206"
-  },
-  {
-    "name": "XML data - výsledky za okres Hodonín a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0645"
-  },
-  {
-    "name": "XML data - výsledky za okres Příbram a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ020B"
-  },
-  {
-    "name": "XML data - výsledky za okres Šumperk a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0715"
-  },
-  {
-    "name": "Registry - XML soubory v ZIP balíčku",
-    "url": "https://volby.cz/opendata/kz2016/KZ2016reg20161008.zip"
-  },
-  {
-    "name": "XML data - výsledky za okres Nymburk a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0208"
-  },
-  {
-    "name": "XML data - výsledky za okres Semily a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0514"
-  },
-  {
-    "name": "XML data - výsledky za okres Teplice a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0426"
-  },
-  {
-    "name": "XML data - výsledky za okres Chrudim a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0531"
-  },
-  {
-    "name": "XML data - výsledky za okres Cheb a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0411"
-  },
-  {
-    "name": "XML data - výsledky za okres Ústí nad Orlicí a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0534"
-  },
-  {
-    "name": "XML data - výsledky za okres Rakovník a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ020C"
-  },
-  {
-    "name": "XML data - výsledky za okres Trutnov a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0525"
-  },
-  {
-    "name": "XML data - výsledky za okres Ústí nad Labem a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0427"
-  },
-  {
-    "name": "XML data - výsledky za okres Frýdek-Místek a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0802"
-  },
-  {
-    "name": "XML data - výsledky za okres Kolín a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0204"
-  },
-  {
-    "name": "XML data - výsledky za okres Kolín a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0204"
-  },
-  {
-    "name": "XML data - výsledky za okres Prachatice a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0315"
-  },
-  {
-    "name": "XML data - výsledky za okres Vyškov a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0646"
-  },
-  {
-    "name": "XML data - výsledky za okres Zlín a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0724"
-  },
-  {
-    "name": "Registry - XML soubory v ZIP balíčku",
-    "url": "https://volby.cz/opendata/ps2017/PS2017reg20171021.zip"
-  },
-  {
-    "name": "XML data - výsledky za okres Plzeň-město a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0323"
-  },
-  {
-    "name": "Registry - XML soubory v ZIP balíčku",
-    "url": "https://volby.cz/opendata/kz2020/KZ2020reg20201004a.zip"
-  },
-  {
-    "name": "Registry - CSV soubory a JSON schémata v ZIP balíčku",
-    "url": "https://volby.cz/opendata/kz2020/KZ2020reg20201004a_csv.zip"
-  },
-  {
-    "name": "CSV soubor v ZIP balíčku",
-    "url": "https://volby.cz/opendata/ps2021/csv_od/pst4_csv_od.zip"
-  },
-  {
-    "name": "XML data - výsledky za okres Litoměřice a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0423"
-  },
-  {
-    "name": "XML data - výsledky za okres Olomouc a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0712"
-  },
-  {
-    "name": "XML data - výsledky za okres Hradec Králové a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0521"
-  },
-  {
-    "name": "XML data - výsledky za okres Třebíč a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0634"
-  },
-  {
-    "name": "XML data - výsledky za okres Tachov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0327"
-  },
-  {
-    "name": "XML data - výsledky za okres Český Krumlov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0312"
-  },
-  {
-    "name": "XML data - výsledky za okres Kladno a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0203"
+    "name": "XML data - celkové výsledky za ČR a kraje",
+    "url": "https://volby.cz/pls/ps2017/vysledky"
   },
   {
     "name": "XML data - přednostní hlasy pro jednotlivé kandidáty",
     "url": "https://volby.cz/pls/kz2016/vysledky_kandid"
   },
   {
-    "name": "XML data - výsledky za okres Hradec Králové a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0521"
-  },
-  {
-    "name": "XML data - výsledky za okres Trutnov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0525"
-  },
-  {
-    "name": "XML data - výsledky za okres České Budějovice a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0311"
-  },
-  {
-    "name": "XML data - výsledky za okres Kroměříž a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0721"
-  },
-  {
-    "name": "XML data - výsledky za okres Sokolov a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0413"
-  },
-  {
-    "name": "XML data - výsledky za okres Náchod a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0523"
-  },
-  {
-    "name": "XML data - výsledky za okres Ústí nad Orlicí a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0534"
-  },
-  {
-    "name": "XML data - výsledky za okres Blansko a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0641"
-  },
-  {
-    "name": "XML data - výsledky za okres Chrudim a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0531"
-  },
-  {
-    "name": "XML data - výsledky za okres Rokycany a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0326"
-  },
-  {
-    "name": "XML data - výsledky za okres Rakovník a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ020C"
-  },
-  {
-    "name": "XML data - výsledky za okres Žďár nad Sázavou a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0635"
-  },
-  {
-    "name": "XML data - výsledky za okres Prostějov a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0713"
-  },
-  {
-    "name": "XML data - výsledky za kraje a krajská města",
-    "url": "https://volby.cz/pls/ps2017/vysledky_krajmesta"
-  },
-  {
-    "name": "XML data - výsledky za okres Bruntál a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0801"
-  },
-  {
-    "name": "XML data - výsledky za okres Sokolov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0413"
-  },
-  {
-    "name": "XML data - výsledky za kraje a krajská města",
-    "url": "https://volby.cz/pls/kz2020/vysledky_krajmesta"
-  },
-  {
-    "name": "XML data - výsledky za okres Kutná Hora a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0205"
-  },
-  {
-    "name": "XML data - výsledky za okres Žďár nad Sázavou a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0635"
-  },
-  {
-    "name": "XML data - výsledky za okres Kroměříž a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0721"
-  },
-  {
-    "name": "Okrsková data - XML soubory v ZIP balíčku",
-    "url": "https://volby.cz/opendata/kz2020/KZ2020_data_20201004a_xml.zip"
-  },
-  {
-    "name": "Okrsková data - CSV soubory a JSON schémata v ZIP balíčku",
-    "url": "https://volby.cz/opendata/kz2020/KZ2020_data_20201004a_csv.zip"
-  },
-  {
-    "name": "XML data - výsledky za okres Karlovy Vary a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0412"
-  },
-  {
-    "name": "XML data - výsledky za okres Blansko a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0641"
-  },
-  {
-    "name": "XML data - výsledky za okres Tábor a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0317"
-  },
-  {
-    "name": "CSV soubor v ZIP balíčku",
-    "url": "https://volby.cz/opendata/ps2021/csv_od/pst4p_csv_od.zip"
-  },
-  {
-    "name": "XML data - výsledky za okres Prostějov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0713"
-  },
-  {
-    "name": "XML data - výsledky za okres Liberec a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0513"
-  },
-  {
-    "name": "XML data - výsledky za okres Tachov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0327"
-  },
-  {
-    "name": "XML data - výsledky za okres Karviná a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0803"
-  },
-  {
-    "name": "XML data - výsledky za okres Jihlava a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0632"
-  },
-  {
-    "name": "XML data - výsledky za okres Kutná Hora a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0205"
-  },
-  {
-    "name": "XML data - výsledky za okres Svitavy a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0533"
-  },
-  {
-    "name": "XML data - výsledky za okres Chomutov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0422"
-  },
-  {
-    "name": "XML data - výsledky za okres Opava a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0805"
-  },
-  {
-    "name": "XML data - výsledky za okres Český Krumlov a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0312"
-  },
-  {
-    "name": "XML data - výsledky za okres České Budějovice a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0311"
-  },
-  {
-    "name": "XML data - výsledky za okres Písek a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0314"
-  },
-  {
-    "name": "XML data - výsledky za okres Tachov a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0327"
-  },
-  {
-    "name": "XML data - výsledky za okres Rychnov nad Kněžnou a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0524"
-  },
-  {
-    "name": "XML data - výsledky za okres Česká Lípa a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0511"
-  },
-  {
-    "name": "XML data - výsledky za okres Karlovy Vary a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0412"
-  },
-  {
-    "name": "XML data - výsledky za okres Znojmo a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0647"
-  },
-  {
-    "name": "XML data - výsledky za okres Prachatice a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0315"
-  },
-  {
-    "name": "XML data - výsledky za okres Pelhřimov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0633"
-  },
-  {
-    "name": "XML data - výsledky za okres Vyškov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0646"
-  },
-  {
-    "name": "XML data - výsledky za okres Písek a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0314"
-  },
-  {
-    "name": "XML data - výsledky za okres Děčín a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0421"
-  },
-  {
-    "name": "XML data - výsledky za okres Mladá Boleslav a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0207"
-  },
-  {
-    "name": "XML data - výsledky za okres Jeseník a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0711"
-  },
-  {
-    "name": "XML data - výsledky za okres Jindřichův Hradec a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0313"
-  },
-  {
-    "name": "XML data - výsledky za okres Praha-východ a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0209"
-  },
-  {
-    "name": "XML data - výsledky za okres Mladá Boleslav a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0207"
-  },
-  {
-    "name": "XML data - výsledky za okres Praha-východ a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0209"
-  },
-  {
-    "name": "XML data - výsledky za okres Louny a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0424"
-  },
-  {
-    "name": "XML data - výsledky za okres Hodonín a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0645"
-  },
-  {
-    "name": "XML data - výsledky za okres Nový Jičín a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0804"
-  },
-  {
-    "name": "XML data - výsledky za okres Prostějov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0713"
-  },
-  {
-    "name": "XML data - výsledky za okres Český Krumlov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0312"
-  },
-  {
-    "name": "XML data - výsledky za okres Liberec a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0513"
-  },
-  {
-    "name": "XML data - výsledky za okres Praha-východ a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0209"
-  },
-  {
-    "name": "XML data - výsledky za okres Praha-západ a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ020A"
-  },
-  {
-    "name": "XML data - výsledky za okres Rychnov nad Kněžnou a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0524"
-  },
-  {
-    "name": "XML data - výsledky za okres Svitavy a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0533"
-  },
-  {
-    "name": "XML data - výsledky za okres Brno-město a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0642"
-  },
-  {
-    "name": "XML data - výsledky za okres Jihlava a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0632"
-  },
-  {
-    "name": "Okrsková data - XML soubory v ZIP balíčku",
-    "url": "https://volby.cz/opendata/ps2017/PS2017data20171021.zip"
-  },
-  {
-    "name": "Okrsková data - CSV soubory a JSON schémata v ZIP balíčku",
-    "url": "https://volby.cz/opendata/ps2017/PS2017data20171021_csv.zip"
-  },
-  {
-    "name": "XML data - výsledky za okres Benešov a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0201"
-  },
-  {
-    "name": "XML data - výsledky za okres Brno-venkov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0643"
-  },
-  {
-    "name": "XML data - výsledky za okres Třebíč a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0634"
-  },
-  {
-    "name": "XML data - výsledky za okres Příbram a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ020B"
-  },
-  {
-    "name": "XML data - výsledky za okres Tábor a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0317"
-  },
-  {
-    "name": "XML data - výsledky za okres Znojmo a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0647"
-  },
-  {
-    "name": "XML data - výsledky za okres Semily a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0514"
-  },
-  {
-    "name": "Okrsková data - XML soubor komprimovaný v ZIP",
-    "url": "https://volby.cz/opendata/prez2018/PREZ2018data20180127_xml_kolo2.zip"
-  },
-  {
-    "name": "XML data - výsledky za okres Jindřichův Hradec a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0313"
-  },
-  {
-    "name": "XML data - výsledky za okres Olomouc a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0712"
-  },
-  {
-    "name": "XML data - výsledky za okres Pardubice a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0532"
-  },
-  {
-    "name": "XML data - výsledky za okres Česká Lípa a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0511"
-  },
-  {
-    "name": "XML data - výsledky za okres Klatovy a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0322"
-  },
-  {
-    "name": "XML data - výsledky za okres Ústí nad Labem a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0427"
-  },
-  {
-    "name": "XML data - výsledky za okres Uherské Hradiště a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0722"
-  },
-  {
-    "name": "XML data - výsledky za zahraničí, kontinenty, státy",
-    "url": "https://volby.cz/pls/ps2017/vysledky_zahranici"
-  },
-  {
-    "name": "XML data - výsledky za okres Blansko a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0641"
-  },
-  {
-    "name": "XML data - výsledky za okres Jeseník a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0711"
-  },
-  {
-    "name": "XML data - výsledky za okres Nymburk a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0208"
-  },
-  {
-    "name": "XML data - výsledky za okres Příbram a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ020B"
-  },
-  {
-    "name": "XML data - výsledky za okres Kolín a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0204"
-  },
-  {
-    "name": "XML data - výsledky za okres Benešov a jeho obce",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0201"
-  },
-  {
-    "name": "XML data - výsledky za okres Mladá Boleslav a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0207"
-  },
-  {
-    "name": "XML data - výsledky za okres Přerov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0714"
-  },
-  {
-    "name": "XML data - výsledky za okres Brno-město a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0642"
-  },
-  {
-    "name": "XML data - výsledky za okres Kroměříž a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0721"
-  },
-  {
-    "name": "XML data - výsledky za okres Most a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0425"
-  },
-  {
-    "name": "XML data - výsledky za okres Ústí nad Orlicí a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0534"
-  },
-  {
-    "name": "XML data - výsledky za okres Kladno a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0203"
-  },
-  {
-    "name": "XML data - výsledky za okres Jablonec nad Nisou a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0512"
-  },
-  {
-    "name": "XML data - výsledky za okres Opava a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0805"
-  },
-  {
-    "name": "XML data - výsledky za okres Pardubice a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0532"
-  },
-  {
-    "name": "XML data - výsledky za okres Plzeň-město a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0323"
-  },
-  {
-    "name": "XML data - výsledky za okres Rokycany a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0326"
+    "name": "XML data - přednostní hlasy pro jednotlivé kandidáty",
+    "url": "https://volby.cz/pls/kz2020/vysledky_kandid"
   },
   {
     "name": "XML data - přednostní hlasy pro jednotlivé kandidáty",
     "url": "https://volby.cz/pls/ps2017/vysledky_kandid"
   },
   {
+    "name": "XML data - výsledky za kraje a krajská města",
+    "url": "https://volby.cz/pls/kz2016/vysledky_krajmesta"
+  },
+  {
+    "name": "XML data - výsledky za kraje a krajská města",
+    "url": "https://volby.cz/pls/kz2020/vysledky_krajmesta"
+  },
+  {
+    "name": "XML data - výsledky za kraje a krajská města",
+    "url": "https://volby.cz/pls/ps2017/vysledky_krajmesta"
+  },
+  {
+    "name": "XML data - výsledky za okres Benešov a jeho obce",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0201"
+  },
+  {
+    "name": "XML data - výsledky za okres Benešov a jeho obce",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0201"
+  },
+  {
+    "name": "XML data - výsledky za okres Benešov a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0201"
+  },
+  {
+    "name": "XML data - výsledky za okres Beroun a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0202"
+  },
+  {
+    "name": "XML data - výsledky za okres Beroun a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0202"
+  },
+  {
+    "name": "XML data - výsledky za okres Beroun a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0202"
+  },
+  {
+    "name": "XML data - výsledky za okres Blansko a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0641"
+  },
+  {
+    "name": "XML data - výsledky za okres Blansko a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0641"
+  },
+  {
+    "name": "XML data - výsledky za okres Blansko a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0641"
+  },
+  {
+    "name": "XML data - výsledky za okres Brno-město a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0642"
+  },
+  {
+    "name": "XML data - výsledky za okres Brno-město a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0642"
+  },
+  {
+    "name": "XML data - výsledky za okres Brno-město a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0642"
+  },
+  {
+    "name": "XML data - výsledky za okres Brno-venkov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0643"
+  },
+  {
+    "name": "XML data - výsledky za okres Brno-venkov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0643"
+  },
+  {
+    "name": "XML data - výsledky za okres Brno-venkov a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0643"
+  },
+  {
+    "name": "XML data - výsledky za okres Bruntál a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0801"
+  },
+  {
+    "name": "XML data - výsledky za okres Bruntál a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0801"
+  },
+  {
+    "name": "XML data - výsledky za okres Bruntál a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0801"
+  },
+  {
+    "name": "XML data - výsledky za okres Břeclav a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0644"
+  },
+  {
+    "name": "XML data - výsledky za okres Břeclav a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0644"
+  },
+  {
+    "name": "XML data - výsledky za okres Břeclav a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0644"
+  },
+  {
+    "name": "XML data - výsledky za okres Cheb a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0411"
+  },
+  {
+    "name": "XML data - výsledky za okres Cheb a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0411"
+  },
+  {
+    "name": "XML data - výsledky za okres Cheb a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0411"
+  },
+  {
+    "name": "XML data - výsledky za okres Chomutov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0422"
+  },
+  {
+    "name": "XML data - výsledky za okres Chomutov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0422"
+  },
+  {
+    "name": "XML data - výsledky za okres Chomutov a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0422"
+  },
+  {
+    "name": "XML data - výsledky za okres Chrudim a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0531"
+  },
+  {
+    "name": "XML data - výsledky za okres Chrudim a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0531"
+  },
+  {
+    "name": "XML data - výsledky za okres Chrudim a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0531"
+  },
+  {
+    "name": "XML data - výsledky za okres Domažlice a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0321"
+  },
+  {
+    "name": "XML data - výsledky za okres Domažlice a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0321"
+  },
+  {
     "name": "XML data - výsledky za okres Domažlice a jeho obce ",
     "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0321"
   },
   {
-    "name": "XML data - výsledky za okres Rychnov nad Kněžnou a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0524"
+    "name": "XML data - výsledky za okres Děčín a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0421"
   },
   {
-    "name": "XML data - výsledky za okres Most a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0425"
+    "name": "XML data - výsledky za okres Děčín a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0421"
   },
   {
-    "name": "XML data - výsledky za okres Jeseník a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0711"
+    "name": "XML data - výsledky za okres Děčín a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0421"
+  },
+  {
+    "name": "XML data - výsledky za okres Frýdek-Místek a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0802"
+  },
+  {
+    "name": "XML data - výsledky za okres Frýdek-Místek a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0802"
+  },
+  {
+    "name": "XML data - výsledky za okres Frýdek-Místek a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0802"
+  },
+  {
+    "name": "XML data - výsledky za okres Havlíčkův Brod a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0631"
   },
   {
     "name": "XML data - výsledky za okres Havlíčkův Brod a jeho obce ",
@@ -777,115 +257,367 @@
   },
   {
     "name": "XML data - výsledky za okres Havlíčkův Brod a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0631"
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0631"
   },
   {
-    "name": "XML data - výsledky za okres Mělník a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0206"
+    "name": "XML data - výsledky za okres Hodonín a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0645"
   },
   {
-    "name": "XML data - výsledky za okres Šumperk a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0715"
+    "name": "XML data - výsledky za okres Hodonín a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0645"
   },
   {
-    "name": "XML data - výsledky za okres Strakonice a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0316"
+    "name": "XML data - výsledky za okres Hodonín a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0645"
   },
   {
-    "name": "XML data - výsledky za okres Domažlice a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0321"
+    "name": "XML data - výsledky za okres Hradec Králové a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0521"
   },
   {
-    "name": "XML data - výsledky za okres Nový Jičín a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0804"
-  },
-  {
-    "name": "XML data - výsledky za okres Rakovník a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ020C"
-  },
-  {
-    "name": "Okrsková data - XML soubory v ZIP balíčku",
-    "url": "https://volby.cz/opendata/kz2016/KZ2016data20161008.zip"
-  },
-  {
-    "name": "XML data - výsledky za okres Písek a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0314"
-  },
-  {
-    "name": "XML data - výsledky za okres Cheb a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0411"
-  },
-  {
-    "name": "XML data - výsledky za okres Most a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0425"
-  },
-  {
-    "name": "XML data - výsledky za okres Prachatice a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0315"
-  },
-  {
-    "name": "XML data - výsledky za okres Olomouc a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0712"
-  },
-  {
-    "name": "XML data - výsledky za okres Rokycany a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0326"
-  },
-  {
-    "name": "XML data - výsledky za okres Děčín a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0421"
-  },
-  {
-    "name": "XML data - výsledky za okres Chrudim a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0531"
-  },
-  {
-    "name": "XML data - výsledky za okres Frýdek-Místek a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0802"
-  },
-  {
-    "name": "XML data - výsledky za okres Litoměřice a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0423"
-  },
-  {
-    "name": "XML data - výsledky za okres Uherské Hradiště a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0722"
-  },
-  {
-    "name": "XML data - výsledky za okres Klatovy a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0322"
-  },
-  {
-    "name": "XML data - výsledky za okres Sokolov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0413"
-  },
-  {
-    "name": "XML data - výsledky za okres Litoměřice a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0423"
-  },
-  {
-    "name": "XML data - výsledky za okres Brno-venkov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0643"
-  },
-  {
-    "name": "XML data - výsledky za okres Vsetín a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0723"
+    "name": "XML data - výsledky za okres Hradec Králové a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0521"
   },
   {
     "name": "XML data - výsledky za okres Hradec Králové a jeho obce ",
     "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0521"
   },
   {
-    "name": "XML data - výsledky za okres Náchod a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0523"
+    "name": "XML data - výsledky za okres Jablonec nad Nisou a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0512"
   },
   {
-    "name": "XML data - výsledky za okres Chomutov a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0422"
+    "name": "XML data - výsledky za okres Jablonec nad Nisou a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0512"
+  },
+  {
+    "name": "XML data - výsledky za okres Jablonec nad Nisou a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0512"
+  },
+  {
+    "name": "XML data - výsledky za okres Jeseník a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0711"
+  },
+  {
+    "name": "XML data - výsledky za okres Jeseník a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0711"
+  },
+  {
+    "name": "XML data - výsledky za okres Jeseník a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0711"
+  },
+  {
+    "name": "XML data - výsledky za okres Jihlava a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0632"
+  },
+  {
+    "name": "XML data - výsledky za okres Jihlava a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0632"
+  },
+  {
+    "name": "XML data - výsledky za okres Jihlava a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0632"
+  },
+  {
+    "name": "XML data - výsledky za okres Jindřichův Hradec a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0313"
+  },
+  {
+    "name": "XML data - výsledky za okres Jindřichův Hradec a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0313"
+  },
+  {
+    "name": "XML data - výsledky za okres Jindřichův Hradec a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0313"
+  },
+  {
+    "name": "XML data - výsledky za okres Jičín a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0522"
+  },
+  {
+    "name": "XML data - výsledky za okres Jičín a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0522"
+  },
+  {
+    "name": "XML data - výsledky za okres Jičín a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0522"
+  },
+  {
+    "name": "XML data - výsledky za okres Karlovy Vary a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0412"
+  },
+  {
+    "name": "XML data - výsledky za okres Karlovy Vary a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0412"
+  },
+  {
+    "name": "XML data - výsledky za okres Karlovy Vary a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0412"
+  },
+  {
+    "name": "XML data - výsledky za okres Karviná a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0803"
+  },
+  {
+    "name": "XML data - výsledky za okres Karviná a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0803"
+  },
+  {
+    "name": "XML data - výsledky za okres Karviná a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0803"
+  },
+  {
+    "name": "XML data - výsledky za okres Kladno a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0203"
+  },
+  {
+    "name": "XML data - výsledky za okres Kladno a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0203"
+  },
+  {
+    "name": "XML data - výsledky za okres Kladno a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0203"
+  },
+  {
+    "name": "XML data - výsledky za okres Klatovy a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0322"
+  },
+  {
+    "name": "XML data - výsledky za okres Klatovy a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0322"
+  },
+  {
+    "name": "XML data - výsledky za okres Klatovy a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0322"
+  },
+  {
+    "name": "XML data - výsledky za okres Kolín a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0204"
+  },
+  {
+    "name": "XML data - výsledky za okres Kolín a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0204"
+  },
+  {
+    "name": "XML data - výsledky za okres Kolín a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0204"
+  },
+  {
+    "name": "XML data - výsledky za okres Kroměříž a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0721"
+  },
+  {
+    "name": "XML data - výsledky za okres Kroměříž a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0721"
+  },
+  {
+    "name": "XML data - výsledky za okres Kroměříž a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0721"
   },
   {
     "name": "XML data - výsledky za okres Kutná Hora a jeho obce ",
     "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0205"
+  },
+  {
+    "name": "XML data - výsledky za okres Kutná Hora a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0205"
+  },
+  {
+    "name": "XML data - výsledky za okres Kutná Hora a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0205"
+  },
+  {
+    "name": "XML data - výsledky za okres Liberec a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0513"
+  },
+  {
+    "name": "XML data - výsledky za okres Liberec a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0513"
+  },
+  {
+    "name": "XML data - výsledky za okres Liberec a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0513"
+  },
+  {
+    "name": "XML data - výsledky za okres Litoměřice a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0423"
+  },
+  {
+    "name": "XML data - výsledky za okres Litoměřice a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0423"
+  },
+  {
+    "name": "XML data - výsledky za okres Litoměřice a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0423"
+  },
+  {
+    "name": "XML data - výsledky za okres Louny a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0424"
+  },
+  {
+    "name": "XML data - výsledky za okres Louny a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0424"
+  },
+  {
+    "name": "XML data - výsledky za okres Louny a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0424"
+  },
+  {
+    "name": "XML data - výsledky za okres Mladá Boleslav a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0207"
+  },
+  {
+    "name": "XML data - výsledky za okres Mladá Boleslav a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0207"
+  },
+  {
+    "name": "XML data - výsledky za okres Mladá Boleslav a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0207"
+  },
+  {
+    "name": "XML data - výsledky za okres Most a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0425"
+  },
+  {
+    "name": "XML data - výsledky za okres Most a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0425"
+  },
+  {
+    "name": "XML data - výsledky za okres Most a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0425"
+  },
+  {
+    "name": "XML data - výsledky za okres Mělník a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0206"
+  },
+  {
+    "name": "XML data - výsledky za okres Mělník a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0206"
+  },
+  {
+    "name": "XML data - výsledky za okres Mělník a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0206"
+  },
+  {
+    "name": "XML data - výsledky za okres Nový Jičín a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0804"
+  },
+  {
+    "name": "XML data - výsledky za okres Nový Jičín a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0804"
+  },
+  {
+    "name": "XML data - výsledky za okres Nový Jičín a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0804"
+  },
+  {
+    "name": "XML data - výsledky za okres Nymburk a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0208"
+  },
+  {
+    "name": "XML data - výsledky za okres Nymburk a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0208"
+  },
+  {
+    "name": "XML data - výsledky za okres Nymburk a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0208"
+  },
+  {
+    "name": "XML data - výsledky za okres Náchod a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0523"
+  },
+  {
+    "name": "XML data - výsledky za okres Náchod a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0523"
+  },
+  {
+    "name": "XML data - výsledky za okres Náchod a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0523"
+  },
+  {
+    "name": "XML data - výsledky za okres Olomouc a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0712"
+  },
+  {
+    "name": "XML data - výsledky za okres Olomouc a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0712"
+  },
+  {
+    "name": "XML data - výsledky za okres Olomouc a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0712"
+  },
+  {
+    "name": "XML data - výsledky za okres Opava a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0805"
+  },
+  {
+    "name": "XML data - výsledky za okres Opava a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0805"
+  },
+  {
+    "name": "XML data - výsledky za okres Opava a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0805"
+  },
+  {
+    "name": "XML data - výsledky za okres Ostrava-město a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0806"
+  },
+  {
+    "name": "XML data - výsledky za okres Ostrava-město a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0806"
+  },
+  {
+    "name": "XML data - výsledky za okres Ostrava-město a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0806"
+  },
+  {
+    "name": "XML data - výsledky za okres Pardubice a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0532"
+  },
+  {
+    "name": "XML data - výsledky za okres Pardubice a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0532"
+  },
+  {
+    "name": "XML data - výsledky za okres Pardubice a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0532"
+  },
+  {
+    "name": "XML data - výsledky za okres Pelhřimov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0633"
+  },
+  {
+    "name": "XML data - výsledky za okres Pelhřimov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0633"
+  },
+  {
+    "name": "XML data - výsledky za okres Pelhřimov a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0633"
+  },
+  {
+    "name": "XML data - výsledky za okres Plzeň-jih a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0324"
+  },
+  {
+    "name": "XML data - výsledky za okres Plzeň-jih a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0324"
+  },
+  {
+    "name": "XML data - výsledky za okres Plzeň-jih a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0324"
+  },
+  {
+    "name": "XML data - výsledky za okres Plzeň-město a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0323"
+  },
+  {
+    "name": "XML data - výsledky za okres Plzeň-město a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0323"
+  },
+  {
+    "name": "XML data - výsledky za okres Plzeň-město a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0323"
   },
   {
     "name": "XML data - výsledky za okres Plzeň-sever a jeho obce ",
@@ -896,127 +628,395 @@
     "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0325"
   },
   {
-    "name": "XML data - výsledky za okres Karlovy Vary a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0412"
+    "name": "XML data - výsledky za okres Plzeň-sever a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0325"
+  },
+  {
+    "name": "XML data - výsledky za okres Prachatice a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0315"
+  },
+  {
+    "name": "XML data - výsledky za okres Prachatice a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0315"
+  },
+  {
+    "name": "XML data - výsledky za okres Prachatice a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0315"
   },
   {
     "name": "XML data - výsledky za okres Praha a jeho obce ",
     "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0100"
   },
   {
-    "name": "XML data - výsledky za okres Ostrava-město a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0806"
+    "name": "XML data - výsledky za okres Praha-východ a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0209"
   },
   {
-    "name": "XML data - výsledky za okres Chomutov a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0422"
+    "name": "XML data - výsledky za okres Praha-východ a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0209"
   },
   {
-    "name": "XML data - výsledky za okres Opava a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0805"
-  },
-  {
-    "name": "XML data - výsledky za okres Přerov a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0714"
-  },
-  {
-    "name": "XML data - výsledky za okres Jablonec nad Nisou a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0512"
-  },
-  {
-    "name": "XML data - celkové výsledky za ČR a kraje",
-    "url": "https://volby.cz/pls/ps2017/vysledky"
-  },
-  {
-    "name": "XML data - výsledky za okres Mělník a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0206"
-  },
-  {
-    "name": "XML data - přednostní hlasy pro jednotlivé kandidáty",
-    "url": "https://volby.cz/pls/kz2020/vysledky_kandid"
-  },
-  {
-    "name": "XML data - výsledky za okres Beroun a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0202"
-  },
-  {
-    "name": "XML data - výsledky za okres Liberec a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0513"
-  },
-  {
-    "name": "XML data - výsledky za okres Jičín a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0522"
-  },
-  {
-    "name": "XML data - výsledky za okres Kladno a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0203"
+    "name": "XML data - výsledky za okres Praha-východ a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0209"
   },
   {
     "name": "XML data - výsledky za okres Praha-západ a jeho obce ",
     "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ020A"
   },
   {
-    "name": "XML data - výsledky za okres Teplice a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0426"
+    "name": "XML data - výsledky za okres Praha-západ a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ020A"
   },
   {
-    "name": "XML data - výsledky za okres Uherské Hradiště a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0722"
+    "name": "XML data - výsledky za okres Praha-západ a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ020A"
   },
   {
-    "name": "XML data - výsledky za okres Šumperk a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0715"
+    "name": "XML data - výsledky za okres Prostějov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0713"
   },
   {
-    "name": "XML data - výsledky za okres Svitavy a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0533"
+    "name": "XML data - výsledky za okres Prostějov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0713"
   },
   {
-    "name": "XML data - výsledky za okres Karviná a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0803"
+    "name": "XML data - výsledky za okres Prostějov a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0713"
   },
   {
-    "name": "XML data - výsledky za okres Zlín a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0724"
+    "name": "XML data - výsledky za okres Písek a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0314"
   },
   {
-    "name": "XML data - výsledky za okres Louny a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0424"
+    "name": "XML data - výsledky za okres Písek a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0314"
   },
   {
-    "name": "XML data - výsledky za okres Benešov a jeho obce",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0201"
+    "name": "XML data - výsledky za okres Písek a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0314"
   },
   {
-    "name": "XML data - výsledky za okres Louny a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0424"
+    "name": "XML data - výsledky za okres Přerov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0714"
   },
   {
-    "name": "XML data - výsledky za okres Tábor a jeho obce ",
-    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0317"
+    "name": "XML data - výsledky za okres Přerov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0714"
   },
   {
-    "name": "XML data - výsledky za okres Beroun a jeho obce ",
-    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0202"
+    "name": "XML data - výsledky za okres Přerov a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0714"
+  },
+  {
+    "name": "XML data - výsledky za okres Příbram a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ020B"
+  },
+  {
+    "name": "XML data - výsledky za okres Příbram a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ020B"
+  },
+  {
+    "name": "XML data - výsledky za okres Příbram a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ020B"
+  },
+  {
+    "name": "XML data - výsledky za okres Rakovník a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ020C"
+  },
+  {
+    "name": "XML data - výsledky za okres Rakovník a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ020C"
+  },
+  {
+    "name": "XML data - výsledky za okres Rakovník a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ020C"
+  },
+  {
+    "name": "XML data - výsledky za okres Rokycany a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0326"
+  },
+  {
+    "name": "XML data - výsledky za okres Rokycany a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0326"
+  },
+  {
+    "name": "XML data - výsledky za okres Rokycany a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0326"
+  },
+  {
+    "name": "XML data - výsledky za okres Rychnov nad Kněžnou a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0524"
+  },
+  {
+    "name": "XML data - výsledky za okres Rychnov nad Kněžnou a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0524"
+  },
+  {
+    "name": "XML data - výsledky za okres Rychnov nad Kněžnou a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0524"
+  },
+  {
+    "name": "XML data - výsledky za okres Semily a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0514"
+  },
+  {
+    "name": "XML data - výsledky za okres Semily a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0514"
+  },
+  {
+    "name": "XML data - výsledky za okres Semily a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0514"
+  },
+  {
+    "name": "XML data - výsledky za okres Sokolov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0413"
+  },
+  {
+    "name": "XML data - výsledky za okres Sokolov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0413"
+  },
+  {
+    "name": "XML data - výsledky za okres Sokolov a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0413"
+  },
+  {
+    "name": "XML data - výsledky za okres Strakonice a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0316"
+  },
+  {
+    "name": "XML data - výsledky za okres Strakonice a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0316"
   },
   {
     "name": "XML data - výsledky za okres Strakonice a jeho obce ",
     "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0316"
   },
   {
+    "name": "XML data - výsledky za okres Svitavy a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0533"
+  },
+  {
+    "name": "XML data - výsledky za okres Svitavy a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0533"
+  },
+  {
+    "name": "XML data - výsledky za okres Svitavy a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0533"
+  },
+  {
+    "name": "XML data - výsledky za okres Tachov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0327"
+  },
+  {
+    "name": "XML data - výsledky za okres Tachov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0327"
+  },
+  {
+    "name": "XML data - výsledky za okres Tachov a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0327"
+  },
+  {
+    "name": "XML data - výsledky za okres Teplice a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0426"
+  },
+  {
+    "name": "XML data - výsledky za okres Teplice a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0426"
+  },
+  {
+    "name": "XML data - výsledky za okres Teplice a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0426"
+  },
+  {
+    "name": "XML data - výsledky za okres Trutnov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0525"
+  },
+  {
+    "name": "XML data - výsledky za okres Trutnov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0525"
+  },
+  {
+    "name": "XML data - výsledky za okres Trutnov a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0525"
+  },
+  {
+    "name": "XML data - výsledky za okres Tábor a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0317"
+  },
+  {
+    "name": "XML data - výsledky za okres Tábor a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0317"
+  },
+  {
+    "name": "XML data - výsledky za okres Tábor a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0317"
+  },
+  {
+    "name": "XML data - výsledky za okres Třebíč a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0634"
+  },
+  {
+    "name": "XML data - výsledky za okres Třebíč a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0634"
+  },
+  {
+    "name": "XML data - výsledky za okres Třebíč a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0634"
+  },
+  {
+    "name": "XML data - výsledky za okres Uherské Hradiště a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0722"
+  },
+  {
+    "name": "XML data - výsledky za okres Uherské Hradiště a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0722"
+  },
+  {
+    "name": "XML data - výsledky za okres Uherské Hradiště a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0722"
+  },
+  {
+    "name": "XML data - výsledky za okres Vsetín a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0723"
+  },
+  {
+    "name": "XML data - výsledky za okres Vsetín a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0723"
+  },
+  {
+    "name": "XML data - výsledky za okres Vsetín a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0723"
+  },
+  {
+    "name": "XML data - výsledky za okres Vyškov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0646"
+  },
+  {
+    "name": "XML data - výsledky za okres Vyškov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0646"
+  },
+  {
+    "name": "XML data - výsledky za okres Vyškov a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0646"
+  },
+  {
+    "name": "XML data - výsledky za okres Zlín a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0724"
+  },
+  {
+    "name": "XML data - výsledky za okres Zlín a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0724"
+  },
+  {
+    "name": "XML data - výsledky za okres Zlín a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0724"
+  },
+  {
+    "name": "XML data - výsledky za okres Znojmo a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0647"
+  },
+  {
     "name": "XML data - výsledky za okres Znojmo a jeho obce ",
     "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0647"
   },
   {
-    "name": "Číselníky - XML a XLSX soubory v ZIP balíčku",
-    "url": "https://volby.cz/opendata/ps2017/PS2017ciselniky20170905.zip"
+    "name": "XML data - výsledky za okres Znojmo a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0647"
+  },
+  {
+    "name": "XML data - výsledky za okres Ústí nad Labem a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0427"
+  },
+  {
+    "name": "XML data - výsledky za okres Ústí nad Labem a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0427"
+  },
+  {
+    "name": "XML data - výsledky za okres Ústí nad Labem a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0427"
+  },
+  {
+    "name": "XML data - výsledky za okres Ústí nad Orlicí a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0534"
+  },
+  {
+    "name": "XML data - výsledky za okres Ústí nad Orlicí a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0534"
+  },
+  {
+    "name": "XML data - výsledky za okres Ústí nad Orlicí a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0534"
+  },
+  {
+    "name": "XML data - výsledky za okres Česká Lípa a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0511"
+  },
+  {
+    "name": "XML data - výsledky za okres Česká Lípa a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0511"
+  },
+  {
+    "name": "XML data - výsledky za okres Česká Lípa a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0511"
+  },
+  {
+    "name": "XML data - výsledky za okres České Budějovice a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0311"
+  },
+  {
+    "name": "XML data - výsledky za okres České Budějovice a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0311"
+  },
+  {
+    "name": "XML data - výsledky za okres České Budějovice a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0311"
+  },
+  {
+    "name": "XML data - výsledky za okres Český Krumlov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0312"
+  },
+  {
+    "name": "XML data - výsledky za okres Český Krumlov a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0312"
+  },
+  {
+    "name": "XML data - výsledky za okres Český Krumlov a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0312"
+  },
+  {
+    "name": "XML data - výsledky za okres Šumperk a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0715"
+  },
+  {
+    "name": "XML data - výsledky za okres Šumperk a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0715"
+  },
+  {
+    "name": "XML data - výsledky za okres Šumperk a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0715"
+  },
+  {
+    "name": "XML data - výsledky za okres Žďár nad Sázavou a jeho obce ",
+    "url": "https://volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0635"
+  },
+  {
+    "name": "XML data - výsledky za okres Žďár nad Sázavou a jeho obce ",
+    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0635"
+  },
+  {
+    "name": "XML data - výsledky za okres Žďár nad Sázavou a jeho obce ",
+    "url": "https://volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0635"
+  },
+  {
+    "name": "XML data - výsledky za zahraničí, kontinenty, státy",
+    "url": "https://volby.cz/pls/ps2017/vysledky_zahranici"
   },
   {
     "name": "Číselníky - CSV soubory a JSON schémata v ZIP balíčku",
     "url": "https://volby.cz/opendata/ps2017/PS2017ciselniky20170905_csv.zip"
   },
   {
-    "name": "XML data - výsledky za okres Jindřichův Hradec a jeho obce ",
-    "url": "https://volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0313"
+    "name": "Číselníky - XML a XLSX soubory v ZIP balíčku",
+    "url": "https://volby.cz/opendata/ps2017/PS2017ciselniky20170905.zip"
   }
 ]

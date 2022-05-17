@@ -1,18 +1,18 @@
 [
   {
-    "name": "Souhrnné informace DPP",
-    "url": "https://www.dpp.cz/rss-kanal"
+    "name": "Aktuality DPP",
+    "url": "http://www.dpp.cz/rss/cz/aktuality.xml"
   },
   {
     "name": "Mimořádné události DPP",
     "url": "http://www.dpp.cz/rss/cz/mimoradne-udalosti.xml"
   },
   {
-    "name": "Změny v dopravě DPP",
-    "url": "http://www.dpp.cz/rss/cz/zmeny-v-doprave.xml"
+    "name": "Souhrnné informace DPP",
+    "url": "https://www.dpp.cz/rss-kanal"
   },
   {
-    "name": "Aktuality DPP",
-    "url": "http://www.dpp.cz/rss/cz/aktuality.xml"
+    "name": "Změny v dopravě DPP",
+    "url": "http://www.dpp.cz/rss/cz/zmeny-v-doprave.xml"
   }
 ]

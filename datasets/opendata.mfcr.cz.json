@@ -1,7 +1,131 @@
 [
   {
+    "name": "Faktury ve formátu CSV",
+    "url": "https://opendata.mfcr.cz/exports/faktury_uzsvm/faktury_uzsvm.csv"
+  },
+  {
+    "name": "Faktury ve formátu JSON",
+    "url": "https://opendata.mfcr.cz/exports/faktury_uzsvm/faktury_uzsvm.json"
+  },
+  {
+    "name": "Faktury ve formátu XLSX",
+    "url": "https://opendata.mfcr.cz/exports/faktury_uzsvm/faktury_uzsvm.xlsx"
+  },
+  {
+    "name": "Náklady  státu za právní zastoupení",
+    "url": "https://opendata.mfcr.cz/exports/naklady_zastoupeni/naklady_zastoupeni.csv"
+  },
+  {
+    "name": "Náklady státu za právní zastoupení",
+    "url": "https://opendata.mfcr.cz/exports/naklady_pravniho_zastoupeni/naklady_pravniho_zastoupeni.json"
+  },
+  {
+    "name": "Náklady státu za právní zastoupení",
+    "url": "https://opendata.mfcr.cz/exports/naklady_pravniho_zastoupeni/naklady_pravniho_zastoupeni.xlsx"
+  },
+  {
+    "name": "Objednávky - detail",
+    "url": "https://opendata.mfcr.cz/exports/objednavky_radek/objednavky_radek.csv"
+  },
+  {
+    "name": "Objednávky - detail",
+    "url": "https://opendata.mfcr.cz/exports/objednavky_radek/objednavky_radek.json"
+  },
+  {
+    "name": "Objednávky - detail",
+    "url": "https://opendata.mfcr.cz/exports/objednavky_radek/objednavky_radek.xlsx"
+  },
+  {
+    "name": "Objednávky - seznam objednávek",
+    "url": "https://opendata.mfcr.cz/exports/objednavky/objednavky.csv"
+  },
+  {
+    "name": "Objednávky - seznam objednávek",
+    "url": "https://opendata.mfcr.cz/exports/objednavky/objednavky.json"
+  },
+  {
+    "name": "Objednávky - seznam objednávek",
+    "url": "https://opendata.mfcr.cz/exports/objednavky/objednavky.xlsx"
+  },
+  {
     "name": "Penzijní připojištění a doplňkové penzijní spoření",
     "url": "https://opendata.mfcr.cz/exports/penzijni_sporeni/penzijni_sporeni.xlsx"
+  },
+  {
+    "name": "Platba státu za státní pojištěnce",
+    "url": "https://opendata.mfcr.cz/exports/platba_pojistenci/platba_pojistenci.csv"
+  },
+  {
+    "name": "Platba státu za státní pojištěnce",
+    "url": "https://opendata.mfcr.cz/exports/platba_pojistenci/platba_pojistenci.json"
+  },
+  {
+    "name": "Platba státu za státní pojištěnce",
+    "url": "https://opendata.mfcr.cz/exports/platba_pojistenci/platba_pojistenci.xlsx"
+  },
+  {
+    "name": "Pokladní plnění státního rozpočtu",
+    "url": "https://opendata.mfcr.cz/exports/pokladni_plneni/pokladni_plneni.csv"
+  },
+  {
+    "name": "Pokladní plnění státního rozpočtu",
+    "url": "https://opendata.mfcr.cz/exports/pokladni_plneni/pokladni_plneni.json"
+  },
+  {
+    "name": "Pokladní plnění státního rozpočtu",
+    "url": "https://opendata.mfcr.cz/exports/pokladni_plneni/pokladni_plneni.xlsx"
+  },
+  {
+    "name": "Přezkoumání hospodaření",
+    "url": "https://opendata.mfcr.cz/exports/prezkum/prezkum.csv"
+  },
+  {
+    "name": "Přezkoumání hospodaření",
+    "url": "https://opendata.mfcr.cz/exports/prezkum/prezkum.json"
+  },
+  {
+    "name": "Přezkoumání hospodaření",
+    "url": "https://opendata.mfcr.cz/exports/prezkum/prezkum.xlsx"
+  },
+  {
+    "name": "SPARQL endpoint",
+    "url": "https://opendata.mfcr.cz/lod/sparql"
+  },
+  {
+    "name": "Seznam smluv",
+    "url": "https://opendata.mfcr.cz/exports/smlouvy/smlouvy.json"
+  },
+  {
+    "name": "Smlouvy - seznam smluv",
+    "url": "https://opendata.mfcr.cz/exports/smlouvy/smlouvy.csv"
+  },
+  {
+    "name": "Smlouvy - seznam smluv",
+    "url": "https://opendata.mfcr.cz/exports/smlouvy/smlouvy.xlsx"
+  },
+  {
+    "name": "Smlouvy Ministerstva financí ČR - vazba na faktury",
+    "url": "https://opendata.mfcr.cz/exports/smlouvy_faktura/smlouvy_faktura.csv"
+  },
+  {
+    "name": "Smlouvy Ministerstva financí ČR - vazba na faktury",
+    "url": "https://opendata.mfcr.cz/exports/smlouvy_faktura/smlouvy_faktura.json"
+  },
+  {
+    "name": "Uhrazené faktury",
+    "url": "https://opendata.mfcr.cz/exports/faktury/faktury.csv"
+  },
+  {
+    "name": "Uhrazené faktury",
+    "url": "https://opendata.mfcr.cz/exports/faktury/faktury.json"
+  },
+  {
+    "name": "Uhrazené faktury",
+    "url": "https://opendata.mfcr.cz/exports/faktury/faktury.xlsx"
+  },
+  {
+    "name": "Vazební tabulka smluv a faktur Ministerstva financí ČR",
+    "url": "https://opendata.mfcr.cz/exports/smlouvy_faktura/smlouvy_faktura.xlsx"
   },
   {
     "name": "Vývoj penzijního připojištění a doplňkového penzijního spoření",
@@ -17,119 +141,15 @@
   },
   {
     "name": "Vývoj stavebního spoření",
-    "url": "https://opendata.mfcr.cz/exports/stavebni_sporeni/stavebni_sporeni.xlsx"
-  },
-  {
-    "name": "Vývoj stavebního spoření",
     "url": "https://opendata.mfcr.cz/exports/stavebni_sporeni/stavebni_sporeni.json"
   },
   {
-    "name": "SPARQL endpoint",
-    "url": "https://opendata.mfcr.cz/lod/sparql"
-  },
-  {
-    "name": "Uhrazené faktury",
-    "url": "https://opendata.mfcr.cz/exports/faktury/faktury.xlsx"
-  },
-  {
-    "name": "Uhrazené faktury",
-    "url": "https://opendata.mfcr.cz/exports/faktury/faktury.json"
-  },
-  {
-    "name": "Uhrazené faktury",
-    "url": "https://opendata.mfcr.cz/exports/faktury/faktury.csv"
-  },
-  {
-    "name": "Pokladní plnění státního rozpočtu",
-    "url": "https://opendata.mfcr.cz/exports/pokladni_plneni/pokladni_plneni.csv"
-  },
-  {
-    "name": "Pokladní plnění státního rozpočtu",
-    "url": "https://opendata.mfcr.cz/exports/pokladni_plneni/pokladni_plneni.json"
-  },
-  {
-    "name": "Pokladní plnění státního rozpočtu",
-    "url": "https://opendata.mfcr.cz/exports/pokladni_plneni/pokladni_plneni.xlsx"
-  },
-  {
-    "name": "Platba státu za státní pojištěnce",
-    "url": "https://opendata.mfcr.cz/exports/platba_pojistenci/platba_pojistenci.json"
-  },
-  {
-    "name": "Platba státu za státní pojištěnce",
-    "url": "https://opendata.mfcr.cz/exports/platba_pojistenci/platba_pojistenci.xlsx"
-  },
-  {
-    "name": "Platba státu za státní pojištěnce",
-    "url": "https://opendata.mfcr.cz/exports/platba_pojistenci/platba_pojistenci.csv"
-  },
-  {
-    "name": "Přezkoumání hospodaření",
-    "url": "https://opendata.mfcr.cz/exports/prezkum/prezkum.json"
-  },
-  {
-    "name": "Přezkoumání hospodaření",
-    "url": "https://opendata.mfcr.cz/exports/prezkum/prezkum.csv"
-  },
-  {
-    "name": "Přezkoumání hospodaření",
-    "url": "https://opendata.mfcr.cz/exports/prezkum/prezkum.xlsx"
-  },
-  {
-    "name": "Číselník rozpočtových položek",
-    "url": "https://opendata.mfcr.cz/exports/polozka/polozka.csv"
-  },
-  {
-    "name": "Číselník rozpočtových položek",
-    "url": "https://opendata.mfcr.cz/exports/polozka/polozka.xlsx"
-  },
-  {
-    "name": "Číselník rozpočtových položek",
-    "url": "https://opendata.mfcr.cz/exports/polozka/polozka.json"
-  },
-  {
-    "name": "Náklady státu za právní zastoupení",
-    "url": "https://opendata.mfcr.cz/exports/naklady_pravniho_zastoupeni/naklady_pravniho_zastoupeni.xlsx"
-  },
-  {
-    "name": "Náklady státu za právní zastoupení",
-    "url": "https://opendata.mfcr.cz/exports/naklady_pravniho_zastoupeni/naklady_pravniho_zastoupeni.json"
-  },
-  {
-    "name": "Náklady  státu za právní zastoupení",
-    "url": "https://opendata.mfcr.cz/exports/naklady_zastoupeni/naklady_zastoupeni.csv"
+    "name": "Vývoj stavebního spoření",
+    "url": "https://opendata.mfcr.cz/exports/stavebni_sporeni/stavebni_sporeni.xlsx"
   },
   {
     "name": "Úřední deska",
     "url": "https://opendata.mfcr.cz/uredni-deska/uredni-deska.jsonld"
-  },
-  {
-    "name": "Faktury ve formátu XLSX",
-    "url": "https://opendata.mfcr.cz/exports/faktury_uzsvm/faktury_uzsvm.xlsx"
-  },
-  {
-    "name": "Faktury ve formátu JSON",
-    "url": "https://opendata.mfcr.cz/exports/faktury_uzsvm/faktury_uzsvm.json"
-  },
-  {
-    "name": "Faktury ve formátu CSV",
-    "url": "https://opendata.mfcr.cz/exports/faktury_uzsvm/faktury_uzsvm.csv"
-  },
-  {
-    "name": "Objednávky - seznam objednávek",
-    "url": "https://opendata.mfcr.cz/exports/objednavky/objednavky.xlsx"
-  },
-  {
-    "name": "Objednávky - seznam objednávek",
-    "url": "https://opendata.mfcr.cz/exports/objednavky/objednavky.csv"
-  },
-  {
-    "name": "Objednávky - seznam objednávek",
-    "url": "https://opendata.mfcr.cz/exports/objednavky/objednavky.json"
-  },
-  {
-    "name": "Číselník rozpočtových paragrafů",
-    "url": "https://opendata.mfcr.cz/exports/paragraf/paragraf.json"
   },
   {
     "name": "Číselník rozpočtových paragrafů",
@@ -137,42 +157,22 @@
   },
   {
     "name": "Číselník rozpočtových paragrafů",
+    "url": "https://opendata.mfcr.cz/exports/paragraf/paragraf.json"
+  },
+  {
+    "name": "Číselník rozpočtových paragrafů",
     "url": "https://opendata.mfcr.cz/exports/paragraf/paragraf.xlsx"
   },
   {
-    "name": "Smlouvy Ministerstva financí ČR - vazba na faktury",
-    "url": "https://opendata.mfcr.cz/exports/smlouvy_faktura/smlouvy_faktura.csv"
+    "name": "Číselník rozpočtových položek",
+    "url": "https://opendata.mfcr.cz/exports/polozka/polozka.csv"
   },
   {
-    "name": "Smlouvy Ministerstva financí ČR - vazba na faktury",
-    "url": "https://opendata.mfcr.cz/exports/smlouvy_faktura/smlouvy_faktura.json"
+    "name": "Číselník rozpočtových položek",
+    "url": "https://opendata.mfcr.cz/exports/polozka/polozka.json"
   },
   {
-    "name": "Vazební tabulka smluv a faktur Ministerstva financí ČR",
-    "url": "https://opendata.mfcr.cz/exports/smlouvy_faktura/smlouvy_faktura.xlsx"
-  },
-  {
-    "name": "Smlouvy - seznam smluv",
-    "url": "https://opendata.mfcr.cz/exports/smlouvy/smlouvy.xlsx"
-  },
-  {
-    "name": "Smlouvy - seznam smluv",
-    "url": "https://opendata.mfcr.cz/exports/smlouvy/smlouvy.csv"
-  },
-  {
-    "name": "Seznam smluv",
-    "url": "https://opendata.mfcr.cz/exports/smlouvy/smlouvy.json"
-  },
-  {
-    "name": "Objednávky - detail",
-    "url": "https://opendata.mfcr.cz/exports/objednavky_radek/objednavky_radek.csv"
-  },
-  {
-    "name": "Objednávky - detail",
-    "url": "https://opendata.mfcr.cz/exports/objednavky_radek/objednavky_radek.json"
-  },
-  {
-    "name": "Objednávky - detail",
-    "url": "https://opendata.mfcr.cz/exports/objednavky_radek/objednavky_radek.xlsx"
+    "name": "Číselník rozpočtových položek",
+    "url": "https://opendata.mfcr.cz/exports/polozka/polozka.xlsx"
   }
 ]

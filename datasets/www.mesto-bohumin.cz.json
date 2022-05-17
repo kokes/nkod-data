@@ -1,47 +1,15 @@
 [
   {
-    "name": "Sporty ve městě",
-    "url": "https://www.mesto-bohumin.cz/export/sport_ve_meste.xml.php"
-  },
-  {
     "name": "Bytoví technici",
     "url": "https://www.mesto-bohumin.cz/export/bytove_domy.xml.php"
   },
   {
-    "name": "Osobnosti",
-    "url": "https://www.mesto-bohumin.cz/export/osobnosti.xml.php"
+    "name": "Co, kdy, kde",
+    "url": "https://www.mesto-bohumin.cz/export/co-kdy-kde.xml.php"
   },
   {
     "name": "Firmy, služby, podnikání ",
     "url": "https://www.mesto-bohumin.cz/export/databaze_firem.xml.php"
-  },
-  {
-    "name": "Subjekty města",
-    "url": "https://www.mesto-bohumin.cz/export/subjekty_mesta.xml.php"
-  },
-  {
-    "name": "Vlhkosti vzduchu",
-    "url": "https://www.mesto-bohumin.cz/export/vlhkost.xml.php"
-  },
-  {
-    "name": "Ulice města",
-    "url": "https://www.mesto-bohumin.cz/export/ulice.xml.php"
-  },
-  {
-    "name": "Čestní občané ",
-    "url": "https://www.mesto-bohumin.cz/export/cestni_obcane.xml.php"
-  },
-  {
-    "name": "Nebytové prostory",
-    "url": "https://www.mesto-bohumin.cz/export/nebytove_prostory.xml.php"
-  },
-  {
-    "name": "Úřední deska",
-    "url": "https://www.mesto-bohumin.cz/export/uredni_deska.json.php"
-  },
-  {
-    "name": "Co, kdy, kde",
-    "url": "https://www.mesto-bohumin.cz/export/co-kdy-kde.xml.php"
   },
   {
     "name": "Hlášení závad - počet nahlášených závad dle kategorií",
@@ -52,19 +20,51 @@
     "url": "https://www.mesto-bohumin.cz/export/licitace_bytu.xml.php"
   },
   {
-    "name": "Teploty",
-    "url": "https://www.mesto-bohumin.cz/export/teplota.xml.php"
+    "name": "Nebytové prostory",
+    "url": "https://www.mesto-bohumin.cz/export/nebytove_prostory.xml.php"
+  },
+  {
+    "name": "Osobnosti",
+    "url": "https://www.mesto-bohumin.cz/export/osobnosti.xml.php"
+  },
+  {
+    "name": "Plánované odstávky",
+    "url": "https://www.mesto-bohumin.cz/export/planovane_odstavky.xml.php"
+  },
+  {
+    "name": "Sporty ve městě",
+    "url": "https://www.mesto-bohumin.cz/export/sport_ve_meste.xml.php"
+  },
+  {
+    "name": "Subjekty města",
+    "url": "https://www.mesto-bohumin.cz/export/subjekty_mesta.xml.php"
   },
   {
     "name": "Telefonní seznam MěÚ",
     "url": "https://www.mesto-bohumin.cz/export/telefonni_seznam_meu.xml.php"
   },
   {
+    "name": "Teploty",
+    "url": "https://www.mesto-bohumin.cz/export/teplota.xml.php"
+  },
+  {
+    "name": "Ulice města",
+    "url": "https://www.mesto-bohumin.cz/export/ulice.xml.php"
+  },
+  {
     "name": "Virtuální prohlídky",
     "url": "https://www.mesto-bohumin.cz/export/virtualni_prohlidky.xml.php"
   },
   {
-    "name": "Plánované odstávky",
-    "url": "https://www.mesto-bohumin.cz/export/planovane_odstavky.xml.php"
+    "name": "Vlhkosti vzduchu",
+    "url": "https://www.mesto-bohumin.cz/export/vlhkost.xml.php"
+  },
+  {
+    "name": "Úřední deska",
+    "url": "https://www.mesto-bohumin.cz/export/uredni_deska.json.php"
+  },
+  {
+    "name": "Čestní občané ",
+    "url": "https://www.mesto-bohumin.cz/export/cestni_obcane.xml.php"
   }
 ]

@@ -1,43 +1,39 @@
 [
   {
-    "name": "Seznam zastávek (XML)",
-    "url": "http://data.pid.cz/stops/xml/StopsByName.xml"
-  },
-  {
-    "name": "Seznam prodejních míst (XML)",
-    "url": "http://data.pid.cz/pointsOfSale/xml/PointsOfSale.xml"
-  },
-  {
-    "name": "Konstanty CZ (XML)",
-    "url": "http://data.pid.cz/pointsOfSale/xml/Constants-cs.xml"
-  },
-  {
-    "name": "Konstanty EN (XML)",
-    "url": "http://data.pid.cz/pointsOfSale/xml/Constants-en.xml"
-  },
-  {
-    "name": "Seznam zastávek (JSON)",
-    "url": "http://data.pid.cz/stops/json/stops.json"
-  },
-  {
-    "name": "Seznam prodejních míst (JSON)",
-    "url": "http://data.pid.cz/pointsOfSale/json/pointsOfSale.json"
+    "name": "Jízdní řády v GTFS",
+    "url": "http://data.pid.cz/PID_GTFS.zip"
   },
   {
     "name": "Konstanty CZ (JSON)",
     "url": "http://data.pid.cz/pointsOfSale/json/consts-cs.json"
   },
   {
+    "name": "Konstanty CZ (XML)",
+    "url": "http://data.pid.cz/pointsOfSale/xml/Constants-cs.xml"
+  },
+  {
     "name": "Konstanty EN (JSON)",
     "url": "http://data.pid.cz/pointsOfSale/json/consts-en.json"
   },
   {
-    "name": "Jízdní řády v GTFS",
-    "url": "http://data.pid.cz/PID_GTFS.zip"
+    "name": "Konstanty EN (XML)",
+    "url": "http://data.pid.cz/pointsOfSale/xml/Constants-en.xml"
   },
   {
-    "name": "XML Schema pro seznam zastávek",
-    "url": "http://data.pid.cz/stops/xml/StopsByName.xsd"
+    "name": "Seznam prodejních míst (JSON)",
+    "url": "http://data.pid.cz/pointsOfSale/json/pointsOfSale.json"
+  },
+  {
+    "name": "Seznam prodejních míst (XML)",
+    "url": "http://data.pid.cz/pointsOfSale/xml/PointsOfSale.xml"
+  },
+  {
+    "name": "Seznam zastávek (JSON)",
+    "url": "http://data.pid.cz/stops/json/stops.json"
+  },
+  {
+    "name": "Seznam zastávek (XML)",
+    "url": "http://data.pid.cz/stops/xml/StopsByName.xml"
   },
   {
     "name": "XML Schema pro Seznam prodejních míst",
@@ -46,5 +42,9 @@
   {
     "name": "XML Schema pro konstanty",
     "url": "http://data.pid.cz/pointsOfSale/xml/Constants.xsd"
+  },
+  {
+    "name": "XML Schema pro seznam zastávek",
+    "url": "http://data.pid.cz/stops/xml/StopsByName.xsd"
   }
 ]

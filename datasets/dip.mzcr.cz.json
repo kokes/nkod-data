@@ -1,18 +1,18 @@
 [
   {
-    "name": "COVID‑19: Online dispečink intenzivní péče – volné kapacity (2. vlna)",
-    "url": "https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-vlna-2.csv"
+    "name": "COVID-19: Online dispečink intenzivní péče – volné kapacity podle zdravotnických zařízení",
+    "url": "https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-zdravotnicke-zarizeni.csv"
   },
   {
     "name": "COVID-19: Online dispečink intenzivní péče – volné kapacity podle zdravotnických zařízení (duben 2021)",
     "url": "https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-zdravotnicke-zarizeni-04-2021.csv"
   },
   {
-    "name": "COVID-19: Online dispečink intenzivní péče – volné kapacity podle zdravotnických zařízení",
-    "url": "https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-zdravotnicke-zarizeni.csv"
-  },
-  {
     "name": "COVID-19: Online dispečink intenzivní péče – volné kapacity podle zdravotnických zařízení (říjen 2021)",
     "url": "https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-zdravotnicke-zarizeni-10-2021.csv"
+  },
+  {
+    "name": "COVID‑19: Online dispečink intenzivní péče – volné kapacity (2. vlna)",
+    "url": "https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-vlna-2.csv"
   }
 ]

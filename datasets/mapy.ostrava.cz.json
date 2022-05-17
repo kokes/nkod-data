@@ -1,479 +1,979 @@
 [
   {
-    "name": "Cenová mapa č. 18 (SHP, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_18_JTSK_shp.zip"
+    "name": "3D model (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/3Dmodel_JTSK_dxf.zip"
   },
   {
-    "name": "Cenová mapa č. 18 (GJSON, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_18_JTSK_gjson.zip"
+    "name": "3D model (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/3Dmodel_JTSK_gml.zip"
   },
   {
-    "name": "Cenová mapa č. 18 (GML, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_18_JTSK_gml.zip"
+    "name": "3D model (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/3Dmodel_WGS84_gml.zip"
   },
   {
-    "name": "Cenová mapa č. 18 (DXF, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_18_JTSK_dxf.zip"
+    "name": "3D model (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/3Dmodel_JTSK_gjson.zip"
   },
   {
-    "name": "Cenová mapa č. 18 (SHP, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_18_WGS84_shp.zip"
+    "name": "3D model (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/3Dmodel_WGS84_gjson.zip"
   },
   {
-    "name": "Cenová mapa č. 18 (GJSON, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_18_WGS84_gjson.zip"
+    "name": "3D model (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/3Dmodel_JTSK_shp.zip"
   },
   {
-    "name": "Cenová mapa č. 18 (GML, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_18_WGS84_gml.zip"
+    "name": "3D model (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/3Dmodel_WGS84_shp.zip"
   },
   {
-    "name": "Cenová mapa č. 13 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_13_JTSK_shp.zip"
+    "name": "Adresní body (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/adrbod_JTSK_dxf.zip"
   },
   {
-    "name": "Cenová mapa č. 13 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_13_JTSK_gjson.zip"
+    "name": "Adresní body (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/adrbod_JTSK_gml.zip"
   },
   {
-    "name": "Cenová mapa č. 13 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_13_JTSK_gml.zip"
+    "name": "Adresní body (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/adrbod_WGS84_gml.zip"
   },
   {
-    "name": "Cenová mapa č. 13 (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_13_JTSK_dxf.zip"
+    "name": "Adresní body (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/adrbod_JTSK_gjson.zip"
   },
   {
-    "name": "Cenová mapa č. 13 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_13_WGS84_shp.zip"
+    "name": "Adresní body (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/adrbod_WGS84_gjson.zip"
   },
   {
-    "name": "Cenová mapa č. 13 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_13_WGS84_gjson.zip"
+    "name": "Adresní body (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/adrbod_JTSK_shp.zip"
   },
   {
-    "name": "Cenová mapa č. 13 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_13_WGS84_gml.zip"
+    "name": "Adresní body (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/adrbod_WGS84_shp.zip"
   },
   {
-    "name": "Klad mapových listů 1 : 2000 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad2000_JTSK_shp.zip"
+    "name": "Bloková mapa (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/blokmapa_JTSK_dxf.zip"
   },
   {
-    "name": "Klad mapových listů 1 : 2000 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad2000_JTSK_gjson.zip"
+    "name": "Bloková mapa (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/blokmapa_JTSK_gml.zip"
   },
   {
-    "name": "Klad mapových listů 1 : 2000 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad2000_JTSK_gml.zip"
+    "name": "Bloková mapa (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/blokmapa_WGS84_gml.zip"
   },
   {
-    "name": "Klad mapových listů 1 : 2000 (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad2000_JTSK_dxf.zip"
+    "name": "Bloková mapa (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/blokmapa_JTSK_gjson.zip"
   },
   {
-    "name": "Klad mapových listů 1 : 2000 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad2000_WGS84_shp.zip"
+    "name": "Bloková mapa (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/blokmapa_WGS84_gjson.zip"
   },
   {
-    "name": "Klad mapových listů 1 : 2000 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad2000_WGS84_gjson.zip"
+    "name": "Bloková mapa (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/blokmapa_JTSK_shp.zip"
   },
   {
-    "name": "Klad mapových listů 1 : 2000 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad2000_WGS84_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č.  07 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_07_JTSK_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č.  07 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_07_JTSK_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č.  07 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_07_JTSK_gml.zip"
+    "name": "Bloková mapa (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/blokmapa_WGS84_shp.zip"
   },
   {
     "name": "Cenová mapa č.  07 (DXF, S-JTSK)",
     "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_07_JTSK_dxf.zip"
   },
   {
-    "name": "Cenová mapa č. 07 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_07_WGS84_shp.zip"
+    "name": "Cenová mapa č.  07 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_07_JTSK_gml.zip"
   },
   {
-    "name": "Cenová mapa č. 07 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_07_WGS84_gjson.zip"
+    "name": "Cenová mapa č.  07 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_07_JTSK_gjson.zip"
   },
   {
-    "name": "Cenová mapa č. 07 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_07_WGS84_gml.zip"
-  },
-  {
-    "name": "Školy a školská zařízení (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/skoly_JTSK_shp.zip"
-  },
-  {
-    "name": "Školy a školská zařízení (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/skoly_JTSK_gjson.zip"
-  },
-  {
-    "name": "Školy a školská zařízení (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/skoly_JTSK_gml.zip"
-  },
-  {
-    "name": "Školy a školská zařízení (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/skoly_JTSK_dxf.zip"
-  },
-  {
-    "name": "Školy a školská zařízení (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/skoly_WGS84_shp.zip"
-  },
-  {
-    "name": "Školy a školská zařízení (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/skoly_WGS84_gjson.zip"
-  },
-  {
-    "name": "Školy a školská zařízení (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/skoly_WGS84_gml.zip"
-  },
-  {
-    "name": "Volné pobíhání psů (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_JTSK_shp.zip"
-  },
-  {
-    "name": "Volné pobíhání psů (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_JTSK_gjson.zip"
-  },
-  {
-    "name": "Volné pobíhání psů (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_JTSK_gml.zip"
-  },
-  {
-    "name": "Volné pobíhání psů (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_JTSK_dxf.zip"
-  },
-  {
-    "name": "Volné pobíhání psů (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_WGS84_shp.zip"
-  },
-  {
-    "name": "Volné pobíhání psů (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_WGS84_gjson.zip"
-  },
-  {
-    "name": "Volné pobíhání psů (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_WGS84_gml.zip"
-  },
-  {
-    "name": "Zákaz reklam (SHP, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/Zakaz_reklam_JTSK_shp.zip"
-  },
-  {
-    "name": "Zákaz reklam (GJSON, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/Zakaz_reklam_JTSK_gjson.zip"
-  },
-  {
-    "name": "Zákaz reklam (GML, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/Zakaz_reklam_JTSK_gml.zip"
-  },
-  {
-    "name": "Zákaz reklam (DXF, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/Zakaz_reklam_JTSK_dxf.zip"
-  },
-  {
-    "name": "Zákaz reklam (SHP, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/Zakaz_reklam_WGS84_shp.zip"
-  },
-  {
-    "name": "Zákaz reklam (GJSON, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/Zakaz_reklam_WGS84_gjson.zip"
-  },
-  {
-    "name": "Zákaz reklam (GML, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/Zakaz_reklam_WGS84_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 03 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_03_JTSK_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 03 (GEOJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_03_JTSK_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 03 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_03_JTSK_gml.zip"
+    "name": "Cenová mapa č.  07 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_07_JTSK_shp.zip"
   },
   {
     "name": "Cenová mapa č. 03 (DXF, S-JTSK)",
     "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_03_JTSK_dxf.zip"
   },
   {
-    "name": "Cenová mapa č. 03 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_03_WGS84_shp.zip"
+    "name": "Cenová mapa č. 03 (GEOJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_03_JTSK_gjson.zip"
   },
   {
     "name": "Cenová mapa č. 03 (GEOJSON, WGS 84)",
     "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_03_WGS84_gjson.zip"
   },
   {
+    "name": "Cenová mapa č. 03 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_03_JTSK_gml.zip"
+  },
+  {
     "name": "Cenová mapa č. 03 (GML, WGS 84)",
     "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_03_WGS84_gml.zip"
   },
   {
-    "name": "Klad mapových listů 1 : 5000 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad5000_JTSK_shp.zip"
+    "name": "Cenová mapa č. 03 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_03_JTSK_shp.zip"
   },
   {
-    "name": "Klad mapových listů 1 : 5000 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad5000_JTSK_gjson.zip"
+    "name": "Cenová mapa č. 03 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_03_WGS84_shp.zip"
   },
   {
-    "name": "Klad mapových listů 1 : 5000 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad5000_JTSK_gml.zip"
+    "name": "Cenová mapa č. 04 (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_04_JTSK_dxf.zip"
   },
   {
-    "name": "Klad mapových listů 1 : 5000 (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad5000_JTSK_dxf.zip"
+    "name": "Cenová mapa č. 04 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_04_JTSK_gml.zip"
   },
   {
-    "name": "Klad mapových listů 1 : 5000 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad5000_WGS84_shp.zip"
+    "name": "Cenová mapa č. 04 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_04_WGS84_gml.zip"
   },
   {
-    "name": "Klad mapových listů 1 : 5000 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad5000_WGS84_gjson.zip"
+    "name": "Cenová mapa č. 04 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_04_JTSK_gjson.zip"
   },
   {
-    "name": "Klad mapových listů 1 : 5000 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad5000_WGS84_gjson.zip"
+    "name": "Cenová mapa č. 04 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_04_WGS84_gjson.zip"
   },
   {
-    "name": "Tramvajové koleje (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_JTSK_shp.zip"
+    "name": "Cenová mapa č. 04 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_04_JTSK_shp.zip"
   },
   {
-    "name": "Tramvajové koleje (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_JTSK_gjson.zip"
+    "name": "Cenová mapa č. 04 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_04_WGS84_shp.zip"
   },
   {
-    "name": "Tramvajové koleje (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_JTSK_gml.zip"
+    "name": "Cenová mapa č. 05 (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_05_JTSK_dxf.zip"
   },
   {
-    "name": "Tramvajové koleje (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_JTSK_dxf.zip"
+    "name": "Cenová mapa č. 05 (GEOJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_05_WGS84_gjson.zip"
   },
   {
-    "name": "Tramvajové koleje (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_WGS84_shp.zip"
+    "name": "Cenová mapa č. 05 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_05_JTSK_gml.zip"
   },
   {
-    "name": "Tramvajové koleje (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_WGS84_gjson.zip"
+    "name": "Cenová mapa č. 05 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_05_WGS84_gml.zip"
   },
   {
-    "name": "Tramvajové koleje (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_WGS84_gml.zip"
+    "name": "Cenová mapa č. 05 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_05_JTSK_gjson.zip"
   },
   {
-    "name": "Cenová mapa č. 20 (SHP, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_20_JTSK_shp.zip"
+    "name": "Cenová mapa č. 05 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_05_JTSK_shp.zip"
   },
   {
-    "name": "Cenová mapa č. 20 (GJSON, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_20_JTSK_gjson.zip"
+    "name": "Cenová mapa č. 05 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_05_WGS84_shp.zip"
   },
   {
-    "name": "Cenová mapa č. 20 (GML, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_20_JTSK_gml.zip"
+    "name": "Cenová mapa č. 06 (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_06_JTSK_dxf.zip"
   },
   {
-    "name": "Cenová mapa č. 20 (DXF, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_20_JTSK_dxf.zip"
+    "name": "Cenová mapa č. 06 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_06_JTSK_gml.zip"
   },
   {
-    "name": "Cenová mapa č. 20 (SHP, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_20_WGS84_shp.zip"
+    "name": "Cenová mapa č. 06 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_06_WGS84_gml.zip"
   },
   {
-    "name": "Cenová mapa č. 20 (GJSON, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_20_WGS84_gjson.zip"
+    "name": "Cenová mapa č. 06 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_06_JTSK_gjson.zip"
   },
   {
-    "name": "Cenová mapa č. 20 (GML, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_20_WGS84_gml.zip"
+    "name": "Cenová mapa č. 06 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_06_WGS84_gjson.zip"
   },
   {
-    "name": "Neudržované komunikace (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/neudrzovane_komunikace_JTSK_shp.zip"
+    "name": "Cenová mapa č. 06 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_06_JTSK_shp.zip"
   },
   {
-    "name": "Neudržované komunikace (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/neudrzovane_komunikace_JTSK_gjson.zip"
+    "name": "Cenová mapa č. 06 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_06_WGS84_shp.zip"
   },
   {
-    "name": "Neudržované komunikace (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/neudrzovane_komunikace_JTSK_gml.zip"
+    "name": "Cenová mapa č. 07 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_07_WGS84_gml.zip"
   },
   {
-    "name": "Neudržované komunikace (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/neudrzovane_komunikace_JTSK_dxf.zip"
+    "name": "Cenová mapa č. 07 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_07_WGS84_gjson.zip"
   },
   {
-    "name": "Neudržované komunikace (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/neudrzovane_komunikace_WGS84_shp.zip"
-  },
-  {
-    "name": "Neudržované komunikace (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/neudrzovane_komunikace_WGS84_gjson.zip"
-  },
-  {
-    "name": "Neudržované komunikace (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/neudrzovane_komunikace_WGS84_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 17 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_17_JTSK_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 17 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_17_JTSK_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 17 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_17_JTSK_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 17 (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_17_JTSK_dxf.zip"
-  },
-  {
-    "name": "Cenová mapa č. 17 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_17_WGS84_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 17 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_17_WGS84_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 17 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_17_WGS84_gml.zip"
-  },
-  {
-    "name": "Vrstevnice (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_JTSK_shp.zip"
-  },
-  {
-    "name": "Vrstevnice (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_JTSK_gjson.zip"
-  },
-  {
-    "name": "Vrstevnice (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_JTSK_gml.zip"
-  },
-  {
-    "name": "Vrstevnice (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_JTSK_dxf.zip"
-  },
-  {
-    "name": "Vrstevnice (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_WGS84_shp.zip"
-  },
-  {
-    "name": "Vrstevnice (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_WGS84_gjson.zip"
-  },
-  {
-    "name": "Vrstevnice (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_WGS84_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 15 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_15_JTSK_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 15 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_15_JTSK_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 15 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_15_JTSK_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 15 (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_15_JTSK_dxf.zip"
-  },
-  {
-    "name": "Cenová mapa č. 15 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_15_WGS84_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 15 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_15_WGS84_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 15 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_15_WGS84_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 08 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_08_JTSK_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 08 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_08_JTSK_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 08 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_08_JTSK_gml.zip"
+    "name": "Cenová mapa č. 07 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_07_WGS84_shp.zip"
   },
   {
     "name": "Cenová mapa č. 08 (DXF, S-JTSK)",
     "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_08_JTSK_dxf.zip"
   },
   {
-    "name": "Cenová mapa č. 08 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_08_WGS84_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 08 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_08_WGS84_gjson.zip"
+    "name": "Cenová mapa č. 08 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_08_JTSK_gml.zip"
   },
   {
     "name": "Cenová mapa č. 08 (GML, WGS 84)",
     "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_08_WGS84_gml.zip"
   },
   {
-    "name": "Veřejná prostranství (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/verejna_prostranstvi_JTSK_shp.zip"
+    "name": "Cenová mapa č. 08 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_08_JTSK_gjson.zip"
   },
   {
-    "name": "Veřejná prostranství (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/verejna_prostranstvi_JTSK_gjson.zip"
+    "name": "Cenová mapa č. 08 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_08_WGS84_gjson.zip"
   },
   {
-    "name": "Veřejná prostranství (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/verejna_prostranstvi_JTSK_gml.zip"
+    "name": "Cenová mapa č. 08 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_08_JTSK_shp.zip"
   },
   {
-    "name": "Veřejná prostranství (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/verejna_prostranstvi_JTSK_dxf.zip"
+    "name": "Cenová mapa č. 08 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_08_WGS84_shp.zip"
   },
   {
-    "name": "Veřejná prostranství (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/verejna_prostranstvi_WGS84_shp.zip"
+    "name": "Cenová mapa č. 09 (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_09_JTSK_dxf.zip"
   },
   {
-    "name": "Veřejná prostranství (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/verejna_prostranstvi_WGS84_gjson.zip"
+    "name": "Cenová mapa č. 09 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_09_JTSK_gml.zip"
   },
   {
-    "name": "Veřejná prostranství (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/verejna_prostranstvi_WGS84_gml.zip"
+    "name": "Cenová mapa č. 09 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_09_WGS84_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 09 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_09_JTSK_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 09 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_09_WGS84_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 09 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_09_JTSK_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 09 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_09_WGS84_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 10 (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_10_JTSK_dxf.zip"
+  },
+  {
+    "name": "Cenová mapa č. 10 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_10_JTSK_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 10 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_10_WGS84_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 10 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_10_JTSK_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 10 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_10_WGS84_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 10 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_10_JTSK_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 10 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_10_WGS84_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 11 (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_11_JTSK_dxf.zip"
+  },
+  {
+    "name": "Cenová mapa č. 11 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_11_JTSK_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 11 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_11_WGS84_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 11 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_11_JTSK_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 11 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_11_WGS84_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 11 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_11_JTSK_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 11 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_11_WGS84_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 13 (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_13_JTSK_dxf.zip"
+  },
+  {
+    "name": "Cenová mapa č. 13 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_13_JTSK_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 13 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_13_WGS84_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 13 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_13_JTSK_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 13 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_13_WGS84_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 13 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_13_JTSK_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 13 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_13_WGS84_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 14 (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_14_JTSK_dxf.zip"
+  },
+  {
+    "name": "Cenová mapa č. 14 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_14_JTSK_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 14 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_14_WGS84_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 14 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_14_JTSK_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 14 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_14_WGS84_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 14 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_14_JTSK_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 14 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_14_WGS84_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 15 (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_15_JTSK_dxf.zip"
+  },
+  {
+    "name": "Cenová mapa č. 15 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_15_JTSK_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 15 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_15_WGS84_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 15 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_15_JTSK_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 15 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_15_WGS84_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 15 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_15_JTSK_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 15 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_15_WGS84_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 16 (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_16_JTSK_dxf.zip"
+  },
+  {
+    "name": "Cenová mapa č. 16 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_16_JTSK_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 16 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_16_WGS84_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 16 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_16_JTSK_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 16 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_16_WGS84_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 16 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_16_JTSK_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 16 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_16_WGS84_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 17 (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_17_JTSK_dxf.zip"
+  },
+  {
+    "name": "Cenová mapa č. 17 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_17_JTSK_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 17 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_17_WGS84_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 17 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_17_JTSK_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 17 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_17_WGS84_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 17 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_17_JTSK_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 17 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_17_WGS84_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 18 (DXF, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_18_JTSK_dxf.zip"
+  },
+  {
+    "name": "Cenová mapa č. 18 (GJSON, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_18_JTSK_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 18 (GJSON, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_18_WGS84_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 18 (GML, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_18_JTSK_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 18 (GML, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_18_WGS84_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 18 (SHP, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_18_JTSK_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 18 (SHP, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_18_WGS84_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 19 (DXF, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_19_JTSK_dxf.zip"
+  },
+  {
+    "name": "Cenová mapa č. 19 (GJSON, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_19_JTSK_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 19 (GJSON, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_19_WGS84_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 19 (GML, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_19_JTSK_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 19 (GML, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_19_WGS84_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 19 (SHP, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_19_JTSK_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 19 (SHP, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_19_WGS84_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 20 (DXF, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_20_JTSK_dxf.zip"
+  },
+  {
+    "name": "Cenová mapa č. 20 (GJSON, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_20_JTSK_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 20 (GJSON, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_20_WGS84_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 20 (GML, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_20_JTSK_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 20 (GML, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_20_WGS84_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 20 (SHP, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_20_JTSK_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 20 (SHP, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_20_WGS84_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 21 (DXF, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_21_JTSK_dxf.zip"
+  },
+  {
+    "name": "Cenová mapa č. 21 (GJSON, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_21_JTSK_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 21 (GJSON, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_21_WGS84_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 21 (GML, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_21_JTSK_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 21 (GML, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_21_WGS84_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 21 (SHP, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_21_JTSK_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 21 (SHP, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_21_WGS84_shp.zip"
+  },
+  {
+    "name": "Cyklistické objekty (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_bod_JTSK_dxf.zip"
+  },
+  {
+    "name": "Cyklistické objekty (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_bod_JTSK_gml.zip"
+  },
+  {
+    "name": "Cyklistické objekty (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_bod_WGS84_gml.zip"
+  },
+  {
+    "name": "Cyklistické objekty (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_bod_JTSK_gjson.zip"
+  },
+  {
+    "name": "Cyklistické objekty (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_bod_WGS84_gjson.zip"
+  },
+  {
+    "name": "Cyklistické objekty (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_bod_JTSK_shp.zip"
+  },
+  {
+    "name": "Cyklistické objekty (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_bod_WGS84_shp.zip"
+  },
+  {
+    "name": "Cyklostezky (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_JTSK_dxf.zip"
+  },
+  {
+    "name": "Cyklostezky (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_JTSK_gml.zip"
+  },
+  {
+    "name": "Cyklostezky (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_WGS84_gml.zip"
+  },
+  {
+    "name": "Cyklostezky (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_JTSK_gjson.zip"
+  },
+  {
+    "name": "Cyklostezky (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_WGS84_gjson.zip"
+  },
+  {
+    "name": "Cyklostezky (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_JTSK_shp.zip"
+  },
+  {
+    "name": "Cyklostezky (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_WGS84_shp.zip"
+  },
+  {
+    "name": "Generalizovaná mapa v měřítku 1:100 000 (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen100_JTSK_dxf.zip"
+  },
+  {
+    "name": "Generalizovaná mapa v měřítku 1:100 000 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen100_JTSK_gml.zip"
+  },
+  {
+    "name": "Generalizovaná mapa v měřítku 1:100 000 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen100_WGS84_gml.zip"
+  },
+  {
+    "name": "Generalizovaná mapa v měřítku 1:100 000 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen100_JTSK_gjson.zip"
+  },
+  {
+    "name": "Generalizovaná mapa v měřítku 1:100 000 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen100_WGS84_gjson.zip"
+  },
+  {
+    "name": "Generalizovaná mapa v měřítku 1:100 000 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen100_JTSK_shp.zip"
+  },
+  {
+    "name": "Generalizovaná mapa v měřítku 1:100 000 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen100_WGS84_shp.zip"
+  },
+  {
+    "name": "Generalizovaná mapa v měřítku 1:50 000 (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen50_JTSK_dxf.zip"
+  },
+  {
+    "name": "Generalizovaná mapa v měřítku 1:50 000 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen50_JTSK_gml.zip"
+  },
+  {
+    "name": "Generalizovaná mapa v měřítku 1:50 000 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen50_WGS84_gml.zip"
+  },
+  {
+    "name": "Generalizovaná mapa v měřítku 1:50 000 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen50_JTSK_gjson.zip"
+  },
+  {
+    "name": "Generalizovaná mapa v měřítku 1:50 000 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen50_WGS84_gjson.zip"
+  },
+  {
+    "name": "Generalizovaná mapa v měřítku 1:50 000 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen50_JTSK_shp.zip"
+  },
+  {
+    "name": "Generalizovaná mapa v měřítku 1:50 000 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen50_WGS84_shp.zip"
+  },
+  {
+    "name": "Hranice katastrálních území (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/katastry_JTSK_dxf.zip"
+  },
+  {
+    "name": "Hranice katastrálních území (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/katastry_JTSK_gml.zip"
+  },
+  {
+    "name": "Hranice katastrálních území (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/katastry_WGS84_gml.zip"
+  },
+  {
+    "name": "Hranice katastrálních území (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/katastry_JTSK_gjson.zip"
+  },
+  {
+    "name": "Hranice katastrálních území (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/katastry_WGS84_gjson.zip"
+  },
+  {
+    "name": "Hranice katastrálních území (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/katastry_JTSK_shp.zip"
+  },
+  {
+    "name": "Hranice katastrálních území (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/katastry_WGS84_shp.zip"
+  },
+  {
+    "name": "Hranice městských obvodů (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obvody_JTSK_dxf.zip"
+  },
+  {
+    "name": "Hranice městských obvodů (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obvody_JTSK_gml.zip"
+  },
+  {
+    "name": "Hranice městských obvodů (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obvody_WGS84_gml.zip"
+  },
+  {
+    "name": "Hranice městských obvodů (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obvody_JTSK_gjson.zip"
+  },
+  {
+    "name": "Hranice městských obvodů (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obvody_WGS84_gjson.zip"
+  },
+  {
+    "name": "Hranice městských obvodů (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obvody_JTSK_shp.zip"
+  },
+  {
+    "name": "Hranice městských obvodů (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obvody_WGS84_shp.zip"
+  },
+  {
+    "name": "Hranice městských částí (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/mestske_casti_JTSK_dxf.zip"
+  },
+  {
+    "name": "Hranice městských částí (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/mestske_casti_JTSK_gml.zip"
+  },
+  {
+    "name": "Hranice městských částí (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/mestske_casti_WGS84_gml.zip"
+  },
+  {
+    "name": "Hranice městských částí (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/mestske_casti_JTSK_gjson.zip"
+  },
+  {
+    "name": "Hranice městských částí (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/mestske_casti_WGS84_gjson.zip"
+  },
+  {
+    "name": "Hranice městských částí (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/mestske_casti_JTSK_shp.zip"
+  },
+  {
+    "name": "Hranice městských částí (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/mestske_casti_WGS84_shp.zip"
+  },
+  {
+    "name": "Hranice obcí (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obce_JTSK_dxf.zip"
+  },
+  {
+    "name": "Hranice obcí (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obce_JTSK_gml.zip"
+  },
+  {
+    "name": "Hranice obcí (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obce_WGS84_gml.zip"
+  },
+  {
+    "name": "Hranice obcí (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obce_JTSK_gjson.zip"
+  },
+  {
+    "name": "Hranice obcí (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obce_WGS84_gjson.zip"
+  },
+  {
+    "name": "Hranice obcí (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obce_JTSK_shp.zip"
+  },
+  {
+    "name": "Hranice obcí (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obce_WGS84_shp.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 1000 (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad1000_JTSK_dxf.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 1000 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad1000_JTSK_gml.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 1000 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad1000_WGS84_gml.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 1000 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad1000_JTSK_gjson.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 1000 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad1000_WGS84_gjson.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 1000 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad1000_JTSK_shp.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 1000 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad1000_WGS84_shp.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 2000 (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad2000_JTSK_dxf.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 2000 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad2000_JTSK_gml.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 2000 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad2000_WGS84_gml.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 2000 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad2000_JTSK_gjson.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 2000 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad2000_WGS84_gjson.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 2000 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad2000_JTSK_shp.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 2000 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad2000_WGS84_shp.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 5000 (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad5000_JTSK_dxf.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 5000 (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad5000_JTSK_gml.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 5000 (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad5000_WGS84_gjson.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 5000 (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad5000_JTSK_gjson.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 5000 (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad5000_WGS84_gjson.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 5000 (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad5000_JTSK_shp.zip"
+  },
+  {
+    "name": "Klad mapových listů 1 : 5000 (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad5000_WGS84_shp.zip"
+  },
+  {
+    "name": "Neudržované komunikace (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/neudrzovane_komunikace_JTSK_dxf.zip"
+  },
+  {
+    "name": "Neudržované komunikace (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/neudrzovane_komunikace_JTSK_gml.zip"
+  },
+  {
+    "name": "Neudržované komunikace (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/neudrzovane_komunikace_WGS84_gml.zip"
+  },
+  {
+    "name": "Neudržované komunikace (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/neudrzovane_komunikace_JTSK_gjson.zip"
+  },
+  {
+    "name": "Neudržované komunikace (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/neudrzovane_komunikace_WGS84_gjson.zip"
+  },
+  {
+    "name": "Neudržované komunikace (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/neudrzovane_komunikace_JTSK_shp.zip"
+  },
+  {
+    "name": "Neudržované komunikace (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/neudrzovane_komunikace_WGS84_shp.zip"
+  },
+  {
+    "name": "Památné stromy (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/pam_stromy_JTSK_dxf.zip"
+  },
+  {
+    "name": "Památné stromy (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/pam_stromy_JTSK_gml.zip"
+  },
+  {
+    "name": "Památné stromy (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/pam_stromy_WGS84_gml.zip"
+  },
+  {
+    "name": "Památné stromy (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/pam_stromy_JTSK_gjson.zip"
+  },
+  {
+    "name": "Památné stromy (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/pam_stromy_WGS84_gjson.zip"
+  },
+  {
+    "name": "Památné stromy (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/pam_stromy_JTSK_shp.zip"
+  },
+  {
+    "name": "Památné stromy (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/pam_stromy_WGS84_shp.zip"
+  },
+  {
+    "name": "Parkovací zóny (DXF, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/parkovaci_zony_JTSK_dxf.zip"
+  },
+  {
+    "name": "Parkovací zóny (GJSON, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/parkovaci_zony_WGS84_gjson.zip"
+  },
+  {
+    "name": "Parkovací zóny (GML, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/parkovaci_zony_JTSK_gml.zip"
+  },
+  {
+    "name": "Parkovací zóny (GML, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/parkovaci_zony_WGS84_gml.zip"
+  },
+  {
+    "name": "Parkovací zóny (SHP, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/parkovaci_zony_JTSK_shp.zip"
+  },
+  {
+    "name": "Parkovací zóny (SHP, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/parkovaci_zony_WGS84_shp.zip"
   },
   {
     "name": "Pocitová mapa 2016 (CSV, JTSK)",
@@ -484,706 +984,6 @@
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/pocitova_mapa_2016_WGS84_csv.zip"
   },
   {
-    "name": "Parkovací zóny (SHP, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/parkovaci_zony_JTSK_shp.zip"
-  },
-  {
-    "name": "parkovací zóny (GJSON, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/parkovaci_zony_JTSK_gjson.zip"
-  },
-  {
-    "name": "Parkovací zóny (GML, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/parkovaci_zony_JTSK_gml.zip"
-  },
-  {
-    "name": "Parkovací zóny (DXF, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/parkovaci_zony_JTSK_dxf.zip"
-  },
-  {
-    "name": "Parkovací zóny (SHP, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/parkovaci_zony_WGS84_shp.zip"
-  },
-  {
-    "name": "Parkovací zóny (GJSON, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/parkovaci_zony_WGS84_gjson.zip"
-  },
-  {
-    "name": "Parkovací zóny (GML, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/parkovaci_zony_WGS84_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 14 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_14_JTSK_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 14 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_14_JTSK_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 14 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_14_JTSK_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 14 (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_14_JTSK_dxf.zip"
-  },
-  {
-    "name": "Cenová mapa č. 14 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_14_WGS84_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 14 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_14_WGS84_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 14 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_14_WGS84_gml.zip"
-  },
-  {
-    "name": "Bloková mapa (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/blokmapa_JTSK_shp.zip"
-  },
-  {
-    "name": "Bloková mapa (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/blokmapa_JTSK_gjson.zip"
-  },
-  {
-    "name": "Bloková mapa (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/blokmapa_JTSK_gml.zip"
-  },
-  {
-    "name": "Bloková mapa (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/blokmapa_JTSK_dxf.zip"
-  },
-  {
-    "name": "Bloková mapa (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/blokmapa_WGS84_shp.zip"
-  },
-  {
-    "name": "Bloková mapa (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/blokmapa_WGS84_gjson.zip"
-  },
-  {
-    "name": "Bloková mapa (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/blokmapa_WGS84_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 11 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_11_JTSK_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 11 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_11_JTSK_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 11 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_11_JTSK_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 11 (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_11_JTSK_dxf.zip"
-  },
-  {
-    "name": "Cenová mapa č. 11 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_11_WGS84_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 11 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_11_WGS84_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 11 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_11_WGS84_gml.zip"
-  },
-  {
-    "name": "3D model (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/3Dmodel_JTSK_shp.zip"
-  },
-  {
-    "name": "3D model (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/3Dmodel_JTSK_gjson.zip"
-  },
-  {
-    "name": "3D model (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/3Dmodel_JTSK_gml.zip"
-  },
-  {
-    "name": "3D model (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/3Dmodel_JTSK_dxf.zip"
-  },
-  {
-    "name": "3D model (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/3Dmodel_WGS84_shp.zip"
-  },
-  {
-    "name": "3D model (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/3Dmodel_WGS84_gjson.zip"
-  },
-  {
-    "name": "3D model (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/3Dmodel_WGS84_gml.zip"
-  },
-  {
-    "name": "Uliční síť (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/ulice_JTSK_shp.zip"
-  },
-  {
-    "name": "Uliční síť (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/ulice_JTSK_gjson.zip"
-  },
-  {
-    "name": "Uliční síť (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/ulice_JTSK_gml.zip"
-  },
-  {
-    "name": "Uliční síť (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/ulice_JTSK_dxf.zip"
-  },
-  {
-    "name": "Uliční síť (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/ulice_WGS84_shp.zip"
-  },
-  {
-    "name": "Uliční síť (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/ulice_WGS84_gjson.zip"
-  },
-  {
-    "name": "Uliční síť (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/ulice_WGS84_gml.zip"
-  },
-  {
-    "name": "Památné stromy (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/pam_stromy_JTSK_shp.zip"
-  },
-  {
-    "name": "Památné stromy (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/pam_stromy_JTSK_gjson.zip"
-  },
-  {
-    "name": "Památné stromy (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/pam_stromy_JTSK_gml.zip"
-  },
-  {
-    "name": "Památné stromy (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/pam_stromy_JTSK_dxf.zip"
-  },
-  {
-    "name": "Památné stromy (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/pam_stromy_WGS84_shp.zip"
-  },
-  {
-    "name": "Památné stromy (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/pam_stromy_WGS84_gjson.zip"
-  },
-  {
-    "name": "Památné stromy (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/pam_stromy_WGS84_gml.zip"
-  },
-  {
-    "name": "Hranice katastrálních území (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/katastry_JTSK_shp.zip"
-  },
-  {
-    "name": "Hranice katastrálních území (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/katastry_JTSK_gjson.zip"
-  },
-  {
-    "name": "Hranice katastrálních území (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/katastry_JTSK_gml.zip"
-  },
-  {
-    "name": "Hranice katastrálních území (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/katastry_JTSK_dxf.zip"
-  },
-  {
-    "name": "Hranice katastrálních území (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/katastry_WGS84_shp.zip"
-  },
-  {
-    "name": "Hranice katastrálních území (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/katastry_WGS84_gjson.zip"
-  },
-  {
-    "name": "Hranice katastrálních území (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/katastry_WGS84_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 04 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_04_JTSK_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 04 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_04_JTSK_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 04 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_04_JTSK_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 04 (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_04_JTSK_dxf.zip"
-  },
-  {
-    "name": "Cenová mapa č. 04 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_04_WGS84_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 04 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_04_WGS84_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 04 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_04_WGS84_gml.zip"
-  },
-  {
-    "name": "Výškové kóty (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_JTSK_shp.zip"
-  },
-  {
-    "name": "Výškové kóty (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_JTSK_gjson.zip"
-  },
-  {
-    "name": "Výškové kóty (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_JTSK_gml.zip"
-  },
-  {
-    "name": "Výškové kóty (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_JTSK_dxf.zip"
-  },
-  {
-    "name": "Výškové kóty (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_WGS84_shp.zip"
-  },
-  {
-    "name": "Výškové kóty (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_WGS84_gjson.zip"
-  },
-  {
-    "name": "Výškové kóty (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_WGS84_gml.zip"
-  },
-  {
-    "name": "Hranice obcí (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obce_JTSK_shp.zip"
-  },
-  {
-    "name": "Hranice obcí (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obce_JTSK_gjson.zip"
-  },
-  {
-    "name": "Hranice obcí (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obce_JTSK_gml.zip"
-  },
-  {
-    "name": "Hranice obcí (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obce_JTSK_dxf.zip"
-  },
-  {
-    "name": "Hranice obcí (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obce_WGS84_shp.zip"
-  },
-  {
-    "name": "Hranice obcí (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obce_WGS84_gjson.zip"
-  },
-  {
-    "name": "Hranice obcí (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obce_WGS84_gml.zip"
-  },
-  {
-    "name": "Stavba roku (SHP, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/stavba_roku_JTSK_shp.zip"
-  },
-  {
-    "name": "Stavba roku (GJSON, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/stavba_roku_JTSK_gjson.zip"
-  },
-  {
-    "name": "Stavba roku (GML, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/stavba_roku_JTSK_gml.zip"
-  },
-  {
-    "name": "Stavba roku (DXF, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/stavba_roku_JTSK_dxf.zip"
-  },
-  {
-    "name": "Stavba roku (SHP, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/stavba_roku_WGS84_shp.zip"
-  },
-  {
-    "name": "Stavba roku (GJSON, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/stavba_roku_WGS84_gjson.zip"
-  },
-  {
-    "name": "Stavba roku (GML, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/stavba_roku_WGS84_gml.zip"
-  },
-  {
-    "name": "Generalizovaná mapa v měřítku 1:50 000 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen50_JTSK_shp.zip"
-  },
-  {
-    "name": "Generalizovaná mapa v měřítku 1:50 000 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen50_JTSK_gjson.zip"
-  },
-  {
-    "name": "Generalizovaná mapa v měřítku 1:50 000 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen50_JTSK_gml.zip"
-  },
-  {
-    "name": "Generalizovaná mapa v měřítku 1:50 000 (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen50_JTSK_dxf.zip"
-  },
-  {
-    "name": "Generalizovaná mapa v měřítku 1:50 000 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen50_WGS84_shp.zip"
-  },
-  {
-    "name": "Generalizovaná mapa v měřítku 1:50 000 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen50_WGS84_gjson.zip"
-  },
-  {
-    "name": "Generalizovaná mapa v měřítku 1:50 000 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen50_WGS84_gml.zip"
-  },
-  {
-    "name": "Separovaný odpad (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_shp.zip"
-  },
-  {
-    "name": "Separovaný odpad (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_gjson.zip"
-  },
-  {
-    "name": "Separovaný odpad (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_gml.zip"
-  },
-  {
-    "name": "Separovaný odpad (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_dxf.zip"
-  },
-  {
-    "name": "Separovaný odpad (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_shp.zip"
-  },
-  {
-    "name": "Separovaný odpad (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_gjson.zip"
-  },
-  {
-    "name": "Separovaný odpad (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_gml.zip"
-  },
-  {
-    "name": "Cyklostezky (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_JTSK_shp.zip"
-  },
-  {
-    "name": "Cyklostezky (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_JTSK_gjson.zip"
-  },
-  {
-    "name": "Cyklostezky (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_JTSK_gml.zip"
-  },
-  {
-    "name": "Cyklostezky (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_JTSK_dxf.zip"
-  },
-  {
-    "name": "Cyklostezky (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_WGS84_shp.zip"
-  },
-  {
-    "name": "Cyklostezky (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_WGS84_gjson.zip"
-  },
-  {
-    "name": "Cyklostezky (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_WGS84_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 06 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_06_JTSK_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 06 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_06_JTSK_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 06 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_06_JTSK_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 06 (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_06_JTSK_dxf.zip"
-  },
-  {
-    "name": "Cenová mapa č. 06 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_06_WGS84_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 06 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_06_WGS84_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 06 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_06_WGS84_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 21 (SHP, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_21_JTSK_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 21 (GJSON, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_21_JTSK_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 21 (GML, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_21_JTSK_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 21 (DXF, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_21_JTSK_dxf.zip"
-  },
-  {
-    "name": "Cenová mapa č. 21 (SHP, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_21_WGS84_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 21 (GJSON, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_21_WGS84_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 21 (GML, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_21_WGS84_gml.zip"
-  },
-  {
-    "name": "Klad mapových listů 1 : 1000 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad1000_JTSK_shp.zip"
-  },
-  {
-    "name": "Klad mapových listů 1 : 1000 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad1000_JTSK_gjson.zip"
-  },
-  {
-    "name": "Klad mapových listů 1 : 1000 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad1000_JTSK_gml.zip"
-  },
-  {
-    "name": "Klad mapových listů 1 : 1000 (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad1000_JTSK_dxf.zip"
-  },
-  {
-    "name": "Klad mapových listů 1 : 1000 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad1000_WGS84_shp.zip"
-  },
-  {
-    "name": "Klad mapových listů 1 : 1000 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad1000_WGS84_gjson.zip"
-  },
-  {
-    "name": "Klad mapových listů 1 : 1000 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/klad1000_WGS84_gml.zip"
-  },
-  {
-    "name": "Tramvajové koleje - osy (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_JTSK_shp.zip"
-  },
-  {
-    "name": "Tramvajové koleje - osy (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_JTSK_gjson.zip"
-  },
-  {
-    "name": "Tramvajové koleje - osy (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_JTSK_gml.zip"
-  },
-  {
-    "name": "Tramvajové koleje - osy (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_JTSK_dxf.zip"
-  },
-  {
-    "name": "Tramvajové koleje - osy (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_WGS84_shp.zip"
-  },
-  {
-    "name": "Tramvajové koleje - osy (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_WGS84_gjson.zip"
-  },
-  {
-    "name": "Tramvajové koleje - osy (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_WGS84_gml.zip"
-  },
-  {
-    "name": "Zákaz konzumace alkoholu (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zakaz_konzumace_alkoholu_JTSK_shp.zip"
-  },
-  {
-    "name": "Zákaz konzumace alkoholu (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zakaz_konzumace_alkoholu_JTSK_gjson.zip"
-  },
-  {
-    "name": "Zákaz konzumace alkoholu (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zakaz_konzumace_alkoholu_JTSK_gml.zip"
-  },
-  {
-    "name": "Zákaz konzumace alkoholu (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zakaz_konzumace_alkoholu_JTSK_dxf.zip"
-  },
-  {
-    "name": "Zákaz konzumace alkoholu (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zakaz_konzumace_alkoholu_WGS84_shp.zip"
-  },
-  {
-    "name": "Zákaz konzumace alkoholu (GeoJSON, WGS 84) ",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zakaz_konzumace_alkoholu_WGS84_gjson.zip"
-  },
-  {
-    "name": "Zákaz konzumace alkoholu (GML, WGS 84) ",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zakaz_konzumace_alkoholu_WGS84_gml.zip"
-  },
-  {
-    "name": "Železniční koleje (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_JTSK_shp.zip"
-  },
-  {
-    "name": "Železniční koleje (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_JTSK_gjson.zip"
-  },
-  {
-    "name": "Železniční koleje (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_JTSK_gml.zip"
-  },
-  {
-    "name": "Železniční koleje (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_JTSK_dxf.zip"
-  },
-  {
-    "name": "Železniční koleje (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_WGS84_shp.zip"
-  },
-  {
-    "name": "Železniční koleje (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_WGS84_gjson.zip"
-  },
-  {
-    "name": "Železniční koleje (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_WGS84_gml.zip"
-  },
-  {
-    "name": "Generalizovaná mapa v měřítku 1:100 000 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen100_JTSK_shp.zip"
-  },
-  {
-    "name": "Generalizovaná mapa v měřítku 1:100 000 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen100_JTSK_gjson.zip"
-  },
-  {
-    "name": "Generalizovaná mapa v měřítku 1:100 000 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen100_JTSK_gml.zip"
-  },
-  {
-    "name": "Generalizovaná mapa v měřítku 1:100 000 (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen100_JTSK_dxf.zip"
-  },
-  {
-    "name": "Generalizovaná mapa v měřítku 1:100 000 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen100_WGS84_shp.zip"
-  },
-  {
-    "name": "Generalizovaná mapa v měřítku 1:100 000 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen100_WGS84_gjson.zip"
-  },
-  {
-    "name": "Generalizovaná mapa v měřítku 1:100 000 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen100_WGS84_gml.zip"
-  },
-  {
-    "name": "Cyklistické objekty (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_bod_JTSK_shp.zip"
-  },
-  {
-    "name": "Cyklistické objekty (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_bod_JTSK_gjson.zip"
-  },
-  {
-    "name": "Cyklistické objekty (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_bod_JTSK_gml.zip"
-  },
-  {
-    "name": "Cyklistické objekty (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_bod_JTSK_dxf.zip"
-  },
-  {
-    "name": "Cyklistické objekty (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_bod_WGS84_shp.zip"
-  },
-  {
-    "name": "Cyklistické objekty (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_bod_WGS84_gjson.zip"
-  },
-  {
-    "name": "Cyklistické objekty (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_bod_WGS84_gml.zip"
-  },
-  {
-    "name": "Adresní body (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/adrbod_JTSK_shp.zip"
-  },
-  {
-    "name": "Adresní body (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/adrbod_JTSK_gjson.zip"
-  },
-  {
-    "name": "Adresní body (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/adrbod_JTSK_gml.zip"
-  },
-  {
-    "name": "Adresní body (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/adrbod_JTSK_dxf.zip"
-  },
-  {
-    "name": "Adresní body (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/adrbod_WGS84_shp.zip"
-  },
-  {
-    "name": "Adresní body (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/adrbod_WGS84_gjson.zip"
-  },
-  {
-    "name": "Adresní body (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/adrbod_WGS84_gml.zip"
-  },
-  {
-    "name": "Hranice městských obvodů (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obvody_JTSK_shp.zip"
-  },
-  {
-    "name": "Hranice městských obvodů (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obvody_JTSK_gjson.zip"
-  },
-  {
-    "name": "Hranice městských obvodů (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obvody_JTSK_gml.zip"
-  },
-  {
-    "name": "Hranice městských obvodů (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obvody_JTSK_dxf.zip"
-  },
-  {
-    "name": "Hranice městských obvodů (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obvody_WGS84_shp.zip"
-  },
-  {
-    "name": "Hranice městských obvodů (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obvody_WGS84_gjson.zip"
-  },
-  {
-    "name": "Hranice městských obvodů (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/obvody_WGS84_gml.zip"
-  },
-  {
     "name": "Pocitová mapa horka 2017 (CSV, JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/pocitova_mapa_horka_2017_JTSK_csv.zip"
   },
@@ -1192,227 +992,427 @@
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/pocitova_mapa_horka_2017_WGS84_csv.zip"
   },
   {
-    "name": "Cenová mapa č. 16 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_16_JTSK_shp.zip"
+    "name": "Separovaný odpad (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_dxf.zip"
   },
   {
-    "name": "Cenová mapa č. 16 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_16_JTSK_gjson.zip"
+    "name": "Separovaný odpad (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_gml.zip"
   },
   {
-    "name": "Cenová mapa č. 16 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_16_JTSK_gml.zip"
+    "name": "Separovaný odpad (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_gml.zip"
   },
   {
-    "name": "Cenová mapa č. 16 (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_16_JTSK_dxf.zip"
+    "name": "Separovaný odpad (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_gjson.zip"
   },
   {
-    "name": "Cenová mapa č. 16 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_16_WGS84_shp.zip"
+    "name": "Separovaný odpad (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_gjson.zip"
   },
   {
-    "name": "Cenová mapa č. 16 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_16_WGS84_gjson.zip"
+    "name": "Separovaný odpad (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_shp.zip"
   },
   {
-    "name": "Cenová mapa č. 16 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_16_WGS84_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 09 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_09_JTSK_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 09 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_09_JTSK_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 09 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_09_JTSK_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 09 (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_09_JTSK_dxf.zip"
-  },
-  {
-    "name": "Cenová mapa č. 09 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_09_WGS84_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 09 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_09_WGS84_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 09 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_09_WGS84_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 10 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_10_JTSK_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 10 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_10_JTSK_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 10 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_10_JTSK_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 10 (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_10_JTSK_dxf.zip"
-  },
-  {
-    "name": "Cenová mapa č. 10 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_10_WGS84_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 10 (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_10_WGS84_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 10 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_10_WGS84_gml.zip"
-  },
-  {
-    "name": "Zastávky MHD (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_JTSK_shp.zip"
-  },
-  {
-    "name": "Zastávky MHD (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_JTSK_gjson.zip"
-  },
-  {
-    "name": "Zastávky MHD (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_JTSK_gml.zip"
-  },
-  {
-    "name": "Zastávky MHD (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_JTSK_dxf.zip"
-  },
-  {
-    "name": "Zastávky MHD (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_WGS84_shp.zip"
-  },
-  {
-    "name": "Zastávky MHD (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_WGS84_gjson.zip"
-  },
-  {
-    "name": "Zastávky MHD (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_WGS84_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 19 (SHP, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_19_JTSK_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 19 (GJSON, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_19_JTSK_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 19 (GML, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_19_JTSK_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 19 (DXF, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_19_JTSK_dxf.zip"
-  },
-  {
-    "name": "Cenová mapa č. 19 (SHP, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_19_WGS84_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 19 (GJSON, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_19_WGS84_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 19 (GML, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_19_WGS84_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 05 (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_05_JTSK_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 05 (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_05_JTSK_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 05 (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_05_JTSK_gml.zip"
-  },
-  {
-    "name": "Cenová mapa č. 05 (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_05_JTSK_dxf.zip"
-  },
-  {
-    "name": "Cenová mapa č. 05 (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_05_WGS84_shp.zip"
-  },
-  {
-    "name": "Cenová mapa č. 05 (GEOJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_05_WGS84_gjson.zip"
-  },
-  {
-    "name": "Cenová mapa č. 05 (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_05_WGS84_gml.zip"
-  },
-  {
-    "name": "Sportoviště (SHP, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/sportoviste_JTSK_shp.zip"
-  },
-  {
-    "name": "Sportoviště (GJSON, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/sportoviste_JTSK_gjson.zip"
-  },
-  {
-    "name": "Sportoviště (GML, JTSK)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/sportoviste_JTSK_gml.zip"
+    "name": "Separovaný odpad (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_shp.zip"
   },
   {
     "name": "Sportoviště (DXF, JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/sportoviste_JTSK_dxf.zip"
   },
   {
-    "name": "Sportoviště (SHP, WGS84)",
-    "url": "https://mapy.ostrava.cz/opendata/data/opendata/sportoviste_WGS84_shp.zip"
+    "name": "Sportoviště (GJSON, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/sportoviste_JTSK_gjson.zip"
   },
   {
     "name": "Sportoviště (GJSON, WGS84)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/sportoviste_WGS84_gjson.zip"
   },
   {
+    "name": "Sportoviště (GML, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/sportoviste_JTSK_gml.zip"
+  },
+  {
     "name": "Sportoviště (GML, WGS84)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/sportoviste_WGS84_gml.zip"
   },
   {
-    "name": "Hranice městských částí (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/mestske_casti_JTSK_shp.zip"
+    "name": "Sportoviště (SHP, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/sportoviste_JTSK_shp.zip"
   },
   {
-    "name": "Hranice městských částí (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/mestske_casti_JTSK_gjson.zip"
+    "name": "Sportoviště (SHP, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/sportoviste_WGS84_shp.zip"
   },
   {
-    "name": "Hranice městských částí (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/mestske_casti_JTSK_gml.zip"
+    "name": "Stavba roku (DXF, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/stavba_roku_JTSK_dxf.zip"
   },
   {
-    "name": "Hranice městských částí (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/mestske_casti_JTSK_dxf.zip"
+    "name": "Stavba roku (GJSON, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/stavba_roku_JTSK_gjson.zip"
   },
   {
-    "name": "Hranice městských částí (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/mestske_casti_WGS84_shp.zip"
+    "name": "Stavba roku (GJSON, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/stavba_roku_WGS84_gjson.zip"
   },
   {
-    "name": "Hranice městských částí (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/mestske_casti_WGS84_gjson.zip"
+    "name": "Stavba roku (GML, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/stavba_roku_JTSK_gml.zip"
   },
   {
-    "name": "Hranice městských částí (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/mestske_casti_WGS84_gml.zip"
+    "name": "Stavba roku (GML, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/stavba_roku_WGS84_gml.zip"
+  },
+  {
+    "name": "Stavba roku (SHP, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/stavba_roku_JTSK_shp.zip"
+  },
+  {
+    "name": "Stavba roku (SHP, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/stavba_roku_WGS84_shp.zip"
+  },
+  {
+    "name": "Tramvajové koleje (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_JTSK_dxf.zip"
+  },
+  {
+    "name": "Tramvajové koleje (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_JTSK_gml.zip"
+  },
+  {
+    "name": "Tramvajové koleje (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_WGS84_gml.zip"
+  },
+  {
+    "name": "Tramvajové koleje (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_JTSK_gjson.zip"
+  },
+  {
+    "name": "Tramvajové koleje (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_WGS84_gjson.zip"
+  },
+  {
+    "name": "Tramvajové koleje (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_JTSK_shp.zip"
+  },
+  {
+    "name": "Tramvajové koleje (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_WGS84_shp.zip"
+  },
+  {
+    "name": "Tramvajové koleje - osy (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_JTSK_dxf.zip"
+  },
+  {
+    "name": "Tramvajové koleje - osy (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_JTSK_gml.zip"
+  },
+  {
+    "name": "Tramvajové koleje - osy (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_WGS84_gml.zip"
+  },
+  {
+    "name": "Tramvajové koleje - osy (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_JTSK_gjson.zip"
+  },
+  {
+    "name": "Tramvajové koleje - osy (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_WGS84_gjson.zip"
+  },
+  {
+    "name": "Tramvajové koleje - osy (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_JTSK_shp.zip"
+  },
+  {
+    "name": "Tramvajové koleje - osy (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_WGS84_shp.zip"
+  },
+  {
+    "name": "Uliční síť (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/ulice_JTSK_dxf.zip"
+  },
+  {
+    "name": "Uliční síť (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/ulice_JTSK_gml.zip"
+  },
+  {
+    "name": "Uliční síť (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/ulice_WGS84_gml.zip"
+  },
+  {
+    "name": "Uliční síť (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/ulice_JTSK_gjson.zip"
+  },
+  {
+    "name": "Uliční síť (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/ulice_WGS84_gjson.zip"
+  },
+  {
+    "name": "Uliční síť (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/ulice_JTSK_shp.zip"
+  },
+  {
+    "name": "Uliční síť (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/ulice_WGS84_shp.zip"
+  },
+  {
+    "name": "Veřejná prostranství (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/verejna_prostranstvi_JTSK_dxf.zip"
+  },
+  {
+    "name": "Veřejná prostranství (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/verejna_prostranstvi_JTSK_gml.zip"
+  },
+  {
+    "name": "Veřejná prostranství (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/verejna_prostranstvi_WGS84_gml.zip"
+  },
+  {
+    "name": "Veřejná prostranství (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/verejna_prostranstvi_JTSK_gjson.zip"
+  },
+  {
+    "name": "Veřejná prostranství (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/verejna_prostranstvi_WGS84_gjson.zip"
+  },
+  {
+    "name": "Veřejná prostranství (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/verejna_prostranstvi_JTSK_shp.zip"
+  },
+  {
+    "name": "Veřejná prostranství (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/verejna_prostranstvi_WGS84_shp.zip"
+  },
+  {
+    "name": "Volné pobíhání psů (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_JTSK_dxf.zip"
+  },
+  {
+    "name": "Volné pobíhání psů (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_JTSK_gml.zip"
+  },
+  {
+    "name": "Volné pobíhání psů (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_WGS84_gml.zip"
+  },
+  {
+    "name": "Volné pobíhání psů (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_JTSK_gjson.zip"
+  },
+  {
+    "name": "Volné pobíhání psů (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_WGS84_gjson.zip"
+  },
+  {
+    "name": "Volné pobíhání psů (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_JTSK_shp.zip"
+  },
+  {
+    "name": "Volné pobíhání psů (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_WGS84_shp.zip"
+  },
+  {
+    "name": "Vrstevnice (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_JTSK_dxf.zip"
+  },
+  {
+    "name": "Vrstevnice (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_JTSK_gml.zip"
+  },
+  {
+    "name": "Vrstevnice (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_WGS84_gml.zip"
+  },
+  {
+    "name": "Vrstevnice (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_JTSK_gjson.zip"
+  },
+  {
+    "name": "Vrstevnice (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_WGS84_gjson.zip"
+  },
+  {
+    "name": "Vrstevnice (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_JTSK_shp.zip"
+  },
+  {
+    "name": "Vrstevnice (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_WGS84_shp.zip"
+  },
+  {
+    "name": "Výškové kóty (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_JTSK_dxf.zip"
+  },
+  {
+    "name": "Výškové kóty (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_JTSK_gml.zip"
+  },
+  {
+    "name": "Výškové kóty (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_WGS84_gml.zip"
+  },
+  {
+    "name": "Výškové kóty (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_JTSK_gjson.zip"
+  },
+  {
+    "name": "Výškové kóty (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_WGS84_gjson.zip"
+  },
+  {
+    "name": "Výškové kóty (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_JTSK_shp.zip"
+  },
+  {
+    "name": "Výškové kóty (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_WGS84_shp.zip"
+  },
+  {
+    "name": "Zastávky MHD (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_JTSK_dxf.zip"
+  },
+  {
+    "name": "Zastávky MHD (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_JTSK_gml.zip"
+  },
+  {
+    "name": "Zastávky MHD (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_WGS84_gml.zip"
+  },
+  {
+    "name": "Zastávky MHD (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_JTSK_gjson.zip"
+  },
+  {
+    "name": "Zastávky MHD (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_WGS84_gjson.zip"
+  },
+  {
+    "name": "Zastávky MHD (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_JTSK_shp.zip"
+  },
+  {
+    "name": "Zastávky MHD (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_WGS84_shp.zip"
+  },
+  {
+    "name": "Zákaz konzumace alkoholu (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zakaz_konzumace_alkoholu_JTSK_dxf.zip"
+  },
+  {
+    "name": "Zákaz konzumace alkoholu (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zakaz_konzumace_alkoholu_JTSK_gml.zip"
+  },
+  {
+    "name": "Zákaz konzumace alkoholu (GML, WGS 84) ",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zakaz_konzumace_alkoholu_WGS84_gml.zip"
+  },
+  {
+    "name": "Zákaz konzumace alkoholu (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zakaz_konzumace_alkoholu_JTSK_gjson.zip"
+  },
+  {
+    "name": "Zákaz konzumace alkoholu (GeoJSON, WGS 84) ",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zakaz_konzumace_alkoholu_WGS84_gjson.zip"
+  },
+  {
+    "name": "Zákaz konzumace alkoholu (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zakaz_konzumace_alkoholu_JTSK_shp.zip"
+  },
+  {
+    "name": "Zákaz konzumace alkoholu (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zakaz_konzumace_alkoholu_WGS84_shp.zip"
+  },
+  {
+    "name": "Zákaz reklam (DXF, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/Zakaz_reklam_JTSK_dxf.zip"
+  },
+  {
+    "name": "Zákaz reklam (GJSON, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/Zakaz_reklam_JTSK_gjson.zip"
+  },
+  {
+    "name": "Zákaz reklam (GJSON, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/Zakaz_reklam_WGS84_gjson.zip"
+  },
+  {
+    "name": "Zákaz reklam (GML, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/Zakaz_reklam_JTSK_gml.zip"
+  },
+  {
+    "name": "Zákaz reklam (GML, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/Zakaz_reklam_WGS84_gml.zip"
+  },
+  {
+    "name": "Zákaz reklam (SHP, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/Zakaz_reklam_JTSK_shp.zip"
+  },
+  {
+    "name": "Zákaz reklam (SHP, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/Zakaz_reklam_WGS84_shp.zip"
+  },
+  {
+    "name": "parkovací zóny (GJSON, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/parkovaci_zony_JTSK_gjson.zip"
+  },
+  {
+    "name": "Školy a školská zařízení (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/skoly_JTSK_dxf.zip"
+  },
+  {
+    "name": "Školy a školská zařízení (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/skoly_JTSK_gml.zip"
+  },
+  {
+    "name": "Školy a školská zařízení (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/skoly_WGS84_gml.zip"
+  },
+  {
+    "name": "Školy a školská zařízení (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/skoly_JTSK_gjson.zip"
+  },
+  {
+    "name": "Školy a školská zařízení (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/skoly_WGS84_gjson.zip"
+  },
+  {
+    "name": "Školy a školská zařízení (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/skoly_JTSK_shp.zip"
+  },
+  {
+    "name": "Školy a školská zařízení (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/skoly_WGS84_shp.zip"
+  },
+  {
+    "name": "Železniční koleje (DXF, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_JTSK_dxf.zip"
+  },
+  {
+    "name": "Železniční koleje (GML, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_JTSK_gml.zip"
+  },
+  {
+    "name": "Železniční koleje (GML, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_WGS84_gml.zip"
+  },
+  {
+    "name": "Železniční koleje (GeoJSON, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_JTSK_gjson.zip"
+  },
+  {
+    "name": "Železniční koleje (GeoJSON, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_WGS84_gjson.zip"
+  },
+  {
+    "name": "Železniční koleje (SHP, S-JTSK)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_JTSK_shp.zip"
+  },
+  {
+    "name": "Železniční koleje (SHP, WGS 84)",
+    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_WGS84_shp.zip"
   }
 ]

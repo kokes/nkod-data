@@ -1,94 +1,94 @@
 [
   {
-    "name": "Číselník úrovní státní jazykové zkoušky XML",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SJZUR.xml"
-  },
-  {
-    "name": "Číselník úrovní státní jazykové zkoušky CSV",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SJZUR.csv"
-  },
-  {
-    "name": "Číselník služebních úřadů XML",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SLURA.xml"
-  },
-  {
-    "name": "Číselník služebních úřadů CSV",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SLURA.csv"
-  },
-  {
-    "name": "Číselník služebních označení služebního místa představeného XML",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SLOPR.xml"
-  },
-  {
-    "name": "Číselník služebních označení služebního místa představeného CSV",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SLOPR.csv"
-  },
-  {
-    "name": "Číselník zdravotní způsobilosti XML",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_ZDRZP.xml"
-  },
-  {
-    "name": "Číselník zdravotní způsobilosti CSV",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_ZDRZP.csv"
-  },
-  {
-    "name": "Číselník speciálních předpokladů na služební místo představeného XML",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SLOZN.xml"
-  },
-  {
-    "name": "Číselník speciálních předpokladů na služební místo představeného CSV",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SLOZN.csv"
-  },
-  {
-    "name": "Číselník cizích jazyků XML",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_CIJZK.xml"
+    "name": "Obsazovaná služební místa",
+    "url": "https://portal.isoss.cz/opendata/ISoSS_Opendata_EOSM.xml"
   },
   {
     "name": "Číselník cizích jazyků CSV",
     "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_CIJZK.csv"
   },
   {
-    "name": "Číselník standardizovaných jazykových zkoušek XML",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_STJZK.xml"
-  },
-  {
-    "name": "Číselník standardizovaných jazykových zkoušek CSV",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_STJZK.csv"
-  },
-  {
-    "name": "Číselník oborů služby XML",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_OBSLU.xml"
+    "name": "Číselník cizích jazyků XML",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_CIJZK.xml"
   },
   {
     "name": "Číselník oborů služby CSV",
     "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_OBSLU.csv"
   },
   {
-    "name": "Číselník úrovení znalosti cizího jazyka XML",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_CIJUR.xml"
-  },
-  {
-    "name": "Číselník úrovní znalosti cizího jazyka CSV",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_CIJUR.csv"
-  },
-  {
-    "name": "Číselník služebních označení služebního místa XML",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SLOZN.xml"
+    "name": "Číselník oborů služby XML",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_OBSLU.xml"
   },
   {
     "name": "Číselník služebních označení služebního místa CSV",
     "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SLOZN.csv"
   },
   {
-    "name": "Obsazovaná služební místa",
-    "url": "https://portal.isoss.cz/opendata/ISoSS_Opendata_EOSM.xml"
+    "name": "Číselník služebních označení služebního místa XML",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SLOZN.xml"
+  },
+  {
+    "name": "Číselník služebních označení služebního místa představeného CSV",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SLOPR.csv"
+  },
+  {
+    "name": "Číselník služebních označení služebního místa představeného XML",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SLOPR.xml"
+  },
+  {
+    "name": "Číselník služebních úřadů CSV",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SLURA.csv"
+  },
+  {
+    "name": "Číselník služebních úřadů XML",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SLURA.xml"
+  },
+  {
+    "name": "Číselník speciálních předpokladů na služební místo představeného CSV",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SLOZN.csv"
+  },
+  {
+    "name": "Číselník speciálních předpokladů na služební místo představeného XML",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SLOZN.xml"
+  },
+  {
+    "name": "Číselník standardizovaných jazykových zkoušek CSV",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_STJZK.csv"
+  },
+  {
+    "name": "Číselník standardizovaných jazykových zkoušek XML",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_STJZK.xml"
+  },
+  {
+    "name": "Číselník stupňů utajení CSV",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_STUTA.csv"
   },
   {
     "name": "Číselník stupňů utajení XML",
     "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_STUTA.xml"
   },
   {
-    "name": "Číselník stupňů utajení CSV",
-    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_STUTA.csv"
+    "name": "Číselník zdravotní způsobilosti CSV",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_ZDRZP.csv"
+  },
+  {
+    "name": "Číselník zdravotní způsobilosti XML",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_ZDRZP.xml"
+  },
+  {
+    "name": "Číselník úrovení znalosti cizího jazyka XML",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_CIJUR.xml"
+  },
+  {
+    "name": "Číselník úrovní státní jazykové zkoušky CSV",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SJZUR.csv"
+  },
+  {
+    "name": "Číselník úrovní státní jazykové zkoušky XML",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_SJZUR.xml"
+  },
+  {
+    "name": "Číselník úrovní znalosti cizího jazyka CSV",
+    "url": "https://portal.isoss.cz/ciselniky/ISoSS_TOC_CIJUR.csv"
   }
 ]
