@@ -1,5 +1,13 @@
 [
   {
+    "name": " Sňatky, rozvody, potraty (1991-2018)",
+    "url": "https://www.czso.cz/staticke/cz/obce_d/srp/cz0421.xlsx"
+  },
+  {
+    "name": " Územní změny, počty obyvatel, narození, zemřelí, stěhování (1971-2018)",
+    "url": "https://www.czso.cz/staticke/cz/obce_d/pohyb/cz0421.xlsx"
+  },
+  {
     "name": "Bilance meziokresní vyjížďky do zaměstnání podle výsledků sčítání 2011",
     "url": "https://www.czso.cz/documents/10180/62327313/170242-17data.csv"
   },
@@ -165,6 +173,10 @@
   },
   {
     "name": "Data do roku 2021",
+    "url": "https://www.czso.cz/documents/62353418/171347295/020055-22data051722.zip"
+  },
+  {
+    "name": "Data do roku 2021",
     "url": "https://www.czso.cz/documents/62353418/171347821/140133-22data041922_2021.zip"
   },
   {
@@ -190,10 +202,6 @@
   {
     "name": "Data k 31.12.2020",
     "url": "https://www.czso.cz/documents/62353418/143522516/190037-21data113021.csv"
-  },
-  {
-    "name": "Data od roku 2012 do 2020",
-    "url": "https://www.czso.cz/documents/62353418/143520732/020055-21data051721.zip"
   },
   {
     "name": "Data roku 2014",
