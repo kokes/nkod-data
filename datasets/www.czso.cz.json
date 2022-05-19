@@ -408,6 +408,22 @@
     "url": "https://www.czso.cz/documents/10180/56647380/170240-17data.zip"
   },
   {
+    "name": "Obyvatelstvo podle desetiletých věkových skupin a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/183907242/sldb2021_vek10_pohlavi.csv"
+  },
+  {
+    "name": "Obyvatelstvo podle jednotek věku a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/185208035/sldb2021_vek1_pohlavi.csv"
+  },
+  {
+    "name": "Obyvatelstvo podle mateřského jazyka",
+    "url": "https://www.czso.cz/documents/62353418/184609508/sldb2021_jazyk.csv"
+  },
+  {
+    "name": "Obyvatelstvo podle mateřského jazyka a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/184609508/sldb2021_jazyk_pohlavi.csv"
+  },
+  {
     "name": "Obyvatelstvo podle náboženské víry",
     "url": "https://www.czso.cz/documents/62353418/182807150/sldb2021_vira.csv"
   },
@@ -422,6 +438,10 @@
   {
     "name": "Obyvatelstvo podle pohlaví",
     "url": "https://www.czso.cz/documents/62353418/182807150/sldb2021_pohlavi.csv"
+  },
+  {
+    "name": "Obyvatelstvo podle pětiletých věkových skupin a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/183907242/sldb2021_vek5_pohlavi.csv"
   },
   {
     "name": "Obyvatelstvo podle rodinného stavu",
@@ -458,6 +478,10 @@
   {
     "name": "Obyvatelstvo v základních sídelních jednotkách podle výsledků sčítání 2011",
     "url": "https://www.czso.cz/documents/10180/56864073/170241-17data.zip"
+  },
+  {
+    "name": "Plodnost žen",
+    "url": "https://www.czso.cz/documents/62353418/185208035/sldb2021_pocetdeti.csv"
   },
   {
     "name": "Průměrný věk obyvatel podle pohlaví",
