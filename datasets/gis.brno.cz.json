@@ -85,6 +85,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/OMI/omi_unp3_druhy_bydleni_pocty/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags3/rest/services/PUBLIC/opendata_mtvu/FeatureServer"
   },
   {
