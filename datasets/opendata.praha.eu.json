@@ -772,6 +772,10 @@
     "url": "https://opendata.praha.eu/dataset/987361b9-7753-4edd-a413-da831b9bc0fa/resource/13110042-359c-43ff-beb6-4832714b7f15/download/5390d539-0a19-40d7-960d-19b812eaacb0-vizitky-vse.csv"
   },
   {
+    "name": "Kontakty.csv",
+    "url": "https://opendata.praha.eu/dataset/a82268fa-c40f-4f5b-a98f-c286269e06e9/resource/4f17e231-fc53-4576-9f6b-6cd7bf15a032/download/kontakty.csv"
+  },
+  {
     "name": "Kontrolní výbor ZMČ",
     "url": "https://opendata.praha.eu/dataset/a102e4e4-b9e3-438c-93fc-ff764cc179e2/resource/c53fec24-4783-4fec-a2e4-b007dde810de/download/384a8556-1ba3-42bd-88dd-f59e55bdd266-kontrolni-vybor-zm20170101-20171231.xlsx"
   },
@@ -802,6 +806,10 @@
   {
     "name": "Kvalita vody 04-2022",
     "url": "https://opendata.praha.eu/dataset/1afc8346-fbb3-4653-97de-4b3ada446788/resource/f5622906-5918-4ed6-8d8b-435dcb296730/download/76b05ab5-8a5f-4048-9471-5fd2cc061e28-kvalita_vody_04_2022.csv"
+  },
+  {
+    "name": "Kvalita vody 05-2022",
+    "url": "https://opendata.praha.eu/dataset/1afc8346-fbb3-4653-97de-4b3ada446788/resource/cfb42abb-2a71-4a0c-91ca-a8895ecc6e78/download/c4cf7994-f2c1-46fe-ab52-28112c9e7a8e-kvalita_vody_05_2022.csv"
   },
   {
     "name": "Kvalita vody 2020",
@@ -886,6 +894,10 @@
   {
     "name": "Meteočidla",
     "url": "https://opendata.praha.eu/dataset/22139f07-637f-4c2c-9f5d-bc7b11c2577a/resource/a6a891f4-88d3-40a6-a58f-3ad39f0100d0/download/8d04cae5-3968-4fdd-9574-4cb0c3b73ed2-meteocidla.csv"
+  },
+  {
+    "name": "MČ Praha 14 -  koše Praha 14 srpen 2021.xls",
+    "url": "https://opendata.praha.eu/dataset/9fd9c84d-8171-488b-b902-bc70386b281b/resource/14ad425c-d8bd-489a-b142-47cbaf2cacea/download/m-praha-14-koe-praha-14-srpen-2021.xls"
   },
   {
     "name": "Městské úřady a magistrát JSON",
@@ -1048,6 +1060,10 @@
     "url": "https://opendata.praha.eu/dataset/9364dec4-34cb-419e-9625-6cc838976afc/resource/cacf973b-66db-4eae-be18-55fbd94935ca/download/de5a3b6e-b3c7-44b1-aac5-e0ab7b13387b-odpadkove-koe-ve-sprav-m-praha-11_2021.xlsx"
   },
   {
+    "name": "Organizační struktura úřadu MČ Praha 14 - v. 1.1.vsdx",
+    "url": "https://opendata.praha.eu/dataset/bb356aa2-2821-499c-b054-da6d24cf9327/resource/3923a6f0-b444-4473-9f6a-f81a49fcaae8/download/organizani-struktura-uadu-m-praha-14-v.-1.1.vsdx"
+  },
+  {
     "name": "PKO_dle_splatnosti.csv",
     "url": "https://opendata.praha.eu/dataset/4da278d8-d434-4263-b552-192682a8c598/resource/95478065-4613-4ce8-bcac-f42408b5ecd4/download/pko_dle_splatnosti.csv"
   },
@@ -1070,6 +1086,10 @@
   {
     "name": "PV k 31.12.2021 taj, VO.xls",
     "url": "https://opendata.praha.eu/dataset/2836b689-8468-4d3a-97c4-cea461475211/resource/0228aeb6-dba9-481f-95af-4ae4f271c3a3/download/pv-k-31.12.2021-taj-vo.xls"
+  },
+  {
+    "name": "PaR Open data (002).xlsx",
+    "url": "https://opendata.praha.eu/dataset/9b36b3a0-b4ce-4aa8-bc59-d67cfab99a89/resource/6b9dde47-ee3a-4da6-a70a-3059cf19b751/download/par-open-data-002.xlsx"
   },
   {
     "name": "Parkoviště",
@@ -2412,6 +2432,10 @@
     "url": "https://opendata.praha.eu/dataset/9c0fecf8-da19-4ac5-b6a4-10726d0202cd/resource/e8ad9154-6876-4439-9811-8d94edc3ab59/download/f0888804-41d9-471b-85ef-da6cd17f19ad-zachodky-2017.csv"
   },
   {
+    "name": "ZŠ a MŠ otevřená data 092021.xlsx",
+    "url": "https://opendata.praha.eu/dataset/acfe8b79-e6e7-4506-8f71-ebe911217a97/resource/cbac6a0b-8940-4af0-a536-0d8dcc0f3e44/download/z-a-m-otevena-data-092021.xlsx"
+  },
+  {
     "name": "coupons_2018_10.csv",
     "url": "https://opendata.praha.eu/dataset/f8ac5939-02bd-43e4-b495-02590feb26b2/resource/47f37d4c-c012-4bb4-8400-146c424338e0/download/eca5af7b-8828-4f3f-85d0-366591519ebe-coupons_2018_10.csv"
   },
@@ -2654,6 +2678,10 @@
   {
     "name": "seznam-clenu-organu.xlsx",
     "url": "https://opendata.praha.eu/dataset/205d28ac-100f-444b-b0c3-2956363d2862/resource/62c6b89a-5341-403a-a7d8-5fe5add03d09/download/2929fab2-7417-40d5-a9a1-5029635429e6-seznam-clenu-organu.xlsx"
+  },
+  {
+    "name": "seznam_stanovist.docx",
+    "url": "https://opendata.praha.eu/dataset/a9e46d87-0778-40ca-8e46-1d9ee7d35866/resource/a9f848b9-d59e-47d5-80fa-c10101b6e5eb/download/seznam_stanovist.docx"
   },
   {
     "name": "zasobnik-investicnich-akci.csv",
