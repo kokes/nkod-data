@@ -1,6 +1,10 @@
 [
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/Hosted/Brno_3D_LOD1_SJTSK/SceneServer"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/Hosted/Cyklo_nehody/FeatureServer/0"
   },
   {
