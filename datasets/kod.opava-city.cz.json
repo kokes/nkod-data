@@ -1,5 +1,49 @@
 [
   {
+    "name": "Nálezy injekčních stříkaček (DGN, S-JTSK)",
+    "url": "http://kod.opava-city.cz/sites/default/files/DGN_MistaNalezInjekStrikacek_JTSK.zip"
+  },
+  {
+    "name": "Nálezy injekčních stříkaček (DGN, WGS 84)",
+    "url": "http://kod.opava-city.cz/sites/default/files/DGN_MistaNalezInjekStrikacek_WGS84.zip"
+  },
+  {
+    "name": "Nálezy injekčních stříkaček (DXF, S-JTSK)",
+    "url": "http://kod.opava-city.cz/sites/default/files/DXF_MistaNalezInjekStrikacek_JTSK.zip"
+  },
+  {
+    "name": "Nálezy injekčních stříkaček (DXF, WGS 84)",
+    "url": "http://kod.opava-city.cz/sites/default/files/DXF_MistaNalezInjekStrikacek_WGS84.zip"
+  },
+  {
+    "name": "Nálezy injekčních stříkaček (GML, S-JTSK)",
+    "url": "http://kod.opava-city.cz/sites/default/files/GML_MistaNalezInjekStrikacek_JTSK.zip"
+  },
+  {
+    "name": "Nálezy injekčních stříkaček (GML, WGS 84)",
+    "url": "http://kod.opava-city.cz/sites/default/files/GML_MistaNalezInjekStrikacek_WGS84.zip"
+  },
+  {
+    "name": "Nálezy injekčních stříkaček (JSON, S-JTSK)",
+    "url": "http://kod.opava-city.cz/sites/default/files/JSON_MistaNalezInjekStrikacek_JTSK.zip"
+  },
+  {
+    "name": "Nálezy injekčních stříkaček (JSON, WGS 84)",
+    "url": "http://kod.opava-city.cz/sites/default/files/JSON_MistaNalezInjekStrikacek_WGS84.zip"
+  },
+  {
+    "name": "Nálezy injekčních stříkaček (SHP, S-JTSK)",
+    "url": "http://kod.opava-city.cz/sites/default/files/SHP_MistaNalezInjekStrikacek_JTSK.zip"
+  },
+  {
+    "name": "Nálezy injekčních stříkaček (SHP, WGS 84)",
+    "url": "http://kod.opava-city.cz/sites/default/files/SHP_MistaNalezInjekStrikacek_WGS84.zip"
+  },
+  {
+    "name": "Prostory pro volný pohyb psů",
+    "url": "http://kod.opava-city.cz/sites/default/files/Prostory_pro_volny_pohyb_psu.csv"
+  },
+  {
     "name": "Sběrná místa a kontejnery",
     "url": "http://kod.opava-city.cz/sites/default/files/sberne_misto_kontejner.csv"
   },
@@ -14,6 +58,62 @@
   {
     "name": "Sběrná místa a kontejnery",
     "url": "http://kod.opava-city.cz/sites/default/files/sberne_misto_kontejner.xml"
+  },
+  {
+    "name": "Sportoviště",
+    "url": "http://kod.opava-city.cz/sites/default/files/v20161005_sportoviste.csv"
+  },
+  {
+    "name": "Sportoviště",
+    "url": "http://kod.opava-city.cz/sites/default/files/v20161005_sportoviste.json"
+  },
+  {
+    "name": "Sportoviště",
+    "url": "http://kod.opava-city.cz/sites/default/files/v20161005_sportoviste.xls"
+  },
+  {
+    "name": "Volební místnosti",
+    "url": "http://kod.opava-city.cz/sites/default/files/volebni_mistnosti.csv"
+  },
+  {
+    "name": "Výsadby stromů (DGN, S-JTSK)",
+    "url": "http://kod.opava-city.cz/sites/default/files/DGN_NovaVysadba_JTSK.zip"
+  },
+  {
+    "name": "Výsadby stromů (DGN, WGS 84)",
+    "url": "http://kod.opava-city.cz/sites/default/files/DGN_NovaVysadba_WGS84.zip"
+  },
+  {
+    "name": "Výsadby stromů (DXF, S-JTSK)",
+    "url": "http://kod.opava-city.cz/sites/default/files/DXF_NovaVysadba_JTSK.zip"
+  },
+  {
+    "name": "Výsadby stromů (DXF, WGS 84)",
+    "url": "http://kod.opava-city.cz/sites/default/files/DXF_NovaVysadba_WGS84.zip"
+  },
+  {
+    "name": "Výsadby stromů (GML, S-JTSK)",
+    "url": "http://kod.opava-city.cz/sites/default/files/GML_NovaVysadba_JTSK.zip"
+  },
+  {
+    "name": "Výsadby stromů (GML, WGS 84)",
+    "url": "http://kod.opava-city.cz/sites/default/files/GML_NovaVysadba_WGS84.zip"
+  },
+  {
+    "name": "Výsadby stromů (JSON, S-JTSK)",
+    "url": "http://kod.opava-city.cz/sites/default/files/JSON_NovaVysadba_JTSK.zip"
+  },
+  {
+    "name": "Výsadby stromů (JSON, WGS 84)",
+    "url": "http://kod.opava-city.cz/sites/default/files/JSON_NovaVysadba_WGS84.zip"
+  },
+  {
+    "name": "Výsadby stromů (SHP, S-JTSK)",
+    "url": "http://kod.opava-city.cz/sites/default/files/SHP_NovaVysadba_JTSK.zip"
+  },
+  {
+    "name": "Výsadby stromů (SHP, WGS 84)",
+    "url": "http://kod.opava-city.cz/sites/default/files/SHP_NovaVysadba_WGS84.zip"
   },
   {
     "name": "Údržba zeleně (DGN, S-JTSK)",
