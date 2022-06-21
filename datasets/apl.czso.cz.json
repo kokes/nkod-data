@@ -2268,6 +2268,14 @@
     "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=88&typdat=0&cisjaz=203&format=2&separator=%2C"
   },
   {
+    "name": "Číselník v CSV včetně položek s ukončenou platností",
+    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=149&typdat=0&datpohl=31.12.2021&cisjaz=203&format=2&separator=%2C"
+  },
+  {
+    "name": "Číselník v CSV včetně položek s ukončenou platností",
+    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=56&typdat=0&datpohl=31.12.2021&cisjaz=203&format=2&separator=%2C"
+  },
+  {
     "name": "Číselník v XML",
     "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=100&typdat=0&cisjaz=203&format=0"
   },
