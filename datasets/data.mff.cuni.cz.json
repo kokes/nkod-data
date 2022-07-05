@@ -2,5 +2,9 @@
   {
     "name": "SPARQL endpoint",
     "url": "https://data.mff.cuni.cz/sparql"
+  },
+  {
+    "name": "Virtuoso Open-Source SPARQL endpoint",
+    "url": "https://data.mff.cuni.cz/sparql"
   }
 ]

@@ -101,7 +101,15 @@
   },
   {
     "name": "DXF (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_ls1_l_sjtsk.dxf"
+    "url": "https://gis.brno.cz/public/opendata/areal_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_dpr5_b_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_dpr5_l_sjtsk.dxf"
   },
   {
     "name": "DXF (S-JTSK)",
@@ -109,7 +117,19 @@
   },
   {
     "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony260_b_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony263_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony264_p_sjtsk.dxf"
   },
   {
     "name": "DXF (S-JTSK)",
@@ -118,6 +138,14 @@
   {
     "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony281_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/chlu_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/dobyvaciprostor_p_sjtsk.dxf"
   },
   {
     "name": "DXF (S-JTSK)",
@@ -130,6 +158,10 @@
   {
     "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/evpz_g_vyznamna_plocha_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/g_adresni_misto_all_sde_b_sjtsk.dxf"
   },
   {
     "name": "DXF (S-JTSK)",
@@ -153,6 +185,42 @@
   },
   {
     "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/horizontvrt_l_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/hrbitovy_g_hranice_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/hrbitovy_g_hranice_skupin_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/hydrogeologickeobjekty_b_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontaminacezemin_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontpodzvodyclu_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontpodzvodynel_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontzeminsonda_b_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/lozisko_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/mapr_g_budovy_b_sjtsk.dxf"
   },
   {
@@ -165,7 +233,15 @@
   },
   {
     "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/od_mhd_linky_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/od_pentlogram_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/od_vjezdove_oblasti_sjtsk.dxf"
   },
   {
     "name": "DXF (S-JTSK)",
@@ -174,6 +250,10 @@
   {
     "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pahrb_vybaveni_b_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_realizovana_sjtsk.dxf"
   },
   {
     "name": "DXF (S-JTSK)",
@@ -189,7 +269,15 @@
   },
   {
     "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/po_g_odpadkove_kose_b_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pond_g_zarizeni_b_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/pruzkumneuzemi_p_sjtsk.dxf"
   },
   {
     "name": "DXF (S-JTSK)",
@@ -213,7 +301,23 @@
   },
   {
     "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/rizikoblastneogvod_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/sanace_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/skladka_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/sluchove_postizeni_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/smerproudpodzvod_l_sjtsk.dxf"
   },
   {
     "name": "DXF (S-JTSK)",
@@ -261,6 +365,14 @@
   },
   {
     "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vod_zaplava_q100_p_sjtsk.dxf"
   },
   {
@@ -273,7 +385,15 @@
   },
   {
     "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vodnitok_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vodnitokosammb_l_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vodnitokpredreg_p_sjtsk.dxf"
   },
   {
     "name": "DXF (S-JTSK)",
@@ -284,8 +404,20 @@
     "url": "https://gis.brno.cz/public/opendata/vyzn_os_sjtsk.dxf"
   },
   {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/zasakovani_p_sjtsk.dxf"
+  },
+  {
     "name": "DXF (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_ls1_l_wgs84.dxf"
+    "url": "https://gis.brno.cz/public/opendata/areal_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_dpr5_b_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_dpr5_l_wgs84.dxf"
   },
   {
     "name": "DXF (WGS84)",
@@ -293,7 +425,19 @@
   },
   {
     "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony260_b_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony263_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony264_p_wgs84.dxf"
   },
   {
     "name": "DXF (WGS84)",
@@ -302,6 +446,14 @@
   {
     "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony281_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/chlu_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/dobyvaciprostor_p_wgs84.dxf"
   },
   {
     "name": "DXF (WGS84)",
@@ -314,6 +466,10 @@
   {
     "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/evpz_g_vyznamna_plocha_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/g_adresni_misto_all_sde_b_wgs84.dxf"
   },
   {
     "name": "DXF (WGS84)",
@@ -337,6 +493,42 @@
   },
   {
     "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/horizontvrt_l_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/hrbitovy_g_hranice_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/hrbitovy_g_hranice_skupin_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/hydrogeologickeobjekty_b_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/kontaminacezemin_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/kontpodzvodyclu_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/kontpodzvodynel_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/kontzeminsonda_b_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/lozisko_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/mapr_g_budovy_b_wgs84.dxf"
   },
   {
@@ -349,7 +541,15 @@
   },
   {
     "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/od_mhd_linky_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/od_pentlogram_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/od_vjezdove_oblasti_wgs84.dxf"
   },
   {
     "name": "DXF (WGS84)",
@@ -358,6 +558,10 @@
   {
     "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/pahrb_vybaveni_b_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_realizovana_wgs84.dxf"
   },
   {
     "name": "DXF (WGS84)",
@@ -370,6 +574,10 @@
   {
     "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/po_g_odpad_separovany_b_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/po_g_odpadkove_kose_b_wgs84.dxf"
   },
   {
     "name": "DXF (WGS84)",
@@ -397,7 +605,23 @@
   },
   {
     "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/rizikoblastneogvod_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/sanace_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/skladka_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/sluchove_postizeni_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/smerproudpodzvod_l_wgs84.dxf"
   },
   {
     "name": "DXF (WGS84)",
@@ -445,6 +669,14 @@
   },
   {
     "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/vod_zaplava_q100_p_wgs84.dxf"
   },
   {
@@ -457,7 +689,15 @@
   },
   {
     "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/vodnitok_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/vodnitokosammb_l_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/vodnitokpredreg_p_wgs84.dxf"
   },
   {
     "name": "DXF (WGS84)",
@@ -468,8 +708,16 @@
     "url": "https://gis.brno.cz/public/opendata/vyzn_os_wgs84.dxf"
   },
   {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/zasakovani_p_wgs84.dxf"
+  },
+  {
     "name": "GML (S-JSTK)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_ls1_l_gml_sjtsk.zip"
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_dpr5_b_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_dpr5_l_gml_sjtsk.zip"
   },
   {
     "name": "GML (S-JSTK)",
@@ -477,7 +725,19 @@
   },
   {
     "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony260_b_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony263_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony264_p_gml_sjtsk.zip"
   },
   {
     "name": "GML (S-JSTK)",
@@ -486,6 +746,14 @@
   {
     "name": "GML (S-JSTK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony281_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/chlu_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/dobyvaciprostor_p_gml_sjtsk.zip"
   },
   {
     "name": "GML (S-JSTK)",
@@ -517,6 +785,34 @@
   },
   {
     "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/horizontvrt_l_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/hydrogeologickeobjekty_b_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/kontaminacezemin_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/kontpodzvodyclu_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/kontpodzvodynel_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/kontzeminsonda_b_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/lozisko_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
     "url": "https://gis.brno.cz/public/opendata/mapr_g_budovy_b_gml_sjtsk.zip"
   },
   {
@@ -525,7 +821,15 @@
   },
   {
     "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/od_mhd_linky_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
     "url": "https://gis.brno.cz/public/opendata/od_pentlogram_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/od_vjezdove_oblasti_gml_sjtsk.zip"
   },
   {
     "name": "GML (S-JSTK)",
@@ -533,7 +837,19 @@
   },
   {
     "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_realizovana_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/po_g_odpadkove_kose_b_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
     "url": "https://gis.brno.cz/public/opendata/pond_g_zarizeni_b_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/pruzkumneuzemi_p_gml_sjtsk.zip"
   },
   {
     "name": "GML (S-JSTK)",
@@ -546,6 +862,14 @@
   {
     "name": "GML (S-JSTK)",
     "url": "https://gis.brno.cz/public/opendata/pz_g_prvky_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/skladka_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/smerproudpodzvod_l_gml_sjtsk.zip"
   },
   {
     "name": "GML (S-JSTK)",
@@ -581,6 +905,14 @@
   },
   {
     "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/vodnitok_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
     "url": "https://gis.brno.cz/public/opendata/vodnitokosammb_l_gml_sjtsk.zip"
   },
   {
@@ -588,8 +920,28 @@
     "url": "https://gis.brno.cz/public/opendata/volebni_mistnosti_b_gml_sjtsk.zip"
   },
   {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/zasakovani_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/areal_p_gml_sjtsk.zip"
+  },
+  {
     "name": "GML (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/ervkp_g_vkp_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/g_adresni_misto_all_sde_b_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/hrbitovy_g_hranice_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/hrbitovy_g_hranice_skupin_p_gml_sjtsk.zip"
   },
   {
     "name": "GML (S-JTSK)",
@@ -621,6 +973,14 @@
   },
   {
     "name": "GML (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/rizikoblastneogvod_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/sanace_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/sluchove_postizeni_gml_sjtsk.zip"
   },
   {
@@ -637,6 +997,10 @@
   },
   {
     "name": "GML (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vod_zaplava_q100_p_gml_sjtsk.zip"
   },
   {
@@ -649,11 +1013,23 @@
   },
   {
     "name": "GML (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vodnitokpredreg_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vyzn_os_gml_sjtsk.zip"
   },
   {
     "name": "GML (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_ls1_l_gml_wgs84.zip"
+    "url": "https://gis.brno.cz/public/opendata/areal_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_dpr5_b_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_dpr5_l_gml_wgs84.zip"
   },
   {
     "name": "GML (WGS84)",
@@ -661,7 +1037,19 @@
   },
   {
     "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony260_b_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony263_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony264_p_gml_wgs84.zip"
   },
   {
     "name": "GML (WGS84)",
@@ -670,6 +1058,14 @@
   {
     "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony281_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/chlu_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/dobyvaciprostor_p_gml_wgs84.zip"
   },
   {
     "name": "GML (WGS84)",
@@ -682,6 +1078,10 @@
   {
     "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/evpz_g_vyznamna_plocha_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/g_adresni_misto_all_sde_b_gml_wgs84.zip"
   },
   {
     "name": "GML (WGS84)",
@@ -705,6 +1105,42 @@
   },
   {
     "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/horizontvrt_l_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/hrbitovy_g_hranice_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/hrbitovy_g_hranice_skupin_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/hydrogeologickeobjekty_b_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/kontaminacezemin_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/kontpodzvodyclu_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/kontpodzvodynel_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/kontzeminsonda_b_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/lozisko_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/mapr_g_budovy_b_gml_wgs84.zip"
   },
   {
@@ -717,7 +1153,15 @@
   },
   {
     "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/od_mhd_linky_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/od_pentlogram_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/od_vjezdove_oblasti_gml_wgs84.zip"
   },
   {
     "name": "GML (WGS84)",
@@ -726,6 +1170,10 @@
   {
     "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/pahrb_vybaveni_b_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_realizovana_gml_wgs84.zip"
   },
   {
     "name": "GML (WGS84)",
@@ -741,7 +1189,15 @@
   },
   {
     "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/po_g_odpadkove_kose_b_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/pond_g_zarizeni_b_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/pruzkumneuzemi_p_gml_wgs84.zip"
   },
   {
     "name": "GML (WGS84)",
@@ -765,7 +1221,23 @@
   },
   {
     "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/rizikoblastneogvod_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/sanace_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/skladka_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/sluchove_postizeni_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/smerproudpodzvod_l_gml_wgs84.zip"
   },
   {
     "name": "GML (WGS84)",
@@ -813,6 +1285,14 @@
   },
   {
     "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/vod_zaplava_q100_p_gml_wgs84.zip"
   },
   {
@@ -825,7 +1305,15 @@
   },
   {
     "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/vodnitok_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/vodnitokosammb_l_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/vodnitokpredreg_p_gml_wgs84.zip"
   },
   {
     "name": "GML (WGS84)",
@@ -836,8 +1324,20 @@
     "url": "https://gis.brno.cz/public/opendata/vyzn_os_gml_wgs84.zip"
   },
   {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/zasakovani_p_gml_wgs84.zip"
+  },
+  {
     "name": "GeoJSON (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_ls1_l_sjtsk.geojson"
+    "url": "https://gis.brno.cz/public/opendata/areal_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_dpr5_b_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_dpr5_l_sjtsk.geojson"
   },
   {
     "name": "GeoJSON (S-JTSK)",
@@ -845,7 +1345,19 @@
   },
   {
     "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony260_b_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony263_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony264_p_sjtsk.geojson"
   },
   {
     "name": "GeoJSON (S-JTSK)",
@@ -854,6 +1366,14 @@
   {
     "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony281_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/chlu_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/dobyvaciprostor_p_sjtsk.geojson"
   },
   {
     "name": "GeoJSON (S-JTSK)",
@@ -866,6 +1386,10 @@
   {
     "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/evpz_g_vyznamna_plocha_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/g_adresni_misto_all_sde_b_sjtsk.geojson"
   },
   {
     "name": "GeoJSON (S-JTSK)",
@@ -889,6 +1413,42 @@
   },
   {
     "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/horizontvrt_l_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/hrbitovy_g_hranice_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/hrbitovy_g_hranice_skupin_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/hydrogeologickeobjekty_b_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontaminacezemin_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontpodzvodyclu_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontpodzvodynel_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontzeminsonda_b_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/lozisko_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/mapr_g_budovy_b_sjtsk.geojson"
   },
   {
@@ -901,7 +1461,15 @@
   },
   {
     "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/od_mhd_linky_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/od_pentlogram_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/od_vjezdove_oblasti_sjtsk.geojson"
   },
   {
     "name": "GeoJSON (S-JTSK)",
@@ -910,6 +1478,10 @@
   {
     "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pahrb_vybaveni_b_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_realizovana_sjtsk.geojson"
   },
   {
     "name": "GeoJSON (S-JTSK)",
@@ -925,7 +1497,15 @@
   },
   {
     "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/po_g_odpadkove_kose_b_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pond_g_zarizeni_b_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/pruzkumneuzemi_p_sjtsk.geojson"
   },
   {
     "name": "GeoJSON (S-JTSK)",
@@ -949,7 +1529,23 @@
   },
   {
     "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/rizikoblastneogvod_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/sanace_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/skladka_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/sluchove_postizeni_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/smerproudpodzvod_l_sjtsk.geojson"
   },
   {
     "name": "GeoJSON (S-JTSK)",
@@ -997,6 +1593,14 @@
   },
   {
     "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vod_zaplava_q100_p_sjtsk.geojson"
   },
   {
@@ -1009,7 +1613,15 @@
   },
   {
     "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vodnitok_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vodnitokosammb_l_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vodnitokpredreg_p_sjtsk.geojson"
   },
   {
     "name": "GeoJSON (S-JTSK)",
@@ -1020,8 +1632,20 @@
     "url": "https://gis.brno.cz/public/opendata/vyzn_os_sjtsk.geojson"
   },
   {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/zasakovani_p_sjtsk.geojson"
+  },
+  {
     "name": "OGC GeoPackage (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_ls1_l_sjtsk.gpkg"
+    "url": "https://gis.brno.cz/public/opendata/areal_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_dpr5_b_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_dpr5_l_sjtsk.gpkg"
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
@@ -1029,7 +1653,19 @@
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony260_b_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony263_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony264_p_sjtsk.gpkg"
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
@@ -1038,6 +1674,14 @@
   {
     "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony281_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/chlu_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/dobyvaciprostor_p_sjtsk.gpkg"
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
@@ -1050,6 +1694,10 @@
   {
     "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/evpz_g_vyznamna_plocha_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/g_adresni_misto_all_sde_b_sjtsk.gpkg"
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
@@ -1073,6 +1721,46 @@
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/horizontvrt_l_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/hrbitovy_g_hranice_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/hrbitovy_g_hranice_skupin_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/hydrogeologickeobjekty_b_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontaminacezemin_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontpodzvodyclu_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontpodzvodynel_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontzeminsonda_b_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontzeminsonda_b_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/lozisko_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/mapr_g_budovy_b_sjtsk.gpkg"
   },
   {
@@ -1085,7 +1773,15 @@
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/od_mhd_linky_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/od_pentlogram_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/od_vjezdove_oblasti_sjtsk.gpkg"
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
@@ -1094,6 +1790,10 @@
   {
     "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pahrb_vybaveni_b_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_realizovana_sjtsk.gpkg"
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
@@ -1109,7 +1809,15 @@
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/po_g_odpadkove_kose_b_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pond_g_zarizeni_b_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/pruzkumneuzemi_p_sjtsk.gpkg"
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
@@ -1133,7 +1841,23 @@
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/rizikoblastneogvod_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/sanace_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/skladka_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/sluchove_postizeni_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/smerproudpodzvod_l_sjtsk.gpkg"
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
@@ -1181,6 +1905,14 @@
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vod_zaplava_q100_p_sjtsk.gpkg"
   },
   {
@@ -1193,7 +1925,15 @@
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vodnitok_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vodnitokosammb_l_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vodnitokpredreg_p_sjtsk.gpkg"
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
@@ -1204,8 +1944,20 @@
     "url": "https://gis.brno.cz/public/opendata/vyzn_os_sjtsk.gpkg"
   },
   {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/zasakovani_p_sjtsk.gpkg"
+  },
+  {
     "name": "OGC GeoPackage (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_ls1_l_wgs84.gpkg"
+    "url": "https://gis.brno.cz/public/opendata/areal_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_dpr5_b_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_dpr5_l_wgs84.gpkg"
   },
   {
     "name": "OGC GeoPackage (WGS84)",
@@ -1213,7 +1965,19 @@
   },
   {
     "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony260_b_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony263_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony264_p_wgs84.gpkg"
   },
   {
     "name": "OGC GeoPackage (WGS84)",
@@ -1222,6 +1986,14 @@
   {
     "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony281_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/chlu_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/dobyvaciprostor_p_wgs84.gpkg"
   },
   {
     "name": "OGC GeoPackage (WGS84)",
@@ -1237,6 +2009,10 @@
   },
   {
     "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/g_adresni_misto_all_sde_b_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/g_pz_pam_zona_rez_op_p_wgs84.gpkg"
   },
   {
@@ -1246,6 +2022,38 @@
   {
     "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/g_ulice_sde_l_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/horizontvrt_l_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/hrbitovy_g_hranice_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/hrbitovy_g_hranice_skupin_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/hydrogeologickeobjekty_b_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/kontaminacezemin_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/kontpodzvodyclu_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/kontpodzvodynel_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/lozisko_p_wgs84.gpkg"
   },
   {
     "name": "OGC GeoPackage (WGS84)",
@@ -1261,7 +2069,15 @@
   },
   {
     "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/od_mhd_linky_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/od_pentlogram_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/od_vjezdove_oblasti_wgs84.gpkg"
   },
   {
     "name": "OGC GeoPackage (WGS84)",
@@ -1270,6 +2086,10 @@
   {
     "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/pahrb_vybaveni_b_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_realizovana_wgs84.gpkg"
   },
   {
     "name": "OGC GeoPackage (WGS84)",
@@ -1285,7 +2105,15 @@
   },
   {
     "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/po_g_odpadkove_kose_b_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/pond_g_zarizeni_b_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/pruzkumneuzemi_p_wgs84.gpkg"
   },
   {
     "name": "OGC GeoPackage (WGS84)",
@@ -1309,7 +2137,23 @@
   },
   {
     "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/rizikoblastneogvod_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/sanace_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/skladka_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/sluchove_postizeni_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/smerproudpodzvod_l_wgs84.gpkg"
   },
   {
     "name": "OGC GeoPackage (WGS84)",
@@ -1357,6 +2201,14 @@
   },
   {
     "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/vod_zaplava_q100_p_wgs84.gpkg"
   },
   {
@@ -1369,7 +2221,15 @@
   },
   {
     "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/vodnitok_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/vodnitokosammb_l_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/vodnitokpredreg_p_wgs84.gpkg"
   },
   {
     "name": "OGC GeoPackage (WGS84)",
@@ -1380,8 +2240,20 @@
     "url": "https://gis.brno.cz/public/opendata/vyzn_os_wgs84.gpkg"
   },
   {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/zasakovani_p_wgs84.gpkg"
+  },
+  {
     "name": "ShapeFile (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_ls1_l_shp_sjtsk.zip"
+    "url": "https://gis.brno.cz/public/opendata/areal_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_dpr5_b_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_dpr5_l_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",
@@ -1389,7 +2261,19 @@
   },
   {
     "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony260_b_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony263_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony264_p_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",
@@ -1398,6 +2282,14 @@
   {
     "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony281_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/chlu_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/dobyvaciprostor_p_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",
@@ -1410,6 +2302,10 @@
   {
     "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/evpz_g_vyznamna_plocha_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/g_adresni_misto_all_sde_b_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",
@@ -1433,6 +2329,42 @@
   },
   {
     "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/horizontvrt_l_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/hrbitovy_g_hranice_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/hrbitovy_g_hranice_skupin_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/hydrogeologickeobjekty_b_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontaminacezemin_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontpodzvodyclu_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontpodzvodynel_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/kontzeminsonda_b_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/lozisko_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/mapr_g_budovy_b_shp_sjtsk.zip"
   },
   {
@@ -1445,7 +2377,15 @@
   },
   {
     "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/od_mhd_linky_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/od_pentlogram_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/od_vjezdove_oblasti_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",
@@ -1454,6 +2394,10 @@
   {
     "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pahrb_vybaveni_b_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_realizovana_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",
@@ -1469,7 +2413,15 @@
   },
   {
     "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/po_g_odpadkove_kose_b_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pond_g_zarizeni_b_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/pruzkumneuzemi_p_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",
@@ -1493,7 +2445,19 @@
   },
   {
     "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/sanace_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/skladka_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/sluchove_postizeni_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/smerproudpodzvod_l_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",
@@ -1541,6 +2505,14 @@
   },
   {
     "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vod_zaplava_q100_p_shp_sjtsk.zip"
   },
   {
@@ -1553,7 +2525,15 @@
   },
   {
     "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vodnitok_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vodnitokosammb_l_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vodnitokpredreg_p_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",
@@ -1562,5 +2542,9 @@
   {
     "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vyzn_os_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/zasakovani_p_shp_sjtsk.zip"
   }
 ]
