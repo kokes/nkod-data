@@ -460,6 +460,10 @@
     "url": "https://opendata.praha.eu/dataset/f1f0b9aa-c28a-45a3-9705-7b4575fddacf/resource/7f28d49c-1588-4421-a1a4-e2b997de4fb4/download/7303368a-19e1-4884-b371-e7228ae70884-opendata-faktury-mc-praha-12.csv"
   },
   {
+    "name": "Faktury-MC-Praha12-2022.csv",
+    "url": "https://opendata.praha.eu/dataset/f1f0b9aa-c28a-45a3-9705-7b4575fddacf/resource/55c2d753-7614-456f-8906-e52f7fb61d95/download/c7dee599-35ef-4264-a752-ff2be101f7d4-opendata-faktury-mc-praha-12.csv"
+  },
+  {
     "name": "Faktury_2011-2015",
     "url": "https://opendata.praha.eu/dataset/8bd27200-b502-4337-bdd8-ea902448521c/resource/923fae44-da27-4a69-a526-dbf12ab03354/download/c3c08fd5-d953-433b-9b2f-79feddb7d629-kdf-2011-a-2015-h-a-vh-osm-anonymizovano-ok.xlsx"
   },
@@ -998,6 +1002,10 @@
   {
     "name": "Objednavky-MC-Praha12-2021.csv",
     "url": "https://opendata.praha.eu/dataset/c9b701a9-f4e6-422f-8038-307dd36e6f8a/resource/7436566d-ba4f-41ee-8063-75dd745b7be5/download/761874b0-de6e-41f5-b87c-7a467400de2b-opendata-objednavky-mc-praha-12.csv"
+  },
+  {
+    "name": "Objednavky-MC-Praha12-2022.csv",
+    "url": "https://opendata.praha.eu/dataset/c9b701a9-f4e6-422f-8038-307dd36e6f8a/resource/bf103e8c-7605-487b-8453-213658a536ee/download/bc7ab70b-c02c-406f-82d3-c9b5b82a452f-opendata-objednavky-mc-praha-12.csv"
   },
   {
     "name": "Oborové skupiny",
@@ -2140,6 +2148,10 @@
     "url": "https://opendata.praha.eu/dataset/febb4ca8-1df5-425f-876d-c6cfb31d5224/resource/e0091104-8a56-4825-9110-00018288a175/download/7c24f081-d6ee-4294-bd99-781ab6bd3519-opendata-smlouvy-mc-praha-12.csv"
   },
   {
+    "name": "Smlouvy-MC-Praha12-2022.csv",
+    "url": "https://opendata.praha.eu/dataset/febb4ca8-1df5-425f-876d-c6cfb31d5224/resource/6c5030de-abea-4116-94da-7490ca4f4752/download/53c461aa-9322-49d0-ad97-b3b52983a672-opendata-smlouvy-mc-praha-12.csv"
+  },
+  {
     "name": "Směry pro jednotlivé cyklosčítače 2018-2019",
     "url": "https://opendata.praha.eu/dataset/4cac423a-d962-4de1-852f-d49ba4fdcf9b/resource/913ac6c0-8e94-46f3-823a-d93707204456/download/e6821163-7e9f-48ca-b8c6-25615b6c6a3f-seznam_smeru_cykloscitacu_2018-2019.csv"
   },
@@ -2614,10 +2626,6 @@
   {
     "name": "odměny za výkon funkce neuvolněným členům ZMČ 2017",
     "url": "https://opendata.praha.eu/dataset/556aaee5-fb33-439c-862f-23d69a6aab95/resource/b6b9159d-8f43-441a-8454-a68a8a3c93a6/download/83fe9cd2-769c-445e-a746-bbc5141a6d94-neuvolnni-zm-2017.xls"
-  },
-  {
-    "name": "opendata-smlouvy-MC-Praha-12.csv",
-    "url": "https://opendata.praha.eu/dataset/febb4ca8-1df5-425f-876d-c6cfb31d5224/resource/6c5030de-abea-4116-94da-7490ca4f4752/download/53c461aa-9322-49d0-ad97-b3b52983a672-opendata-smlouvy-mc-praha-12a.csv"
   },
   {
     "name": "povoleni a zakaz pobihani psu MC Praha 11_2022..xlsx",
