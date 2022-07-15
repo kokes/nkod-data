@@ -9,10 +9,6 @@
   },
   {
     "name": "Nazev neni uveden.",
-    "url": "https://rejstriky.msmt.cz/opendata/UredniDeska/uredni-deska.jsonld"
-  },
-  {
-    "name": "Nazev neni uveden.",
     "url": "https://rejstriky.msmt.cz/opendata/vrejcz010.xml"
   },
   {
@@ -66,5 +62,9 @@
   {
     "name": "Nazev neni uveden.",
     "url": "https://rejstriky.msmt.cz/opendata/vrejcz080.xml"
+  },
+  {
+    "name": "Obsah úřední desky MŠMT",
+    "url": "https://rejstriky.msmt.cz/opendata/UredniDeska/uredni-deska.jsonld"
   }
 ]

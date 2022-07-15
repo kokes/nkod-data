@@ -1,6 +1,10 @@
 [
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/Hosted/Brno_3D_LOD1_SJTSK/SceneServer"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/Hosted/Cyklo_nehody/FeatureServer/0"
   },
   {
@@ -365,6 +369,10 @@
   },
   {
     "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vod_zaplava_q100_p_sjtsk.dxf"
   },
   {
@@ -662,6 +670,10 @@
   {
     "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_wgs84.dxf"
   },
   {
     "name": "DXF (WGS84)",
@@ -985,6 +997,10 @@
   },
   {
     "name": "GML (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vod_zaplava_q100_p_gml_sjtsk.zip"
   },
   {
@@ -1270,6 +1286,10 @@
   {
     "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_gml_wgs84.zip"
   },
   {
     "name": "GML (WGS84)",
@@ -1574,6 +1594,10 @@
   {
     "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_sjtsk.geojson"
   },
   {
     "name": "GeoJSON (S-JTSK)",
@@ -1885,6 +1909,10 @@
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vod_zaplava_q100_p_sjtsk.gpkg"
   },
   {
@@ -2174,6 +2202,10 @@
   {
     "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_wgs84.gpkg"
   },
   {
     "name": "OGC GeoPackage (WGS84)",
@@ -2474,6 +2506,10 @@
   {
     "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",

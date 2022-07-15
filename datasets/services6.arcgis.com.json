@@ -73,10 +73,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/carparks_live/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/chodniky/FeatureServer/0"
   },
   {
@@ -86,10 +82,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/cykloboxy/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/cyklodetektory/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -406,6 +398,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/zaplavova_uzemi_Q5/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/zaplavova_uzemi_aktivni_zona/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
