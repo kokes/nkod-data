@@ -12,6 +12,10 @@
     "url": "https://www.czso.cz/documents/10180/62327313/170242-17data.csv"
   },
   {
+    "name": "Byty podle obydlenosti",
+    "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_byty_obydlenost.csv"
+  },
+  {
     "name": "Data do 1. čtvrtletí 2022",
     "url": "https://www.czso.cz/documents/62353418/171347215/250180-22data063022.csv"
   },
@@ -408,6 +412,22 @@
     "url": "https://www.czso.cz/documents/62353418/188699115/sldb2021_deti_stav_vzdelani_vek_matky.csv"
   },
   {
+    "name": "Obydlené byty podle celkové plochy bytu",
+    "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_byty_plocha.csv"
+  },
+  {
+    "name": "Obydlené byty podle počtu obytných místností",
+    "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_byty_mistnosti.csv"
+  },
+  {
+    "name": "Obydlené byty podle počtu osob v bytě",
+    "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_byty_osoby.csv"
+  },
+  {
+    "name": "Obydlené byty podle právního důvodu užívání bytu",
+    "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_byty_uzivani.csv"
+  },
+  {
     "name": "Obyvatelstvo",
     "url": "https://www.czso.cz/documents/10180/25233177/sldb_obyvatelstvo.zip"
   },
@@ -440,6 +460,14 @@
     "url": "https://www.czso.cz/documents/62353418/187626652/sldb2021_jazyk1_pohlavi.csv"
   },
   {
+    "name": "Obyvatelstvo podle mateřského jazyka, věku a pohlaví (1 mateřský jazyk)",
+    "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_jazyk1_vek_pohlavi.csv"
+  },
+  {
+    "name": "Obyvatelstvo podle mateřského jazyka, věku a pohlaví (1 nebo 2 mateřské jazyky)",
+    "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_jazyk_vek_pohlavi.csv"
+  },
+  {
     "name": "Obyvatelstvo podle náboženské víry",
     "url": "https://www.czso.cz/documents/62353418/182807150/sldb2021_vira.csv"
   },
@@ -450,6 +478,10 @@
   {
     "name": "Obyvatelstvo podle národnosti (osoby s jednou nebo více národnostmi)",
     "url": "https://www.czso.cz/documents/62353418/182807150/sldb2021_narodnost.csv"
+  },
+  {
+    "name": "Obyvatelstvo podle národnosti, věku a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_narodnost_vek_pohlavi.csv"
   },
   {
     "name": "Obyvatelstvo podle pohlaví",
@@ -494,6 +526,10 @@
   {
     "name": "Obyvatelstvo podle vzdělání, velikostních skupin obcí a pohlaví",
     "url": "https://www.czso.cz/documents/62353418/185956023/sldb2021_vzdelani_velikostobce_pohlavi.csv"
+  },
+  {
+    "name": "Obyvatelstvo podle vzdělání, věku a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_vzdelani_vek_pohlavi.csv"
   },
   {
     "name": "Obyvatelstvo podle věkových skupin (základní 3 věkové skupiny)",
