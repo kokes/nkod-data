@@ -13,6 +13,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/Cyklodetektory_h/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/DrinkingFountains/FeatureServer/0"
   },
   {
@@ -69,10 +73,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/carparks_live/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/chodniky/FeatureServer/0"
   },
   {
@@ -82,10 +82,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/cykloboxy/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/cyklodetektory/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
