@@ -1,5 +1,17 @@
 [
   {
+    "name": "Cerpani_rozpoctu_MHMP_2021.csv",
+    "url": "https://storage.golemio.cz/ckan/cerpani_rozpoctu_MHMP/Cerpani_rozpoctu_MHMP_2021.csv"
+  },
+  {
+    "name": "Cerpani_rozpoctu_MHMP_2021.json",
+    "url": "https://storage.golemio.cz/ckan/cerpani_rozpoctu_MHMP/Cerpani_rozpoctu_MHMP_2021.json"
+  },
+  {
+    "name": "Cerpani_rozpoctu_MHMP_2021.xml",
+    "url": "https://storage.golemio.cz/ckan/cerpani_rozpoctu_MHMP/Cerpani_rozpoctu_MHMP_2021.xml"
+  },
+  {
     "name": "Cerpani_rozpoctu_MHMP_2022.csv",
     "url": "https://storage.golemio.cz/ckan/cerpani_rozpoctu_MHMP/Cerpani_rozpoctu_MHMP_2022.csv"
   },
@@ -56,6 +68,58 @@
     "url": "https://storage.golemio.cz/ckan/pko/PKO2_dle_ucetni_operace.xlsx"
   },
   {
+    "name": "PKO_dle_splatnosti.csv",
+    "url": "https://storage.golemio.cz/ckan/pko/PKO_dle_splatnosti.csv"
+  },
+  {
+    "name": "PKO_dle_splatnosti.xlsx",
+    "url": "https://storage.golemio.cz/ckan/pko/PKO_dle_splatnosti.xlsx"
+  },
+  {
+    "name": "PKO_dle_ucetni_operace.csv",
+    "url": "https://storage.golemio.cz/ckan/pko/PKO_dle_ucetni_operace.csv"
+  },
+  {
+    "name": "PKO_dle_ucetni_operace.xlsx",
+    "url": "https://storage.golemio.cz/ckan/pko/PKO_dle_ucetni_operace.xlsx"
+  },
+  {
+    "name": "Prijate_faktury_MHMP_2022.csv",
+    "url": "https://storage.golemio.cz/ckan/prijate_faktury_MHMP/Prijate_faktury_MHMP_2022.csv"
+  },
+  {
+    "name": "Prijate_faktury_MHMP_2022.json",
+    "url": "https://storage.golemio.cz/ckan/prijate_faktury_MHMP/Prijate_faktury_MHMP_2022.json"
+  },
+  {
+    "name": "Prijate_faktury_MHMP_2022.xml",
+    "url": "https://storage.golemio.cz/ckan/prijate_faktury_MHMP/Prijate_faktury_MHMP_2022.xml"
+  },
+  {
+    "name": "Přijaté faktury MHMP 2021",
+    "url": "https://storage.golemio.cz/ckan/prijate_faktury_MHMP/Prijate_faktury_MHMP_2021.csv"
+  },
+  {
+    "name": "Přijaté faktury MHMP 2021",
+    "url": "https://storage.golemio.cz/ckan/prijate_faktury_MHMP/Prijate_faktury_MHMP_2021.json"
+  },
+  {
+    "name": "Přijaté faktury MHMP 2021",
+    "url": "https://storage.golemio.cz/ckan/prijate_faktury_MHMP/Prijate_faktury_MHMP_2021.xml"
+  },
+  {
+    "name": "Rozpocet_MHMP_2021.csv",
+    "url": "https://storage.golemio.cz/ckan/rozpocet_MHMP/Rozpocet_MHMP_2021.csv"
+  },
+  {
+    "name": "Rozpocet_MHMP_2021.json",
+    "url": "https://storage.golemio.cz/ckan/rozpocet_MHMP/Rozpocet_MHMP_2021.json"
+  },
+  {
+    "name": "Rozpocet_MHMP_2021.xml",
+    "url": "https://storage.golemio.cz/ckan/rozpocet_MHMP/Rozpocet_MHMP_2021.xml"
+  },
+  {
     "name": "Rozpocet_MHMP_2022.csv",
     "url": "https://storage.golemio.cz/ckan/rozpocet_MHMP/Rozpocet_MHMP_2022.csv"
   },
@@ -70,6 +134,10 @@
   {
     "name": "Seznam_prispevkovych_organizaci_HMP.csv",
     "url": "https://storage.golemio.cz/ckan/seznam_PO_HMP/Seznam_prispevkovych_organizaci_HMP.csv"
+  },
+  {
+    "name": "Seznam_prispevkovych_organizaci_HMP.xlsx",
+    "url": "https://storage.golemio.cz/ckan/seznam_PO_HMP/Seznam_prispevkovych_organizaci_HMP.xlsx"
   },
   {
     "name": "Vysledky_hlasovani_ZHMP_2018_-_2022.csv",
