@@ -117,10 +117,6 @@
   },
   {
     "name": "DXF (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_sjtsk.dxf"
-  },
-  {
-    "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony260_b_sjtsk.dxf"
   },
   {
@@ -425,10 +421,6 @@
   },
   {
     "name": "DXF (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_wgs84.dxf"
-  },
-  {
-    "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony260_b_wgs84.dxf"
   },
   {
@@ -722,10 +714,6 @@
   {
     "name": "GML (S-JSTK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_uch61_l_gml_sjtsk.zip"
-  },
-  {
-    "name": "GML (S-JSTK)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_gml_sjtsk.zip"
   },
   {
     "name": "GML (S-JSTK)",
@@ -1037,10 +1025,6 @@
   },
   {
     "name": "GML (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_gml_wgs84.zip"
-  },
-  {
-    "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony260_b_gml_wgs84.zip"
   },
   {
@@ -1345,10 +1329,6 @@
   },
   {
     "name": "GeoJSON (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_sjtsk.geojson"
-  },
-  {
-    "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony260_b_sjtsk.geojson"
   },
   {
@@ -1650,10 +1630,6 @@
   {
     "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_uch61_l_sjtsk.gpkg"
-  },
-  {
-    "name": "OGC GeoPackage (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_sjtsk.gpkg"
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
@@ -1965,10 +1941,6 @@
   },
   {
     "name": "OGC GeoPackage (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_wgs84.gpkg"
-  },
-  {
-    "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony260_b_wgs84.gpkg"
   },
   {
@@ -2258,10 +2230,6 @@
   {
     "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_uch61_l_shp_sjtsk.zip"
-  },
-  {
-    "name": "ShapeFile (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",
