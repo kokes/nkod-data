@@ -158,5 +158,9 @@
   {
     "name": "verejne_zakazky_PO.csv",
     "url": "https://storage.golemio.cz/ckan/tendersystems/verejne_zakazky_PO.csv"
+  },
+  {
+    "name": "verejne_zakazky_opendata_zadano.csv",
+    "url": "https://storage.golemio.cz/ckan/vz_oict/verejne_zakazky_opendata_zadano.csv"
   }
 ]
