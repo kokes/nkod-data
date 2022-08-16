@@ -760,6 +760,10 @@
     "url": "https://opendata.praha.eu/dataset/987361b9-7753-4edd-a413-da831b9bc0fa/resource/13110042-359c-43ff-beb6-4832714b7f15/download/5390d539-0a19-40d7-960d-19b812eaacb0-vizitky-vse.csv"
   },
   {
+    "name": "Kontakty (1).csv",
+    "url": "https://opendata.praha.eu/dataset/57dae908-b40d-41e2-986b-0e3c07f1f445/resource/576c171a-c0a4-4fab-9747-849bf259119b/download/68d0650a-8fcc-4a82-bd1d-0e61c976bd93-kontakty-1.csv"
+  },
+  {
     "name": "Kontrolní výbor ZMČ",
     "url": "https://opendata.praha.eu/dataset/a102e4e4-b9e3-438c-93fc-ff764cc179e2/resource/c53fec24-4783-4fec-a2e4-b007dde810de/download/384a8556-1ba3-42bd-88dd-f59e55bdd266-kontrolni-vybor-zm20170101-20171231.xlsx"
   },
@@ -878,6 +882,10 @@
   {
     "name": "Meteočidla",
     "url": "https://opendata.praha.eu/dataset/22139f07-637f-4c2c-9f5d-bc7b11c2577a/resource/a6a891f4-88d3-40a6-a58f-3ad39f0100d0/download/8d04cae5-3968-4fdd-9574-4cb0c3b73ed2-meteocidla.csv"
+  },
+  {
+    "name": "MČ Praha 14 -  koše Praha 14 srpen 2021 (1).xls",
+    "url": "https://opendata.praha.eu/dataset/1347d512-e2bf-4eea-a700-1164eae2628d/resource/56600852-3388-4c31-922f-cfefc71b7365/download/c0cc0971-34bd-452c-a83f-79f97bfb03dc-m-praha-14-koe-praha-14-srpen-2021-1.xls"
   },
   {
     "name": "Městské úřady a magistrát JSON",
@@ -1008,8 +1016,12 @@
     "url": "https://opendata.praha.eu/dataset/9364dec4-34cb-419e-9625-6cc838976afc/resource/cacf973b-66db-4eae-be18-55fbd94935ca/download/de5a3b6e-b3c7-44b1-aac5-e0ab7b13387b-odpadkove-koe-ve-sprav-m-praha-11_2021.xlsx"
   },
   {
-    "name": "PaR Open data (002) (1).xlsx",
-    "url": "https://opendata.praha.eu/dataset/2f801d7f-961c-4dbd-9587-6a4cd4626ba0/resource/c4d63fe5-6a97-4831-87d7-9c840ac69a8f/download/par-open-data-002-1.xlsx"
+    "name": "Organizační struktura úřadu MČ Praha 14 - v. 1.1 (1).vsdx",
+    "url": "https://opendata.praha.eu/dataset/0255f78f-bd13-454e-ad6c-e67a6efb2d54/resource/3a98d914-4ee8-4c0a-9745-d1029da32f5c/download/1a365cca-7b6b-4b5f-a125-084e35967ef3-organizani-struktura-uadu-m-praha-14-v.-1.1-1.vsdx"
+  },
+  {
+    "name": "PaR Open data (002) (2).xlsx",
+    "url": "https://opendata.praha.eu/dataset/d8885b84-0f13-445d-aad9-42886cd04b30/resource/3194bba9-ea69-441e-90f9-d464cd1bd4db/download/04c961b3-acaf-44d9-9a79-2530b55ce4c5-par-open-data-002-2.xlsx"
   },
   {
     "name": "Parkoviště",
@@ -2288,6 +2300,10 @@
     "url": "https://opendata.praha.eu/dataset/9c0fecf8-da19-4ac5-b6a4-10726d0202cd/resource/e8ad9154-6876-4439-9811-8d94edc3ab59/download/f0888804-41d9-471b-85ef-da6cd17f19ad-zachodky-2017.csv"
   },
   {
+    "name": "ZŠ a MŠ otevřená data 092021.xlsx",
+    "url": "https://opendata.praha.eu/dataset/c043e4c9-0295-4182-bab9-a526c7f6d46e/resource/e1145546-cb9e-4793-a111-61d7dec34d6b/download/60763c5f-642d-4b33-bd24-d6532fac98cd-z-a-m-otevena-data-092021.xlsx"
+  },
+  {
     "name": "coupons_2018_10.csv",
     "url": "https://opendata.praha.eu/dataset/f8ac5939-02bd-43e4-b495-02590feb26b2/resource/47f37d4c-c012-4bb4-8400-146c424338e0/download/eca5af7b-8828-4f3f-85d0-366591519ebe-coupons_2018_10.csv"
   },
@@ -2522,6 +2538,10 @@
   {
     "name": "seznam-clenu-organu.xlsx",
     "url": "https://opendata.praha.eu/dataset/205d28ac-100f-444b-b0c3-2956363d2862/resource/62c6b89a-5341-403a-a7d8-5fe5add03d09/download/2929fab2-7417-40d5-a9a1-5029635429e6-seznam-clenu-organu.xlsx"
+  },
+  {
+    "name": "seznam_stanovist (1).docx",
+    "url": "https://opendata.praha.eu/dataset/98385504-8363-402d-b097-4a8d986145d1/resource/06502ddb-9cd7-432c-816d-8f9939d85004/download/bce93364-2d81-4ea1-b523-74551c1725c0-seznam_stanovist-1.docx"
   },
   {
     "name": "zasobnik-investicnich-akci.csv",
