@@ -25,6 +25,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/SkateboardStop_opendata/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/SkolskeObvody_opendata/FeatureServer/0"
   },
   {

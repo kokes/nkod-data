@@ -37,6 +37,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::prostranství-se-zákazem-používání-skateboardů"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::volné-pobíhání-psů"
   },
   {
@@ -97,6 +101,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::prostranství-se-zákazem-používání-skateboardů.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::volné-pobíhání-psů.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -150,6 +158,10 @@
   {
     "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::poplachové-sirény.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::prostranství-se-zákazem-používání-skateboardů.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "GeoJSON",
@@ -209,6 +221,10 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::prostranství-se-zákazem-používání-skateboardů.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::volné-pobíhání-psů.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -262,6 +278,10 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::poplachové-sirény.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::prostranství-se-zákazem-používání-skateboardů.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
