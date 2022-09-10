@@ -97,6 +97,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/dobyvaci_prostory/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/dopravni_nehody/FeatureServer/53"
   },
   {
@@ -254,6 +258,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/prumyslove_arealy/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/pruzkumne_uzemi/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
