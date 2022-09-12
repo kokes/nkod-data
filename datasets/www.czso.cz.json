@@ -420,12 +420,20 @@
     "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_byty_mistnosti.csv"
   },
   {
+    "name": "Obydlené byty podle počtu obytných místností včetně kuchyně",
+    "url": "https://www.czso.cz/documents/62353418/192056095/sldb2021_byty_mistnosti_kuchyne.csv"
+  },
+  {
     "name": "Obydlené byty podle počtu osob v bytě",
     "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_byty_osoby.csv"
   },
   {
     "name": "Obydlené byty podle právního důvodu užívání bytu",
     "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_byty_uzivani.csv"
+  },
+  {
+    "name": "Obydlené byty podle vybavení kuchyní",
+    "url": "https://www.czso.cz/documents/62353418/192056095/sldb2021_byty_kuchyne.csv"
   },
   {
     "name": "Obyvatelstvo",
@@ -528,6 +536,10 @@
     "url": "https://www.czso.cz/documents/62353418/182807150/sldb2021_obcanstvi_pohlavi.csv"
   },
   {
+    "name": "Obyvatelstvo podle státního občanství, věku a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/192056095/sldb2021_obcan_vek_pohlavi.csv"
+  },
+  {
     "name": "Obyvatelstvo podle velikostních skupin obcí a pohlaví",
     "url": "https://www.czso.cz/documents/62353418/185956023/sldb2021_velikostobce_pohlavi.csv"
   },
@@ -546,6 +558,10 @@
   {
     "name": "Obyvatelstvo podle vzdělání, věku a pohlaví",
     "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_vzdelani_vek_pohlavi.csv"
+  },
+  {
+    "name": "Obyvatelstvo podle vzdělání, věku, velikostních skupin obcí a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/192056095/sldb2021_vzdelani_vek_velikostobce_pohlavi.csv"
   },
   {
     "name": "Obyvatelstvo podle věkových skupin (základní 3 věkové skupiny)",
@@ -574,6 +590,10 @@
   {
     "name": "Plodnost žen",
     "url": "https://www.czso.cz/documents/62353418/185208035/sldb2021_pocetdeti.csv"
+  },
+  {
+    "name": "Počet obyvatel a počet obydlených bytů za části obce, části obce - díl, ZSJ, ZDJ - díl",
+    "url": "https://www.czso.cz/documents/62353418/192056095/sldb2021_obyv_byt_cob_zsj.csv"
   },
   {
     "name": "Průměrný věk obyvatel podle pohlaví",
