@@ -1,9 +1,5 @@
 [
   {
-    "name": "Aktivní přístupy prostřednictvím jiných způsobů",
-    "url": "https://data.ctu.cz/sites/default/files/tabulka6.csv"
-  },
-  {
     "name": "Antény pevné služby - seznam",
     "url": "https://data.ctu.cz/sites/default/files/imports/import_anteny/evidence-anten-pevne-sluzby.csv"
   },
@@ -36,32 +32,12 @@
     "url": "https://data.ctu.cz/sites/default/files/ceny-vybranych-vnitrostatnich-a-zahranicnich-zakladnich-sluzeb-k-31-12_5.csv"
   },
   {
-    "name": "Disponibilní přípojky CATV - dle maximální dosažitelné rychlosti",
-    "url": "https://data.ctu.cz/sites/default/files/graf53.csv"
-  },
-  {
-    "name": "Disponibilní přípojky FTTH/B - dle maximální dosažitelné rychlosti",
-    "url": "https://data.ctu.cz/sites/default/files/graf57.csv"
-  },
-  {
-    "name": "Disponibilní přípojky FWA - dle maximální dosažitelné rychlosti",
-    "url": "https://data.ctu.cz/sites/default/files/graf61.csv"
-  },
-  {
-    "name": "Disponibilní přípojky WIFI - dle maximální dosažitelné rychlosti",
-    "url": "https://data.ctu.cz/sites/default/files/graf49.csv"
-  },
-  {
-    "name": "Disponibilní přípojky xDSL - dle maximální dosažitelné rychlosti",
-    "url": "https://data.ctu.cz/sites/default/files/graf45.csv"
-  },
-  {
     "name": "Důvody uzavírání pošt - povinných",
     "url": "https://data.ctu.cz/sites/default/files/duvody-uzavreni-povinnych-post_5.csv"
   },
   {
     "name": "Ekonomické ukazatele o trhu e-komunikací - tržby a investice",
-    "url": "https://data.ctu.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-ekonomicke_ukazatele_0.csv"
+    "url": "https://data.ctu.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-ekonomicke_ukazatele_1.csv"
   },
   {
     "name": "Ekonomické ukazatele poštovního trhu",
@@ -308,22 +284,6 @@
     "url": "https://data.ctu.cz/sites/default/files/plneni-kvalitativniho-ukazatele-prepravnich-dob_5.csv"
   },
   {
-    "name": "Nejvýznamnější subjekty na trhu podle investic v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf8.csv"
-  },
-  {
-    "name": "Nejvýznamnější subjekty poskytující na trhu veřejně dostupné služby podle tržeb v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf3.csv"
-  },
-  {
-    "name": "Nejvýznamnější zaměstnavatelé v el. komunikacích",
-    "url": "https://data.ctu.cz/sites/default/files/tabulka2.csv"
-  },
-  {
-    "name": "Národní propojení - vývoj terminace hlasových volání a SMS v mobilních sítích (objem provozu a tržby)",
-    "url": "https://data.ctu.cz/sites/default/files/graf89.csv"
-  },
-  {
     "name": "Ostatní platby za provedenou práci",
     "url": "https://data.ctu.cz/sites/default/files/ostatni-platby-za-provedenou-praci_8.csv"
   },
@@ -362,10 +322,6 @@
   {
     "name": "Oznámená zařízení",
     "url": "https://data.ctu.cz/sites/default/files/oznamena-zarizeni_1.csv"
-  },
-  {
-    "name": "Penetrace SIM karet na obyvatele ČR",
-    "url": "https://data.ctu.cz/sites/default/files/tabulka4.csv"
   },
   {
     "name": "Platy členů Rady ČTÚ za rok 2012",
@@ -466,10 +422,6 @@
   {
     "name": "Podnikatelé v poštovních službách",
     "url": "https://data.ctu.cz/sites/default/files/imports/import_provozovatele/evidence_provozovatelu.csv"
-  },
-  {
-    "name": "Podíl investic na tržbách u nejvýznamnějších subjektů na trhu dle tržeb v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf13.csv"
   },
   {
     "name": "Pokrytí dálnic mobilním signálem - D0",
@@ -632,40 +584,12 @@
     "url": "https://data.ctu.cz/sites/default/files/poplatky-za-vyuzivani-radiovych-kmitoctu_6.csv"
   },
   {
-    "name": "Porovnání průměrného jednotkového velkoobchodního výnosu operátorů za prodej služeb MVNO/MVNE a průměrného jednotkového maloobchodního výnosu operátorů za tyto služby",
-    "url": "https://data.ctu.cz/sites/default/files/graf88.csv"
-  },
-  {
-    "name": "Porovnání průměrného měsíčního počtu minut za hlasová volání a průměrných tržeb za tyto služby na účastnickou stanici a SIM kartu",
-    "url": "https://data.ctu.cz/sites/default/files/graf78.csv"
-  },
-  {
-    "name": "Porovnání vývoje provozu a tržeb mobilních hlasových služeb a hlasových služeb poskytovaných v pevném místě",
-    "url": "https://data.ctu.cz/sites/default/files/graf77.csv"
-  },
-  {
     "name": "Poskytování informací podle zákona č. 106/1999 Sb.",
     "url": "https://data.ctu.cz/sites/default/files/poskytovani-infomaci-106_5.csv"
   },
   {
-    "name": "Počet podnikatelů v el. komunikacích",
-    "url": "https://data.ctu.cz/sites/default/files/tabulka1.csv"
-  },
-  {
-    "name": "Počet zpřístupněných účastnických vedení",
-    "url": "https://data.ctu.cz/sites/default/files/graf93.csv"
-  },
-  {
     "name": "Počet širokopásmových přístupů k síti Internet",
-    "url": "https://data.ctu.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-pocet_sirokopasmovych_pristupu_1.csv"
-  },
-  {
-    "name": "Počty poskytovatelů služeb v mobilní síti",
-    "url": "https://data.ctu.cz/sites/default/files/tabulka3.csv"
-  },
-  {
-    "name": "Počty poskytovatelů služeb v mobilní síti",
-    "url": "https://data.ctu.cz/sites/default/files/tabulka5.csv"
+    "url": "https://data.ctu.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-pocet_sirokopasmovych_pristupu_2.csv"
   },
   {
     "name": "Poštovní síť držitele poštovní licence - obslužná místa",
@@ -682,18 +606,6 @@
   {
     "name": "Průměrný hrubý měsíční plat",
     "url": "https://data.ctu.cz/sites/default/files/prumerny-hruby-mesicni-plat-k-31-12_11.csv"
-  },
-  {
-    "name": "Průměrný maloobchodní výnos operátora za 1 min. volání podle směru volání za rok 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf32.csv"
-  },
-  {
-    "name": "Průměrný maloobchodní výnos operátora za 1 min. volání podle směru volání za rok 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf75.csv"
-  },
-  {
-    "name": "Přehled přechodových sítí",
-    "url": "https://data.ctu.cz/sites/default/files/tabulka7.csv"
   },
   {
     "name": "Přehled přídělů rádiových kmitočtů",
@@ -848,106 +760,6 @@
     "url": "https://data.ctu.cz/sites/default/files/imports/import_bmis/evidence_stanic_bmis.csv"
   },
   {
-    "name": "Struktura aktivních SIM karet v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf17.csv"
-  },
-  {
-    "name": "Struktura aktivních přípojek pro VDTS podle jednotlivých technologií v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf69.csv"
-  },
-  {
-    "name": "Struktura aktivních přístupů k síti internet dle rychlostí v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf40.csv"
-  },
-  {
-    "name": "Struktura aktivních přístupů k síti internet prostřednictvím bezdrátových technologií fungujících v licencovaných pásmech dle rychlostí za rok 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf59.csv"
-  },
-  {
-    "name": "Struktura aktivních přístupů k síti internet prostřednictvím bezdrátových technologií fungujících ve volných pásmech dle rychlostí za rok 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf47.csv"
-  },
-  {
-    "name": "Struktura aktivních přístupů k síti internet prostřednictvím optické infrastruktury (FTTH/B) dle rychlostí za rok 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf55.csv"
-  },
-  {
-    "name": "Struktura aktivních přístupů k síti internet prostřednictvím sítí kabelové televize dle rychlosti za rok 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf51.csv"
-  },
-  {
-    "name": "Struktura aktivních přístupů k síti internet prostřednictvím technologie xDSL dle rychlostí za rok 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf43.csv"
-  },
-  {
-    "name": "Struktura aktivních přístupů podle technologie přístupu za rok 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf39.csv"
-  },
-  {
-    "name": "Struktura balíčků v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf83.csv"
-  },
-  {
-    "name": "Struktura investic v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf9.csv"
-  },
-  {
-    "name": "Struktura maloobchodních tržeb za hlasová volání dle směru volání v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf74.csv"
-  },
-  {
-    "name": "Struktura odesílaných SMS v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf34.csv"
-  },
-  {
-    "name": "Struktura pronajatých okruhů v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf63.csv"
-  },
-  {
-    "name": "Struktura provozu dle směru volání v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf73.csv"
-  },
-  {
-    "name": "Struktura přístupů k síti Internet prostřednictvím mobilních sítí v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf21.csv"
-  },
-  {
-    "name": "Struktura přístupů podle úrovně přístupu v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf96.csv"
-  },
-  {
-    "name": "Struktura služeb 2-play v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/tabulka8.csv"
-  },
-  {
-    "name": "Struktura tržeb podle směru volání za rok 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf31.csv"
-  },
-  {
-    "name": "Struktura tržeb v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf2.csv"
-  },
-  {
-    "name": "Struktura tržeb za balíčky v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf84.csv"
-  },
-  {
-    "name": "Struktura tržeb ze služeb poskytovaných prostřednictvím pevné sítě v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf7.csv"
-  },
-  {
-    "name": "Struktura tržeb ze služeb posyktovaných prostřednictvím mobiní sítě v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf5.csv"
-  },
-  {
-    "name": "Struktura volání v mobilních sítích podle směru volání v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf30.csv"
-  },
-  {
-    "name": "Struktura účastnických stanic v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf67.csv"
-  },
-  {
     "name": "Stížnosti na činnost ČTÚ za rok 2010",
     "url": "https://data.ctu.cz/sites/default/files/statistika-stiznosti-na-cinnost-ctu-2010.csv"
   },
@@ -1056,20 +868,16 @@
     "url": "https://data.ctu.cz/sites/default/files/imports/import_televize/prehled_opravneni_televizni_vysilace.csv"
   },
   {
-    "name": "Tržní podíl největších poskytovatelů mobilních služeb dle počtu SIM karet v roce 2017",
-    "url": "https://data.ctu.cz/sites/default/files/graf15.csv"
-  },
-  {
     "name": "Ukazatele o trhu mobilních sítí",
-    "url": "https://data.ctu.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-mobilni_site_1.csv"
+    "url": "https://data.ctu.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-mobilni_site_2.csv"
   },
   {
     "name": "Ukazatele o trhu pevných sítí",
-    "url": "https://data.ctu.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-pevna_sit_0.csv"
+    "url": "https://data.ctu.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-pevna_sit_1.csv"
   },
   {
     "name": "Ukazatele o trhu rozhlasového a televizního vysílání",
-    "url": "https://data.ctu.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-televizni_a_rozhlasove_vysilani_0.csv"
+    "url": "https://data.ctu.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-televizni_a_rozhlasove_vysilani_1.csv"
   },
   {
     "name": "Velkoobchodní ceny za ukončení volání ve veřejných mobilních telefonních sítích  - Česká republika",
@@ -1134,254 +942,6 @@
   {
     "name": "Výdaje na vzdělávání zaměstnanců",
     "url": "https://data.ctu.cz/sites/default/files/vydaje-na-vzdelavani-zamestnancu-k-31-12_16.csv"
-  },
-  {
-    "name": "Vývoj aktivních přípojek pro VDTS podle jednotlivých technologií ",
-    "url": "https://data.ctu.cz/sites/default/files/graf68.csv"
-  },
-  {
-    "name": "Vývoj hlasového provozu ",
-    "url": "https://data.ctu.cz/sites/default/files/graf70.csv"
-  },
-  {
-    "name": "Vývoj hlasových volání v mobilní síti ",
-    "url": "https://data.ctu.cz/sites/default/files/graf26.csv"
-  },
-  {
-    "name": "Vývoj investic do mobilních sítí a služeb",
-    "url": "https://data.ctu.cz/sites/default/files/graf11.csv"
-  },
-  {
-    "name": "Vývoj investic do sítí a služeb elektronických komunikací ",
-    "url": "https://data.ctu.cz/sites/default/files/graf10.csv"
-  },
-  {
-    "name": "Vývoj mezinárodního hlasového provozu z/do ČR",
-    "url": "https://data.ctu.cz/sites/default/files/graf101.csv"
-  },
-  {
-    "name": "Vývoj měsíčního průměrného počtu minut a tržeb za hlasová volání na účastnickou stanici",
-    "url": "https://data.ctu.cz/sites/default/files/graf71.csv"
-  },
-  {
-    "name": "Vývoj objemu přenesených dat v dělení dle generací mobilních sítí",
-    "url": "https://data.ctu.cz/sites/default/files/graf23.csv"
-  },
-  {
-    "name": "Vývoj objemu přenesených dat v mobilních sítích",
-    "url": "https://data.ctu.cz/sites/default/files/graf22.csv"
-  },
-  {
-    "name": "Vývoj objemu velkoobchodních služeb poskytovaných MVNO",
-    "url": "https://data.ctu.cz/sites/default/files/graf86.csv"
-  },
-  {
-    "name": "Vývoj podílu investic na tržbách ",
-    "url": "https://data.ctu.cz/sites/default/files/graf12.csv"
-  },
-  {
-    "name": "Vývoj pokrytí obyvatelstva mobilními sítěmi LTE a UMTS",
-    "url": "https://data.ctu.cz/sites/default/files/graf19.csv"
-  },
-  {
-    "name": "Vývoj pokrytí území mobilními sítěmi LTE a UMTS",
-    "url": "https://data.ctu.cz/sites/default/files/graf18.csv"
-  },
-  {
-    "name": "Vývoj počtu SIM karet",
-    "url": "https://data.ctu.cz/sites/default/files/graf16.csv"
-  },
-  {
-    "name": "Vývoj počtu SIM karet využívaných pro přístup k síti Internet v mobilní síti a tržeb za tyto služby",
-    "url": "https://data.ctu.cz/sites/default/files/graf20.csv"
-  },
-  {
-    "name": "Vývoj počtu a tržeb za koncové a páteřní úseky pronajatých okruhů",
-    "url": "https://data.ctu.cz/sites/default/files/graf97.csv"
-  },
-  {
-    "name": "Vývoj počtu a tržeb za pronajaté okruhy",
-    "url": "https://data.ctu.cz/sites/default/files/graf62.csv"
-  },
-  {
-    "name": "Vývoj počtu aktivních SIM karet určených pro služby M2M",
-    "url": "https://data.ctu.cz/sites/default/files/graf25.csv"
-  },
-  {
-    "name": "Vývoj počtu aktivních přístupů k síti internet -  prostřednictvím technologie ADSL, VDSL",
-    "url": "https://data.ctu.cz/sites/default/files/graf41.csv"
-  },
-  {
-    "name": "Vývoj počtu aktivních přístupů k síti internet dle jednotlivých technologií",
-    "url": "https://data.ctu.cz/sites/default/files/graf38.csv"
-  },
-  {
-    "name": "Vývoj počtu aktivních přístupů k síti internet prostřednictvím bezdrátových technologií fungujících v licencovaných pásmech (FWA)",
-    "url": "https://data.ctu.cz/sites/default/files/graf58.csv"
-  },
-  {
-    "name": "Vývoj počtu aktivních přístupů k síti internet prostřednictvím bezdrátových technologií fungujících v licencovaných pásmech (FWA) - zákaznická segmentace",
-    "url": "https://data.ctu.cz/sites/default/files/graf60.csv"
-  },
-  {
-    "name": "Vývoj počtu aktivních přístupů k síti internet prostřednictvím bezdrátových technologií fungujících ve volných pásmech (Wi-Fi) - zákaznická segmentace",
-    "url": "https://data.ctu.cz/sites/default/files/graf48.csv"
-  },
-  {
-    "name": "Vývoj počtu aktivních přístupů k síti internet prostřednictvím bezdrátových technologií fungujících ve volných pásmech (WiFi)",
-    "url": "https://data.ctu.cz/sites/default/files/graf46.csv"
-  },
-  {
-    "name": "Vývoj počtu aktivních přístupů k síti internet prostřednictvím optické infrastruktury (FTTH/B)",
-    "url": "https://data.ctu.cz/sites/default/files/graf54.csv"
-  },
-  {
-    "name": "Vývoj počtu aktivních přístupů k síti internet prostřednictvím optické infrastruktury (FTTH/B) - zákaznická segmentace",
-    "url": "https://data.ctu.cz/sites/default/files/graf56.csv"
-  },
-  {
-    "name": "Vývoj počtu aktivních přístupů k síti internet prostřednictvím sítí CATV - zákaznická segmentace",
-    "url": "https://data.ctu.cz/sites/default/files/graf52.csv"
-  },
-  {
-    "name": "Vývoj počtu aktivních přístupů k síti internet prostřednictvím sítí kabelové televize (CATV)",
-    "url": "https://data.ctu.cz/sites/default/files/graf50.csv"
-  },
-  {
-    "name": "Vývoj počtu aktivních přístupů k síti internet prostřednictvím technologie xDSL - dle rychlosti přístupu",
-    "url": "https://data.ctu.cz/sites/default/files/graf42.csv"
-  },
-  {
-    "name": "Vývoj počtu aktivních přístupů k síti internet prostřednictvím technologie xDSL - zákaznické segmentace",
-    "url": "https://data.ctu.cz/sites/default/files/graf44.csv"
-  },
-  {
-    "name": "Vývoj počtu balíčků včetně tržeb za tyto služby",
-    "url": "https://data.ctu.cz/sites/default/files/graf82.csv"
-  },
-  {
-    "name": "Vývoj počtu odeslaných MMS v mobilních sítích ",
-    "url": "https://data.ctu.cz/sites/default/files/graf36.csv"
-  },
-  {
-    "name": "Vývoj počtu odeslaných SMS v mobilních sítích",
-    "url": "https://data.ctu.cz/sites/default/files/graf33.csv"
-  },
-  {
-    "name": "Vývoj počtu zaměstnanců ",
-    "url": "https://data.ctu.cz/sites/default/files/graf14.csv"
-  },
-  {
-    "name": "Vývoj počtu účastnických stanic",
-    "url": "https://data.ctu.cz/sites/default/files/graf65.csv"
-  },
-  {
-    "name": "Vývoj počtu účastníků hlasových služeb v mobilních a pevných sítích",
-    "url": "https://data.ctu.cz/sites/default/files/graf76.csv"
-  },
-  {
-    "name": "Vývoj počtu účastníků rozhlasového a televizního vysílání prostřednictvím IP protokolu (IPTV)",
-    "url": "https://data.ctu.cz/sites/default/files/graf81.csv"
-  },
-  {
-    "name": "Vývoj počtu účastníků rozhlasového a televizního vysílání prostřednictvím kabelové televize",
-    "url": "https://data.ctu.cz/sites/default/files/graf80.csv"
-  },
-  {
-    "name": "Vývoj počtu účastníků satelitního a rozhlasového vysílání (DVB-S)",
-    "url": "https://data.ctu.cz/sites/default/files/graf79.csv"
-  },
-  {
-    "name": "Vývoj provozu a tržeb - mezinárodní tranzit",
-    "url": "https://data.ctu.cz/sites/default/files/graf102.csv"
-  },
-  {
-    "name": "Vývoj průměrné měsíční spotřeby dat na 1 SIM kartu a průměrného maloobchodního výnosu operátora za 1 GB",
-    "url": "https://data.ctu.cz/sites/default/files/graf24.csv"
-  },
-  {
-    "name": "Vývoj průměrného jednotkového velkoobchodního výnosu operátorů za služby terminace a tranzitu v rámci národního propojení",
-    "url": "https://data.ctu.cz/sites/default/files/graf100.csv"
-  },
-  {
-    "name": "Vývoj průměrného maloobchodního výnosu operátora za 1 min. hlasového volání",
-    "url": "https://data.ctu.cz/sites/default/files/graf28.csv"
-  },
-  {
-    "name": "Vývoj průměrného měsíčního objemu minut volání na jednu SIM kartu",
-    "url": "https://data.ctu.cz/sites/default/files/graf27.csv"
-  },
-  {
-    "name": "Vývoj průměrného počtu MMS na 1 SIM za měsíc a vývoj průměrného maloobchodního výnosu operátora za 1 MMS ",
-    "url": "https://data.ctu.cz/sites/default/files/graf37.csv"
-  },
-  {
-    "name": "Vývoj průměrného počtu SMS na 1 SIM za měsíc a vývoj průměrného maloobchodního výnosu operátora za 1 SMS",
-    "url": "https://data.ctu.cz/sites/default/files/graf35.csv"
-  },
-  {
-    "name": "Vývoj průměrného velkoobchodního jednotkového výnosu operátorů za terminaci min. volání,  SMS a MMS v rámci národního propojení ",
-    "url": "https://data.ctu.cz/sites/default/files/graf90.csv"
-  },
-  {
-    "name": "Vývoj průměrných maloobchodních měsíčních výnosů za jeden okruh dle rozhraní",
-    "url": "https://data.ctu.cz/sites/default/files/graf64.csv"
-  },
-  {
-    "name": "Vývoj průměrných velkoobchodních jednotkových výnosů operátorů za služby poskytované MVNO",
-    "url": "https://data.ctu.cz/sites/default/files/graf87.csv"
-  },
-  {
-    "name": "Vývoj průměrných velkoobchodních měsíčních výnosů za jeden okruh ",
-    "url": "https://data.ctu.cz/sites/default/files/graf98.csv"
-  },
-  {
-    "name": "Vývoj příchozího a odchozího mezinárodního provozu do/z mobilních sítí",
-    "url": "https://data.ctu.cz/sites/default/files/graf92.csv"
-  },
-  {
-    "name": "Vývoj služeb v rámci národního propojení",
-    "url": "https://data.ctu.cz/sites/default/files/graf99.csv"
-  },
-  {
-    "name": "Vývoj struktury odchozího provozu z mobilních sítí v rámci národního propojení",
-    "url": "https://data.ctu.cz/sites/default/files/graf91.csv"
-  },
-  {
-    "name": "Vývoj struktury volání v mobilních sítích podle směru volání",
-    "url": "https://data.ctu.cz/sites/default/files/graf29.csv"
-  },
-  {
-    "name": "Vývoj struktury volání v pevných sítích podle směru volání",
-    "url": "https://data.ctu.cz/sites/default/files/graf72.csv"
-  },
-  {
-    "name": "Vývoj struktury účastnických stanic",
-    "url": "https://data.ctu.cz/sites/default/files/graf66.csv"
-  },
-  {
-    "name": "Vývoj tržeb celkem a v rozdělení na tržby od koncových účastníků (maloobchod) a tržby od podnikatelů v elektronických komunikacích (velkoobchod)",
-    "url": "https://data.ctu.cz/sites/default/files/graf1.csv"
-  },
-  {
-    "name": "Vývoj tržeb ze služeb poskytovaných prostřednictvím mobilní sítě ",
-    "url": "https://data.ctu.cz/sites/default/files/graf4.csv"
-  },
-  {
-    "name": "Vývoj tržeb ze služeb poskytovaných prostřednictvím pevné sítě ",
-    "url": "https://data.ctu.cz/sites/default/files/graf6.csv"
-  },
-  {
-    "name": "Vývoj velkoobchodního přístupu k síti Internet podle technologie",
-    "url": "https://data.ctu.cz/sites/default/files/graf94.csv"
-  },
-  {
-    "name": "Vývoj velkoobchodního přístupu k síti Internet podle úrovně přístupu",
-    "url": "https://data.ctu.cz/sites/default/files/graf95_0.csv"
-  },
-  {
-    "name": "Vývoj velkoobchodně prodaných SIM karet virtuálním operátorům",
-    "url": "https://data.ctu.cz/sites/default/files/graf85.csv"
   },
   {
     "name": "Zahraniční pracovní cesty za rok 2012",
