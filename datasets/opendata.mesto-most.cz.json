@@ -5,6 +5,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::bloky-v-mostě"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::budovy-ve-starém-mostě"
   },
   {
@@ -69,6 +73,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::budovy-ve-starém-mostě.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -126,6 +134,10 @@
   {
     "name": "CSV",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::záplavové-území-s-periodicitou-50-ti-let.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "GeoJSON",
@@ -189,6 +201,10 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::budovy-ve-starém-mostě.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -246,6 +262,10 @@
   {
     "name": "KML",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::záplavové-území-s-periodicitou-50-ti-let.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
