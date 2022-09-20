@@ -85,6 +85,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::georizika-dob%C3%BDvac%C3%AD-prostory-geological-risks-mining-areas.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::georizika-horizont%C3%A1ln%C3%AD-vrty-geological-risks-horizontal-drilling.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -582,6 +586,10 @@
   {
     "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::georizika-ciu-tranzitn%C3%AD-kontaminace-podzemn%C3%AD-vodou-geological-risks-transitional-contamination-of-groundwater.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::georizika-dob%C3%BDvac%C3%AD-prostory-geological-risks-mining-areas.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -1085,6 +1093,10 @@
   },
   {
     "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::georizika-dob%C3%BDvac%C3%AD-prostory-geological-risks-mining-areas.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::georizika-horizont%C3%A1ln%C3%AD-vrty-geological-risks-horizontal-drilling.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1582,6 +1594,10 @@
   {
     "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::georizika-ciu-tranzitn%C3%AD-kontaminace-podzemn%C3%AD-vodou-geological-risks-transitional-contamination-of-groundwater.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::georizika-dob%C3%BDvac%C3%AD-prostory-geological-risks-mining-areas.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
