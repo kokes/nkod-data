@@ -1,15 +1,15 @@
 [
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/documents/mestomost::úřední-deska"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::bloky-v-mostě"
   },
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::budovy-ve-starém-mostě"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::cenová-map-2013"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -30,6 +30,10 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::cenová-mapa-2009"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::cenová-mapa-2013"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -116,16 +120,56 @@
     "url": "https://opendata.mesto-most.cz/maps/mestomost::záplavové-území-s-periodicitou-50-ti-let"
   },
   {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územná-plán-most-limity-těžby-uhlí-ze-zúr"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-hranice-hornické-činnosti"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-hranice-zastavěného-území-obce"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-koridory-dopravní-a-technické-infrastruktury"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-plocha-přestavby-p"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-plocha-změn-v-krajině-k"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-zastavitelná-plocha-z"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-základní-funkční-plochy-"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-úses"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-územní-rezerva-r"
+  },
+  {
     "name": "CSV",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "CSV",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::budovy-ve-starém-mostě.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-map-2013.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "CSV",
@@ -142,6 +186,10 @@
   {
     "name": "CSV",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2009.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2013.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "CSV",
@@ -224,16 +272,52 @@
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::záplavové-území-s-periodicitou-50-ti-let.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územná-plán-most-limity-těžby-uhlí-ze-zúr.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-hranice-hornické-činnosti.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-hranice-zastavěného-území-obce.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-koridory-dopravní-a-technické-infrastruktury.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-plocha-přestavby-p.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-plocha-změn-v-krajině-k.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-zastavitelná-plocha-z.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-základní-funkční-plochy-.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-úses.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-územní-rezerva-r.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
     "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::budovy-ve-starém-mostě.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-map-2013.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "GeoJSON",
@@ -250,6 +334,10 @@
   {
     "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2009.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2013.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "GeoJSON",
@@ -332,16 +420,52 @@
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::záplavové-území-s-periodicitou-50-ti-let.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územná-plán-most-limity-těžby-uhlí-ze-zúr.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-hranice-hornické-činnosti.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-hranice-zastavěného-území-obce.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-koridory-dopravní-a-technické-infrastruktury.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-plocha-přestavby-p.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-plocha-změn-v-krajině-k.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-zastavitelná-plocha-z.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-základní-funkční-plochy-.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-úses.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-územní-rezerva-r.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
     "name": "KML",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "KML",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::budovy-ve-starém-mostě.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-map-2013.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "KML",
@@ -358,6 +482,10 @@
   {
     "name": "KML",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2009.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2013.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "KML",
@@ -440,16 +568,52 @@
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::záplavové-území-s-periodicitou-50-ti-let.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územná-plán-most-limity-těžby-uhlí-ze-zúr.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-hranice-hornické-činnosti.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-hranice-zastavěného-území-obce.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-koridory-dopravní-a-technické-infrastruktury.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-plocha-přestavby-p.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-plocha-změn-v-krajině-k.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-zastavitelná-plocha-z.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-základní-funkční-plochy-.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-úses.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-územní-rezerva-r.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::budovy-ve-starém-mostě.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-map-2013.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
@@ -466,6 +630,10 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2009.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2013.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
@@ -546,5 +714,45 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::záplavové-území-s-periodicitou-50-ti-let.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územná-plán-most-limity-těžby-uhlí-ze-zúr.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-hranice-hornické-činnosti.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-hranice-zastavěného-území-obce.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-koridory-dopravní-a-technické-infrastruktury.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-plocha-přestavby-p.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-plocha-změn-v-krajině-k.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-zastavitelná-plocha-z.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-základní-funkční-plochy-.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-úses.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-územní-rezerva-r.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   }
 ]
