@@ -12,6 +12,10 @@
     "url": "https://voda.gov.cz/data/ISVSVoda_HOZ.zip"
   },
   {
+    "name": "Hlavní odvodňovací a závlahová zařízení",
+    "url": "https://voda.gov.cz/data/ISVSVoda_Vodninadrze.zip"
+  },
+  {
     "name": "Hráze",
     "url": "https://voda.gov.cz/data/ISVSVoda_Hraze.zip"
   },
@@ -24,12 +28,20 @@
     "url": "https://voda.gov.cz/data/ISVSVoda_Objektyvkoryte.zip"
   },
   {
+    "name": "Objekty v korytě",
+    "url": "https://voda.gov.cz/data/ISVSVoda_Spravniclenenipovodi.zip"
+  },
+  {
     "name": "Odběry podzemních vod",
     "url": "https://voda.gov.cz/data/ISVSVoda_Odberypodzemnichvod.zip"
   },
   {
     "name": "Odběry povrchových vod",
     "url": "https://voda.gov.cz/data/ISVSVoda_Odberypovrchovychvod.zip"
+  },
+  {
+    "name": "Odběry povrchových vod",
+    "url": "https://voda.gov.cz/data/ISVSVoda_Vypoustenipovrchovychvod.zip"
   },
   {
     "name": "Osy vodních linií",
@@ -45,7 +57,15 @@
   },
   {
     "name": "Vypouštění povrchových vod",
+    "url": "https://voda.gov.cz/data/ISVSVoda_Odberypovrchovychvod.zip"
+  },
+  {
+    "name": "Vypouštění povrchových vod",
     "url": "https://voda.gov.cz/data/ISVSVoda_Vypoustenipovrchovychvod.zip"
+  },
+  {
+    "name": "Územní působnost s. p. Povodí",
+    "url": "https://voda.gov.cz/data/ISVSVoda_Objektyvkoryte.zip"
   },
   {
     "name": "Územní působnost s. p. Povodí",
