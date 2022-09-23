@@ -160,6 +160,10 @@
     "url": "https://storage.golemio.cz/ckan/obis/Vysledky_hlasovani_ZHMP_2018_-_2022.csv"
   },
   {
+    "name": "faktury_oict.csv",
+    "url": "https://storage.golemio.cz/ckan/oict-faktury/faktury_oict.csv"
+  },
+  {
     "name": "kontrolyExport.xml",
     "url": "https://storage.golemio.cz/ckan/publix/kontrolyExport.xml"
   },
