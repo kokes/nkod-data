@@ -1,5 +1,17 @@
 [
   {
+    "name": "CSV soubor sbalený v ZIP archivu",
+    "url": "https://www.volby.cz/opendata/kv2022/csv_od/kvhl_csvod.zip"
+  },
+  {
+    "name": "CSV soubor sbalený v ZIP archivu",
+    "url": "https://www.volby.cz/opendata/kv2022/csv_od/kvt3_csvod.zip"
+  },
+  {
+    "name": "CSV soubor sbalený v ZIP archivu",
+    "url": "https://www.volby.cz/opendata/se2022/csv_od/set5_csvod.zip"
+  },
+  {
     "name": "Okrsková data - CSV s JSON schématem v ZIP balíčku",
     "url": "https://www.volby.cz/opendata/ep2019/EP2019data20190526_csv.zip"
   },
