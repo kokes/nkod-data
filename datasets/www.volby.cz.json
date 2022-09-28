@@ -12,6 +12,10 @@
     "url": "https://www.volby.cz/opendata/se2022/csv_od/set5_csvod.zip"
   },
   {
+    "name": "Celkové výsledky za ČR ve formátu XML",
+    "url": "https://www.volby.cz/pls/kv2022/vysledky"
+  },
+  {
     "name": "Okrsková data - CSV s JSON schématem v ZIP balíčku",
     "url": "https://www.volby.cz/opendata/ep2019/EP2019data20190526_csv.zip"
   },
@@ -132,6 +136,10 @@
     "url": "https://www.volby.cz/opendata/ps2021/csv_od/psvolkr.csv"
   },
   {
+    "name": "Výsledky za vybranou obec ve formátu XML",
+    "url": "https://www.volby.cz/pls/kv2022/vysledky_obec?cislo_obce="
+  },
+  {
     "name": "XML s aktuálním složením Senátu Parlamentu ČR",
     "url": "https://www.volby.cz/pls/senat/vysledky_celk"
   },
@@ -150,6 +158,14 @@
   {
     "name": "XML s výsledky za jednotlivé senátní obvody",
     "url": "https://www.volby.cz/pls/senat/vysledky?datum_voleb=20201002"
+  },
+  {
+    "name": "XML s výsledky za jednotlivé senátní obvody",
+    "url": "https://www.volby.cz/pls/senat/vysledky?datum_voleb=20220923"
+  },
+  {
+    "name": "XML soubor sbalený v ZIP archivu",
+    "url": "https://www.volby.cz/opendata/se2022/xml/set5_xml.zip"
   },
   {
     "name": "Číselník v CSV souboru",

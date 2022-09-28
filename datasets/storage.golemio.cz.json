@@ -160,6 +160,26 @@
     "url": "https://storage.golemio.cz/ckan/obis/Vysledky_hlasovani_ZHMP_2018_-_2022.csv"
   },
   {
+    "name": "ZPS zakoupené parkování Q1 / 2021",
+    "url": "https://storage.golemio.cz/ckan/parkomaty/parkomats_2021_q1.csv.gz"
+  },
+  {
+    "name": "ZPS zakoupené parkování Q1 / 2022",
+    "url": "https://storage.golemio.cz/ckan/parkomaty/parkomats_2022_q1.csv.gz"
+  },
+  {
+    "name": "ZPS zakoupené parkování Q2 / 2021",
+    "url": "https://storage.golemio.cz/ckan/parkomaty/parkomats_2021_q2.csv.gz"
+  },
+  {
+    "name": "ZPS zakoupené parkování Q3 / 2021",
+    "url": "https://storage.golemio.cz/ckan/parkomaty/parkomats_2021_q3.csv.gz"
+  },
+  {
+    "name": "ZPS zakoupené parkování Q4 / 2021",
+    "url": "https://storage.golemio.cz/ckan/parkomaty/parkomats_2021_q4.csv.gz"
+  },
+  {
     "name": "faktury_oict.csv",
     "url": "https://storage.golemio.cz/ckan/oict-faktury/faktury_oict.csv"
   },
