@@ -136,6 +136,10 @@
     "url": "https://www.volby.cz/opendata/ps2021/csv_od/psvolkr.csv"
   },
   {
+    "name": "Výsledky za obce vybraného okresu ve formátu XML",
+    "url": "https://www.volby.cz/pls/kv2022/vysledky_obce_okres?nuts="
+  },
+  {
     "name": "Výsledky za vybranou obec ve formátu XML",
     "url": "https://www.volby.cz/pls/kv2022/vysledky_obec?cislo_obce="
   },
