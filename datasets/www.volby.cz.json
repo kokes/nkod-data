@@ -148,6 +148,10 @@
     "url": "https://www.volby.cz/pls/senat/vysledky_celk"
   },
   {
+    "name": "XML s výsledky za jednotlivé okrsky ve vybraném kole a dávce",
+    "url": "https://www.volby.cz/pls/senat/vysledky_okrsky?datum_voleb=20220923&kolo=&davka="
+  },
+  {
     "name": "XML s výsledky za jednotlivé senátní obvody",
     "url": "https://www.volby.cz/pls/senat/vysledky?datum_voleb=20161007"
   },
