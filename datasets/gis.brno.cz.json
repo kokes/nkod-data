@@ -277,6 +277,10 @@
   },
   {
     "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/povodnove_rizika_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pruzkumneuzemi_p_sjtsk.dxf"
   },
   {
@@ -366,6 +370,10 @@
   {
     "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vod_ohrozeni_p_sjtsk.dxf"
   },
   {
     "name": "DXF (S-JTSK)",
@@ -589,6 +597,10 @@
   },
   {
     "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/povodnove_rizika_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/pz_g_bio1_wgs84.dxf"
   },
   {
@@ -674,6 +686,10 @@
   {
     "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/vod_ohrozeni_p_wgs84.dxf"
   },
   {
     "name": "DXF (WGS84)",
@@ -857,6 +873,10 @@
   },
   {
     "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/povodnove_rizika_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
     "url": "https://gis.brno.cz/public/opendata/pruzkumneuzemi_p_gml_sjtsk.zip"
   },
   {
@@ -914,6 +934,10 @@
   {
     "name": "GML (S-JSTK)",
     "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/vod_ohrozeni_p_gml_sjtsk.zip"
   },
   {
     "name": "GML (S-JSTK)",
@@ -1209,6 +1233,10 @@
   },
   {
     "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/povodnove_rizika_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/pruzkumneuzemi_p_gml_wgs84.zip"
   },
   {
@@ -1298,6 +1326,10 @@
   {
     "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/vod_ohrozeni_p_gml_wgs84.zip"
   },
   {
     "name": "GML (WGS84)",
@@ -1521,6 +1553,10 @@
   },
   {
     "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/povodnove_rizika_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pruzkumneuzemi_p_sjtsk.geojson"
   },
   {
@@ -1613,6 +1649,10 @@
   },
   {
     "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vod_ohrozeni_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vod_zaplava_azzu_p_sjtsk.geojson"
   },
   {
@@ -1626,6 +1666,10 @@
   {
     "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vod_zaplava_q5_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vod_zranitelnost_p_sjtsk.geojson"
   },
   {
     "name": "GeoJSON (S-JTSK)",
@@ -1833,6 +1877,10 @@
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/povodnove_rizika_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pruzkumneuzemi_p_sjtsk.gpkg"
   },
   {
@@ -1922,6 +1970,10 @@
   {
     "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vod_ohrozeni_p_sjtsk.gpkg"
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
@@ -2133,6 +2185,10 @@
   },
   {
     "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/povodnove_rizika_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/pruzkumneuzemi_p_wgs84.gpkg"
   },
   {
@@ -2222,6 +2278,10 @@
   {
     "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/vod_ohrozeni_p_wgs84.gpkg"
   },
   {
     "name": "OGC GeoPackage (WGS84)",
@@ -2445,6 +2505,10 @@
   },
   {
     "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/povodnove_rizika_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pruzkumneuzemi_p_shp_sjtsk.zip"
   },
   {
@@ -2530,6 +2594,10 @@
   {
     "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/velslozzaklpomery_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/vod_ohrozeni_p_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",

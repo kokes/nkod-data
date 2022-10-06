@@ -4,6 +4,10 @@
     "url": "https://opendata.mzcr.cz/data/dip/kapacity-intenzivni-pece.csv"
   },
   {
+    "name": "Cervikální screeningové vyšetření: Pokrytí cílové populace",
+    "url": "https://opendata.mzcr.cz/data/nsc/cervikalni-screening-c53.csv"
+  },
+  {
     "name": "Data dotazníkového průzkumu",
     "url": "https://opendata.mzcr.cz/data/mzcr-dotazníkovy-pruzkum-2018/Dotazníkový%20průzkum.xlsx"
   },
@@ -510,6 +514,10 @@
   {
     "name": "Faktury 2018",
     "url": "https://opendata.mzcr.cz/data/uzis/faktury/2018/faktury.xlsx"
+  },
+  {
+    "name": "Kolorektální screeningové vyšetření: Pokrytí cílové populace",
+    "url": "https://opendata.mzcr.cz/data/nsc/kolorektalni-screening-c18-c20.csv"
   },
   {
     "name": "Mamografické screeningové vyšetření: Pokrytí cílové populace",
