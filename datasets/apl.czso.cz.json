@@ -1733,6 +1733,10 @@
   },
   {
     "name": "Číselník v CSV",
+    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=1035&typdat=0&cisjaz=203&format=2&separator=%2C"
+  },
+  {
+    "name": "Číselník v CSV",
     "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=1040&typdat=0&cisjaz=203&format=2&separator=%2C"
   },
   {
@@ -1830,6 +1834,26 @@
   {
     "name": "Číselník v CSV",
     "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=2910&typdat=0&cisjaz=203&format=2&separator=%2C"
+  },
+  {
+    "name": "Číselník v CSV",
+    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=3043&typdat=0&cisjaz=203&format=2&separator=%2C"
+  },
+  {
+    "name": "Číselník v CSV",
+    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=3044&typdat=0&cisjaz=203&format=2&separator=%2C"
+  },
+  {
+    "name": "Číselník v CSV",
+    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=3049&typdat=0&cisjaz=203&format=2&separator=%2C"
+  },
+  {
+    "name": "Číselník v CSV",
+    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=3206&typdat=0&cisjaz=203&format=2&separator=%2C"
+  },
+  {
+    "name": "Číselník v CSV",
+    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=3228&typdat=0&cisjaz=203&format=2&separator=%2C"
   },
   {
     "name": "Číselník v CSV",
@@ -2393,6 +2417,26 @@
   },
   {
     "name": "Číselník v XML",
+    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=3043&typdat=0&cisjaz=203&format=0"
+  },
+  {
+    "name": "Číselník v XML",
+    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=3044&typdat=0&cisjaz=203&format=0"
+  },
+  {
+    "name": "Číselník v XML",
+    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=3049&typdat=0&cisjaz=203&format=0"
+  },
+  {
+    "name": "Číselník v XML",
+    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=3206&typdat=0&cisjaz=203&format=0"
+  },
+  {
+    "name": "Číselník v XML",
+    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=3228&typdat=0&cisjaz=203&format=0"
+  },
+  {
+    "name": "Číselník v XML",
     "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=342&typdat=0&cisjaz=203&format=0"
   },
   {
@@ -2834,25 +2878,5 @@
   {
     "name": "Číselník ČSÚ: Délka časového intervalu",
     "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=1035&typdat=0&cisjaz=203&format=0"
-  },
-  {
-    "name": "Číselník ČSÚ: Materiál nosných zdí budovy",
-    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=3043&typdat=0&cisjaz=203&format=0"
-  },
-  {
-    "name": "Číselník ČSÚ: Období výstavby nebo rekonstrukce domu",
-    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=3044&typdat=0&cisjaz=203&format=0"
-  },
-  {
-    "name": "Číselník ČSÚ: Státní občanství",
-    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=3228&typdat=0&cisjaz=203&format=0"
-  },
-  {
-    "name": "Číselník ČSÚ: Typ vlastníka domu",
-    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=3049&typdat=0&cisjaz=203&format=0"
-  },
-  {
-    "name": "Číselník ČSÚ: Vybavenost budovy výtahem",
-    "url": "https://apl.czso.cz/iSMS/cisexp.jsp?kodcis=3206&typdat=0&cisjaz=203&format=0"
   }
 ]
