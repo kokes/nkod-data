@@ -8,6 +8,14 @@
     "url": "https://volby.cz/opendata/ps2021/csv_od/pst4p_csv_od.zip"
   },
   {
+    "name": "GeoJson",
+    "url": "https://volby.cz/opendata/se2022/geo/VO_Senat_2022g300.geojson"
+  },
+  {
+    "name": "GeoJson",
+    "url": "https://volby.cz/opendata/se2022/geo/vol_okrsky_2022g100.geojson"
+  },
+  {
     "name": "Okrsková data - CSV soubory a JSON schémata v ZIP balíčku",
     "url": "https://volby.cz/opendata/kz2020/KZ2020_data_20201004a_csv.zip"
   },
@@ -46,6 +54,14 @@
   {
     "name": "Registry - XML soubory v ZIP balíčku",
     "url": "https://volby.cz/opendata/ps2017/PS2017reg20171021.zip"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://volby.cz/opendata/se2022/geo/VO_Senat_2022g300.zip"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://volby.cz/opendata/se2022/geo/vol_okrsky_2022g100.zip"
   },
   {
     "name": "Výsledky voleb do zastupitelstev obcí 2014",
