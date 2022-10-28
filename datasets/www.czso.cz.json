@@ -420,6 +420,10 @@
     "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_byty_plocha.csv"
   },
   {
+    "name": "Obydlené byty podle hlavního zdroje energie používaného k vytápění",
+    "url": "https://www.czso.cz/documents/62353418/197581057/sldb2021_byty_energie.csv"
+  },
+  {
     "name": "Obydlené byty podle počtu obytných místností",
     "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_byty_mistnosti.csv"
   },
@@ -434,6 +438,18 @@
   {
     "name": "Obydlené byty podle právního důvodu užívání bytu",
     "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_byty_uzivani.csv"
+  },
+  {
+    "name": "Obydlené byty podle převažujícího způsobu vytápění",
+    "url": "https://www.czso.cz/documents/62353418/197581057/sldb2021_byty_vytapeni.csv"
+  },
+  {
+    "name": "Obydlené byty podle připojení na plyn",
+    "url": "https://www.czso.cz/documents/62353418/197581057/sldb2021_byty_plyn.csv"
+  },
+  {
+    "name": "Obydlené byty podle připojení na vodovod",
+    "url": "https://www.czso.cz/documents/62353418/197581057/sldb2021_byty_vodovod.csv"
   },
   {
     "name": "Obydlené byty podle vybavení kuchyní",
