@@ -41,6 +41,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datakhk.cz/maps/1901ac57194d4598bbf52242f87bbb5f_0"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.datakhk.cz/maps/1915aa2911d74672a6ab58d5b615055b_0"
   },
   {
@@ -50,6 +54,10 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://www.datakhk.cz/maps/1c47f9e8b72e48a98c379e9a2b82871b_1"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datakhk.cz/maps/2065e0bcbf0643dab5680a8dc315e30f_0"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -93,23 +101,11 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.datakhk.cz/maps/42e9a580824a46e695947528bfb8be7f_0"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://www.datakhk.cz/maps/4563c48f04cf43f9a9d460801a7688a0_0"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://www.datakhk.cz/maps/4e0d8df8694a4e5981c4bc0e4c87f377_0"
   },
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://www.datakhk.cz/maps/539847974bf8492c9d7fdf9a369b9f63_0"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://www.datakhk.cz/maps/55eacc95dd4f43f3a6957040fa6a502a_0"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -213,6 +209,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datakhk.cz/maps/cccf864fdc654c3fae39a54ed20c2183_0"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.datakhk.cz/maps/ce90ca4f51b04525b620a8ad41317086_0"
   },
   {
@@ -265,11 +265,11 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.datakhk.cz/maps/f72d77cdc8ec4019a3e9be0c5795a219_0"
+    "url": "https://www.datakhk.cz/maps/f51fcdb253344157a658e9fe3a4cd385_0"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.datakhk.cz/maps/f824f9639edb437386e36678e6827301_0"
+    "url": "https://www.datakhk.cz/maps/f72d77cdc8ec4019a3e9be0c5795a219_0"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -313,6 +313,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://www.datakhk.cz/datasets/1901ac57194d4598bbf52242f87bbb5f_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://www.datakhk.cz/datasets/1915aa2911d74672a6ab58d5b615055b_0.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -322,6 +326,10 @@
   {
     "name": "CSV",
     "url": "https://www.datakhk.cz/datasets/1c47f9e8b72e48a98c379e9a2b82871b_1.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.datakhk.cz/datasets/2065e0bcbf0643dab5680a8dc315e30f_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -365,23 +373,11 @@
   },
   {
     "name": "CSV",
-    "url": "https://www.datakhk.cz/datasets/42e9a580824a46e695947528bfb8be7f_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://www.datakhk.cz/datasets/4563c48f04cf43f9a9d460801a7688a0_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://www.datakhk.cz/datasets/4e0d8df8694a4e5981c4bc0e4c87f377_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
     "url": "https://www.datakhk.cz/datasets/539847974bf8492c9d7fdf9a369b9f63_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://www.datakhk.cz/datasets/55eacc95dd4f43f3a6957040fa6a502a_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -485,6 +481,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://www.datakhk.cz/datasets/cccf864fdc654c3fae39a54ed20c2183_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://www.datakhk.cz/datasets/ce90ca4f51b04525b620a8ad41317086_0.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -537,11 +537,11 @@
   },
   {
     "name": "CSV",
-    "url": "https://www.datakhk.cz/datasets/f72d77cdc8ec4019a3e9be0c5795a219_0.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://www.datakhk.cz/datasets/f51fcdb253344157a658e9fe3a4cd385_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://www.datakhk.cz/datasets/f824f9639edb437386e36678e6827301_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://www.datakhk.cz/datasets/f72d77cdc8ec4019a3e9be0c5795a219_0.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "CSV",
@@ -585,6 +585,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://www.datakhk.cz/datasets/1901ac57194d4598bbf52242f87bbb5f_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://www.datakhk.cz/datasets/1915aa2911d74672a6ab58d5b615055b_0.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -594,6 +598,10 @@
   {
     "name": "GeoJSON",
     "url": "https://www.datakhk.cz/datasets/1c47f9e8b72e48a98c379e9a2b82871b_1.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://www.datakhk.cz/datasets/2065e0bcbf0643dab5680a8dc315e30f_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -637,23 +645,11 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://www.datakhk.cz/datasets/42e9a580824a46e695947528bfb8be7f_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://www.datakhk.cz/datasets/4563c48f04cf43f9a9d460801a7688a0_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://www.datakhk.cz/datasets/4e0d8df8694a4e5981c4bc0e4c87f377_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
     "url": "https://www.datakhk.cz/datasets/539847974bf8492c9d7fdf9a369b9f63_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://www.datakhk.cz/datasets/55eacc95dd4f43f3a6957040fa6a502a_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -757,6 +753,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://www.datakhk.cz/datasets/cccf864fdc654c3fae39a54ed20c2183_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://www.datakhk.cz/datasets/ce90ca4f51b04525b620a8ad41317086_0.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -809,11 +809,11 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://www.datakhk.cz/datasets/f72d77cdc8ec4019a3e9be0c5795a219_0.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://www.datakhk.cz/datasets/f51fcdb253344157a658e9fe3a4cd385_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://www.datakhk.cz/datasets/f824f9639edb437386e36678e6827301_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://www.datakhk.cz/datasets/f72d77cdc8ec4019a3e9be0c5795a219_0.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "GeoJSON",
@@ -853,6 +853,10 @@
   },
   {
     "name": "KML",
+    "url": "https://www.datakhk.cz/datasets/1901ac57194d4598bbf52242f87bbb5f_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://www.datakhk.cz/datasets/1915aa2911d74672a6ab58d5b615055b_0.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -862,6 +866,10 @@
   {
     "name": "KML",
     "url": "https://www.datakhk.cz/datasets/1c47f9e8b72e48a98c379e9a2b82871b_1.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://www.datakhk.cz/datasets/2065e0bcbf0643dab5680a8dc315e30f_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -901,23 +909,11 @@
   },
   {
     "name": "KML",
-    "url": "https://www.datakhk.cz/datasets/42e9a580824a46e695947528bfb8be7f_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://www.datakhk.cz/datasets/4563c48f04cf43f9a9d460801a7688a0_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://www.datakhk.cz/datasets/4e0d8df8694a4e5981c4bc0e4c87f377_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
     "url": "https://www.datakhk.cz/datasets/539847974bf8492c9d7fdf9a369b9f63_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://www.datakhk.cz/datasets/55eacc95dd4f43f3a6957040fa6a502a_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1021,6 +1017,10 @@
   },
   {
     "name": "KML",
+    "url": "https://www.datakhk.cz/datasets/cccf864fdc654c3fae39a54ed20c2183_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://www.datakhk.cz/datasets/ce90ca4f51b04525b620a8ad41317086_0.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -1073,11 +1073,11 @@
   },
   {
     "name": "KML",
-    "url": "https://www.datakhk.cz/datasets/f72d77cdc8ec4019a3e9be0c5795a219_0.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://www.datakhk.cz/datasets/f51fcdb253344157a658e9fe3a4cd385_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://www.datakhk.cz/datasets/f824f9639edb437386e36678e6827301_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://www.datakhk.cz/datasets/f72d77cdc8ec4019a3e9be0c5795a219_0.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "KML",
@@ -1117,6 +1117,10 @@
   },
   {
     "name": "Shapefile",
+    "url": "https://www.datakhk.cz/datasets/1901ac57194d4598bbf52242f87bbb5f_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
     "url": "https://www.datakhk.cz/datasets/1915aa2911d74672a6ab58d5b615055b_0.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -1126,6 +1130,10 @@
   {
     "name": "Shapefile",
     "url": "https://www.datakhk.cz/datasets/1c47f9e8b72e48a98c379e9a2b82871b_1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.datakhk.cz/datasets/2065e0bcbf0643dab5680a8dc315e30f_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1165,23 +1173,11 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://www.datakhk.cz/datasets/42e9a580824a46e695947528bfb8be7f_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://www.datakhk.cz/datasets/4563c48f04cf43f9a9d460801a7688a0_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
     "url": "https://www.datakhk.cz/datasets/4e0d8df8694a4e5981c4bc0e4c87f377_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
     "url": "https://www.datakhk.cz/datasets/539847974bf8492c9d7fdf9a369b9f63_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://www.datakhk.cz/datasets/55eacc95dd4f43f3a6957040fa6a502a_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1285,6 +1281,10 @@
   },
   {
     "name": "Shapefile",
+    "url": "https://www.datakhk.cz/datasets/cccf864fdc654c3fae39a54ed20c2183_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
     "url": "https://www.datakhk.cz/datasets/ce90ca4f51b04525b620a8ad41317086_0.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -1337,11 +1337,11 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://www.datakhk.cz/datasets/f72d77cdc8ec4019a3e9be0c5795a219_0.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://www.datakhk.cz/datasets/f51fcdb253344157a658e9fe3a4cd385_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://www.datakhk.cz/datasets/f824f9639edb437386e36678e6827301_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://www.datakhk.cz/datasets/f72d77cdc8ec4019a3e9be0c5795a219_0.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
