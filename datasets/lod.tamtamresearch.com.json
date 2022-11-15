@@ -1,6 +1,10 @@
 [
   {
-    "name": "SPARQL rozhraní pro dotazování na data v datové sadě",
+    "name": "Dotazovací rozhraní SPARQL",
     "url": "https://lod.tamtamresearch.com/sparql"
+  },
+  {
+    "name": "Snímek právě platných dopravních informací ve formátu RDF Turtle",
+    "url": "https://lod.tamtamresearch.com/srti/snapshot"
   }
 ]
