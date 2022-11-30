@@ -384,28 +384,8 @@
     "url": "https://www.czso.cz/documents/10180/25233177/sldb_domybyty.zip"
   },
   {
-    "name": "Domy podle materiálu nosných zdí",
-    "url": "https://www.czso.cz/documents/62353418/184337890/sldb2021_domy_material.csv"
-  },
-  {
-    "name": "Domy podle období výstavby nebo rekonstrukce",
-    "url": "https://www.czso.cz/documents/62353418/182807150/sldb2021_domy_obdobi.csv"
-  },
-  {
-    "name": "Domy podle vlastníka",
-    "url": "https://www.czso.cz/documents/62353418/182807150/sldb2021_domy_vlastnik.csv"
-  },
-  {
-    "name": "Domy podle vlastníka a období výstavby nebo rekonstrukce",
-    "url": "https://www.czso.cz/documents/62353418/182807150/sldb2021_domy_vlastnik_obdobi.csv"
-  },
-  {
-    "name": "Domy podle vybavení výtahem",
-    "url": "https://www.czso.cz/documents/62353418/184337890/sldb2021_domy_vytah.csv"
-  },
-  {
-    "name": "Domy podle způsobu odvádění odpadních vod",
-    "url": "https://www.czso.cz/documents/62353418/184337890/sldb2021_domy_odpad.csv"
+    "name": "Domy podle obydlenosti a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/200583836/sldb2021_domy_obydlen_druh.csv"
   },
   {
     "name": "Domácnosti",
@@ -454,6 +434,42 @@
   {
     "name": "Obydlené byty podle vybavení kuchyní",
     "url": "https://www.czso.cz/documents/62353418/192056095/sldb2021_byty_kuchyne.csv"
+  },
+  {
+    "name": "Obydlené domy podle materiálu nosných zdí a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/200583836/sldb2021_obydomy_druh_zdi.csv"
+  },
+  {
+    "name": "Obydlené domy podle napojení na kanalizaci a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/200583836/sldb2021_obydomy_druh_odpad.csv"
+  },
+  {
+    "name": "Obydlené domy podle napojení na plyn a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/200583836/sldb2021_obydomy_druh_plyn.csv"
+  },
+  {
+    "name": "Obydlené domy podle napojení na vodovod a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/200583836/sldb2021_obydomy_druh_vodovod.csv"
+  },
+  {
+    "name": "Obydlené domy podle období výstavby a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/200583836/sldb2021_obydomy_druh_obdobi.csv"
+  },
+  {
+    "name": "Obydlené domy podle počtu bytů v domě a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/200583836/sldb2021_obydomy_druh_byty.csv"
+  },
+  {
+    "name": "Obydlené domy podle vlastnictví a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/200583836/sldb2021_obydomy_druh_vlastnik.csv"
+  },
+  {
+    "name": "Obydlené domy podle vybavení výtahem a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/200583836/sldb2021_obydomy_druh_vytah.csv"
+  },
+  {
+    "name": "Obydlené domy způsobu vytápění a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/200583836/sldb2021_obydomy_druh_vytapeni.csv"
   },
   {
     "name": "Obyvatelstvo",
