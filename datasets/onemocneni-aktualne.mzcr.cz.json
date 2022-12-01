@@ -36,6 +36,10 @@
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-orp.csv"
   },
   {
+    "name": "COVID-19: Denní přehled reinfekcí",
+    "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/reinfekce-denni-prehled.csv"
+  },
+  {
     "name": "COVID-19: Denní přehled testů, prokázaných nákaz, hospitalizací a JIP",
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/nakazeni-hospitalizace-testy.csv"
   },
@@ -104,6 +108,10 @@
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/nakazeni-reinfekce.csv"
   },
   {
+    "name": "COVID-19: Přehled osob s prokázanou nákazou (včetně reinfekcí) dle krajských hygienických stanic včetně laboratoří za 7 a 14 dní za ČR",
+    "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/incidence-7-14-cr.csv"
+  },
+  {
     "name": "COVID-19: Přehled osob s prokázanou nákazou dle hlášení krajských hygienických stanic",
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19/osoby.csv"
   },
@@ -118,10 +126,6 @@
   {
     "name": "COVID-19: Přehled osob s prokázanou nákazou dle krajských hygienických stanic včetně laboratoří za 7 a 14 dní podle okresů",
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/incidence-7-14-okresy.csv"
-  },
-  {
-    "name": "COVID-19: Přehled osob s prokázanou nákazou dle krajských hygienických stanic včetně laboratoří za 7 a 14 dní za ČR",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/incidence-7-14-cr.csv"
   },
   {
     "name": "COVID-19: Přehled osob s prokázanou nákazou s ohledem na vykázaná očkování",
@@ -194,6 +198,10 @@
   {
     "name": "COVID-19: Týdenní přehled hospitalizací s ohledem na vykázaná očkování podle věkových kategorií",
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-hospitalizace-tyden.csv"
+  },
+  {
+    "name": "COVID-19: Týdenní přehled nově potvrzených případů s rozdělením na prvoinfekce a reinfekce",
+    "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/nakazeni-reinfekce-tyden.csv"
   },
   {
     "name": "COVID-19: Týdenní přehled osob s prokázanou nákazou s ohledem na vykázaná očkování podle věkových kategorií",
