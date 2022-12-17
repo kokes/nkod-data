@@ -144,6 +144,26 @@
     "url": "https://www.volby.cz/pls/kv2022/vysledky_obec?cislo_obce="
   },
   {
+    "name": "XML data",
+    "url": "https://www.volby.cz/pls/prez2023/vysledky"
+  },
+  {
+    "name": "XML data",
+    "url": "https://www.volby.cz/pls/prez2023/vysledky_kraj?kolo=N&nuts=CZXXX"
+  },
+  {
+    "name": "XML data",
+    "url": "https://www.volby.cz/pls/prez2023/vysledky_krajmesta?kolo=N"
+  },
+  {
+    "name": "XML data",
+    "url": "https://www.volby.cz/pls/prez2023/vysledky_okrsky?kolo=N&davka=1"
+  },
+  {
+    "name": "XML data",
+    "url": "https://www.volby.cz/pls/prez2023/vysledky_zahranici"
+  },
+  {
     "name": "XML s aktuálním složením Senátu Parlamentu ČR",
     "url": "https://www.volby.cz/pls/senat/vysledky_celk"
   },
