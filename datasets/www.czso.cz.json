@@ -16,6 +16,10 @@
     "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_byty_obydlenost.csv"
   },
   {
+    "name": "Byty podle obydlenosti a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/202188093/sldb2021_byty_obydlenost_druhdomu.csv"
+  },
+  {
     "name": "Data do 2. čtvrtletí 2022",
     "url": "https://www.czso.cz/documents/62353418/171347217/250180-22data092922.csv"
   },
@@ -404,6 +408,18 @@
     "url": "https://www.czso.cz/documents/62353418/197581057/sldb2021_byty_energie.csv"
   },
   {
+    "name": "Obydlené byty podle materiálu nosných zdí a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/202188093/sldb2021_obybyty_material_druhdomu.csv"
+  },
+  {
+    "name": "Obydlené byty podle období výstavby nebo rekonstrukce domu a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/202188093/sldb2021_obybyty_obdobi_druhdomu.csv"
+  },
+  {
+    "name": "Obydlené byty podle polohy bytu v domě a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/202188093/sldb2021_obybyty_poloha_druhdomu.csv"
+  },
+  {
     "name": "Obydlené byty podle počtu obytných místností",
     "url": "https://www.czso.cz/documents/62353418/189978989/sldb2021_byty_mistnosti.csv"
   },
@@ -432,8 +448,20 @@
     "url": "https://www.czso.cz/documents/62353418/197581057/sldb2021_byty_vodovod.csv"
   },
   {
+    "name": "Obydlené byty podle vlastníka a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/202188093/sldb2021_obybyty_vlastnik_druhdomu.csv"
+  },
+  {
+    "name": "Obydlené byty podle vybavení domu výtahem a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/202188093/sldb2021_obybyty_vytah_druhdomu.csv"
+  },
+  {
     "name": "Obydlené byty podle vybavení kuchyní",
     "url": "https://www.czso.cz/documents/62353418/192056095/sldb2021_byty_kuchyne.csv"
+  },
+  {
+    "name": "Obydlené byty podle způsobu odvádění odpadních vod a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/202188093/sldb2021_obybyty_odpad_druhdomu.csv"
   },
   {
     "name": "Obydlené domy podle materiálu nosných zdí a druhu domu",
@@ -458,6 +486,10 @@
   {
     "name": "Obydlené domy podle počtu bytů v domě a druhu domu",
     "url": "https://www.czso.cz/documents/62353418/200583836/sldb2021_obydomy_druh_byty.csv"
+  },
+  {
+    "name": "Obydlené domy podle počtu nadzemních podlaží a druhu domu",
+    "url": "https://www.czso.cz/documents/62353418/202188093/sldb2021_obydomy_podlazi_druh.csv"
   },
   {
     "name": "Obydlené domy podle vlastnictví a druhu domu",
