@@ -573,6 +573,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Organizace_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Ostatn%C3%AD_historick%C3%A9_pam%C3%A1tky/FeatureServer/0"
   },
   {
@@ -630,10 +634,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Seznam_%C5%A1kol_a_%C5%A1kolsk%C3%BDch_za%C5%99%C3%ADzen%C3%AD/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Seznam_organizac%C3%AD_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
