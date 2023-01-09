@@ -89,6 +89,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags3/rest/services/PUBLIC/opendata_mtvu/FeatureServer"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags3/rest/services/PUBLIC/opendata_mtvu/FeatureServer/0"
   },
   {
