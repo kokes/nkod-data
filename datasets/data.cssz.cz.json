@@ -1,11 +1,47 @@
 [
   {
+    "name": "Doba řízení o námitkách",
+    "url": "https://data.cssz.cz/dataset/doba-rizeni-o-namitkach"
+  },
+  {
+    "name": "Došlé žádosti o důchod podle krajů",
+    "url": "https://data.cssz.cz/dataset/dosle-zadosti-o-duchod-podle-kraju"
+  },
+  {
+    "name": "Došlé žádosti o důchod podle krajů",
+    "url": "https://data.cssz.cz/dosle-zadosti-o-duchod-podle-kraju"
+  },
+  {
+    "name": "Došlé žádosti o důchod podle okresů",
+    "url": "https://data.cssz.cz/dataset/dosle-zadosti-o-duchod-podle-okresu"
+  },
+  {
+    "name": "Došlé žádosti o důchod podle okresů",
+    "url": "https://data.cssz.cz/dosle-zadosti-o-duchod-podle-okresu"
+  },
+  {
+    "name": "Došlé žádosti o důchod v České republice",
+    "url": "https://data.cssz.cz/dataset/dosle-zadosti-o-duchod-v-cr"
+  },
+  {
+    "name": "Kontroly plnění povinností zaměstnavatelů v oblasti sociálního zabezpečení",
+    "url": "https://data.cssz.cz/dataset/kontroly-plneni-povinnosti-zamestnavatelu-v-oblasti-socialniho-zabezpeceni"
+  },
+  {
     "name": "Minimální vyměřovací základ OSVČ",
     "url": "https://data.cssz.cz/dataset/minimalni-vymerovaci-zaklad-osvc"
   },
   {
     "name": "Měsíční výše důchodů",
     "url": "https://data.cssz.cz/dataset/rozlozeni-souboru-duchodcu-podle-vyse-duchodu-v-kvantilovem-vyjadreni"
+  },
+  {
+    "name": "Nejčastější příčiny vzniku invalidity",
+    "url": "https://data.cssz.cz/dataset/nejcastejsi-priciny-vzniku-invalidity"
+  },
+  {
+    "name": "Pomocné číselníky",
+    "url": "https://data.cssz.cz/dataset/pomocne-ciselniky"
   },
   {
     "name": "Posudky provedené lékařskou posudkovou službou",
@@ -36,12 +72,28 @@
     "url": "https://data.cssz.cz/dataset/pocet-duchodcu-s-exekucni-srazkou-v-cr"
   },
   {
+    "name": "Počet důchodců s výplatou do ciziny v členění dle států",
+    "url": "https://data.cssz.cz/dataset/pocet-duchodcu-s-vyplatou-do-ciziny-dle-statu"
+  },
+  {
+    "name": "Počet důchodů s výplatou do ciziny v členění dle států",
+    "url": "https://data.cssz.cz/dataset/pocet-duchodu-s-vyplatou-do-ciziny-dle-statu"
+  },
+  {
+    "name": "Počet mužů a žen v ČSSZ",
+    "url": "https://data.cssz.cz/dataset/pocet-muzu-a-zen-v-cssz"
+  },
+  {
     "name": "Počet nově přiznaných důchodů v České republice dle měsíční výše důchodu",
     "url": "https://data.cssz.cz/dataset/nove-priznane-duchody-dle-vyse-duchodu"
   },
   {
     "name": "Počet nově přiznaných důchodů v České republice dle osobního vyměřovacího základu",
     "url": "https://data.cssz.cz/dataset/nove-priznane-duchody-dle-osobniho-vymerovaciho-zakladu"
+  },
+  {
+    "name": "Počet nově přiznaných důchodů v České republice dle věkové kategorie",
+    "url": "https://data.cssz.cz/dataset/nove-priznane-duchody-dle-veku"
   },
   {
     "name": "Počet nově přiznaných invalidních důchodů v České republice dle skupin diagnóz",
@@ -52,8 +104,16 @@
     "url": "https://data.cssz.cz/dataset/pocet-namitek"
   },
   {
+    "name": "Počet podaných ELDP",
+    "url": "https://data.cssz.cz/dataset/pocet-podanych-eldp"
+  },
+  {
     "name": "Počet správních exekucí",
     "url": "https://data.cssz.cz/dataset/pocet-spravnich-exekuci"
+  },
+  {
+    "name": "Počet sto a víceletých důchodců podle krajů",
+    "url": "https://data.cssz.cz/dataset/pocet-sto-a-viceletych-duchodcu-podle-kraju"
   },
   {
     "name": "Počet sto a víceletých důchodců v České republice",
@@ -68,12 +128,40 @@
     "url": "https://data.cssz.cz/dataset/pocet-vyplacenych-dnp-podle-okresu"
   },
   {
+    "name": "Počet vyplacených dávek nemocenského pojištění v České republice",
+    "url": "https://data.cssz.cz/dataset/pocet-vyplacenych-dnp-v-cr"
+  },
+  {
+    "name": "Počet vyplacených důchodů v České republice dle měsíční výše důchodu",
+    "url": "https://data.cssz.cz/dataset/vyplacene-duchody-dle-vyse"
+  },
+  {
+    "name": "Počet vyplacených důchodů v České republice dle věkové kategorie",
+    "url": "https://data.cssz.cz/dataset/duchody-dle-veku"
+  },
+  {
+    "name": "Počet vyplácených invalidních důchodů v České republice dle skupin diagnóz",
+    "url": "https://data.cssz.cz/dataset/pocet-vyplacenych-invalidnich-duchodu-v-ceske-republice"
+  },
+  {
     "name": "Počet vystavených potvrzení o příslušnosti k českým právním předpisům",
     "url": "https://data.cssz.cz/dataset/pocet-vystavenych-potvrzeni-o-prislusnosti-k-ceskym-pravnim-predpisum"
   },
   {
+    "name": "Počet vyřízených IOLDP",
+    "url": "https://data.cssz.cz/dataset/pocet-vyrizenych-ioldp"
+  },
+  {
     "name": "Počet vyřízených žádostí o dávku DP s mezinárodním prvkem dle jednotlivých států podle krajů",
     "url": "https://data.cssz.cz/dataset/pocet-vyrizenych-zadosti-o-davku-dp-s-m-prvkem-dle-statu-podle-kraju"
+  },
+  {
+    "name": "Počet vyřízených žádostí o dávku DP s mezinárodním prvkem dle jednotlivých států v ČR",
+    "url": "https://data.cssz.cz/dataset/pocet-vyrizenych-zadosti-o-davku-dp-s-m-prvkem-dle-statu-v-cr"
+  },
+  {
+    "name": "Počet výplat důchodů s exekuční srážkou",
+    "url": "https://data.cssz.cz/dataset/pocet-vyplat-duchodu-s-exekucni-srazkou"
   },
   {
     "name": "Počet výplat příplatků a příspěvků k důchodům dle odškodňovacích zákonů",
@@ -82,6 +170,18 @@
   {
     "name": "Počet zaniklých důchodů v České republice",
     "url": "https://data.cssz.cz/dataset/zanikle-duchody"
+  },
+  {
+    "name": "Počty přihlášených pohledávek ČSSZ do insolvenčního řízení",
+    "url": "https://data.cssz.cz/dataset/pocty-prihlasenych-pohledavek-cssz-do-insolvencniho-rizeni"
+  },
+  {
+    "name": "Počty vyplácených předčasných starobních důchodů a výdaje na předčasné starobní důchody v České republice",
+    "url": "https://data.cssz.cz/dataset/pocet-predcasnych-starobnich-duchodu-a-vydaje-v-cr"
+  },
+  {
+    "name": "Průměrná délka pobírání starobního důchodu",
+    "url": "https://data.cssz.cz/dataset/prum-delka-pobirani-s-duchodu"
   },
   {
     "name": "Průměrná výše důchodů v Kč u nově přiznaných důchodů v České republice",
@@ -100,12 +200,32 @@
     "url": "https://data.cssz.cz/dataset/prum-vek-u-nove-priznanych-duchodu-dle-druhu"
   },
   {
+    "name": "Přehled o celkovém počtu OSVČ podle krajů",
+    "url": "https://data.cssz.cz/dataset/prehled-o-celkovem-poctu-osvc-podle-kraju"
+  },
+  {
     "name": "Přehled o celkovém počtu OSVČ podle okresů",
     "url": "https://data.cssz.cz/dataset/prehled-o-celkovem-poctu-osvc-podle-okresu"
   },
   {
+    "name": "Přehled o celkovém počtu OSVČ v České republice",
+    "url": "https://data.cssz.cz/dataset/prehled-o-celkovem-poctu-osvc-v-cr"
+  },
+  {
+    "name": "Přehled o počtu důchodců podle území, pohlaví, průměrné výše důchodu, průměrného věku a podle druhu důchodu",
+    "url": "https://data.cssz.cz/dataset/duchodci-v-cr-krajich-okresech"
+  },
+  {
     "name": "Přehled o počtu zaměstnavatelů, pojištěnců a pojistných vztahů podle krajů",
     "url": "https://data.cssz.cz/dataset/prehled-o-poctu-zamestnavatelu-pojistencu-a-pojistnych-vztahu-podle-kraju"
+  },
+  {
+    "name": "Přehled o počtu zaměstnavatelů, pojištěnců a pojistných vztahů podle okresů",
+    "url": "https://data.cssz.cz/dataset/prehled-o-poctu-zamestnavatelu-pojistencu-a-pojistnych-vztahu-podle-okresu"
+  },
+  {
+    "name": "Přehled o počtu zaměstnavatelů, pojištěnců a pojistných vztahů v České republice",
+    "url": "https://data.cssz.cz/dataset/prehled-o-poctu-zamestnavatelu-pojistencu-a-pojistnych-vztahu-v-cr"
   },
   {
     "name": "Příjmy a výdaje na sociální zabezpečení",
@@ -120,6 +240,10 @@
     "url": "https://data.cssz.cz/dataset/sazby-pojisteni-v-cr"
   },
   {
+    "name": "Statistika žádostí dle zák. č. 106/1999 Sb.",
+    "url": "https://data.cssz.cz/dataset/statistika-zadosti-dle-zak-106-1999-sb"
+  },
+  {
     "name": "Systemizovaná místa a fluktuace zaměstnanců ČSSZ",
     "url": "https://data.cssz.cz/dataset/systemizovana-mista-a-fluktuace-zamestnancu-cssz"
   },
@@ -128,28 +252,80 @@
     "url": "https://data.cssz.cz/dataset/ukazatel-pracovni-neschopnosti-podle-delky-trvani-dpn-a-kraju"
   },
   {
+    "name": "Ukazatel pracovní neschopnosti podle délky trvání dočasné pracovní neschopnosti v České republice",
+    "url": "https://data.cssz.cz/dataset/ukazatel-pracovni-neschopnosti-podle-delky-trvani-dpn-v-cr"
+  },
+  {
     "name": "Ukazatele pracovní neschopnosti podle krajů",
     "url": "https://data.cssz.cz/dataset/ukazatele-pracovni-neschopnosti-podle-kraju"
+  },
+  {
+    "name": "Ukazatele pracovní neschopnosti podle pohlaví a skupin diagnóz",
+    "url": "https://data.cssz.cz/dataset/ukazatele-pracovni-neschopnosti-podle-pohlavi-a-diagnozy"
+  },
+  {
+    "name": "Ukazatele pracovní neschopnosti podle pohlaví a věkové skupiny",
+    "url": "https://data.cssz.cz/dataset/ukazatele-pracovni-neschopnosti-podle-pohlavi-a-vekove-skupiny"
   },
   {
     "name": "Ukazatele pracovní neschopnosti v České republice",
     "url": "https://data.cssz.cz/dataset/ukazatele-pracovni-neschopnosti"
   },
   {
+    "name": "Výdaje na důchody",
+    "url": "https://data.cssz.cz/dataset/vydaje-na-duchody-v-cr"
+  },
+  {
+    "name": "Zaměstnanci ČSSZ dle vzdělání",
+    "url": "https://data.cssz.cz/dataset/zamestnanci-cssz-dle-vzdelani"
+  },
+  {
+    "name": "Zaměstnanci ČSSZ dle věku",
+    "url": "https://data.cssz.cz/dataset/zamestnanci-cssz-dle-veku"
+  },
+  {
     "name": "Změny mezi stupni invalidního důchodu v roce",
     "url": "https://data.cssz.cz/dataset/zmeny-mezi-stupni-invalidniho-duchodu"
+  },
+  {
+    "name": "Způsob výplat důchodů v České republice",
+    "url": "https://data.cssz.cz/dataset/zpusob-vyplat-duchodu-v-cr"
   },
   {
     "name": "Údaje o plnění podílu zaměstnávání osob se zdravotním postižením",
     "url": "https://data.cssz.cz/dataset/udaje-o-plneni-podilu-osob-se-zdravotnim-postizenim"
   },
   {
+    "name": "Údaje o činnosti call centra pro důchodové pojištění",
+    "url": "https://data.cssz.cz/dataset/udaje-o-cinnosti-call-centra-pro-dp"
+  },
+  {
     "name": "Údaje o činnosti call centra pro nemocenské pojištění",
     "url": "https://data.cssz.cz/dataset/udaje-o-cinnosti-call-centra-pro-np"
   },
   {
+    "name": "Číselník datových typů",
+    "url": "https://data.cssz.cz/dataset/ciselnik-datovych-typu"
+  },
+  {
     "name": "Číselník druhů akcí v tiskopise Oznámení o nástupu do zaměstnání",
     "url": "https://data.cssz.cz/dataset/ciselnik-druhu-akci-v-tiskopise-onz"
+  },
+  {
+    "name": "Číselník druhů pracovních činností",
+    "url": "https://data.cssz.cz/dataset/ciselnik-druhu-pracovnich-cinnosti"
+  },
+  {
+    "name": "Číselník druhů zaměstnání pro e-Neschopenku",
+    "url": "https://data.cssz.cz/dataset/ciselnik-druhu-zamestnani-pro-e-neschopenku"
+  },
+  {
+    "name": "Číselník důvodů k ukončení pracovní neschopnosti",
+    "url": "https://data.cssz.cz/dataset/ciselnik-duvodu-k-ukonceni-pracovni-neschopnosti"
+  },
+  {
+    "name": "Číselník okresů",
+    "url": "https://data.cssz.cz/dataset/ciselnik-okresu"
   },
   {
     "name": "Číselník pohlaví",
@@ -158,5 +334,9 @@
   {
     "name": "Číselník specifikace cizozemského nositele pojištění",
     "url": "https://data.cssz.cz/dataset/ciselnik-specifikace-cizozemskeho-nositele-pojisteni"
+  },
+  {
+    "name": "Číselník zdravotních pojišťoven",
+    "url": "https://data.cssz.cz/dataset/ciselnik-zdravotnich-pojistoven"
   }
 ]
