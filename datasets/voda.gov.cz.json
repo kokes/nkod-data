@@ -1,9 +1,5 @@
 [
   {
-    "name": "Akumulace vod ve vodních nádržích",
-    "url": "https://voda.gov.cz/data/ISVSVoda_Akumulace.zip"
-  },
-  {
     "name": "Dílčí povodí",
     "url": "https://voda.gov.cz/data/ISVSVoda_Mezinarodniadilcipovodi.zip"
   },
@@ -24,28 +20,12 @@
     "url": "https://voda.gov.cz/data/ISVSVoda_Objektyvkoryte.zip"
   },
   {
-    "name": "Odběry podzemních vod",
-    "url": "https://voda.gov.cz/data/ISVSVoda_Odberypodzemnichvod.zip"
-  },
-  {
-    "name": "Odběry povrchových vod",
-    "url": "https://voda.gov.cz/data/ISVSVoda_Odberypovrchovychvod.zip"
-  },
-  {
     "name": "Osy vodních linií",
     "url": "https://voda.gov.cz/data/ISVSVoda_Osyvodnichlinii.zip"
   },
   {
     "name": "Správcovství vodních toků",
     "url": "https://voda.gov.cz/data/ISVSVoda_Spravcovstvivodnichtoku.zip"
-  },
-  {
-    "name": "Vypouštění podzemních vod",
-    "url": "https://voda.gov.cz/data/ISVSVoda_Vypoustenipodzemnichvod.zip"
-  },
-  {
-    "name": "Vypouštění povrchových vod",
-    "url": "https://voda.gov.cz/data/ISVSVoda_Vypoustenipovrchovychvod.zip"
   },
   {
     "name": "Územní působnost s. p. Povodí",
