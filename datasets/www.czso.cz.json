@@ -40,6 +40,10 @@
     "url": "https://www.czso.cz/documents/62353418/179851766/130185-22datat010923.csv"
   },
   {
+    "name": "Data do ledna 2023",
+    "url": "https://www.czso.cz/documents/62353418/198519230/070013-23data012423.csv"
+  },
+  {
     "name": "Data do listopadu 2022",
     "url": "https://www.czso.cz/documents/62353418/171347841/200075-22data010623.csv"
   },
@@ -98,10 +102,6 @@
   {
     "name": "Data do prosince 2022",
     "url": "https://www.czso.cz/documents/62353418/171347239/250169-22data011123.zip"
-  },
-  {
-    "name": "Data do prosince 2022",
-    "url": "https://www.czso.cz/documents/62353418/171347287/070013-22data122722.csv"
   },
   {
     "name": "Data do prosince 2022",
@@ -528,6 +528,10 @@
     "url": "https://www.czso.cz/documents/62353418/195886309/sldb2021_druhregpobyt_pohlavi.csv"
   },
   {
+    "name": "Obyvatelstvo podle ekonomické aktivity a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/204199124/sldb2021_aktivita_pohlavi.csv"
+  },
+  {
     "name": "Obyvatelstvo podle jednotek věku a pohlaví",
     "url": "https://www.czso.cz/documents/62353418/185208035/sldb2021_vek1_pohlavi.csv"
   },
@@ -690,6 +694,18 @@
   {
     "name": "Vyjížďka",
     "url": "https://www.czso.cz/documents/10180/25233177/sldb_vyjizdka.zip"
+  },
+  {
+    "name": "Zaměstnaní podle hlavních tříd zaměstnání a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/204199124/sldb2021_klasif_pohlavi.csv"
+  },
+  {
+    "name": "Zaměstnaní podle odvětví ekonomické činnosti a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/204199124/sldb2021_odvetvi_pohlavi.csv"
+  },
+  {
+    "name": "Zaměstnaní podle postavení v zaměstnání a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/204199124/sldb2021_postaveni_pohlavi.csv"
   },
   {
     "name": "Základní výsledky SLDB 2011",
