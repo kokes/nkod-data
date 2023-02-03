@@ -177,6 +177,10 @@
   },
   {
     "name": "JSON distribuce",
+    "url": "https://data.mpsv.cz/od/soubory/dodavatele-np/dodavatele-np.json"
+  },
+  {
+    "name": "JSON distribuce",
     "url": "https://data.mpsv.cz/od/soubory/insolvence/insolvence.json"
   },
   {
@@ -370,6 +374,10 @@
   {
     "name": "JSON-LD distribuce",
     "url": "https://data.mpsv.cz/od/soubory/ciselniky/zverejnovat-vpm.jsonld"
+  },
+  {
+    "name": "JSON-LD distribuce",
+    "url": "https://data.mpsv.cz/od/soubory/dodavatele-np/dodavatele-np.jsonld"
   },
   {
     "name": "JSON-LD distribuce",
