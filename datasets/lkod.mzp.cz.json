@@ -12,8 +12,16 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkova-a-nahodila-tezba-dreva-v-krajich-2021.csv"
   },
   {
+    "name": "data-cenia-indikator-celkova-produkce-odpadu-2021.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkova-produkce-odpadu-2021.csv"
+  },
+  {
     "name": "data-cenia-indikator-celkova-rozloha-holin-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkova-rozloha-holin-2021.csv"
+  },
+  {
+    "name": "data-cenia-indikator-celkovy-pocet-platnych-licenci-ekoznacek-2021.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkovy-pocet-platnych-licenci-ekoznacek-2021.csv"
   },
   {
     "name": "data-cenia-indikator-cistirny-odpadnich-vod-2021.csv",
@@ -84,6 +92,18 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-obyvatele-zasobovani-vodou-z-verejneho-vodovodu-2021.csv"
   },
   {
+    "name": "data-cenia-indikator-pocet-registrovanych-subjektu-ma21-2021.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pocet-registrovanych-subjektu-ma21-2021.csv"
+  },
+  {
+    "name": "data-cenia-indikator-podil-jednotlivych-kategorii-nakladani-s-komunalnimi-odpady-2021.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-jednotlivych-kategorii-nakladani-s-komunalnimi-odpady-2021.csv"
+  },
+  {
+    "name": "data-cenia-indikator-podil-jednotlivych-kategorii-nakladani-s-odpady-2021.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-jednotlivych-kategorii-nakladani-s-odpady-2021.csv"
+  },
+  {
     "name": "data-cenia-indikator-podil-lesu-s-uplatnenim-podrostniho-a-vyberneho-zpusobu-hospodareni-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-lesu-s-uplatnenim-podrostniho-a-vyberneho-zpusobu-hospodareni-2021.csv"
   },
@@ -112,16 +132,20 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-vzorku-rybnicnich-a-ricnich-sedimentu-prekracujicich-limitni-hodnoty-2021.csv"
   },
   {
-    "name": "data-cenia-indikator-prijmy-z-ekologickych-dani-a-poplatku-v-mezinarodnim-kontextu-2021.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-prijmy-z-ekologickych-dani-a-poplatku-v-mezinarodnim-kontextu-2021.csv"
-  },
-  {
     "name": "data-cenia-indikator-pripojeni-obyvatel-na-cistirny-odpadnich-vod-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pripojeni-obyvatel-na-cistirny-odpadnich-vod-2021.csv"
   },
   {
+    "name": "data-cenia-indikator-produkce-komunalnich-odpadu-2021.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-produkce-komunalnich-odpadu-2021.csv"
+  },
+  {
     "name": "data-cenia-indikator-produkce-znecistujicich-latek-a-sklenikovych-plynu-euro-normy-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-produkce-znecistujicich-latek-a-sklenikovych-plynu-euro-normy-2021.csv"
+  },
+  {
+    "name": "data-cenia-indikator-rozloha-sidelni-zelene-a-jeji-podil-na-plose-uzemi-obce-2021.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-rozloha-sidelni-zelene-a-jeji-podil-na-plose-uzemi-obce-2021.csv"
   },
   {
     "name": "data-cenia-indikator-spotreba-energie-jednotlivymi-druhy-dopravy-2021.csv",
