@@ -53,6 +53,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/MaterskeObvody_opendata/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/Sireny_opendata/FeatureServer/0"
   },
   {
