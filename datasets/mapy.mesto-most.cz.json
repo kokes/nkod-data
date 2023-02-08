@@ -77,6 +77,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/UzemniPlanMost2021_opendata/FeatureServer"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/UzemniPlanMost2021_opendata/FeatureServer/0"
   },
   {
