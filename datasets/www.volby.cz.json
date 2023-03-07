@@ -236,10 +236,6 @@
     "url": "https://www.volby.cz/pls/kz2016/vysledky"
   },
   {
-    "name": "XML data - celkové výsledky za kraje a přehled za ČR",
-    "url": "https://www.volby.cz/pls/kz2020/vysledky"
-  },
-  {
     "name": "XML data - celkové výsledky za ČR a kraje",
     "url": "https://www.volby.cz/pls/ps2017/vysledky"
   },
@@ -437,10 +433,6 @@
   },
   {
     "name": "XML data - výsledky za okres Hodonín a jeho obce ",
-    "url": "https://www.volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0645"
-  },
-  {
-    "name": "XML data - výsledky za okres Hodonín a jeho obce ",
     "url": "https://www.volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0645"
   },
   {
@@ -516,10 +508,6 @@
     "url": "https://www.volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0522"
   },
   {
-    "name": "XML data - výsledky za okres Jičín a jeho obce ",
-    "url": "https://www.volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0522"
-  },
-  {
     "name": "XML data - výsledky za okres Karlovy Vary a jeho obce ",
     "url": "https://www.volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0412"
   },
@@ -562,6 +550,14 @@
   {
     "name": "XML data - výsledky za okres Klatovy a jeho obce ",
     "url": "https://www.volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0322"
+  },
+  {
+    "name": "XML data - výsledky za okres Klatovy a jeho obce ",
+    "url": "https://www.volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0322"
+  },
+  {
+    "name": "XML data - výsledky za okres Kolín a jeho obce ",
+    "url": "https://www.volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0204"
   },
   {
     "name": "XML data - výsledky za okres Kolín a jeho obce ",
@@ -661,10 +657,6 @@
   },
   {
     "name": "XML data - výsledky za okres Mělník a jeho obce ",
-    "url": "https://www.volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0206"
-  },
-  {
-    "name": "XML data - výsledky za okres Mělník a jeho obce ",
     "url": "https://www.volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0206"
   },
   {
@@ -678,10 +670,6 @@
   {
     "name": "XML data - výsledky za okres Nový Jičín a jeho obce ",
     "url": "https://www.volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0804"
-  },
-  {
-    "name": "XML data - výsledky za okres Nymburk a jeho obce ",
-    "url": "https://www.volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0208"
   },
   {
     "name": "XML data - výsledky za okres Nymburk a jeho obce ",
@@ -1082,6 +1070,10 @@
   {
     "name": "XML data - výsledky za okres Znojmo a jeho obce ",
     "url": "https://www.volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0647"
+  },
+  {
+    "name": "XML data - výsledky za okres Znojmo a jeho obce ",
+    "url": "https://www.volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0647"
   },
   {
     "name": "XML data - výsledky za okres Znojmo a jeho obce ",

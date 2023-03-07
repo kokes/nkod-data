@@ -165,10 +165,6 @@
   },
   {
     "name": "Vazba v CSV",
-    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=109&typdat=1&cisvaz=51_56&cisjaz=203&format=2&separator=%2C"
-  },
-  {
-    "name": "Vazba v CSV",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=109&typdat=1&cisvaz=52_72&cisjaz=203&format=2&separator=%2C"
   },
   {
@@ -566,10 +562,6 @@
   {
     "name": "Vazba v CSV",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5651&typdat=1&cisvaz=5652_1098&cisjaz=203&format=2&separator=%2C"
-  },
-  {
-    "name": "Vazba v CSV",
-    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5652&typdat=1&cisvaz=5653_1099&cisjaz=203&format=2&separator=%2C"
   },
   {
     "name": "Vazba v CSV",
@@ -1021,10 +1013,6 @@
   },
   {
     "name": "Vazba v XML",
-    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=109&typdat=1&cisvaz=51_56&cisjaz=203&format=0"
-  },
-  {
-    "name": "Vazba v XML",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=109&typdat=1&cisvaz=52_72&cisjaz=203&format=0"
   },
   {
@@ -1422,10 +1410,6 @@
   {
     "name": "Vazba v XML",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5651&typdat=1&cisvaz=5652_1098&cisjaz=203&format=0"
-  },
-  {
-    "name": "Vazba v XML",
-    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5652&typdat=1&cisvaz=5653_1099&cisjaz=203&format=0"
   },
   {
     "name": "Vazba v XML",
@@ -1914,10 +1898,6 @@
   {
     "name": "Číselník v CSV",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5104&typdat=0&cisjaz=203&format=2&separator=%2C"
-  },
-  {
-    "name": "Číselník v CSV",
-    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5105&typdat=0&cisjaz=203&format=2&separator=%2C"
   },
   {
     "name": "Číselník v CSV",
@@ -2494,10 +2474,6 @@
   {
     "name": "Číselník v XML",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5104&typdat=0&cisjaz=203&format=0"
-  },
-  {
-    "name": "Číselník v XML",
-    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5105&typdat=0&cisjaz=203&format=0"
   },
   {
     "name": "Číselník v XML",
