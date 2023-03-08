@@ -613,10 +613,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Pl%C3%A1novan%C3%A9_opravy_silni%C4%8Dn%C3%AD_infrastruktury_na_rok_2022_bodov%C3%A9/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Pl%C3%A1novan%C3%A9_opravy_silni%C4%8Dn%C3%AD_infrastruktury_na_rok_2022_liniov%C3%A9/FeatureServer/0"
   },
   {
@@ -669,7 +665,7 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Stanice_a_pracovi%C5%A1t%C4%9B_hasi%C4%8Dsk%C3%A9ho_z%C3%A1chrann%C3%A9ho_syst%C3%A9mu/FeatureServer/0"
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Slu%C5%BEebny_Policie_%C4%8CR/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
