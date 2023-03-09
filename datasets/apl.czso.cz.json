@@ -93,10 +93,6 @@
   },
   {
     "name": "Vazba v CSV",
-    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=101&typdat=1&cisvaz=53_1198&cisjaz=203&format=2&separator=%2C"
-  },
-  {
-    "name": "Vazba v CSV",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=101&typdat=1&cisvaz=60_1193&cisjaz=203&format=2&separator=%2C"
   },
   {
@@ -581,6 +577,10 @@
   },
   {
     "name": "Vazba v CSV",
+    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5661&typdat=1&cisvaz=5662_286&cisjaz=203&format=2&separator=%2C"
+  },
+  {
+    "name": "Vazba v CSV",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5662&typdat=1&cisvaz=5663_288&cisjaz=203&format=2&separator=%2C"
   },
   {
@@ -942,10 +942,6 @@
   {
     "name": "Vazba v XML",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=101&typdat=1&cisvaz=52_1194&cisjaz=203&format=0"
-  },
-  {
-    "name": "Vazba v XML",
-    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=101&typdat=1&cisvaz=53_1198&cisjaz=203&format=0"
   },
   {
     "name": "Vazba v XML",
@@ -1430,6 +1426,10 @@
   {
     "name": "Vazba v XML",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5654&typdat=1&cisvaz=5585_1060&cisjaz=203&format=0"
+  },
+  {
+    "name": "Vazba v XML",
+    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5661&typdat=1&cisvaz=5662_286&cisjaz=203&format=0"
   },
   {
     "name": "Vazba v XML",
@@ -1949,6 +1949,10 @@
   },
   {
     "name": "Číselník v CSV",
+    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5172&typdat=0&cisjaz=203&format=2&separator=%2C"
+  },
+  {
+    "name": "Číselník v CSV",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5173&typdat=0&cisjaz=203&format=2&separator=%2C"
   },
   {
@@ -2190,6 +2194,10 @@
   {
     "name": "Číselník v CSV",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5898&typdat=0&cisjaz=203&format=2&separator=%2C"
+  },
+  {
+    "name": "Číselník v CSV",
+    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=60&typdat=0&cisjaz=203&format=2&separator=%2C"
   },
   {
     "name": "Číselník v CSV",
@@ -2521,6 +2529,10 @@
   },
   {
     "name": "Číselník v XML",
+    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5172&typdat=0&cisjaz=203&format=0"
+  },
+  {
+    "name": "Číselník v XML",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5173&typdat=0&cisjaz=203&format=0"
   },
   {
@@ -2766,6 +2778,10 @@
   {
     "name": "Číselník v XML",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=5898&typdat=0&cisjaz=203&format=0"
+  },
+  {
+    "name": "Číselník v XML",
+    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=60&typdat=0&cisjaz=203&format=0"
   },
   {
     "name": "Číselník v XML",
