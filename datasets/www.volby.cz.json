@@ -549,7 +549,15 @@
   },
   {
     "name": "XML data - výsledky za okres Kladno a jeho obce ",
+    "url": "https://www.volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0203"
+  },
+  {
+    "name": "XML data - výsledky za okres Kladno a jeho obce ",
     "url": "https://www.volby.cz/pls/ps2017/vysledky_okres?nuts=CZ0203"
+  },
+  {
+    "name": "XML data - výsledky za okres Klatovy a jeho obce ",
+    "url": "https://www.volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0322"
   },
   {
     "name": "XML data - výsledky za okres Klatovy a jeho obce ",
@@ -997,6 +1005,10 @@
   },
   {
     "name": "XML data - výsledky za okres Trutnov a jeho obce ",
+    "url": "https://www.volby.cz/pls/kz2016/vysledky_okres?nuts=CZ0525"
+  },
+  {
+    "name": "XML data - výsledky za okres Trutnov a jeho obce ",
     "url": "https://www.volby.cz/pls/kz2020/vysledky_okres?nuts=CZ0525"
   },
   {
@@ -1225,6 +1237,10 @@
   },
   {
     "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/kv2022/csv_od/kvdruhz.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
     "url": "https://www.volby.cz/opendata/kv2022/csv_od/kvtypzas.csv"
   },
   {
@@ -1274,6 +1290,10 @@
   {
     "name": "Číselník v XML souboru",
     "url": "https://www.volby.cz/opendata/kv2022/xml/cvs_slozeni.xml"
+  },
+  {
+    "name": "Číselník v XML souboru",
+    "url": "https://www.volby.cz/opendata/kv2022/xml/kvdruhz.xml"
   },
   {
     "name": "Číselník v XML souboru",

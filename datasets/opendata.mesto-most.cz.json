@@ -97,6 +97,18 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::sčítače-cykl-dopravy-data-z-měření"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::sčítače-cykl-dopravy-lokality-měření"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::sčítače-cyklistické-dopravy"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::volné-pobíhání-psů"
   },
   {
@@ -261,6 +273,14 @@
   },
   {
     "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::sčítače-cykl-dopravy-data-z-měření.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::sčítače-cykl-dopravy-lokality-měření.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::volné-pobíhání-psů.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -414,6 +434,14 @@
   {
     "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::stožáry-veřejného-osvětlení.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::sčítače-cykl-dopravy-data-z-měření.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::sčítače-cykl-dopravy-lokality-měření.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "GeoJSON",
@@ -573,6 +601,10 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::sčítače-cykl-dopravy-lokality-měření.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::volné-pobíhání-psů.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -726,6 +758,10 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::stožáry-veřejného-osvětlení.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::sčítače-cykl-dopravy-lokality-měření.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
