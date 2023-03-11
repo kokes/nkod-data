@@ -53,6 +53,10 @@
   },
   {
     "name": "Vazba v CSV",
+    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=100&typdat=1&cisvaz=63_1439&cisjaz=203&format=2&separator=%2C"
+  },
+  {
+    "name": "Vazba v CSV",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=100&typdat=1&cisvaz=65_398&cisjaz=203&format=2&separator=%2C"
   },
   {
@@ -94,6 +98,10 @@
   {
     "name": "Vazba v CSV",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=101&typdat=1&cisvaz=60_1193&cisjaz=203&format=2&separator=%2C"
+  },
+  {
+    "name": "Vazba v CSV",
+    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=101&typdat=1&cisvaz=63_1484&cisjaz=203&format=2&separator=%2C"
   },
   {
     "name": "Vazba v CSV",
@@ -901,6 +909,10 @@
   },
   {
     "name": "Vazba v XML",
+    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=100&typdat=1&cisvaz=63_1439&cisjaz=203&format=0"
+  },
+  {
+    "name": "Vazba v XML",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=100&typdat=1&cisvaz=65_398&cisjaz=203&format=0"
   },
   {
@@ -942,6 +954,10 @@
   {
     "name": "Vazba v XML",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=101&typdat=1&cisvaz=60_1193&cisjaz=203&format=0"
+  },
+  {
+    "name": "Vazba v XML",
+    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=101&typdat=1&cisvaz=63_1484&cisjaz=203&format=0"
   },
   {
     "name": "Vazba v XML",
