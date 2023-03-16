@@ -85,10 +85,6 @@
   },
   {
     "name": "Nazev neni uveden.",
-    "url": "https://data.mzcr.cz/distribuce/283/urazy-sportovni-na-100-000-obyvatel.csv"
-  },
-  {
-    "name": "Nazev neni uveden.",
     "url": "https://data.mzcr.cz/distribuce/284/standardizovana-incidence-zhoubnych-novotvaru-a-novotvaru-in-situ-bez-c44.csv"
   },
   {
@@ -134,5 +130,9 @@
   {
     "name": "Nazev neni uveden.",
     "url": "https://data.mzcr.cz/distribuce/73/vekova_skupina.csv"
+  },
+  {
+    "name": "Úrazy sportovní na 100 000 obyvatel",
+    "url": "https://data.mzcr.cz/distribuce/283/urazy-sportovni-na-100-000-obyvatel.csv"
   }
 ]
