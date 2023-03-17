@@ -1,6 +1,10 @@
 [
   {
-    "name": "Nazev neni uveden.",
+    "name": "COVID-19: Online dispečink intenzivní péče – volné kapacity",
+    "url": "https://data.mzcr.cz/distribuce/66/kapacity-intenzivni-pece.csv"
+  },
+  {
+    "name": "Cervikální screeningové vyšetření: Pokrytí cílové populace",
     "url": "https://data.mzcr.cz/distribuce/2/cervikalni-screening-c53.csv"
   },
   {
@@ -104,35 +108,31 @@
     "url": "https://data.mzcr.cz/distribuce/65/ambulantni-pece.csv"
   },
   {
-    "name": "Nazev neni uveden.",
-    "url": "https://data.mzcr.cz/distribuce/66/kapacity-intenzivni-pece.csv"
+    "name": "Úrazy sportovní na 100 000 obyvatel",
+    "url": "https://data.mzcr.cz/distribuce/283/urazy-sportovni-na-100-000-obyvatel.csv"
   },
   {
-    "name": "Nazev neni uveden.",
-    "url": "https://data.mzcr.cz/distribuce/68/kraje.csv"
-  },
-  {
-    "name": "Nazev neni uveden.",
-    "url": "https://data.mzcr.cz/distribuce/69/okresy.csv"
-  },
-  {
-    "name": "Nazev neni uveden.",
+    "name": "Číselník ORP",
     "url": "https://data.mzcr.cz/distribuce/70/orp.csv"
   },
   {
-    "name": "Nazev neni uveden.",
+    "name": "Číselník krajů",
+    "url": "https://data.mzcr.cz/distribuce/68/kraje.csv"
+  },
+  {
+    "name": "Číselník okresů",
+    "url": "https://data.mzcr.cz/distribuce/69/okresy.csv"
+  },
+  {
+    "name": "Číselník pohlaví",
     "url": "https://data.mzcr.cz/distribuce/71/pohlavi.csv"
   },
   {
-    "name": "Nazev neni uveden.",
+    "name": "Číselník typů hodnot",
     "url": "https://data.mzcr.cz/distribuce/72/typ_hodnoty.csv"
   },
   {
-    "name": "Nazev neni uveden.",
+    "name": "Číselník věkových skupin",
     "url": "https://data.mzcr.cz/distribuce/73/vekova_skupina.csv"
-  },
-  {
-    "name": "Úrazy sportovní na 100 000 obyvatel",
-    "url": "https://data.mzcr.cz/distribuce/283/urazy-sportovni-na-100-000-obyvatel.csv"
   }
 ]
