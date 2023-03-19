@@ -61,23 +61,7 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::jednorázové-hudební-akce"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::lokality-se-zákazem-konzumace-alkoholu"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::objektová-mapa"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::obvody-mateřských-škol"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::obvody-základních-škol"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -118,10 +102,6 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::záplavové-území-s-periodicitou-50-let"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-1"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -221,23 +201,7 @@
   },
   {
     "name": "CSV",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::jednorázové-hudební-akce.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::lokality-se-zákazem-konzumace-alkoholu.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::objektová-mapa.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::obvody-mateřských-škol.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::obvody-základních-škol.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "CSV",
@@ -373,23 +337,7 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::jednorázové-hudební-akce.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::lokality-se-zákazem-konzumace-alkoholu.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::objektová-mapa.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::obvody-mateřských-škol.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::obvody-základních-škol.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "GeoJSON",
@@ -525,23 +473,7 @@
   },
   {
     "name": "KML",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::jednorázové-hudební-akce.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::lokality-se-zákazem-konzumace-alkoholu.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::objektová-mapa.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::obvody-mateřských-škol.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::obvody-základních-škol.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "KML",
@@ -677,23 +609,7 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::jednorázové-hudební-akce.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::lokality-se-zákazem-konzumace-alkoholu.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::objektová-mapa.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::obvody-mateřských-škol.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::obvody-základních-škol.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
