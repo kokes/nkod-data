@@ -9,10 +9,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::akce-events.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::aktivn%C3%AD-z%C3%B3na-z%C3%A1plavov%C3%A9ho-%C3%BAzem%C3%AD-active-flood-zones.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -50,6 +46,10 @@
   {
     "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::elektrick%C3%A9-nab%C3%ADjec%C3%AD-stanice-pro-auta-ev-charging-points.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::events.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -141,7 +141,7 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie-polygony-1.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-polygony-water-supply-network-accidents-polygons.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -329,6 +329,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::places.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::po%C4%8Det-pracovn%C3%ADch-m%C3%ADst-v-brn%C4%9B-number-of-jobs-in-brno-grid-2018.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -413,10 +417,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::turistick%C3%A1-m%C3%ADsta-tourist-places.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::ud%C3%A1losti-na-cest%C3%A1ch-traffic-events.csv?outSR=%7B%22wkid%22%3A4326%7D"
   },
   {
@@ -477,10 +477,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1pis-do-mate%C5%99sk%C3%BDch-%C5%A1kol-kindergarten-enrollment.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q100-flood-zones-100-year-floods.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -490,6 +486,10 @@
   {
     "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q5-flood-zones-5-year-floods.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::zapis-ms.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -506,10 +506,6 @@
   {
     "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::adresn%C3%AD-m%C3%ADsta-address-points.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::akce-events.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -550,6 +546,10 @@
   {
     "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::elektrick%C3%A9-nab%C3%ADjec%C3%AD-stanice-pro-auta-ev-charging-points.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::events.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -641,7 +641,7 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie-polygony-1.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-polygony-water-supply-network-accidents-polygons.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -829,6 +829,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::places.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::po%C4%8Det-pracovn%C3%ADch-m%C3%ADst-v-brn%C4%9B-number-of-jobs-in-brno-grid-2018.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -913,10 +917,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::turistick%C3%A1-m%C3%ADsta-tourist-places.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::ud%C3%A1losti-na-cest%C3%A1ch-traffic-events.geojson?outSR=%7B%22wkid%22%3A4326%7D"
   },
   {
@@ -977,10 +977,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1pis-do-mate%C5%99sk%C3%BDch-%C5%A1kol-kindergarten-enrollment.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q100-flood-zones-100-year-floods.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -990,6 +986,10 @@
   {
     "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q5-flood-zones-5-year-floods.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::zapis-ms.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -1006,10 +1006,6 @@
   {
     "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::adresn%C3%AD-m%C3%ADsta-address-points.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::akce-events.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1050,6 +1046,10 @@
   {
     "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::elektrick%C3%A9-nab%C3%ADjec%C3%AD-stanice-pro-auta-ev-charging-points.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::events.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie-polygony-1.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-polygony-water-supply-network-accidents-polygons.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1325,6 +1325,10 @@
   },
   {
     "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::places.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::po%C4%8Det-pracovn%C3%ADch-m%C3%ADst-v-brn%C4%9B-number-of-jobs-in-brno-grid-2018.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -1409,10 +1413,6 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::turistick%C3%A1-m%C3%ADsta-tourist-places.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::ud%C3%A1losti-na-cest%C3%A1ch-traffic-events.kml?outSR=%7B%22wkid%22%3A4326%7D"
   },
   {
@@ -1473,10 +1473,6 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1pis-do-mate%C5%99sk%C3%BDch-%C5%A1kol-kindergarten-enrollment.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q100-flood-zones-100-year-floods.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1486,6 +1482,10 @@
   {
     "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q5-flood-zones-5-year-floods.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::zapis-ms.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1502,10 +1502,6 @@
   {
     "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::adresn%C3%AD-m%C3%ADsta-address-points.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::akce-events.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1546,6 +1542,10 @@
   {
     "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::elektrick%C3%A9-nab%C3%ADjec%C3%AD-stanice-pro-auta-ev-charging-points.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::events.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1637,7 +1637,7 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie-polygony-1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-polygony-water-supply-network-accidents-polygons.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1821,6 +1821,10 @@
   },
   {
     "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::places.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::po%C4%8Det-pracovn%C3%ADch-m%C3%ADst-v-brn%C4%9B-number-of-jobs-in-brno-grid-2018.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -1905,10 +1909,6 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::turistick%C3%A1-m%C3%ADsta-tourist-places.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::ud%C3%A1losti-na-cest%C3%A1ch-traffic-events.zip?outSR=%7B%22wkid%22%3A4326%7D"
   },
   {
@@ -1969,10 +1969,6 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1pis-do-mate%C5%99sk%C3%BDch-%C5%A1kol-kindergarten-enrollment.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q100-flood-zones-100-year-floods.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1982,6 +1978,10 @@
   {
     "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q5-flood-zones-5-year-floods.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::zapis-ms.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
