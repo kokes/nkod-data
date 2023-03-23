@@ -10,17 +10,5 @@
   {
     "name": "Faktury resortu zdravotnictví - seznam zapojených organizací",
     "url": "https://faktury.mzcr.cz/rest/organizations"
-  },
-  {
-    "name": "Seznam faktur",
-    "url": "https://faktury.mzcr.cz/rest/invoices"
-  },
-  {
-    "name": "Seznam importů",
-    "url": "https://faktury.mzcr.cz/rest/imports"
-  },
-  {
-    "name": "Seznam zapojených organizací",
-    "url": "https://faktury.mzcr.cz/rest/organizations"
   }
 ]

@@ -16,22 +16,6 @@
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/nakazeni-vyleceni-umrti-testy.csv"
   },
   {
-    "name": "COVID-19: Celkový (kumulativní) počet osob s prokázanou nákazou dle krajských hygienických stanic včetně laboratoří",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19/nakaza.csv"
-  },
-  {
-    "name": "COVID-19: Celkový (kumulativní) počet osob s prokázanou nákazou dle krajských hygienických stanic včetně laboratoří (v2)",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/nakaza.csv"
-  },
-  {
-    "name": "COVID-19: Celkový (kumulativní) počet osob s prokázanou nákazou dle krajských hygienických stanic včetně laboratoří, počet vyléčených, počet úmrtí a provedených testů",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19/nakazeni-vyleceni-umrti-testy.csv"
-  },
-  {
-    "name": "COVID-19: Celkový (kumulativní) počet osob s prokázanou nákazou dle krajských hygienických stanic včetně laboratoří, počet vyléčených, počet úmrtí a provedených testů (v2)",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/nakazeni-vyleceni-umrti-testy.csv"
-  },
-  {
     "name": "COVID-19: Celkový (kumulativní) počet provedených testů",
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19/testy.csv"
   },
@@ -128,10 +112,6 @@
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/incidence-7-14-cr.csv"
   },
   {
-    "name": "COVID-19: Přehled osob s prokázanou nákazou (včetně reinfekcí) dle krajských hygienických stanic včetně laboratoří za 7 a 14 dní za ČR",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/incidence-7-14-cr.csv"
-  },
-  {
     "name": "COVID-19: Přehled osob s prokázanou nákazou dle hlášení krajských hygienických stanic",
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19/osoby.csv"
   },
@@ -145,14 +125,6 @@
   },
   {
     "name": "COVID-19: Přehled osob s prokázanou nákazou dle krajských hygienických stanic včetně laboratoří za 7",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/incidence-7-14-okresy.csv"
-  },
-  {
-    "name": "COVID-19: Přehled osob s prokázanou nákazou dle krajských hygienických stanic včetně laboratoří za 7 a 14 dní podle krajů",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/incidence-7-14-kraje.csv"
-  },
-  {
-    "name": "COVID-19: Přehled osob s prokázanou nákazou dle krajských hygienických stanic včetně laboratoří za 7 a 14 dní podle okresů",
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/incidence-7-14-okresy.csv"
   },
   {
@@ -224,10 +196,6 @@
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-jip-tyden.csv"
   },
   {
-    "name": "COVID-19: Týdenní přehled hospitalizací na JIP s ohledem na vykázaná očkování podle věkových kategorií",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-jip-tyden.csv"
-  },
-  {
     "name": "COVID-19: Týdenní přehled hospitalizací s ohledem na vykázaná očkování podle věkových kategorií",
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-hospitalizace-tyden.csv"
   },
@@ -237,10 +205,6 @@
   },
   {
     "name": "COVID-19: Týdenní přehled osob s prokázanou nákazou s ohledem na vykázaná očkování podle věkových ka",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-pozitivni-tyden.csv"
-  },
-  {
-    "name": "COVID-19: Týdenní přehled osob s prokázanou nákazou s ohledem na vykázaná očkování podle věkových kategorií",
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-pozitivni-tyden.csv"
   },
   {

@@ -12,6 +12,18 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-zabor-zpf-a-pupfl-dopravni-infrastrukturou-2021.csv"
   },
   {
+    "name": "csv-celkove-odbery-vody-jednotlivymi-sektory-v-cr.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkove-odbery-vody-2021.csv"
+  },
+  {
+    "name": "csv-odbery-podzemni-vody-jednotlivymi-sektory-v-cr.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-odbery-podzemni-vody-2021.csv"
+  },
+  {
+    "name": "csv-odbery-povrchove-vody-jednotlivymi-sektory-v-cr.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-odbery-povrchove-vody-2021.csv"
+  },
+  {
     "name": "data-cenia-indikator-bohatost-struktury-lesnich-porostu-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-bohatost-struktury-lesnich-porostu-2021.csv"
   },
@@ -186,5 +198,9 @@
   {
     "name": "data-cenia-indikator-vypousteni-odpadnich-vod-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-vypousteni-odpadnich-vod-2021.csv"
+  },
+  {
+    "name": "data.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-cisteni-odpadnich-vod-vypoustenych-do-kanalizace-2021.csv"
   }
 ]
