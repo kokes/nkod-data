@@ -24,36 +24,12 @@
     "url": "https://data.mvcr.gov.cz/soubory/czechpoint/2011.csv"
   },
   {
-    "name": "Výpisy za rok 2012",
-    "url": "https://data.mvcr.gov.cz/soubory/czechpoint/2012.csv"
-  },
-  {
     "name": "Výpisy za rok 2013",
     "url": "https://data.mvcr.gov.cz/soubory/czechpoint/2013.csv"
   },
   {
     "name": "Výpisy za rok 2014",
     "url": "https://data.mvcr.gov.cz/soubory/czechpoint/2014.csv"
-  },
-  {
-    "name": "Výpisy za rok 2015",
-    "url": "https://data.mvcr.gov.cz/soubory/czechpoint/2015.csv"
-  },
-  {
-    "name": "Výpisy za rok 2016",
-    "url": "https://data.mvcr.gov.cz/soubory/czechpoint/2016.csv"
-  },
-  {
-    "name": "Číselník v CSV",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/dny-v-týdnu.csv"
-  },
-  {
-    "name": "Číselník v CSV",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/jiná-časová-specifikace.csv"
-  },
-  {
-    "name": "Číselník v CSV",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/kategorie-územní-ochrany.csv"
   },
   {
     "name": "Číselník v CSV",
@@ -65,51 +41,11 @@
   },
   {
     "name": "Číselník v CSV",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/sporty.csv"
-  },
-  {
-    "name": "Číselník v CSV",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/stupně-přístupnosti.csv"
-  },
-  {
-    "name": "Číselník v CSV",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.csv"
-  },
-  {
-    "name": "Číselník v CSV",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-pracovních-vztahů.csv"
-  },
-  {
-    "name": "Číselník v CSV",
     "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-sportovišť.csv"
   },
   {
     "name": "Číselník v CSV",
     "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-turistických-cílů.csv"
-  },
-  {
-    "name": "Číselník v CSV",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-tříděného-odpadu.csv"
-  },
-  {
-    "name": "Číselník v CSV",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-událostí.csv"
-  },
-  {
-    "name": "Číselník v CSV",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/témata-událostí.csv"
-  },
-  {
-    "name": "Číselník v HTML+RDFa",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/dny-v-týdnu.html"
-  },
-  {
-    "name": "Číselník v HTML+RDFa",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/jiná-časová-specifikace.html"
-  },
-  {
-    "name": "Číselník v HTML+RDFa",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/kategorie-územní-ochrany.html"
   },
   {
     "name": "Číselník v HTML+RDFa",
@@ -121,51 +57,11 @@
   },
   {
     "name": "Číselník v HTML+RDFa",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/sporty.html"
-  },
-  {
-    "name": "Číselník v HTML+RDFa",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/stupně-přístupnosti.html"
-  },
-  {
-    "name": "Číselník v HTML+RDFa",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.html"
-  },
-  {
-    "name": "Číselník v HTML+RDFa",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-pracovních-vztahů.html"
-  },
-  {
-    "name": "Číselník v HTML+RDFa",
     "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-sportovišť.html"
   },
   {
     "name": "Číselník v HTML+RDFa",
     "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-turistických-cílů.html"
-  },
-  {
-    "name": "Číselník v HTML+RDFa",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-tříděného-odpadu.html"
-  },
-  {
-    "name": "Číselník v HTML+RDFa",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-událostí.html"
-  },
-  {
-    "name": "Číselník v HTML+RDFa",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/témata-událostí.html"
-  },
-  {
-    "name": "Číselník v JSON-LD",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/dny-v-týdnu.jsonld"
-  },
-  {
-    "name": "Číselník v JSON-LD",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/jiná-časová-specifikace.jsonld"
-  },
-  {
-    "name": "Číselník v JSON-LD",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/kategorie-územní-ochrany.jsonld"
   },
   {
     "name": "Číselník v JSON-LD",
@@ -177,51 +73,11 @@
   },
   {
     "name": "Číselník v JSON-LD",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/sporty.jsonld"
-  },
-  {
-    "name": "Číselník v JSON-LD",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/stupně-přístupnosti.jsonld"
-  },
-  {
-    "name": "Číselník v JSON-LD",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.jsonld"
-  },
-  {
-    "name": "Číselník v JSON-LD",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-pracovních-vztahů.jsonld"
-  },
-  {
-    "name": "Číselník v JSON-LD",
     "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-sportovišť.jsonld"
   },
   {
     "name": "Číselník v JSON-LD",
     "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-turistických-cílů.jsonld"
-  },
-  {
-    "name": "Číselník v JSON-LD",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-tříděného-odpadu.jsonld"
-  },
-  {
-    "name": "Číselník v JSON-LD",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-událostí.jsonld"
-  },
-  {
-    "name": "Číselník v JSON-LD",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/témata-událostí.jsonld"
-  },
-  {
-    "name": "Číselník v RDF N-Quads",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/dny-v-týdnu.nq"
-  },
-  {
-    "name": "Číselník v RDF N-Quads",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/jiná-časová-specifikace.nq"
-  },
-  {
-    "name": "Číselník v RDF N-Quads",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/kategorie-územní-ochrany.nq"
   },
   {
     "name": "Číselník v RDF N-Quads",
@@ -233,51 +89,11 @@
   },
   {
     "name": "Číselník v RDF N-Quads",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/sporty.nq"
-  },
-  {
-    "name": "Číselník v RDF N-Quads",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/stupně-přístupnosti.nq"
-  },
-  {
-    "name": "Číselník v RDF N-Quads",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.nq"
-  },
-  {
-    "name": "Číselník v RDF N-Quads",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-pracovních-vztahů.nq"
-  },
-  {
-    "name": "Číselník v RDF N-Quads",
     "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-sportovišť.nq"
   },
   {
     "name": "Číselník v RDF N-Quads",
     "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-turistických-cílů.nq"
-  },
-  {
-    "name": "Číselník v RDF N-Quads",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-tříděného-odpadu.nq"
-  },
-  {
-    "name": "Číselník v RDF N-Quads",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-událostí.nq"
-  },
-  {
-    "name": "Číselník v RDF N-Quads",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/témata-událostí.nq"
-  },
-  {
-    "name": "Číselník v RDF N-Triples",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/dny-v-týdnu.nt"
-  },
-  {
-    "name": "Číselník v RDF N-Triples",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/jiná-časová-specifikace.nt"
-  },
-  {
-    "name": "Číselník v RDF N-Triples",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/kategorie-územní-ochrany.nt"
   },
   {
     "name": "Číselník v RDF N-Triples",
@@ -289,51 +105,11 @@
   },
   {
     "name": "Číselník v RDF N-Triples",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/sporty.nt"
-  },
-  {
-    "name": "Číselník v RDF N-Triples",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/stupně-přístupnosti.nt"
-  },
-  {
-    "name": "Číselník v RDF N-Triples",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.nt"
-  },
-  {
-    "name": "Číselník v RDF N-Triples",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-pracovních-vztahů.nt"
-  },
-  {
-    "name": "Číselník v RDF N-Triples",
     "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-sportovišť.nt"
   },
   {
     "name": "Číselník v RDF N-Triples",
     "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-turistických-cílů.nt"
-  },
-  {
-    "name": "Číselník v RDF N-Triples",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-tříděného-odpadu.nt"
-  },
-  {
-    "name": "Číselník v RDF N-Triples",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-událostí.nt"
-  },
-  {
-    "name": "Číselník v RDF N-Triples",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/témata-událostí.nt"
-  },
-  {
-    "name": "Číselník v RDF TriG",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/dny-v-týdnu.trig"
-  },
-  {
-    "name": "Číselník v RDF TriG",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/jiná-časová-specifikace.trig"
-  },
-  {
-    "name": "Číselník v RDF TriG",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/kategorie-územní-ochrany.trig"
   },
   {
     "name": "Číselník v RDF TriG",
@@ -345,51 +121,11 @@
   },
   {
     "name": "Číselník v RDF TriG",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/sporty.trig"
-  },
-  {
-    "name": "Číselník v RDF TriG",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/stupně-přístupnosti.trig"
-  },
-  {
-    "name": "Číselník v RDF TriG",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.trig"
-  },
-  {
-    "name": "Číselník v RDF TriG",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-pracovních-vztahů.trig"
-  },
-  {
-    "name": "Číselník v RDF TriG",
     "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-sportovišť.trig"
   },
   {
     "name": "Číselník v RDF TriG",
     "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-turistických-cílů.trig"
-  },
-  {
-    "name": "Číselník v RDF TriG",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-tříděného-odpadu.trig"
-  },
-  {
-    "name": "Číselník v RDF TriG",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-událostí.trig"
-  },
-  {
-    "name": "Číselník v RDF TriG",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/témata-událostí.trig"
-  },
-  {
-    "name": "Číselník v RDF Turtle",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/dny-v-týdnu.ttl"
-  },
-  {
-    "name": "Číselník v RDF Turtle",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/jiná-časová-specifikace.ttl"
-  },
-  {
-    "name": "Číselník v RDF Turtle",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/kategorie-územní-ochrany.ttl"
   },
   {
     "name": "Číselník v RDF Turtle",
@@ -401,51 +137,11 @@
   },
   {
     "name": "Číselník v RDF Turtle",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/sporty.ttl"
-  },
-  {
-    "name": "Číselník v RDF Turtle",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/stupně-přístupnosti.ttl"
-  },
-  {
-    "name": "Číselník v RDF Turtle",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.ttl"
-  },
-  {
-    "name": "Číselník v RDF Turtle",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-pracovních-vztahů.ttl"
-  },
-  {
-    "name": "Číselník v RDF Turtle",
     "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-sportovišť.ttl"
   },
   {
     "name": "Číselník v RDF Turtle",
     "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-turistických-cílů.ttl"
-  },
-  {
-    "name": "Číselník v RDF Turtle",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-tříděného-odpadu.ttl"
-  },
-  {
-    "name": "Číselník v RDF Turtle",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-událostí.ttl"
-  },
-  {
-    "name": "Číselník v RDF Turtle",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/témata-událostí.ttl"
-  },
-  {
-    "name": "Číselník v RDF/XML",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/dny-v-týdnu.rdf"
-  },
-  {
-    "name": "Číselník v RDF/XML",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/jiná-časová-specifikace.rdf"
-  },
-  {
-    "name": "Číselník v RDF/XML",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/kategorie-územní-ochrany.rdf"
   },
   {
     "name": "Číselník v RDF/XML",
@@ -457,38 +153,10 @@
   },
   {
     "name": "Číselník v RDF/XML",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/sporty.rdf"
-  },
-  {
-    "name": "Číselník v RDF/XML",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/stupně-přístupnosti.rdf"
-  },
-  {
-    "name": "Číselník v RDF/XML",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.rdf"
-  },
-  {
-    "name": "Číselník v RDF/XML",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-pracovních-vztahů.rdf"
-  },
-  {
-    "name": "Číselník v RDF/XML",
     "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-sportovišť.rdf"
   },
   {
     "name": "Číselník v RDF/XML",
     "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-turistických-cílů.rdf"
-  },
-  {
-    "name": "Číselník v RDF/XML",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-tříděného-odpadu.rdf"
-  },
-  {
-    "name": "Číselník v RDF/XML",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-událostí.rdf"
-  },
-  {
-    "name": "Číselník v RDF/XML",
-    "url": "https://data.mvcr.gov.cz/soubory/číselníky/témata-událostí.rdf"
   }
 ]
