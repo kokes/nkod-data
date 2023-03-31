@@ -16,6 +16,10 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkove-odbery-vody-2021.csv"
   },
   {
+    "name": "csv-cisteni-odpadnich-vod-vypoustenych-do-kanalizace-v-cr.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-cisteni-odpadnich-vod-vypoustenych-do-kanalizace-2021.csv"
+  },
+  {
     "name": "csv-odbery-podzemni-vody-jednotlivymi-sektory-v-cr.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-odbery-podzemni-vody-2021.csv"
   },
@@ -198,9 +202,5 @@
   {
     "name": "data-cenia-indikator-vypousteni-odpadnich-vod-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-vypousteni-odpadnich-vod-2021.csv"
-  },
-  {
-    "name": "data.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-cisteni-odpadnich-vod-vypoustenych-do-kanalizace-2021.csv"
   }
 ]

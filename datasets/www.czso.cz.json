@@ -61,10 +61,6 @@
   },
   {
     "name": "Data do ledna 2023",
-    "url": "https://www.czso.cz/documents/62353418/198519054/150196-23data031023.csv"
-  },
-  {
-    "name": "Data do ledna 2023",
     "url": "https://www.czso.cz/documents/62353418/198519092/241048-23data030923.csv"
   },
   {
@@ -129,10 +125,6 @@
   },
   {
     "name": "Data do roku 2021",
-    "url": "https://www.czso.cz/documents/62353418/171347821/140133-22data041922_2021.zip"
-  },
-  {
-    "name": "Data do roku 2021",
     "url": "https://www.czso.cz/documents/62353418/171347869/260017-22data053122.csv"
   },
   {
@@ -142,10 +134,6 @@
   {
     "name": "Data do roku 2021",
     "url": "https://www.czso.cz/documents/62353418/171347887/340131-22data072922.csv"
-  },
-  {
-    "name": "Data do roku 2021",
-    "url": "https://www.czso.cz/documents/62353418/171347897/140131-22data041922_2021.zip"
   },
   {
     "name": "Data do roku 2021",
@@ -178,10 +166,6 @@
   {
     "name": "Data do roku 2021",
     "url": "https://www.czso.cz/documents/62353418/171454166/230057-22data120222.csv"
-  },
-  {
-    "name": "Data do roku 2021",
-    "url": "https://www.czso.cz/documents/62353418/198619478/160061-23data020223.csv"
   },
   {
     "name": "Data do roku 2021 (revize)",
@@ -544,6 +528,18 @@
     "url": "https://www.czso.cz/documents/62353418/204199124/sldb2021_aktivita_pohlavi.csv"
   },
   {
+    "name": "Obyvatelstvo podle ekonomické aktivity, desetiletých věkových skupin a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/209565602/sldb2021_aktivita_vek10_pohlavi.csv"
+  },
+  {
+    "name": "Obyvatelstvo podle ekonomické aktivity, jednoletých věkových skupin a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/209565602/sldb2021_aktivita_vek1_pohlavi.csv"
+  },
+  {
+    "name": "Obyvatelstvo podle ekonomické aktivity, pětiletých věkových skupin a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/209565602/sldb2021_aktivita_vek5_pohlavi.csv"
+  },
+  {
     "name": "Obyvatelstvo podle ekonomické aktivity, základních věkových skupin a pohlaví",
     "url": "https://www.czso.cz/documents/62353418/205988586/sldb2021_aktivita_vek_pohlavi.csv"
   },
@@ -728,6 +724,18 @@
     "url": "https://www.czso.cz/documents/62353418/204199124/sldb2021_odvetvi_pohlavi.csv"
   },
   {
+    "name": "Zaměstnaní podle odvětví ekonomické činnosti, desetiletých věkových skupin a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/209565602/sldb2021_odvetvi_vek10_pohlavi.csv"
+  },
+  {
+    "name": "Zaměstnaní podle odvětví ekonomické činnosti, jednoletých věkových skupin a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/209565602/sldb2021_odvetvi_vek1_pohlavi.csv"
+  },
+  {
+    "name": "Zaměstnaní podle odvětví ekonomické činnosti, pětiletých věkových skupin a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/209565602/sldb2021_odvetvi_vek5_pohlavi.csv"
+  },
+  {
     "name": "Zaměstnaní podle postavení v zaměstnání a pohlaví",
     "url": "https://www.czso.cz/documents/62353418/204199124/sldb2021_postaveni_pohlavi.csv"
   },
@@ -738,10 +746,6 @@
   {
     "name": "Úřední deska ve formátu JSON-LD",
     "url": "https://www.czso.cz/csu-ws/zdroj/czso/uredni_deska"
-  },
-  {
-    "name": "Čtvrtletí roku 2022",
-    "url": "https://www.czso.cz/documents/62353418/171347817/140133-22data011623.zip"
   },
   {
     "name": "Čtvrtletí roku 2022",
