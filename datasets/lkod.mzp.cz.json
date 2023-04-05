@@ -16,6 +16,10 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-cisteni-odpadnich-vod-vypoustenych-do-kanalizace-2021.csv"
   },
   {
+    "name": "csv-energeticka-narocnost-hospodarstvi-v-zemich-eu.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-energeticka-narocnost-hospodarstvi-v-zemich-eu28-2021.csv"
+  },
+  {
     "name": "csv-odbery-podzemni-vody-jednotlivymi-sektory-v-cr.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-odbery-podzemni-vody-2021.csv"
   },
@@ -26,10 +30,6 @@
   {
     "name": "data-cenia-indikator-bohatost-struktury-lesnich-porostu-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-bohatost-struktury-lesnich-porostu-2021.csv"
-  },
-  {
-    "name": "data-cenia-indikator-celkova-a-nahodila-tezba-dreva-2021.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkova-a-nahodila-tezba-dreva-2021.csv"
   },
   {
     "name": "data-cenia-indikator-celkova-a-nahodila-tezba-dreva-v-krajich-2021.csv",
@@ -202,5 +202,9 @@
   {
     "name": "energeticka-narocnost-jednotlivych-sektoru-v-cr-mjtis.-kc-2010-2020.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-energeticka-narocnost-sektoru-2021.csv"
+  },
+  {
+    "name": "porovnani-nahodile-a-celkove-tezby-dreva-s-celkovym-prumernym-prirustem-cpp-v-cr-m-bez-kury-1990-2021.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkova-a-nahodila-tezba-dreva-2021.csv"
   }
 ]
