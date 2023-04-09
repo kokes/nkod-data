@@ -156,8 +156,16 @@
     "url": "https://opendata.mzp.cz/dataset/d467c0c4-11c9-440d-a027-f56050018f54/resource/74cf8d6d-3398-4a01-89ac-9adb7b51be31/download/cgs_objednavky_2018_2019-04-18.csv"
   },
   {
+    "name": "Objednavky ČGS 2020",
+    "url": "https://opendata.mzp.cz/dataset/89b70684-5f50-46c2-ae27-dee6ba873df9/resource/316b77a0-a017-4dd5-909b-a0b393009640/download/cgs_objednavky_2020_2021-12-26.csv"
+  },
+  {
     "name": "Objednávky AOPK 2016",
     "url": "https://opendata.mzp.cz/dataset/ff24dd83-f702-4ac8-bff1-abec08ded6d4/resource/305aa8e6-5ce0-4a79-95b3-4b00346ecf37/download/aopk_objednavky_2016_2019-04-12.csv"
+  },
+  {
+    "name": "Objednávky AOPK 2018",
+    "url": "https://opendata.mzp.cz/dataset/4c79c6ed-3ddd-4a35-84cd-a546863d60cc/resource/d49c1d44-0442-4bf5-8745-06f490e4536a/download/aopk_objednavky_2018_2019-04-12.csv"
   },
   {
     "name": "Objednávky AOPK 2019",
@@ -246,9 +254,5 @@
   {
     "name": "Smlouvy ČGS",
     "url": "https://opendata.mzp.cz/dataset/65f760c8-74aa-47e8-8a18-e24cd16c8560/resource/96753501-1ed5-4897-aa49-7db6212e3a0a/download/cgs_smlouvy_platne_neplatne_2022-09-04.csv"
-  },
-  {
-    "name": "Smlouvy ČIŽP",
-    "url": "https://opendata.mzp.cz/dataset/748e70c6-3aa7-440a-beaa-2d0411cf37e3/resource/673cf597-539e-405f-a371-05a5a53858f2/download/cizp_smlouvy_platne_neplatne_2022-09-04.csv"
   }
 ]
