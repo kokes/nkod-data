@@ -1,10 +1,10 @@
 [
   {
-    "name": "Smlouvy SNPŠ [Webové rozhraní]",
-    "url": "https://opendata.npsumava.cz/smlouvy.php"
+    "name": "Faktury SNPŠ [Webové rozhraní]",
+    "url": "https://opendata.npsumava.cz/faktury.php"
   },
   {
-    "name": "Smlouvy SNPŠ [csv]",
-    "url": "https://opendata.npsumava.cz/smlouvy.php?export=csv"
+    "name": "Faktury SNPŠ [csv]",
+    "url": "https://opendata.npsumava.cz/faktury.php?export=csv"
   }
 ]
