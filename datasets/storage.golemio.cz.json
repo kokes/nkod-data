@@ -60,12 +60,12 @@
     "url": "https://storage.golemio.cz/lkod/praha-11/79eccef6-d388-471b-886a-5776d20c095a/c1ff5ad8-762a-41e8-9a7b-53835396d746-ds_seznam-pamatnych-strom-na-m-praha-11.xlsx"
   },
   {
-    "name": "Denni srážkové úhrny ze srážkoměrů 01-06 2022",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/8d3050e6-ee3f-47b5-8989-56b021885241/57ddd5fe-616a-418c-9fe0-d717c5fa623c-denni-srakove-uhrny-ze-srakomr_01-06-2022.csv"
-  },
-  {
     "name": "Denní srážkové úhrny ze srážkoměrů 01-12 2021",
     "url": "https://storage.golemio.cz/lkod/pvspvk/8d3050e6-ee3f-47b5-8989-56b021885241/a11defbf-a56c-45db-b678-89e3a2803e53-denni-srakove-uhrny-ze-srakomr_01-12-2021-mm.csv"
+  },
+  {
+    "name": "Denní srážkové úhrny ze srážkoměrů 1-3 2023",
+    "url": "https://storage.golemio.cz/lkod/pvspvk/8d3050e6-ee3f-47b5-8989-56b021885241/denni_uhrn_2023_mm.csv"
   },
   {
     "name": "Dlouhodobý hmotný majetek 2018",
@@ -2230,6 +2230,10 @@
   {
     "name": "verejne_zakazky_PO.csv",
     "url": "https://storage.golemio.cz/ckan/tendersystems/verejne_zakazky_PO.csv"
+  },
+  {
+    "name": "verejne_zakazky_dpp",
+    "url": "https://storage.golemio.cz/ckan/tendersystems/verejne_zakazky_dpp.csv"
   },
   {
     "name": "verejne_zakazky_opendata_zadano.csv",
