@@ -1,5 +1,13 @@
 [
   {
+    "name": "Faktury SNPČŠ [Webové rozhraní]",
+    "url": "http://opendata.npcs.cz/faktury.php"
+  },
+  {
+    "name": "Faktury SNPČŠ [csv]",
+    "url": "http://opendata.npcs.cz/faktury.php?export=csv"
+  },
+  {
     "name": "Smlouvy SNPČŠ [Webové rozhraní]",
     "url": "http://opendata.npcs.cz/smlouvy.php"
   },
