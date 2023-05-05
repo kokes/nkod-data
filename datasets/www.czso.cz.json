@@ -376,6 +376,10 @@
     "url": "https://www.czso.cz/documents/62353418/171347803/290038-22data2021.zip"
   },
   {
+    "name": "Dojížďka mezi obcemi, včetně denní dojížďky",
+    "url": "https://www.czso.cz/documents/62353418/212564536/dojizdka_obce.csv"
+  },
+  {
     "name": "Domy a byty",
     "url": "https://www.czso.cz/documents/10180/25233177/sldb_domybyty.zip"
   },
@@ -716,6 +720,10 @@
     "url": "https://www.czso.cz/documents/10180/23208674/struktura_uzemi_cr.csv"
   },
   {
+    "name": "Vyjíždějící do zaměstnání a školy podle cílového území a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/212564536/sldb2021_vyjizdka_vsichni_cil_pohlavi.csv"
+  },
+  {
     "name": "Vyjíždějící do zaměstnání a školy podle frekvence vyjížďky",
     "url": "https://www.czso.cz/documents/62353418/210716438/sldb2021_vyjizdka_vsichni_frekvence_pohlavi.csv"
   },
@@ -728,6 +736,10 @@
     "url": "https://www.czso.cz/documents/62353418/210716438/sldb2021_vyjizdka_vsichni_kraj_pohlavi.csv"
   },
   {
+    "name": "Vyjíždějící do zaměstnání podle cílového území a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/212564536/sldb2021_vyjizdka_pracoviste_cil_pohlavi.csv"
+  },
+  {
     "name": "Vyjíždějící do zaměstnání podle frekvence vyjížďky",
     "url": "https://www.czso.cz/documents/62353418/210716438/sldb2021_vyjizdka_pracoviste_frekvence_pohlavi.csv"
   },
@@ -738,6 +750,10 @@
   {
     "name": "Vyjíždějící do zaměstnání podle kraje místa pracoviště",
     "url": "https://www.czso.cz/documents/62353418/210716438/sldb2021_vyjizdka_pracoviste_kraj_pohlavi.csv"
+  },
+  {
+    "name": "Vyjíždějící do školy podle cílového území a pohlaví",
+    "url": "https://www.czso.cz/documents/62353418/212564536/sldb2021_vyjizdka_skola_cil_pohlavi.csv"
   },
   {
     "name": "Vyjíždějící do školy podle frekvence vyjížďky",
