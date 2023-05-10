@@ -48,16 +48,8 @@
     "url": "https://opendata.mzp.cz/dataset/8ef570ea-6a6c-435c-bfcf-5e2b30f38e6d/resource/9f14c933-a1f4-4c50-941f-eee26dd2e2f7/download/cenia_uhrazene_faktury_2022_2022-09-04.csv"
   },
   {
-    "name": "Faktury MŽP 2016",
-    "url": "https://opendata.mzp.cz/dataset/c20b5ece-aaf1-46d1-b473-5e15db3b6685/resource/2205544e-7b0c-43e8-bb8e-0350165d19ee/download/mzp_uhrazene_faktury_2016_2019-04-11.csv"
-  },
-  {
     "name": "Faktury MŽP 2017",
     "url": "https://opendata.mzp.cz/dataset/7f799fae-2116-461c-aa48-58459fb20a2b/resource/1684ca0e-4001-461a-82b4-7d359b16afc1/download/mzp_uhrazene_faktury_2017_2019-04-11.csv"
-  },
-  {
-    "name": "Faktury MŽP 2018",
-    "url": "https://opendata.mzp.cz/dataset/da389a59-60f4-4fac-998d-b53d341faacc/resource/a78a1623-c663-4185-8ebf-77fd1a2c1122/download/mzp_uhrazene_faktury_2018_2019-04-11.csv"
   },
   {
     "name": "Faktury MŽP 2019",
@@ -116,10 +108,6 @@
     "url": "https://opendata.mzp.cz/dataset/848b3acd-34c4-4de2-92e3-1f3e8c62d671/resource/aad9a0ac-0754-48ea-b327-89b73fe58a48/download/cgs_uhrazene_faktury_2020_2021-12-26.csv"
   },
   {
-    "name": "Faktury ČGS 2021",
-    "url": "https://opendata.mzp.cz/dataset/33c5b3a4-6922-42e4-99e2-176531a97436/resource/33ca4a1c-52da-4a83-b808-86fd7d08d846/download/cgs_uhrazene_faktury_2021_2021-12-26.csv"
-  },
-  {
     "name": "Faktury ČGS 2022",
     "url": "https://opendata.mzp.cz/dataset/b1a3e036-c4f2-4543-b1be-a14970038649/resource/50f9f2ba-8b7a-42fd-bd82-365f0db98831/download/cgs_uhrazene_faktury_2022_2022-09-04.csv"
   },
@@ -140,16 +128,20 @@
     "url": "https://opendata.mzp.cz/dataset/8d79ee7c-1625-43e3-8715-c897662713a2/resource/c91b6508-5a18-4c43-9bd1-443cc74d33c0/download/cizp_uhrazene_faktury_2022_2022-09-04.csv"
   },
   {
+    "name": "Nakládání s GMO",
+    "url": "https://opendata.mzp.cz/dataset/f0dbf168-3b6d-42ad-9e27-fabf717cb010/resource/53f130f1-1ada-4f9b-9481-0b593dd8624a/download/gmo_2019-09-30.csv"
+  },
+  {
     "name": "Objednavky MŽP 2016",
     "url": "https://opendata.mzp.cz/dataset/7ac3b2a3-f21a-456f-a310-e5580cdc221a/resource/20b79f73-7a4d-4ab7-8bb6-c0243c678a5a/download/mzp_objednavky_2016_2019-04-11.csv"
   },
   {
-    "name": "Objednavky ČGS 2017",
-    "url": "https://opendata.mzp.cz/dataset/48e81933-5016-444b-ad14-02dc84d975b0/resource/d1bff2db-64a7-4bba-bf56-80e9b3781bd2/download/cgs_objednavky_2017_2019-04-18.csv"
-  },
-  {
     "name": "Objednavky ČGS 2018",
     "url": "https://opendata.mzp.cz/dataset/d467c0c4-11c9-440d-a027-f56050018f54/resource/74cf8d6d-3398-4a01-89ac-9adb7b51be31/download/cgs_objednavky_2018_2019-04-18.csv"
+  },
+  {
+    "name": "Objednavky ČGS 2020",
+    "url": "https://opendata.mzp.cz/dataset/89b70684-5f50-46c2-ae27-dee6ba873df9/resource/316b77a0-a017-4dd5-909b-a0b393009640/download/cgs_objednavky_2020_2021-12-26.csv"
   },
   {
     "name": "Objednávky AOPK 2016",
@@ -230,10 +222,6 @@
   {
     "name": "Smlouvy AOPK",
     "url": "https://opendata.mzp.cz/dataset/39f13b65-5a8f-4557-8961-49b4062b60ab/resource/14ffd3c8-4569-4e6d-b7c1-abba65b18878/download/aopk_smlouvy_platne_neplatne_2022-09-04.csv"
-  },
-  {
-    "name": "Smlouvy CENIA",
-    "url": "https://opendata.mzp.cz/dataset/22852367-9405-4c55-8202-00659845340b/resource/a2497d61-19db-4c3e-a74f-8f8098cb520b/download/cenia_smlouvy_platne_neplatne_2022-09-04.csv"
   },
   {
     "name": "Smlouvy MŽP",
