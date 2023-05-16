@@ -1,6 +1,14 @@
 [
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/documents/mestomost::hlasování-rady"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/documents/mestomost::hlasování-zastupitelstva"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::bloky-v-mostě"
   },
   {
