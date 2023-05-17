@@ -2349,19 +2349,11 @@
   },
   {
     "name": "Aktuální stav (S-JTSK, GeoJSON)",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_LINKY_L/S_JTSK/DOP_PID_LINKY_L.json"
-  },
-  {
-    "name": "Aktuální stav (S-JTSK, GeoJSON)",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_TRASY_L/S_JTSK/DOP_PID_TRASY_L.json"
   },
   {
     "name": "Aktuální stav (S-JTSK, GeoJSON)",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZASTAVKY_B/S_JTSK/DOP_PID_ZASTAVKY_B.json"
-  },
-  {
-    "name": "Aktuální stav (S-JTSK, GeoJSON)",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZAST_POPIS_B/S_JTSK/DOP_PID_ZAST_POPIS_B.json"
   },
   {
     "name": "Aktuální stav (S-JTSK, Shapefile)",
@@ -2389,19 +2381,11 @@
   },
   {
     "name": "Aktuální stav (WGS84, GeoJSON)",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_LINKY_L/WGS_84/DOP_PID_LINKY_L.json"
-  },
-  {
-    "name": "Aktuální stav (WGS84, GeoJSON)",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_TRASY_L/WGS_84/DOP_PID_TRASY_L.json"
   },
   {
     "name": "Aktuální stav (WGS84, GeoJSON)",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZASTAVKY_B/WGS_84/DOP_PID_ZASTAVKY_B.json"
-  },
-  {
-    "name": "Aktuální stav (WGS84, GeoJSON)",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZAST_POPIS_B/WGS_84/DOP_PID_ZAST_POPIS_B.json"
   },
   {
     "name": "Aktuální stav (WGS84, Shapefile)",
@@ -2429,19 +2413,11 @@
   },
   {
     "name": "Aktuální stav + týden (S-JTSK, GeoJSON)",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_LINKY_TYDEN_L/S_JTSK/DOP_PID_LINKY_TYDEN_L.json"
-  },
-  {
-    "name": "Aktuální stav + týden (S-JTSK, GeoJSON)",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_TRASY_TYDEN_L/S_JTSK/DOP_PID_TRASY_TYDEN_L.json"
   },
   {
     "name": "Aktuální stav + týden (S-JTSK, GeoJSON)",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZASTAVKY_TYDEN_B/S_JTSK/DOP_PID_ZASTAVKY_TYDEN_B.json"
-  },
-  {
-    "name": "Aktuální stav + týden (S-JTSK, GeoJSON)",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZAST_POPIS_TYDEN_B/S_JTSK/DOP_PID_ZAST_POPIS_TYDEN_B.json"
   },
   {
     "name": "Aktuální stav + týden (S-JTSK, Shapefile)",
@@ -2469,19 +2445,11 @@
   },
   {
     "name": "Aktuální stav + týden (WGS84, GeoJSON)",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_LINKY_TYDEN_L/WGS_84/DOP_PID_LINKY_TYDEN_L.json"
-  },
-  {
-    "name": "Aktuální stav + týden (WGS84, GeoJSON)",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_TRASY_TYDEN_L/WGS_84/DOP_PID_TRASY_TYDEN_L.json"
   },
   {
     "name": "Aktuální stav + týden (WGS84, GeoJSON)",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZASTAVKY_TYDEN_B/WGS_84/DOP_PID_ZASTAVKY_TYDEN_B.json"
-  },
-  {
-    "name": "Aktuální stav + týden (WGS84, GeoJSON)",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZAST_POPIS_TYDEN_B/WGS_84/DOP_PID_ZAST_POPIS_TYDEN_B.json"
   },
   {
     "name": "Aktuální stav + týden (WGS84, Shapefile)",
@@ -3605,23 +3573,11 @@
   },
   {
     "name": "Trvalý stav (S-JTSK, GML)",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_LINKY_TS_L/S_JTSK/DOP_PID_LINKY_TS_L_gml.zip"
-  },
-  {
-    "name": "Trvalý stav (S-JTSK, GML)",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_TRASY_TS_L/S_JTSK/DOP_PID_TRASY_TS_L_gml.zip"
   },
   {
     "name": "Trvalý stav (S-JTSK, GML)",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZASTAVKY_TS_B/S_JTSK/DOP_PID_ZASTAVKY_TS_B_gml.zip"
-  },
-  {
-    "name": "Trvalý stav (S-JTSK, GML)",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZAST_POPIS_TS_B/S_JTSK/DOP_PID_ZAST_POPIS_TS_B_gml.zip"
-  },
-  {
-    "name": "Trvalý stav (S-JTSK, GeoJSON)",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_LINKY_TS_L/S_JTSK/DOP_PID_LINKY_TS_L.json"
   },
   {
     "name": "Trvalý stav (S-JTSK, GeoJSON)",
@@ -3630,10 +3586,6 @@
   {
     "name": "Trvalý stav (S-JTSK, GeoJSON)",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZASTAVKY_TS_B/S_JTSK/DOP_PID_ZASTAVKY_TS_B.json"
-  },
-  {
-    "name": "Trvalý stav (S-JTSK, GeoJSON)",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZAST_POPIS_TS_B/S_JTSK/DOP_PID_ZAST_POPIS_TS_B.json"
   },
   {
     "name": "Trvalý stav (S-JTSK, Shapefile)",
@@ -3645,23 +3597,11 @@
   },
   {
     "name": "Trvalý stav (WGS84, GML)",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_LINKY_TS_L/WGS_84/DOP_PID_LINKY_TS_L_gml.zip"
-  },
-  {
-    "name": "Trvalý stav (WGS84, GML)",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_TRASY_TS_L/WGS_84/DOP_PID_TRASY_TS_L_gml.zip"
   },
   {
     "name": "Trvalý stav (WGS84, GML)",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZASTAVKY_TS_B/WGS_84/DOP_PID_ZASTAVKY_TS_B_gml.zip"
-  },
-  {
-    "name": "Trvalý stav (WGS84, GML)",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZAST_POPIS_TS_B/WGS_84/DOP_PID_ZAST_POPIS_TS_B_gml.zip"
-  },
-  {
-    "name": "Trvalý stav (WGS84, GeoJSON)",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_LINKY_TS_L/WGS_84/DOP_PID_LINKY_TS_L.json"
   },
   {
     "name": "Trvalý stav (WGS84, GeoJSON)",
@@ -3670,10 +3610,6 @@
   {
     "name": "Trvalý stav (WGS84, GeoJSON)",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZASTAVKY_TS_B/WGS_84/DOP_PID_ZASTAVKY_TS_B.json"
-  },
-  {
-    "name": "Trvalý stav (WGS84, GeoJSON)",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZAST_POPIS_TS_B/WGS_84/DOP_PID_ZAST_POPIS_TS_B.json"
   },
   {
     "name": "Trvalý stav (WGS84, Shapefile)",
@@ -4530,9 +4466,5 @@
   {
     "name": "Číselník druhů dopravy",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZASTAVKY_TS_B/CIS_ZAST_DD.csv"
-  },
-  {
-    "name": "Číselník druhů dopravy",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_PID_ZAST_POPIS_TS_B/CIS_ZAST_DD.csv"
   }
 ]

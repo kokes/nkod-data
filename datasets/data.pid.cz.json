@@ -1,11 +1,27 @@
 [
   {
+    "name": "Aktuální stav (S-JTSK, GeoJSON)",
+    "url": "https://data.pid.cz/geodata/Linky_S-JTSK.json"
+  },
+  {
+    "name": "Aktuální stav (S-JTSK, GeoJSON)",
+    "url": "https://data.pid.cz/geodata/Zastavky_S-JTSK.json"
+  },
+  {
     "name": "Aktuální stav (S-JTSK, Shapefile)",
     "url": "https://data.pid.cz/geodata/Linky_S-JTSK.zip"
   },
   {
     "name": "Aktuální stav (S-JTSK, Shapefile)",
     "url": "https://data.pid.cz/geodata/Zastavky_S-JTSK.zip"
+  },
+  {
+    "name": "Aktuální stav (WGS84, GeoJSON)",
+    "url": "https://data.pid.cz/geodata/Linky_WGS84.json"
+  },
+  {
+    "name": "Aktuální stav (WGS84, GeoJSON)",
+    "url": "https://data.pid.cz/geodata/Zastavky_WGS84.json"
   },
   {
     "name": "Aktuální stav (WGS84, Shapefile)",
@@ -16,12 +32,28 @@
     "url": "https://data.pid.cz/geodata/Zastavky_WGS84.zip"
   },
   {
+    "name": "Aktuální stav + týden (S-JTSK, GeoJSON)",
+    "url": "https://data.pid.cz/geodata/Linky_7d_S-JTSK.json"
+  },
+  {
+    "name": "Aktuální stav + týden (S-JTSK, GeoJSON)",
+    "url": "https://data.pid.cz/geodata/Zastavky_7d_S-JTSK.json"
+  },
+  {
     "name": "Aktuální stav + týden (S-JTSK, Shapefile)",
     "url": "https://data.pid.cz/geodata/Linky_7d_S-JTSK.zip"
   },
   {
     "name": "Aktuální stav + týden (S-JTSK, Shapefile)",
     "url": "https://data.pid.cz/geodata/Zastavky_7d_S-JTSK.zip"
+  },
+  {
+    "name": "Aktuální stav + týden (WGS84, GeoJSON)",
+    "url": "https://data.pid.cz/geodata/Linky_7d_WGS84.json"
+  },
+  {
+    "name": "Aktuální stav + týden (WGS84, GeoJSON)",
+    "url": "https://data.pid.cz/geodata/Zastavky_7d_WGS84.json"
   },
   {
     "name": "Aktuální stav + týden (WGS84, Shapefile)",
