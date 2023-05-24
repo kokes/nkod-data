@@ -212,10 +212,6 @@
     "url": "https://opendata.mzp.cz/dataset/658cd817-c91e-44f9-8c60-82d7649dde4c/resource/741d6906-8725-4e1e-b9da-d21a668f369d/download/cgs_objednavky_2019_2020-12-27.csv"
   },
   {
-    "name": "Objednávky ČGS 2021",
-    "url": "https://opendata.mzp.cz/dataset/22fc70f4-ac3e-4e23-a78b-e9d3169040ee/resource/1a89baec-adab-42d8-9db3-0a24f303d130/download/cgs_objednavky_2021_2021-12-26.csv"
-  },
-  {
     "name": "Objednávky ČGS 2022",
     "url": "https://opendata.mzp.cz/dataset/540d727d-5c57-4a79-95e7-be97e43dcb3e/resource/919c7d37-7f8f-49f1-bd6d-53275a3fd011/download/cgs_objednavky_2022_2022-09-04.csv"
   },
@@ -230,6 +226,10 @@
   {
     "name": "Objednávky ČIŽP 2021",
     "url": "https://opendata.mzp.cz/dataset/f36f0fb5-b22d-4a47-9355-6f6ef828a349/resource/c62e243e-d81a-40cc-a30a-d1b002edf84f/download/cizp_objednavky_2021_2021-12-26.csv"
+  },
+  {
+    "name": "Objednávky ČIŽP 2022",
+    "url": "https://opendata.mzp.cz/dataset/b271a921-265e-4c56-a378-63befbb7600c/resource/d9a605ac-7adb-4489-b55d-1fb92f345310/download/cizp_objednavky_2022_2022-09-04.csv"
   },
   {
     "name": "Smlouvy AOPK",

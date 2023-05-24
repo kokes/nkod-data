@@ -16,8 +16,20 @@
     "url": "https://atom.cuzk.cz/get.ashx?theme=CPX"
   },
   {
+    "name": "INSPIRE stahovací služba ATOM pro téma Zeměpisné soustavy souřadnicových sítí (GGS) - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=GGS"
+  },
+  {
     "name": "INSPIRE stahovací služba ATOM pro téma Územní správní jednotky (AU) - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=AU"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Data250 - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=Data250"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Data50 - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=Data50"
   },
   {
     "name": "Stahovací služba Atom pro Volební okrsky - OpenSearch",
@@ -42,6 +54,10 @@
   {
     "name": "Stahovací služba Atom pro data RÚIAN ve formátu csv - hierarchie prvků pro stát - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=RUIAN-CSV-HIE-ST"
+  },
+  {
+    "name": "Stahovací služba Atom pro data podrobného kvazigeoidu QGZÚ-2013 - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=QGZU"
   },
   {
     "name": "Stahovací služba Atom pro geometrické plány - děleno po katastrálních územích - VFK - OpenSearch",
@@ -98,13 +114,5 @@
   {
     "name": "Stahovací služba Atom pro speciální stavová data RUIAN - číselníky - VFR - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=RUIAN-SP-CIS-U"
-  },
-  {
-    "name": "Stahovací služba Atom pro Úhrnné hodnoty druhů pozemků - OpenSearch",
-    "url": "https://atom.cuzk.cz/get.ashx?theme=UHDP"
-  },
-  {
-    "name": "Stahovací služba Atom pro Úřední desky resortu ČÚZK - OpenSearch",
-    "url": "https://atom.cuzk.cz/get.ashx?theme=UD"
   }
 ]
