@@ -16,6 +16,10 @@
     "url": "https://data.mzcr.cz/distribuce/263/mamograficky-screening-c50.csv"
   },
   {
+    "name": "Novorozenci podle léčby na oddělení",
+    "url": "https://data.mzcr.cz/distribuce/310/novorozenci-lecba-odd.csv"
+  },
+  {
     "name": "Národní registr poskytovatelů zdravotních služeb",
     "url": "https://data.mzcr.cz/distribuce/63/narodni-registr-poskytovatelu-zdravotnich-sluzeb.csv"
   },
@@ -62,6 +66,18 @@
   {
     "name": "Psychiatrická péče: Úmrtnost lidí s duševním onemocněním",
     "url": "https://data.mzcr.cz/distribuce/272/dusevni-onemocneni-umrtnost.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Narození podle způsobu porodu",
+    "url": "https://data.mzcr.cz/distribuce/312/novorozenci-porod.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Novorozenci a informace o propuštění",
+    "url": "https://data.mzcr.cz/distribuce/313/novorozenci-propusteni.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Novorozenci podle léčby na porodním sále",
+    "url": "https://data.mzcr.cz/distribuce/311/novorozenci-lecba-sal.csv"
   },
   {
     "name": "Standardizovaná incidence ZN průdušnice, průdušky a plíce (C33-34)",
