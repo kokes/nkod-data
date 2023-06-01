@@ -16,10 +16,6 @@
     "url": "https://data.mzcr.cz/distribuce/263/mamograficky-screening-c50.csv"
   },
   {
-    "name": "Novorozenci podle léčby na oddělení",
-    "url": "https://data.mzcr.cz/distribuce/310/novorozenci-lecba-odd.csv"
-  },
-  {
     "name": "Národní registr poskytovatelů zdravotních služeb",
     "url": "https://data.mzcr.cz/distribuce/63/narodni-registr-poskytovatelu-zdravotnich-sluzeb.csv"
   },
@@ -76,8 +72,60 @@
     "url": "https://data.mzcr.cz/distribuce/313/novorozenci-propusteni.csv"
   },
   {
+    "name": "Reprodukční zdraví: Novorozenci a vrozené vady",
+    "url": "https://data.mzcr.cz/distribuce/318/novorozenci-vady.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Novorozenci podle léčby na oddělení",
+    "url": "https://data.mzcr.cz/distribuce/310/novorozenci-lecba-oddeleni.csv"
+  },
+  {
     "name": "Reprodukční zdraví: Novorozenci podle léčby na porodním sále",
     "url": "https://data.mzcr.cz/distribuce/311/novorozenci-lecba-sal.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Novorozenci podle základních sociodemografických charakteristik",
+    "url": "https://data.mzcr.cz/distribuce/315/populsada-novorozenci.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky a Diabetes",
+    "url": "https://data.mzcr.cz/distribuce/320/rodicky-diabetes.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky a Robsonova klasifikace porodů",
+    "url": "https://data.mzcr.cz/distribuce/323/rodicky-robson.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky a císařské řezy",
+    "url": "https://data.mzcr.cz/distribuce/324/rodicky-cisar.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky a screeningová vyšetření v těhotenství",
+    "url": "https://data.mzcr.cz/distribuce/319/rodicky-screening.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky podle komplikací porodu",
+    "url": "https://data.mzcr.cz/distribuce/325/rodicky-komplikace-porod.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky podle komplikací v těhotenství",
+    "url": "https://data.mzcr.cz/distribuce/321/rodicky-komplikace-tehotenstvi.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky podle léků za porodu",
+    "url": "https://data.mzcr.cz/distribuce/317/rodicky-leky.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky podle způsobu porodu",
+    "url": "https://data.mzcr.cz/distribuce/322/rodicky-zpusob-porodu.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky podle základních sociodemografických charakteristik",
+    "url": "https://data.mzcr.cz/distribuce/314/populsada-rodicky.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Screening u narozených",
+    "url": "https://data.mzcr.cz/distribuce/316/novorozenci-screening.csv"
   },
   {
     "name": "Standardizovaná incidence ZN průdušnice, průdušky a plíce (C33-34)",
