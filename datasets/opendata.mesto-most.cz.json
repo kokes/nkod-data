@@ -69,10 +69,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::intenzita-automobilové-dopravy-1"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::jednorázové-hudební-akce"
   },
   {
@@ -89,19 +85,11 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::obvody-mateřských-škol-1"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::obvody-základních-škol"
   },
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::poplachové-sirény"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::poplachové-sirény-1"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -122,10 +110,6 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::stožáry-veřejného-osvětlení"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::stožáry-veřejného-osvětlení-1"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -150,10 +134,6 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::zastávky-mhd"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::zastávky-mhd-1"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -218,6 +198,10 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-územní-rezerva-r"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "CSV",
@@ -389,6 +373,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::budovy-ve-starém-mostě.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -557,6 +545,10 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::budovy-ve-starém-mostě.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -714,6 +706,10 @@
   {
     "name": "KML",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-územní-rezerva-r.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
