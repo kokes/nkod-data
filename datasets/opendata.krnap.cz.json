@@ -6,13 +6,5 @@
   {
     "name": "Faktury KRNAP [csv]",
     "url": "https://opendata.krnap.cz/faktury.php?export=csv"
-  },
-  {
-    "name": "Smlouvy KRNAP [Webové rozhraní]",
-    "url": "https://opendata.krnap.cz/smlouvy.php"
-  },
-  {
-    "name": "Smlouvy KRNAP [csv]",
-    "url": "https://opendata.krnap.cz/smlouvy.php?export=csv"
   }
 ]

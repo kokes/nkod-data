@@ -57,19 +57,7 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://gis.brno.cz/ags1/rest/services/OMI/OMI_DSM2019/ImageServer"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/OMI/OMI_OK_pocitova_mapa_Brno_2028/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://gis.brno.cz/ags1/rest/services/OMI/OMI_solar_irradiance_2019/ImageServer"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://gis.brno.cz/ags1/rest/services/OMI/omi_dtm_2019_wgs_1m_e/ImageServer"
   },
   {
     "name": "ArcGIS GeoService",
