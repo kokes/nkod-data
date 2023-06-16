@@ -621,7 +621,7 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Plochy_zastaviteln%C3%A9_v_Z%C3%9AR/FeatureServer/0"
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Plochy_jejich%C5%BE_vyu%C5%BEit%C3%AD/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -693,6 +693,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/V%C3%BDznamn%C3%A9_oborov%C3%A9_z%C3%A1m%C4%9Bry_ekonomick%C3%A9ho_rozvoje_v_Z%C3%9AR/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Ve%C5%99ejn%C3%A9_sb%C3%ADrky/FeatureServer/0"
   },
   {
@@ -710,10 +714,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Vymezen%C3%AD_krajin/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Vymezen%C3%AD_krajin_se_stanoven%C3%BDmi_c%C3%ADlov%C3%BDmi_kvalitami_v_Z%C3%9AR/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
