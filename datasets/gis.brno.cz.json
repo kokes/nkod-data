@@ -41,6 +41,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/Hosted/WazeJams/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/Hosted/brno_brzo_full_editace_view/FeatureServer/0"
   },
   {

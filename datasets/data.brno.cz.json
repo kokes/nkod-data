@@ -1,11 +1,7 @@
 [
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::-%C3%BAseky-placen%C3%A9ho-st%C3%A1n%C3%AD-paid-parking-sections.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::adresn%C3%AD-m%C3%ADsta-address-points.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::adresni-mista.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -13,15 +9,11 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::aktivn%C3%AD-z%C3%B3na-z%C3%A1plavov%C3%A9ho-%C3%BAzem%C3%AD-active-flood-zones.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::brno-brzo-stavebn%C3%AD-projekty-a-z%C3%A1m%C4%9Bry-brno-brzo-development-projects-and-plans.csv?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::brownfields-rozvojov%C3%A9-lokality.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::brownfieldy-1.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -29,7 +21,11 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::chodn%C3%ADky-sidewalks.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::chodniky.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::chranena-loziskova-uzemi.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -37,15 +33,19 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::cykloboxy-cycloboxes.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::cykloboxy.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::cyklodetektory.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::cykloopatreni-realizovana-opendata.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::cykloopat%C5%99en%C3%AD-zrealizovan%C3%A1-cycling-infrastructure-existing.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::dobyvaci-prostory.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::elektrick%C3%A9-nab%C3%ADjec%C3%AD-stanice-pro-auta-ev-charging-points.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -57,87 +57,15 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-are%C3%A1ly-geological-risks-industrial-areas.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-chr%C3%A1n%C4%9Bn%C3%A1-lo%C5%BEiskov%C3%A1-%C3%BAzem%C3%AD-geological-risks-protected-deposit-areas.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-ciu-tranzitn%C3%AD-kontaminace-podzemn%C3%AD-vodou-geological-risks-transitional-contamination-of-groundwater.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-dob%C3%BDvac%C3%AD-prostory-geological-risks-mining-areas.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-horizont%C3%A1ln%C3%AD-vrty-geological-risks-horizontal-drilling.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-hydrogeologick%C3%A9-objekty-geological-risks-hydrogeological-objects.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-kontaminace-zemin-geological-risks-soil-contamination.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-kontaminace-zemin-sondy-geological-risks-soil-contamination-probes.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-lo%C5%BEiska-nerostn%C3%BDch-surovin-geological-risks-mineral-deposits.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-nel-plo%C5%A1n%C3%A1-kontaminace-podzemn%C3%AD-vody-geological-risks-extensive-contamination-of-groundwater.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-nevhodn%C3%A9-zasakovac%C3%AD-pom%C4%9Bry-geological-risks-insufficient-seepage-conditions.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-pr%C5%AFzkumn%C3%A9-%C3%BAzem%C3%AD-geological-risks-mineral-exploration-area.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-realizovan%C3%A9-sana%C4%8Dn%C3%AD-z%C3%A1sahy-geological-risks-implemented-remediation-interventions.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-rizikov%C3%A1-oblast-neogenn%C3%ADch-vod-geological-risks-neogene-water-areas.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-skl%C3%A1dky-a-antropogenn%C3%AD-ulo%C5%BEeniny-geological-risks-landfills-and-anthropogenic-deposits.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-sm%C4%9Br-proud%C4%9Bn%C3%AD-podzemn%C3%ADch-vod-geological-risks-groundwater-flow-direction.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-velmi-slo%C5%BEit%C3%A9-z%C3%A1kladov%C3%A9-pom%C4%9Bry-geological-risks-complex-foundation-conditions.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-vodn%C3%AD-toky-geological-risks-watercourses.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-vodn%C3%AD-toky-p%C5%99ed-regulac%C3%AD-geological-risks-watercourses-in-natural-boundaries.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-body-water-supply-network-accidents-points.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie-polygony-1.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-polygony-water-supply-network-accidents-polygons.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::horizontalni-vrty.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -145,23 +73,19 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-h%C5%99bitov%C5%AF-cemetery-boundaries.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-brna.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-hrobov%C3%BDch-skupin-grave-group-boundaries.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-hrbitovu.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-katastr%C3%A1ln%C3%ADch-%C3%BAzem%C3%AD-cadastral-boundaries.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-hrobovych-skupin.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-m%C4%9Bsta-city-boundaries.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-city-districts-boundaries.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-mc-2.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -169,39 +93,51 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::hrobov%C3%A1-m%C3%ADsta-gravesites.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hrobova-mista.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::induk%C4%8Dn%C3%AD-smy%C4%8Dky-a-objekty-se-znakuj%C3%ADc%C3%ADm-person%C3%A1lem-induction-loops-and-sign-language-personnel.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hydrogeologicke-objekty.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::inkn-spr%C3%A1va-majetku-smb.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::indukcni-smycky.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::inkn-sv%C4%9B%C5%99en%C3%AD-majetku-m%C4%8D.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::instituce-domaci-nasili.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::instituce-%C5%99e%C5%A1%C3%ADc%C3%AD-problematiku-dom%C3%A1c%C3%ADho-n%C3%A1sil%C3%AD-institutions-dealing-with-domestic-violence.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::intenzita-cyklodopravy-pentlogramy.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzita-dopravy-intenzita-cyklist%C5%AF-bike-traffic-intensity.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::intenzita-dopravy-pentlogramy.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzita-dopravy-intenzita-vozidel-vehicle-traffic-intensity.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::intenzity-cyklist%C5%AF-z-cyklodetektor%C5%AF-aktu%C3%A1ln%C3%AD-bike-traffic-detected-by-sensors-live-data.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::jakost-vody.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::jakost-vody-water-quality.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::kontejnery-na-separovan%C3%BD-odpad-containers-for-recycling.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::katastralni-uzemi.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::kontaminace-zemin-sondy.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::kontaminace-zemin.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::kontejnery-separovany.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -213,7 +149,7 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::m%C4%9Bstsk%C3%A1-pam%C3%A1tkov%C3%A1-rezervace-a-ochrann%C3%A9-p%C3%A1smo-city-conservation-area-and-its-protection-zone.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::loziska-nerostnych-surovin.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -221,11 +157,7 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-budovy-accessibility-map-buildings.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-vstupy-do-budov-accessibility-map-entrances-to-the-buildings.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mapa-pristupnosti-budovy.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -237,15 +169,11 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mate%C5%99sk%C3%A9-%C5%A1koly-seznam-kindergartens-list.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::materske-skoly-spadovost.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mate%C5%99sk%C3%A9-%C5%A1koly-sp%C3%A1dov%C3%A9-oblasti-kindergartens-catchment-areas.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::n%C3%A1v%C5%A1t%C4%9Bvnick%C3%A9-parkovac%C3%AD-z%C3%B3ny-visitor-parking-zones.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mestska-pamatkova-rezervace.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -269,11 +197,7 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::objekty-drobn%C3%A9-architektury-small-architectural-objects.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::ochrann%C3%A1-p%C3%A1sma-pam%C3%A1tn%C3%BDch-strom%C5%AF-protection-zones-of-significant-trees.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::objekty-drobne-architektury.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -285,19 +209,15 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::openchargers.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::p%C3%ADtka-drinking-fountains.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::p%C5%99echody-pedestrian-crossings.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::pamatne-stromy-opendata.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::pam%C3%A1tn%C3%A9-stromy-significant-protected-trees.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::pamatne-stromy-pasmo.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -305,27 +225,31 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::parkomaty-parking-meters.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::parkomaty.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::parkovac%C3%AD-oblasti-rezidentn%C3%ADho-parkov%C3%A1n%C3%AD-residential-parking-zones.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::parkovaci-navstevnicke-zony.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::pasport-zelen%C4%9B-plochy-zelen%C4%9B-greenery-registry-green-surfaces.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::parkovaci-oblasti.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::pasport-zelen%C4%9B-stromy-ke%C5%99e-greenery-registry-trees-bushes.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::pasport-zelene-tech-prvky.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::pasport-zelen%C4%9B-technick%C3%A9-prvky-greenery-registry-technical-equipment.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::plochy-zelene.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::places.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::plosna-kontaminace.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::plynulost-dopravy-traffic-delays.csv?outSR=%7B%22wkid%22%3A4326%7D"
   },
   {
     "name": "CSV",
@@ -337,19 +261,15 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::poh%C5%99ben%C3%A9-v%C3%BDznamn%C3%A9-osobnosti-graves-of-famous-personalities.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::polohy-vozidel-hromadn%C3%A9-dopravy-public-transit-positional-data.csv?outSR=%7B%22wkid%22%3A4326%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::povod%C5%88ov%C3%A9-ohro%C5%BEen%C3%AD-flood-threat.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::povodnove-ohrozeni.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::povod%C5%88ov%C3%A9-riziko-flood-risk.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::povodnove-riziko.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -361,7 +281,23 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::projektyparo.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::prechody-pro-chodce.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::projekty-participativn%C3%ADho-rozpo%C4%8Dtu-participatory-budget-projects.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::proudeni-podzemnich-vod.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::prumyslove-arealy.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::pruzkumne-uzemi.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -369,11 +305,19 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::routes.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::rizikova-oblast-neogennich-vod.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::sb%C4%9Brn%C3%A1-st%C5%99ediska-odpad%C5%AF-waste-collection-centres.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::sanacni-zasahy.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::sberna-strediska-odpadu.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::skladky-antropogenni-ulozeniny.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -381,19 +325,31 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::sportovi%C5%A1t%C4%9B-a-sportovn%C3%AD-kluby-sport-grounds-and-sport-clubs.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::skolky.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::st%C3%A1n%C3%AD-kiss-and-ride-kiss-and-ride-parking.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::skoly.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::st%C3%A1n%C3%AD-obr%C3%A1tkov%C3%A9-free-time-limited-parking-spots.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::slozite-zakladove-pomery.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::stavebni-objekty-opendata-polygons.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::sportoviste.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::sprava-majetku-mesta.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::stani-kiss-ride.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::stani-obratkove.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -405,7 +361,15 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::stojany-na-kola-st%C3%A1vaj%C3%ADc%C3%AD-bike-stands-existing.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::stojany-na-kola.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::stromy-kere.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::svereni-majetku-mc.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -413,7 +377,19 @@
   },
   {
     "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::tranzitni-kontaminace.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::trasy-linek-mhd-public-transport-routes.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::turistick%C3%A1-m%C3%ADsta-tourist-places.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::turistick%C3%A9-okruhy-popular-tourist-routes.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -421,7 +397,11 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::ulice-streets.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::ulicni-sit.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::useky-placeneho-stani.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -429,27 +409,31 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::v%C3%BDznamn%C3%A9-krajinn%C3%A9-prvky-major-landscape-features.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::v%C3%BDznamn%C3%A9-plochy-zelen%C4%9B-major-parks-and-green-areas.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::veden%C3%AD-linek-mhd-public-transit-routes.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::vjezdov%C3%A9-oblasti-parking-zones-in-the-city-center.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vjezdove-oblasti.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::vodn%C3%AD-toky-watercourses.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vkp.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::volebn%C3%AD-m%C3%ADstnosti-polling-stations.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vodni-toky-georizika.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::vodni-toky-opendata.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::vodni-toky-pred-regulaci.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::volebni-mistnosti.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -457,7 +441,11 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::vybaven%C3%AD-mobili%C3%A1%C5%99-h%C5%99bitov%C5%AF-cemetery-equipment-furniture.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vstupy-budov.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::vybaveni-hrbitovu.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -465,11 +453,11 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1kladn%C3%AD-%C5%A1koly-seznam-primary-schools-list.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vyznamne-osobnosti.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1kladn%C3%AD-%C5%A1koly-sp%C3%A1dov%C3%A9-oblasti-primary-schools-catchment-areas.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vyznamne-plochy-zelene.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -477,19 +465,31 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q100-flood-zones-100-year-floods.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q20-flood-zones-20-year-floods.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q5-flood-zones-5-year-floods.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::zakladni-skoly-spadovost.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::zapis-ms.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::zaplavova-uzemi-aktivni-zona.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::zaplavova-uzemi-q100.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::zaplavova-uzemi-q20.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::zaplavova-uzemi-q5.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::zasakovaci-pomery.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -501,11 +501,7 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::-%C3%BAseky-placen%C3%A9ho-st%C3%A1n%C3%AD-paid-parking-sections.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::adresn%C3%AD-m%C3%ADsta-address-points.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::adresni-mista.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -513,15 +509,11 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::aktivn%C3%AD-z%C3%B3na-z%C3%A1plavov%C3%A9ho-%C3%BAzem%C3%AD-active-flood-zones.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::brno-brzo-stavebn%C3%AD-projekty-a-z%C3%A1m%C4%9Bry-brno-brzo-development-projects-and-plans.geojson?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::brownfields-rozvojov%C3%A9-lokality.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::brownfieldy-1.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -529,7 +521,11 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::chodn%C3%ADky-sidewalks.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::chodniky.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::chranena-loziskova-uzemi.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -537,15 +533,19 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::cykloboxy-cycloboxes.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::cykloboxy.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::cyklodetektory.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::cykloopatreni-realizovana-opendata.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::cykloopat%C5%99en%C3%AD-zrealizovan%C3%A1-cycling-infrastructure-existing.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::dobyvaci-prostory.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::elektrick%C3%A9-nab%C3%ADjec%C3%AD-stanice-pro-auta-ev-charging-points.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -557,87 +557,15 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-are%C3%A1ly-geological-risks-industrial-areas.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-chr%C3%A1n%C4%9Bn%C3%A1-lo%C5%BEiskov%C3%A1-%C3%BAzem%C3%AD-geological-risks-protected-deposit-areas.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-ciu-tranzitn%C3%AD-kontaminace-podzemn%C3%AD-vodou-geological-risks-transitional-contamination-of-groundwater.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-dob%C3%BDvac%C3%AD-prostory-geological-risks-mining-areas.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-horizont%C3%A1ln%C3%AD-vrty-geological-risks-horizontal-drilling.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-hydrogeologick%C3%A9-objekty-geological-risks-hydrogeological-objects.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-kontaminace-zemin-geological-risks-soil-contamination.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-kontaminace-zemin-sondy-geological-risks-soil-contamination-probes.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-lo%C5%BEiska-nerostn%C3%BDch-surovin-geological-risks-mineral-deposits.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-nel-plo%C5%A1n%C3%A1-kontaminace-podzemn%C3%AD-vody-geological-risks-extensive-contamination-of-groundwater.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-nevhodn%C3%A9-zasakovac%C3%AD-pom%C4%9Bry-geological-risks-insufficient-seepage-conditions.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-pr%C5%AFzkumn%C3%A9-%C3%BAzem%C3%AD-geological-risks-mineral-exploration-area.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-realizovan%C3%A9-sana%C4%8Dn%C3%AD-z%C3%A1sahy-geological-risks-implemented-remediation-interventions.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-rizikov%C3%A1-oblast-neogenn%C3%ADch-vod-geological-risks-neogene-water-areas.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-skl%C3%A1dky-a-antropogenn%C3%AD-ulo%C5%BEeniny-geological-risks-landfills-and-anthropogenic-deposits.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-sm%C4%9Br-proud%C4%9Bn%C3%AD-podzemn%C3%ADch-vod-geological-risks-groundwater-flow-direction.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-velmi-slo%C5%BEit%C3%A9-z%C3%A1kladov%C3%A9-pom%C4%9Bry-geological-risks-complex-foundation-conditions.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-vodn%C3%AD-toky-geological-risks-watercourses.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-vodn%C3%AD-toky-p%C5%99ed-regulac%C3%AD-geological-risks-watercourses-in-natural-boundaries.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-body-water-supply-network-accidents-points.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie-polygony-1.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-polygony-water-supply-network-accidents-polygons.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::horizontalni-vrty.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -645,23 +573,19 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-h%C5%99bitov%C5%AF-cemetery-boundaries.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-brna.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-hrobov%C3%BDch-skupin-grave-group-boundaries.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-hrbitovu.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-katastr%C3%A1ln%C3%ADch-%C3%BAzem%C3%AD-cadastral-boundaries.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-hrobovych-skupin.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-m%C4%9Bsta-city-boundaries.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-city-districts-boundaries.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-mc-2.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -669,39 +593,51 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::hrobov%C3%A1-m%C3%ADsta-gravesites.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hrobova-mista.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::induk%C4%8Dn%C3%AD-smy%C4%8Dky-a-objekty-se-znakuj%C3%ADc%C3%ADm-person%C3%A1lem-induction-loops-and-sign-language-personnel.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hydrogeologicke-objekty.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::inkn-spr%C3%A1va-majetku-smb.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::indukcni-smycky.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::inkn-sv%C4%9B%C5%99en%C3%AD-majetku-m%C4%8D.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::instituce-domaci-nasili.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::instituce-%C5%99e%C5%A1%C3%ADc%C3%AD-problematiku-dom%C3%A1c%C3%ADho-n%C3%A1sil%C3%AD-institutions-dealing-with-domestic-violence.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::intenzita-cyklodopravy-pentlogramy.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzita-dopravy-intenzita-cyklist%C5%AF-bike-traffic-intensity.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::intenzita-dopravy-pentlogramy.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzita-dopravy-intenzita-vozidel-vehicle-traffic-intensity.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::intenzity-cyklist%C5%AF-z-cyklodetektor%C5%AF-aktu%C3%A1ln%C3%AD-bike-traffic-detected-by-sensors-live-data.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::jakost-vody.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::jakost-vody-water-quality.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::kontejnery-na-separovan%C3%BD-odpad-containers-for-recycling.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::katastralni-uzemi.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::kontaminace-zemin-sondy.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::kontaminace-zemin.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::kontejnery-separovany.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -713,7 +649,7 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::m%C4%9Bstsk%C3%A1-pam%C3%A1tkov%C3%A1-rezervace-a-ochrann%C3%A9-p%C3%A1smo-city-conservation-area-and-its-protection-zone.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::loziska-nerostnych-surovin.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -721,11 +657,7 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-budovy-accessibility-map-buildings.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-vstupy-do-budov-accessibility-map-entrances-to-the-buildings.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mapa-pristupnosti-budovy.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -737,15 +669,11 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mate%C5%99sk%C3%A9-%C5%A1koly-seznam-kindergartens-list.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::materske-skoly-spadovost.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mate%C5%99sk%C3%A9-%C5%A1koly-sp%C3%A1dov%C3%A9-oblasti-kindergartens-catchment-areas.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::n%C3%A1v%C5%A1t%C4%9Bvnick%C3%A9-parkovac%C3%AD-z%C3%B3ny-visitor-parking-zones.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mestska-pamatkova-rezervace.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -769,11 +697,7 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::objekty-drobn%C3%A9-architektury-small-architectural-objects.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::ochrann%C3%A1-p%C3%A1sma-pam%C3%A1tn%C3%BDch-strom%C5%AF-protection-zones-of-significant-trees.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::objekty-drobne-architektury.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -785,19 +709,15 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::openchargers.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::p%C3%ADtka-drinking-fountains.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::p%C5%99echody-pedestrian-crossings.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::pamatne-stromy-opendata.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::pam%C3%A1tn%C3%A9-stromy-significant-protected-trees.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::pamatne-stromy-pasmo.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -805,27 +725,31 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::parkomaty-parking-meters.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::parkomaty.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::parkovac%C3%AD-oblasti-rezidentn%C3%ADho-parkov%C3%A1n%C3%AD-residential-parking-zones.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::parkovaci-navstevnicke-zony.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::pasport-zelen%C4%9B-plochy-zelen%C4%9B-greenery-registry-green-surfaces.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::parkovaci-oblasti.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::pasport-zelen%C4%9B-stromy-ke%C5%99e-greenery-registry-trees-bushes.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::pasport-zelene-tech-prvky.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::pasport-zelen%C4%9B-technick%C3%A9-prvky-greenery-registry-technical-equipment.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::plochy-zelene.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::places.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::plosna-kontaminace.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::plynulost-dopravy-traffic-delays.geojson?outSR=%7B%22wkid%22%3A4326%7D"
   },
   {
     "name": "GeoJSON",
@@ -837,19 +761,15 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::poh%C5%99ben%C3%A9-v%C3%BDznamn%C3%A9-osobnosti-graves-of-famous-personalities.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::polohy-vozidel-hromadn%C3%A9-dopravy-public-transit-positional-data.geojson?outSR=%7B%22wkid%22%3A4326%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::povod%C5%88ov%C3%A9-ohro%C5%BEen%C3%AD-flood-threat.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::povodnove-ohrozeni.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::povod%C5%88ov%C3%A9-riziko-flood-risk.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::povodnove-riziko.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -861,7 +781,23 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::projektyparo.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::prechody-pro-chodce.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::projekty-participativn%C3%ADho-rozpo%C4%8Dtu-participatory-budget-projects.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::proudeni-podzemnich-vod.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::prumyslove-arealy.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::pruzkumne-uzemi.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -869,11 +805,19 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::routes.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::rizikova-oblast-neogennich-vod.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::sb%C4%9Brn%C3%A1-st%C5%99ediska-odpad%C5%AF-waste-collection-centres.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::sanacni-zasahy.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::sberna-strediska-odpadu.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::skladky-antropogenni-ulozeniny.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -881,19 +825,31 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::sportovi%C5%A1t%C4%9B-a-sportovn%C3%AD-kluby-sport-grounds-and-sport-clubs.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::skolky.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::st%C3%A1n%C3%AD-kiss-and-ride-kiss-and-ride-parking.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::skoly.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::st%C3%A1n%C3%AD-obr%C3%A1tkov%C3%A9-free-time-limited-parking-spots.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::slozite-zakladove-pomery.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::stavebni-objekty-opendata-polygons.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::sportoviste.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::sprava-majetku-mesta.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::stani-kiss-ride.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::stani-obratkove.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -905,7 +861,15 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::stojany-na-kola-st%C3%A1vaj%C3%ADc%C3%AD-bike-stands-existing.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::stojany-na-kola.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::stromy-kere.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::svereni-majetku-mc.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -913,7 +877,19 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::tranzitni-kontaminace.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::trasy-linek-mhd-public-transport-routes.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::turistick%C3%A1-m%C3%ADsta-tourist-places.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::turistick%C3%A9-okruhy-popular-tourist-routes.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -921,7 +897,11 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::ulice-streets.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::ulicni-sit.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::useky-placeneho-stani.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -929,27 +909,31 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::v%C3%BDznamn%C3%A9-krajinn%C3%A9-prvky-major-landscape-features.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::v%C3%BDznamn%C3%A9-plochy-zelen%C4%9B-major-parks-and-green-areas.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::veden%C3%AD-linek-mhd-public-transit-routes.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::vjezdov%C3%A9-oblasti-parking-zones-in-the-city-center.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vjezdove-oblasti.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::vodn%C3%AD-toky-watercourses.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vkp.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::volebn%C3%AD-m%C3%ADstnosti-polling-stations.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vodni-toky-georizika.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::vodni-toky-opendata.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::vodni-toky-pred-regulaci.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::volebni-mistnosti.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -957,7 +941,11 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::vybaven%C3%AD-mobili%C3%A1%C5%99-h%C5%99bitov%C5%AF-cemetery-equipment-furniture.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vstupy-budov.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::vybaveni-hrbitovu.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -965,11 +953,11 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1kladn%C3%AD-%C5%A1koly-seznam-primary-schools-list.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vyznamne-osobnosti.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1kladn%C3%AD-%C5%A1koly-sp%C3%A1dov%C3%A9-oblasti-primary-schools-catchment-areas.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vyznamne-plochy-zelene.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -977,19 +965,31 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q100-flood-zones-100-year-floods.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q20-flood-zones-20-year-floods.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q5-flood-zones-5-year-floods.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::zakladni-skoly-spadovost.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::zapis-ms.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::zaplavova-uzemi-aktivni-zona.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::zaplavova-uzemi-q100.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::zaplavova-uzemi-q20.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::zaplavova-uzemi-q5.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::zasakovaci-pomery.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -1001,11 +1001,7 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::-%C3%BAseky-placen%C3%A9ho-st%C3%A1n%C3%AD-paid-parking-sections.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::adresn%C3%AD-m%C3%ADsta-address-points.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::adresni-mista.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1013,15 +1009,11 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::aktivn%C3%AD-z%C3%B3na-z%C3%A1plavov%C3%A9ho-%C3%BAzem%C3%AD-active-flood-zones.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::brno-brzo-stavebn%C3%AD-projekty-a-z%C3%A1m%C4%9Bry-brno-brzo-development-projects-and-plans.kml?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::brownfields-rozvojov%C3%A9-lokality.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::brownfieldy-1.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1029,7 +1021,11 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::chodn%C3%ADky-sidewalks.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::chodniky.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::chranena-loziskova-uzemi.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1037,15 +1033,19 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::cykloboxy-cycloboxes.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::cykloboxy.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::cyklodetektory.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::cykloopatreni-realizovana-opendata.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::cykloopat%C5%99en%C3%AD-zrealizovan%C3%A1-cycling-infrastructure-existing.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::dobyvaci-prostory.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::elektrick%C3%A9-nab%C3%ADjec%C3%AD-stanice-pro-auta-ev-charging-points.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1057,87 +1057,15 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-are%C3%A1ly-geological-risks-industrial-areas.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-chr%C3%A1n%C4%9Bn%C3%A1-lo%C5%BEiskov%C3%A1-%C3%BAzem%C3%AD-geological-risks-protected-deposit-areas.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-ciu-tranzitn%C3%AD-kontaminace-podzemn%C3%AD-vodou-geological-risks-transitional-contamination-of-groundwater.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-dob%C3%BDvac%C3%AD-prostory-geological-risks-mining-areas.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-horizont%C3%A1ln%C3%AD-vrty-geological-risks-horizontal-drilling.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-hydrogeologick%C3%A9-objekty-geological-risks-hydrogeological-objects.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-kontaminace-zemin-geological-risks-soil-contamination.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-kontaminace-zemin-sondy-geological-risks-soil-contamination-probes.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-lo%C5%BEiska-nerostn%C3%BDch-surovin-geological-risks-mineral-deposits.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-nel-plo%C5%A1n%C3%A1-kontaminace-podzemn%C3%AD-vody-geological-risks-extensive-contamination-of-groundwater.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-nevhodn%C3%A9-zasakovac%C3%AD-pom%C4%9Bry-geological-risks-insufficient-seepage-conditions.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-pr%C5%AFzkumn%C3%A9-%C3%BAzem%C3%AD-geological-risks-mineral-exploration-area.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-realizovan%C3%A9-sana%C4%8Dn%C3%AD-z%C3%A1sahy-geological-risks-implemented-remediation-interventions.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-rizikov%C3%A1-oblast-neogenn%C3%ADch-vod-geological-risks-neogene-water-areas.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-skl%C3%A1dky-a-antropogenn%C3%AD-ulo%C5%BEeniny-geological-risks-landfills-and-anthropogenic-deposits.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-sm%C4%9Br-proud%C4%9Bn%C3%AD-podzemn%C3%ADch-vod-geological-risks-groundwater-flow-direction.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-velmi-slo%C5%BEit%C3%A9-z%C3%A1kladov%C3%A9-pom%C4%9Bry-geological-risks-complex-foundation-conditions.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-vodn%C3%AD-toky-geological-risks-watercourses.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-vodn%C3%AD-toky-p%C5%99ed-regulac%C3%AD-geological-risks-watercourses-in-natural-boundaries.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-body-water-supply-network-accidents-points.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie-polygony-1.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-polygony-water-supply-network-accidents-polygons.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::horizontalni-vrty.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1145,23 +1073,19 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-h%C5%99bitov%C5%AF-cemetery-boundaries.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-brna.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-hrobov%C3%BDch-skupin-grave-group-boundaries.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-hrbitovu.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-katastr%C3%A1ln%C3%ADch-%C3%BAzem%C3%AD-cadastral-boundaries.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-hrobovych-skupin.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-m%C4%9Bsta-city-boundaries.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-city-districts-boundaries.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-mc-2.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1169,39 +1093,51 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::hrobov%C3%A1-m%C3%ADsta-gravesites.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hrobova-mista.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::induk%C4%8Dn%C3%AD-smy%C4%8Dky-a-objekty-se-znakuj%C3%ADc%C3%ADm-person%C3%A1lem-induction-loops-and-sign-language-personnel.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hydrogeologicke-objekty.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::inkn-spr%C3%A1va-majetku-smb.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::indukcni-smycky.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::inkn-sv%C4%9B%C5%99en%C3%AD-majetku-m%C4%8D.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::instituce-domaci-nasili.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::instituce-%C5%99e%C5%A1%C3%ADc%C3%AD-problematiku-dom%C3%A1c%C3%ADho-n%C3%A1sil%C3%AD-institutions-dealing-with-domestic-violence.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::intenzita-cyklodopravy-pentlogramy.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzita-dopravy-intenzita-cyklist%C5%AF-bike-traffic-intensity.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::intenzita-dopravy-pentlogramy.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzita-dopravy-intenzita-vozidel-vehicle-traffic-intensity.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::intenzity-cyklist%C5%AF-z-cyklodetektor%C5%AF-aktu%C3%A1ln%C3%AD-bike-traffic-detected-by-sensors-live-data.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::jakost-vody.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::jakost-vody-water-quality.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::kontejnery-na-separovan%C3%BD-odpad-containers-for-recycling.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::katastralni-uzemi.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::kontaminace-zemin-sondy.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::kontaminace-zemin.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::kontejnery-separovany.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1213,7 +1149,7 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::m%C4%9Bstsk%C3%A1-pam%C3%A1tkov%C3%A1-rezervace-a-ochrann%C3%A9-p%C3%A1smo-city-conservation-area-and-its-protection-zone.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::loziska-nerostnych-surovin.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1221,11 +1157,7 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-budovy-accessibility-map-buildings.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-vstupy-do-budov-accessibility-map-entrances-to-the-buildings.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mapa-pristupnosti-budovy.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1237,15 +1169,11 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mate%C5%99sk%C3%A9-%C5%A1koly-seznam-kindergartens-list.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::materske-skoly-spadovost.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mate%C5%99sk%C3%A9-%C5%A1koly-sp%C3%A1dov%C3%A9-oblasti-kindergartens-catchment-areas.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::n%C3%A1v%C5%A1t%C4%9Bvnick%C3%A9-parkovac%C3%AD-z%C3%B3ny-visitor-parking-zones.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mestska-pamatkova-rezervace.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1269,11 +1197,7 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::objekty-drobn%C3%A9-architektury-small-architectural-objects.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::ochrann%C3%A1-p%C3%A1sma-pam%C3%A1tn%C3%BDch-strom%C5%AF-protection-zones-of-significant-trees.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::objekty-drobne-architektury.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1281,19 +1205,15 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::openchargers.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::p%C3%ADtka-drinking-fountains.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::p%C5%99echody-pedestrian-crossings.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::pamatne-stromy-opendata.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::pam%C3%A1tn%C3%A9-stromy-significant-protected-trees.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::pamatne-stromy-pasmo.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1301,27 +1221,31 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::parkomaty-parking-meters.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::parkomaty.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::parkovac%C3%AD-oblasti-rezidentn%C3%ADho-parkov%C3%A1n%C3%AD-residential-parking-zones.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::parkovaci-navstevnicke-zony.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::pasport-zelen%C4%9B-plochy-zelen%C4%9B-greenery-registry-green-surfaces.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::parkovaci-oblasti.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::pasport-zelen%C4%9B-stromy-ke%C5%99e-greenery-registry-trees-bushes.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::pasport-zelene-tech-prvky.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::pasport-zelen%C4%9B-technick%C3%A9-prvky-greenery-registry-technical-equipment.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::plochy-zelene.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::places.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::plosna-kontaminace.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::plynulost-dopravy-traffic-delays.kml?outSR=%7B%22wkid%22%3A4326%7D"
   },
   {
     "name": "KML",
@@ -1333,19 +1257,15 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::poh%C5%99ben%C3%A9-v%C3%BDznamn%C3%A9-osobnosti-graves-of-famous-personalities.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::polohy-vozidel-hromadn%C3%A9-dopravy-public-transit-positional-data.kml?outSR=%7B%22wkid%22%3A4326%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::povod%C5%88ov%C3%A9-ohro%C5%BEen%C3%AD-flood-threat.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::povodnove-ohrozeni.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::povod%C5%88ov%C3%A9-riziko-flood-risk.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::povodnove-riziko.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1357,7 +1277,23 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::projektyparo.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::prechody-pro-chodce.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::projekty-participativn%C3%ADho-rozpo%C4%8Dtu-participatory-budget-projects.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::proudeni-podzemnich-vod.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::prumyslove-arealy.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::pruzkumne-uzemi.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1365,11 +1301,19 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::routes.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::rizikova-oblast-neogennich-vod.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::sb%C4%9Brn%C3%A1-st%C5%99ediska-odpad%C5%AF-waste-collection-centres.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::sanacni-zasahy.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::sberna-strediska-odpadu.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::skladky-antropogenni-ulozeniny.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1377,19 +1321,31 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::sportovi%C5%A1t%C4%9B-a-sportovn%C3%AD-kluby-sport-grounds-and-sport-clubs.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::skolky.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::st%C3%A1n%C3%AD-kiss-and-ride-kiss-and-ride-parking.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::skoly.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::st%C3%A1n%C3%AD-obr%C3%A1tkov%C3%A9-free-time-limited-parking-spots.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::slozite-zakladove-pomery.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::stavebni-objekty-opendata-polygons.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::sportoviste.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::sprava-majetku-mesta.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::stani-kiss-ride.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::stani-obratkove.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1401,7 +1357,15 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::stojany-na-kola-st%C3%A1vaj%C3%ADc%C3%AD-bike-stands-existing.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::stojany-na-kola.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::stromy-kere.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::svereni-majetku-mc.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1409,7 +1373,19 @@
   },
   {
     "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::tranzitni-kontaminace.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::trasy-linek-mhd-public-transport-routes.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::turistick%C3%A1-m%C3%ADsta-tourist-places.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::turistick%C3%A9-okruhy-popular-tourist-routes.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1417,7 +1393,11 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::ulice-streets.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::ulicni-sit.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::useky-placeneho-stani.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1425,27 +1405,31 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::v%C3%BDznamn%C3%A9-krajinn%C3%A9-prvky-major-landscape-features.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::v%C3%BDznamn%C3%A9-plochy-zelen%C4%9B-major-parks-and-green-areas.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::veden%C3%AD-linek-mhd-public-transit-routes.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::vjezdov%C3%A9-oblasti-parking-zones-in-the-city-center.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vjezdove-oblasti.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::vodn%C3%AD-toky-watercourses.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vkp.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::volebn%C3%AD-m%C3%ADstnosti-polling-stations.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vodni-toky-georizika.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::vodni-toky-opendata.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::vodni-toky-pred-regulaci.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::volebni-mistnosti.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1453,7 +1437,11 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::vybaven%C3%AD-mobili%C3%A1%C5%99-h%C5%99bitov%C5%AF-cemetery-equipment-furniture.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vstupy-budov.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::vybaveni-hrbitovu.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1461,11 +1449,11 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1kladn%C3%AD-%C5%A1koly-seznam-primary-schools-list.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vyznamne-osobnosti.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1kladn%C3%AD-%C5%A1koly-sp%C3%A1dov%C3%A9-oblasti-primary-schools-catchment-areas.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vyznamne-plochy-zelene.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1473,19 +1461,31 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q100-flood-zones-100-year-floods.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q20-flood-zones-20-year-floods.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q5-flood-zones-5-year-floods.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::zakladni-skoly-spadovost.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::zapis-ms.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::zaplavova-uzemi-aktivni-zona.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::zaplavova-uzemi-q100.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::zaplavova-uzemi-q20.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::zaplavova-uzemi-q5.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::zasakovaci-pomery.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1497,11 +1497,7 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::-%C3%BAseky-placen%C3%A9ho-st%C3%A1n%C3%AD-paid-parking-sections.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::adresn%C3%AD-m%C3%ADsta-address-points.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::adresni-mista.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1509,15 +1505,11 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::aktivn%C3%AD-z%C3%B3na-z%C3%A1plavov%C3%A9ho-%C3%BAzem%C3%AD-active-flood-zones.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::brno-brzo-stavebn%C3%AD-projekty-a-z%C3%A1m%C4%9Bry-brno-brzo-development-projects-and-plans.zip?outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::brownfields-rozvojov%C3%A9-lokality.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::brownfieldy-1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1525,7 +1517,11 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::chodn%C3%ADky-sidewalks.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::chodniky.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::chranena-loziskova-uzemi.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1533,15 +1529,19 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::cykloboxy-cycloboxes.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::cykloboxy.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::cyklodetektory.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::cykloopatreni-realizovana-opendata.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::cykloopat%C5%99en%C3%AD-zrealizovan%C3%A1-cycling-infrastructure-existing.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::dobyvaci-prostory.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::elektrick%C3%A9-nab%C3%ADjec%C3%AD-stanice-pro-auta-ev-charging-points.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1553,87 +1553,15 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-are%C3%A1ly-geological-risks-industrial-areas.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-chr%C3%A1n%C4%9Bn%C3%A1-lo%C5%BEiskov%C3%A1-%C3%BAzem%C3%AD-geological-risks-protected-deposit-areas.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-ciu-tranzitn%C3%AD-kontaminace-podzemn%C3%AD-vodou-geological-risks-transitional-contamination-of-groundwater.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-dob%C3%BDvac%C3%AD-prostory-geological-risks-mining-areas.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-horizont%C3%A1ln%C3%AD-vrty-geological-risks-horizontal-drilling.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-hydrogeologick%C3%A9-objekty-geological-risks-hydrogeological-objects.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-kontaminace-zemin-geological-risks-soil-contamination.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-kontaminace-zemin-sondy-geological-risks-soil-contamination-probes.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-lo%C5%BEiska-nerostn%C3%BDch-surovin-geological-risks-mineral-deposits.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-nel-plo%C5%A1n%C3%A1-kontaminace-podzemn%C3%AD-vody-geological-risks-extensive-contamination-of-groundwater.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-nevhodn%C3%A9-zasakovac%C3%AD-pom%C4%9Bry-geological-risks-insufficient-seepage-conditions.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-pr%C5%AFzkumn%C3%A9-%C3%BAzem%C3%AD-geological-risks-mineral-exploration-area.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-realizovan%C3%A9-sana%C4%8Dn%C3%AD-z%C3%A1sahy-geological-risks-implemented-remediation-interventions.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-rizikov%C3%A1-oblast-neogenn%C3%ADch-vod-geological-risks-neogene-water-areas.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-skl%C3%A1dky-a-antropogenn%C3%AD-ulo%C5%BEeniny-geological-risks-landfills-and-anthropogenic-deposits.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-sm%C4%9Br-proud%C4%9Bn%C3%AD-podzemn%C3%ADch-vod-geological-risks-groundwater-flow-direction.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-velmi-slo%C5%BEit%C3%A9-z%C3%A1kladov%C3%A9-pom%C4%9Bry-geological-risks-complex-foundation-conditions.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-vodn%C3%AD-toky-geological-risks-watercourses.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::georizika-vodn%C3%AD-toky-p%C5%99ed-regulac%C3%AD-geological-risks-watercourses-in-natural-boundaries.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-body-water-supply-network-accidents-points.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie-polygony-1.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-polygony-water-supply-network-accidents-polygons.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::horizontalni-vrty.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1641,23 +1569,19 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-h%C5%99bitov%C5%AF-cemetery-boundaries.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-brna.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-hrobov%C3%BDch-skupin-grave-group-boundaries.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-hrbitovu.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-katastr%C3%A1ln%C3%ADch-%C3%BAzem%C3%AD-cadastral-boundaries.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-hrobovych-skupin.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-m%C4%9Bsta-city-boundaries.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-city-districts-boundaries.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-mc-2.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1665,39 +1589,51 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::hrobov%C3%A1-m%C3%ADsta-gravesites.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hrobova-mista.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::induk%C4%8Dn%C3%AD-smy%C4%8Dky-a-objekty-se-znakuj%C3%ADc%C3%ADm-person%C3%A1lem-induction-loops-and-sign-language-personnel.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hydrogeologicke-objekty.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::inkn-spr%C3%A1va-majetku-smb.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::indukcni-smycky.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::inkn-sv%C4%9B%C5%99en%C3%AD-majetku-m%C4%8D.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::instituce-domaci-nasili.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::instituce-%C5%99e%C5%A1%C3%ADc%C3%AD-problematiku-dom%C3%A1c%C3%ADho-n%C3%A1sil%C3%AD-institutions-dealing-with-domestic-violence.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::intenzita-cyklodopravy-pentlogramy.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzita-dopravy-intenzita-cyklist%C5%AF-bike-traffic-intensity.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::intenzita-dopravy-pentlogramy.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzita-dopravy-intenzita-vozidel-vehicle-traffic-intensity.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::intenzity-cyklist%C5%AF-z-cyklodetektor%C5%AF-aktu%C3%A1ln%C3%AD-bike-traffic-detected-by-sensors-live-data.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::jakost-vody.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::jakost-vody-water-quality.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::kontejnery-na-separovan%C3%BD-odpad-containers-for-recycling.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::katastralni-uzemi.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::kontaminace-zemin-sondy.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::kontaminace-zemin.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::kontejnery-separovany.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1709,7 +1645,7 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::m%C4%9Bstsk%C3%A1-pam%C3%A1tkov%C3%A1-rezervace-a-ochrann%C3%A9-p%C3%A1smo-city-conservation-area-and-its-protection-zone.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::loziska-nerostnych-surovin.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1717,11 +1653,7 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-budovy-accessibility-map-buildings.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-vstupy-do-budov-accessibility-map-entrances-to-the-buildings.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mapa-pristupnosti-budovy.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1733,15 +1665,11 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mate%C5%99sk%C3%A9-%C5%A1koly-seznam-kindergartens-list.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::materske-skoly-spadovost.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mate%C5%99sk%C3%A9-%C5%A1koly-sp%C3%A1dov%C3%A9-oblasti-kindergartens-catchment-areas.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::n%C3%A1v%C5%A1t%C4%9Bvnick%C3%A9-parkovac%C3%AD-z%C3%B3ny-visitor-parking-zones.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mestska-pamatkova-rezervace.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1765,11 +1693,7 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::objekty-drobn%C3%A9-architektury-small-architectural-objects.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::ochrann%C3%A1-p%C3%A1sma-pam%C3%A1tn%C3%BDch-strom%C5%AF-protection-zones-of-significant-trees.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::objekty-drobne-architektury.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1777,19 +1701,15 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::openchargers.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::p%C3%ADtka-drinking-fountains.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::p%C5%99echody-pedestrian-crossings.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::pamatne-stromy-opendata.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::pam%C3%A1tn%C3%A9-stromy-significant-protected-trees.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::pamatne-stromy-pasmo.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1797,27 +1717,31 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::parkomaty-parking-meters.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::parkomaty.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::parkovac%C3%AD-oblasti-rezidentn%C3%ADho-parkov%C3%A1n%C3%AD-residential-parking-zones.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::parkovaci-navstevnicke-zony.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::pasport-zelen%C4%9B-plochy-zelen%C4%9B-greenery-registry-green-surfaces.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::parkovaci-oblasti.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::pasport-zelen%C4%9B-stromy-ke%C5%99e-greenery-registry-trees-bushes.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::pasport-zelene-tech-prvky.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::pasport-zelen%C4%9B-technick%C3%A9-prvky-greenery-registry-technical-equipment.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::plochy-zelene.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::places.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::plosna-kontaminace.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::plynulost-dopravy-traffic-delays.zip?outSR=%7B%22wkid%22%3A4326%7D"
   },
   {
     "name": "Shapefile",
@@ -1829,19 +1753,15 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::poh%C5%99ben%C3%A9-v%C3%BDznamn%C3%A9-osobnosti-graves-of-famous-personalities.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::polohy-vozidel-hromadn%C3%A9-dopravy-public-transit-positional-data.zip?outSR=%7B%22wkid%22%3A4326%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::povod%C5%88ov%C3%A9-ohro%C5%BEen%C3%AD-flood-threat.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::povodnove-ohrozeni.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::povod%C5%88ov%C3%A9-riziko-flood-risk.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::povodnove-riziko.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1853,7 +1773,23 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::projektyparo.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::prechody-pro-chodce.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::projekty-participativn%C3%ADho-rozpo%C4%8Dtu-participatory-budget-projects.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::proudeni-podzemnich-vod.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::prumyslove-arealy.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::pruzkumne-uzemi.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1861,11 +1797,19 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::routes.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::rizikova-oblast-neogennich-vod.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::sb%C4%9Brn%C3%A1-st%C5%99ediska-odpad%C5%AF-waste-collection-centres.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::sanacni-zasahy.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::sberna-strediska-odpadu.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::skladky-antropogenni-ulozeniny.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1873,19 +1817,31 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::sportovi%C5%A1t%C4%9B-a-sportovn%C3%AD-kluby-sport-grounds-and-sport-clubs.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::skolky.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::st%C3%A1n%C3%AD-kiss-and-ride-kiss-and-ride-parking.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::skoly.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::st%C3%A1n%C3%AD-obr%C3%A1tkov%C3%A9-free-time-limited-parking-spots.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::slozite-zakladove-pomery.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::stavebni-objekty-opendata-polygons.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::sportoviste.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::sprava-majetku-mesta.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::stani-kiss-ride.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::stani-obratkove.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1897,7 +1853,15 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::stojany-na-kola-st%C3%A1vaj%C3%ADc%C3%AD-bike-stands-existing.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::stojany-na-kola.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::stromy-kere.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::svereni-majetku-mc.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1905,7 +1869,19 @@
   },
   {
     "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::tranzitni-kontaminace.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::trasy-linek-mhd-public-transport-routes.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::turistick%C3%A1-m%C3%ADsta-tourist-places.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::turistick%C3%A9-okruhy-popular-tourist-routes.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1913,7 +1889,11 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::ulice-streets.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::ulicni-sit.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::useky-placeneho-stani.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1921,27 +1901,31 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::v%C3%BDznamn%C3%A9-krajinn%C3%A9-prvky-major-landscape-features.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::v%C3%BDznamn%C3%A9-plochy-zelen%C4%9B-major-parks-and-green-areas.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::veden%C3%AD-linek-mhd-public-transit-routes.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::vjezdov%C3%A9-oblasti-parking-zones-in-the-city-center.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vjezdove-oblasti.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::vodn%C3%AD-toky-watercourses.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vkp.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::volebn%C3%AD-m%C3%ADstnosti-polling-stations.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vodni-toky-georizika.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::vodni-toky-opendata.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::vodni-toky-pred-regulaci.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::volebni-mistnosti.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1949,7 +1933,11 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::vybaven%C3%AD-mobili%C3%A1%C5%99-h%C5%99bitov%C5%AF-cemetery-equipment-furniture.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vstupy-budov.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::vybaveni-hrbitovu.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1957,11 +1945,11 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1kladn%C3%AD-%C5%A1koly-seznam-primary-schools-list.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vyznamne-osobnosti.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1kladn%C3%AD-%C5%A1koly-sp%C3%A1dov%C3%A9-oblasti-primary-schools-catchment-areas.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::vyznamne-plochy-zelene.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1969,19 +1957,31 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q100-flood-zones-100-year-floods.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q20-flood-zones-20-year-floods.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q5-flood-zones-5-year-floods.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::zakladni-skoly-spadovost.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::zapis-ms.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::zaplavova-uzemi-aktivni-zona.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::zaplavova-uzemi-q100.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::zaplavova-uzemi-q20.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::zaplavova-uzemi-q5.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::zasakovaci-pomery.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
