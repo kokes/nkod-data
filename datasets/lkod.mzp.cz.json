@@ -28,12 +28,20 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkove-odbery-vody-2021.csv"
   },
   {
+    "name": "data-cenia-indikator-celkovy-pocet-platnych-licenci-ekoznacek-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkovy-pocet-platnych-licenci-ekoznacek-2022.csv"
+  },
+  {
     "name": "data-cenia-indikator-cisteni-odpadnich-vod-vypoustenych-do-kanalizace-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-cisteni-odpadnich-vod-vypoustenych-do-kanalizace-2021.csv"
   },
   {
     "name": "data-cenia-indikator-cistirny-odpadnich-vod-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-cistirny-odpadnich-vod-2021.csv"
+  },
+  {
+    "name": "data-cenia-indikator-domaci-materialova-spotreba-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-domaci-materialova-spotreba-2022.csv"
   },
   {
     "name": "data-cenia-indikator-druhova-skladba-lesu-2021.csv",
@@ -46,6 +54,10 @@
   {
     "name": "data-cenia-indikator-emise-znecistujicich-latek-a-sklenikovych-plynu-z-dopravy-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-emise-znecistujicich-latek-a-sklenikovych-plynu-z-dopravy-2021.csv"
+  },
+  {
+    "name": "data-cenia-indikator-energeticka-narocnost-hospodarstvi-v-zemich-eu-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-energeticka-narocnost-hospodarstvi-v-zemich-eu-2022.csv"
   },
   {
     "name": "data-cenia-indikator-energeticka-narocnost-sektoru-2021.csv",
@@ -88,8 +100,16 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-mnozstvi-odumrele-drevni-hmoty-v-lesich-2021.csv"
   },
   {
+    "name": "data-cenia-indikator-monitoring-silnicni-infrastruktury-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-monitoring-silnicni-infrastruktury-2022.csv"
+  },
+  {
     "name": "data-cenia-indikator-nahodila-tezba-podle-pricin-vzniku-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-nahodila-tezba-podle-pricin-vzniku-2021.csv"
+  },
+  {
+    "name": "data-cenia-indikator-nove-useky-dalnic-a-prelozky-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-nove-useky-dalnic-a-prelozky-2022.csv"
   },
   {
     "name": "data-cenia-indikator-obyvatele-zasobovani-vodou-z-verejneho-vodovodu-2021.csv",
