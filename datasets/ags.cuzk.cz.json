@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Stahovací služba WFS pro Body Sítě permanentních stanic GNSS České republiky CZEPOS",
+    "url": "https://ags.cuzk.cz/arcgis/services/BodovaPole/MapServer/WFSServer?service=wfs&request=getcapabilities"
+  },
+  {
+    "name": "Stahovací služba WFS pro Polohové bodové pole",
+    "url": "https://ags.cuzk.cz/arcgis/services/BodovaPole/MapServer/WFSServer?service=wfs&request=getcapabilities"
+  },
+  {
+    "name": "Stahovací služba WFS pro Tíhové bodové pole",
+    "url": "https://ags.cuzk.cz/arcgis/services/BodovaPole/MapServer/WFSServer?service=wfs&request=getcapabilities"
+  },
+  {
+    "name": "Stahovací služba WFS pro Výškové bodové pole",
+    "url": "https://ags.cuzk.cz/arcgis/services/BodovaPole/MapServer/WFSServer?service=wfs&request=getcapabilities"
+  },
+  {
+    "name": "Stahovací služba WFS pro ZABAGED® - Výškopis - vrstevnice",
+    "url": "https://ags.cuzk.cz/arcgis/services/ZABAGED_VRSTEVNICE/MapServer/WFSServer?service=wfs&request=getcapabilities"
+  },
+  {
+    "name": "Stahovací služba WFS pro data Databáze geografických jmen České republiky (Geonames)",
+    "url": "https://ags.cuzk.cz/arcgis/services/GEONAMES/Geonames/MapServer/WFSServer?service=wfs&request=getcapabilities"
+  },
+  {
+    "name": "Stahovací služba WFS pro data Základní báze geografických dat České republiky (ZABAGED®) - polohopis",
+    "url": "https://ags.cuzk.cz/arcgis/services/ZABAGED_POLOHOPIS/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  }
+]
