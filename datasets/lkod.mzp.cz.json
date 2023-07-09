@@ -60,10 +60,6 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-hlukova-zatez-v-aglomeracich-2021.csv"
   },
   {
-    "name": "data-cenia-indikator-hruba-vyroba-tepla-z-oze-a-biopaliv-2022.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-hruba-vyroba-tepla-z-oze-a-biopaliv-2022.csv"
-  },
-  {
     "name": "data-cenia-indikator-hruby-domaci-produkt-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-hruby-domaci-produkt-2021.csv"
   },
@@ -112,14 +108,6 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-odbery-povrchove-vody-2021.csv"
   },
   {
-    "name": "data-cenia-indikator-pocet-migracnich-prekazek-na-vodnich-tocich-2022.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pocet-migracnich-prekazek-na-vodnich-tocich-2022.csv"
-  },
-  {
-    "name": "data-cenia-indikator-pocet-realizovanych-rybich-prechodu-2022.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pocet-realizovanych-rybich-prechodu-2022.csv"
-  },
-  {
     "name": "data-cenia-indikator-pocet-registrovanych-subjektu-ma21-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pocet-registrovanych-subjektu-ma21-2021.csv"
   },
@@ -138,10 +126,6 @@
   {
     "name": "data-cenia-indikator-podil-obyvatel-pripojenych-na-vodohospodarskou-infrastrukturu-v-krajich-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-obyvatel-pripojenych-na-vodohospodarskou-infrastrukturu-v-krajich-2021.csv"
-  },
-  {
-    "name": "data-cenia-indikator-podil-primarnich-energetickych-zdroju-2022.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-primarnich-energetickych-zdroju-2022.csv"
   },
   {
     "name": "data-cenia-indikator-podil-vzorku-pudy-prekracujicich-preventivni-hodnoty-obsahu-prvku-ve-vyluhu.csv",
@@ -168,20 +152,12 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-protihlukove-steny-na-dalnicich-a-silnicich-2022.csv"
   },
   {
-    "name": "data-cenia-indikator-rekultivace-2022.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-rekultivace-2022.csv"
-  },
-  {
     "name": "data-cenia-indikator-rozloha-sidelni-zelene-a-jeji-podil-na-plose-uzemi-obce-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-rozloha-sidelni-zelene-a-jeji-podil-na-plose-uzemi-obce-2021.csv"
   },
   {
     "name": "data-cenia-indikator-spotreba-energie-jednotlivymi-druhy-dopravy-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-spotreba-energie-jednotlivymi-druhy-dopravy-2021.csv"
-  },
-  {
-    "name": "data-cenia-indikator-spotreba-paliv-v-domacnostech-2022.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-spotreba-paliv-v-domacnostech-2022.csv"
   },
   {
     "name": "data-cenia-indikator-spotreba-pripravku-na-ochranu-rostlin-2021.csv",
@@ -194,26 +170,6 @@
   {
     "name": "data-cenia-indikator-struktura-holin-2020.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-struktura-holin-2020.csv"
-  },
-  {
-    "name": "data-cenia-indikator-tezba-energetickych-surovin-2022.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-tezba-energetickych-surovin-2022.csv"
-  },
-  {
-    "name": "data-cenia-indikator-tezba-nerostnych-surovin-2022.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-tezba-nerostnych-surovin-2022.csv"
-  },
-  {
-    "name": "data-cenia-indikator-tezba-nerudnich-surovin-2022.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-tezba-nerudnich-surovin-2022.csv"
-  },
-  {
-    "name": "data-cenia-indikator-tezba-stavebnich-surovin-2022.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-tezba-stavebnich-surovin-2022.csv"
-  },
-  {
-    "name": "data-cenia-indikator-tezba-surovin-v-krajich-2022.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-tezba-surovin-v-krajich-2022.csv"
   },
   {
     "name": "data-cenia-indikator-vypousteni-odpadnich-vod-2021.csv",
