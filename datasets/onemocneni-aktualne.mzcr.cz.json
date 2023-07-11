@@ -1,27 +1,11 @@
 [
   {
     "name": "COVID-19: Celkový (kumulativní) počet osob s prokázanou nákazou dle krajských hygienických stanic vč",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19/nakaza.csv"
-  },
-  {
-    "name": "COVID-19: Celkový (kumulativní) počet osob s prokázanou nákazou dle krajských hygienických stanic vč",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19/nakazeni-vyleceni-umrti-testy.csv"
-  },
-  {
-    "name": "COVID-19: Celkový (kumulativní) počet osob s prokázanou nákazou dle krajských hygienických stanic vč",
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/nakaza.csv"
   },
   {
     "name": "COVID-19: Celkový (kumulativní) počet osob s prokázanou nákazou dle krajských hygienických stanic vč",
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/nakazeni-vyleceni-umrti-testy.csv"
-  },
-  {
-    "name": "COVID-19: Celkový (kumulativní) počet provedených testů",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19/testy.csv"
-  },
-  {
-    "name": "COVID-19: Celkový (kumulativní) počet provedených testů (v2)",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/testy.csv"
   },
   {
     "name": "COVID-19: Celkový (kumulativní) počet provedených testů podle krajů a okresů ČR",
@@ -106,10 +90,6 @@
   {
     "name": "COVID-19: Přehled osob s prokázanou nákazou (včetně reinfekcí) dle krajských hygienických stanic vče",
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/incidence-7-14-cr.csv"
-  },
-  {
-    "name": "COVID-19: Přehled osob s prokázanou nákazou dle hlášení krajských hygienických stanic",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19/osoby.csv"
   },
   {
     "name": "COVID-19: Přehled osob s prokázanou nákazou dle hlášení krajských hygienických stanic (v2)",

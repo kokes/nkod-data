@@ -1,7 +1,31 @@
 [
   {
+    "name": "COVID-19: Celkový (kumulativní) počet osob s prokázanou nákazou dle krajských hygienických stanic vč",
+    "url": "https://data.mzcr.cz/distribuce/3/nakaza.csv"
+  },
+  {
+    "name": "COVID-19: Celkový (kumulativní) počet osob s prokázanou nákazou dle krajských hygienických stanic vč",
+    "url": "https://data.mzcr.cz/distribuce/4/nakazeni-vyleceni-umrti-testy.csv"
+  },
+  {
+    "name": "COVID-19: Celkový (kumulativní) počet provedených testů",
+    "url": "https://data.mzcr.cz/distribuce/7/testy.csv"
+  },
+  {
+    "name": "COVID-19: Celkový (kumulativní) počet provedených testů (v2)",
+    "url": "https://data.mzcr.cz/distribuce/9/testy-v2.csv"
+  },
+  {
     "name": "COVID-19: Online dispečink intenzivní péče – volné kapacity",
     "url": "https://data.mzcr.cz/distribuce/66/kapacity-intenzivni-pece.csv"
+  },
+  {
+    "name": "COVID-19: Přehled distribuce ochranného materiálu dle krajů ČR",
+    "url": "https://data.mzcr.cz/distribuce/333/pomucky.csv"
+  },
+  {
+    "name": "COVID-19: Přehled osob s prokázanou nákazou dle hlášení krajských hygienických stanic",
+    "url": "https://data.mzcr.cz/distribuce/34/osoby.csv"
   },
   {
     "name": "Cervikální screeningové vyšetření: Pokrytí cílové populace",
