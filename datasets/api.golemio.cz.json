@@ -9,7 +9,7 @@
   },
   {
     "name": "parking-lots",
-    "url": "https://api.golemio.cz/v2/docs/public-openapi/#/%F0%9F%85%BF%EF%B8%8F%20Parking"
+    "url": "https://api.golemio.cz/v2/parking"
   },
   {
     "name": "sorted-waste-stations",
@@ -17,6 +17,6 @@
   },
   {
     "name": "vehicle-positions",
-    "url": "https://api.golemio.cz/v2/pid/docs/openapi/"
+    "url": "https://api.golemio.cz/v2/vehiclepositions"
   }
 ]
