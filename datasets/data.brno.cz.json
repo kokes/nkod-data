@@ -9,10 +9,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::akce-events.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::aktivn%C3%AD-z%C3%B3na-z%C3%A1plavov%C3%A9ho-%C3%BAzem%C3%AD-active-flood-zones.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -41,6 +37,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::cyklodetektory.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::cykloopat%C5%99en%C3%AD-zrealizovan%C3%A1-cycling-infrastructure-existing.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -50,6 +50,10 @@
   {
     "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::elektrick%C3%A9-nab%C3%ADjec%C3%AD-stanice-pro-auta-ev-charging-points.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::events.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -137,15 +141,19 @@
   },
   {
     "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-body-water-supply-network-accidents-points.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-polygony-water-supply-network-accidents-polygons.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-brn%C4%9Bnsk%C3%A9-metropolitn%C3%AD-oblasti-brno-metropolitan-area-boundary-.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-brn%C4%9Bnsk%C3%A9-metropolitn%C3%AD-oblasti-brno-metropolitan-area-boundary-.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-brna.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -158,10 +166,6 @@
   {
     "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::hranice-katastr%C3%A1ln%C3%ADch-%C3%BAzem%C3%AD-cadastral-boundaries.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-m%C4%9Bsta-city-boundaries.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -198,10 +202,6 @@
   {
     "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::intenzita-dopravy-intenzita-vozidel-vehicle-traffic-intensity.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzity-cyklist%C5%AF-z-cyklodetektor%C5%AF-aktu%C3%A1ln%C3%AD-bike-traffic-detected-by-sensors-live-data.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -365,7 +365,7 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::projekty-participativn%C3%ADho-rozpo%C4%8Dtu-participatory-budget-projects.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::projektyparo.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -509,10 +509,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::akce-events.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::aktivn%C3%AD-z%C3%B3na-z%C3%A1plavov%C3%A9ho-%C3%BAzem%C3%AD-active-flood-zones.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -541,6 +537,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::cyklodetektory.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::cykloopat%C5%99en%C3%AD-zrealizovan%C3%A1-cycling-infrastructure-existing.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -550,6 +550,10 @@
   {
     "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::elektrick%C3%A9-nab%C3%ADjec%C3%AD-stanice-pro-auta-ev-charging-points.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::events.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -637,15 +641,19 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-body-water-supply-network-accidents-points.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-polygony-water-supply-network-accidents-polygons.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-brn%C4%9Bnsk%C3%A9-metropolitn%C3%AD-oblasti-brno-metropolitan-area-boundary-.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-brn%C4%9Bnsk%C3%A9-metropolitn%C3%AD-oblasti-brno-metropolitan-area-boundary-.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-brna.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -658,10 +666,6 @@
   {
     "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::hranice-katastr%C3%A1ln%C3%ADch-%C3%BAzem%C3%AD-cadastral-boundaries.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-m%C4%9Bsta-city-boundaries.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -698,10 +702,6 @@
   {
     "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::intenzita-dopravy-intenzita-vozidel-vehicle-traffic-intensity.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzity-cyklist%C5%AF-z-cyklodetektor%C5%AF-aktu%C3%A1ln%C3%AD-bike-traffic-detected-by-sensors-live-data.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -865,7 +865,7 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::projekty-participativn%C3%ADho-rozpo%C4%8Dtu-participatory-budget-projects.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::projektyparo.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -1009,10 +1009,6 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::akce-events.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::aktivn%C3%AD-z%C3%B3na-z%C3%A1plavov%C3%A9ho-%C3%BAzem%C3%AD-active-flood-zones.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1041,6 +1037,10 @@
   },
   {
     "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::cyklodetektory.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::cykloopat%C5%99en%C3%AD-zrealizovan%C3%A1-cycling-infrastructure-existing.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1050,6 +1050,10 @@
   {
     "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::elektrick%C3%A9-nab%C3%ADjec%C3%AD-stanice-pro-auta-ev-charging-points.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::events.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1137,15 +1141,19 @@
   },
   {
     "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-body-water-supply-network-accidents-points.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-polygony-water-supply-network-accidents-polygons.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-brn%C4%9Bnsk%C3%A9-metropolitn%C3%AD-oblasti-brno-metropolitan-area-boundary-.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-brn%C4%9Bnsk%C3%A9-metropolitn%C3%AD-oblasti-brno-metropolitan-area-boundary-.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-brna.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1158,10 +1166,6 @@
   {
     "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::hranice-katastr%C3%A1ln%C3%ADch-%C3%BAzem%C3%AD-cadastral-boundaries.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-m%C4%9Bsta-city-boundaries.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1198,10 +1202,6 @@
   {
     "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::intenzita-dopravy-intenzita-vozidel-vehicle-traffic-intensity.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzity-cyklist%C5%AF-z-cyklodetektor%C5%AF-aktu%C3%A1ln%C3%AD-bike-traffic-detected-by-sensors-live-data.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::projekty-participativn%C3%ADho-rozpo%C4%8Dtu-participatory-budget-projects.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::projektyparo.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1505,10 +1505,6 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::akce-events.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::aktivn%C3%AD-z%C3%B3na-z%C3%A1plavov%C3%A9ho-%C3%BAzem%C3%AD-active-flood-zones.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1537,6 +1533,10 @@
   },
   {
     "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::cyklodetektory.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::cykloopat%C5%99en%C3%AD-zrealizovan%C3%A1-cycling-infrastructure-existing.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1546,6 +1546,10 @@
   {
     "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::elektrick%C3%A9-nab%C3%ADjec%C3%AD-stanice-pro-auta-ev-charging-points.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::events.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1633,15 +1637,19 @@
   },
   {
     "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-body-water-supply-network-accidents-points.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-polygony-water-supply-network-accidents-polygons.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-brn%C4%9Bnsk%C3%A9-metropolitn%C3%AD-oblasti-brno-metropolitan-area-boundary-.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-brn%C4%9Bnsk%C3%A9-metropolitn%C3%AD-oblasti-brno-metropolitan-area-boundary-.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hranice-brna.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1654,10 +1662,6 @@
   {
     "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::hranice-katastr%C3%A1ln%C3%ADch-%C3%BAzem%C3%AD-cadastral-boundaries.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::hranice-m%C4%9Bsta-city-boundaries.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1694,10 +1698,6 @@
   {
     "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::intenzita-dopravy-intenzita-vozidel-vehicle-traffic-intensity.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzity-cyklist%C5%AF-z-cyklodetektor%C5%AF-aktu%C3%A1ln%C3%AD-bike-traffic-detected-by-sensors-live-data.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1857,7 +1857,7 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::projekty-participativn%C3%ADho-rozpo%C4%8Dtu-participatory-budget-projects.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::projektyparo.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
