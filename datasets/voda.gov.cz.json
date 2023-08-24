@@ -5,7 +5,7 @@
   },
   {
     "name": "Dílčí povodí",
-    "url": "https://voda.gov.cz/data/ISVSVoda_Spravniclenenipovodi.zip"
+    "url": "https://voda.gov.cz/data/ISVSVoda_Objektyvkoryte.zip"
   },
   {
     "name": "Hlavní odvodňovací a závlahová zařízení",
@@ -21,6 +21,10 @@
   },
   {
     "name": "Objekty v korytě",
+    "url": "https://voda.gov.cz/data/ISVSVoda_Mezinarodniadilcipovodi.zip"
+  },
+  {
+    "name": "Objekty v korytě",
     "url": "https://voda.gov.cz/data/ISVSVoda_Objektyvkoryte.zip"
   },
   {
@@ -30,10 +34,6 @@
   {
     "name": "Správcovství vodních toků",
     "url": "https://voda.gov.cz/data/ISVSVoda_Spravcovstvivodnichtoku.zip"
-  },
-  {
-    "name": "Územní působnost s. p. Povodí",
-    "url": "https://voda.gov.cz/data/ISVSVoda_Mezinarodniadilcipovodi.zip"
   },
   {
     "name": "Územní působnost s. p. Povodí",
