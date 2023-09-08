@@ -1,0 +1,10 @@
+[
+  {
+    "name": "INSPIRE stahovací služba WCS pro téma Nadmořská výška-GRID (EL GRID)",
+    "url": "https://geoportal.cuzk.cz/WCS_EL/WCService.aspx?request=GetCapabilities&service=WCS"
+  },
+  {
+    "name": "INSPIRE stahovací služba WCS pro téma Ortofotosnímky (OI)",
+    "url": "https://geoportal.cuzk.cz/WCS_OI/WCService.aspx?request=GetCapabilities&service=WCS"
+  }
+]
