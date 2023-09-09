@@ -252,8 +252,8 @@
     "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM50-SJTSK-DGN"
   },
   {
-    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 50 000 v ETRS89-TMzn - OpenSearch",
-    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM50-ETRS89-TIFF"
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 50 000 v PDF, ETRS89-TMzn - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM50-ETRS89-PDF"
   },
   {
     "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 50 000 v PDF, S-JTSK - OpenSearch",
@@ -262,6 +262,10 @@
   {
     "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 50 000 v SHP, S-JTSK - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM50-SJTSK-SHP"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 50 000 v TIFF, ETRS89-TMzn - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM50-ETRS89-TIFF"
   },
   {
     "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 50 000 v TIFF, S-JTSK - OpenSearch",
@@ -350,5 +354,9 @@
   {
     "name": "Stahovací služba Atom pro speciální stavová data RUIAN - číselníky - VFR - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=RUIAN-SP-CIS-U"
+  },
+  {
+    "name": "Stahovací služba Atom pro Úhrnné hodnoty druhů pozemků - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=UHDP"
   }
 ]
