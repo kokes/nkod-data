@@ -116,6 +116,14 @@
     "url": "https://atom.cuzk.cz/get.ashx?theme=ORTOFOTO"
   },
   {
+    "name": "Stahovací služba ATOM pro ZABAGED® - Polohopis - FGDB - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZABAGED-FGDB"
+  },
+  {
+    "name": "Stahovací služba ATOM pro ZABAGED® - Polohopis - GPKG - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZABAGED-GPKG"
+  },
+  {
     "name": "Stahovací služba ATOM pro ZABAGED® - Výškopis - vrstevnice - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=ZABAGED-vyskopis"
   },
@@ -126,14 +134,6 @@
   {
     "name": "Stahovací služba ATOM pro data Databáze geografických jmen České republiky (Geonames) - GPKG - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=GEONAMES-GPKG"
-  },
-  {
-    "name": "Stahovací služba ATOM pro data Základní báze geografických dat České republiky (ZABAGED®) - polohopis - FGDB - OpenSearch",
-    "url": "https://atom.cuzk.cz/get.ashx?theme=ZABAGED-FGDB"
-  },
-  {
-    "name": "Stahovací služba ATOM pro data Základní báze geografických dat České republiky (ZABAGED®) - polohopis - GPKG - OpenSearch",
-    "url": "https://atom.cuzk.cz/get.ashx?theme=ZABAGED-GPKG"
   },
   {
     "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 10 000 v DGN, S-JTSK - OpenSearch",
