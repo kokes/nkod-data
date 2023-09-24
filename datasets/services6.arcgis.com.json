@@ -505,6 +505,14 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Absolventi_vysok%C3%BDch_%C5%A1kol/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Adres%C3%A1%C5%99_obc%C3%AD/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Ambulantn%C3%AD_gynekologov%C3%A9/FeatureServer/0"
   },
   {
@@ -554,6 +562,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Inova%C4%8Dn%C3%AD_infrastruktury/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Inovativn%C3%AD_firmy/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -638,6 +650,18 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Ostatn%C3%AD_historick%C3%A9_pam%C3%A1tky/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_pam%C3%A1tky_v%C4%8Detn%C4%9B_ochrann%C3%BDch_p%C3%A1sem/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_parky/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_rezervace_v%C4%8Detn%C4%9B_ochrann%C3%BDch_p%C3%A1sem/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -738,6 +762,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Stav_povrchu_silnic/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Studenti_vysok%C3%BDch_%C5%A1kol/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
