@@ -8,30 +8,6 @@
     "url": "https://dopravnimapy.kraj-lbc.cz/opendata/zastavky_gml_wgs84.zip"
   },
   {
-    "name": "GML 1.x",
-    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/spoje_gml_wgs84.zip"
-  },
-  {
-    "name": "GML 1.x",
-    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/zastavky_gml_wgs84.zip"
-  },
-  {
-    "name": "GML 1.x",
-    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/zony_gml_wgs84.zip"
-  },
-  {
-    "name": "Google Earth KMZ",
-    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/spoje.kmz"
-  },
-  {
-    "name": "Google Earth KMZ",
-    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/zastavky.kmz"
-  },
-  {
-    "name": "Google Earth KMZ",
-    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/zony.kmz"
-  },
-  {
     "name": "KMZ",
     "url": "http://dopravnimapy.kraj-lbc.cz/opendata/zony.kmz"
   },
@@ -62,29 +38,5 @@
   {
     "name": "SHP - Projekce WGS-84",
     "url": "https://dopravnimapy.kraj-lbc.cz/opendata/zastavky_shp_wgs84.zip"
-  },
-  {
-    "name": "Shapefile - Projekce WGS-84",
-    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/spoje_shp_wgs84.zip"
-  },
-  {
-    "name": "Shapefile - Projekce WGS-84",
-    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/zastavky_shp_wgs84.zip"
-  },
-  {
-    "name": "Shapefile - Projekce WGS-84",
-    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/zony_shp_wgs84.zip"
-  },
-  {
-    "name": "Shapefile S-JTSK",
-    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/spoje_shp_jtsk.zip"
-  },
-  {
-    "name": "Shapefile S-JTSK",
-    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/zastavky_shp_jtsk.zip"
-  },
-  {
-    "name": "Shapefile S-JTSK",
-    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/zony_shp_jtsk.zip"
   }
 ]
