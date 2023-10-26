@@ -141,11 +141,11 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie-polygony-1.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-body-water-supply-network-accidents-points.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-polygony-water-supply-network-accidents-polygons.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -253,51 +253,27 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-doprava-multipoints.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-doprava.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-doprava-points.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-h%C5%99i%C5%A1t%C4%9B-a-hern%C3%AD-prvky.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-hriste-multipoints.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-jin%C3%A9.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-hriste-points.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-m%C4%9Bstsk%C3%BD-orienta%C4%8Dn%C3%AD-a-informa%C4%8Dn%C3%AD-syst%C3%A9m.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-jine-multipoints.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-n%C3%A1bytek-a-vybaven%C3%AD.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-jine-points.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-mois-multipoints.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-mois-points.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-nabytek-a-vybaveni-multipoints.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-nabytek-a-vybaveni-points.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-vodni-prvky-multipoints.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-vodni-prvky-points.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-vodn%C3%AD-prvky.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -413,7 +389,7 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::projektyparo.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::projekty-participativn%C3%ADho-rozpo%C4%8Dtu-participatory-budget-projects.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -685,11 +661,11 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie-polygony-1.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-body-water-supply-network-accidents-points.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-polygony-water-supply-network-accidents-polygons.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -797,51 +773,27 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-doprava-multipoints.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-doprava.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-doprava-points.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-h%C5%99i%C5%A1t%C4%9B-a-hern%C3%AD-prvky.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-hriste-multipoints.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-jin%C3%A9.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-hriste-points.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-m%C4%9Bstsk%C3%BD-orienta%C4%8Dn%C3%AD-a-informa%C4%8Dn%C3%AD-syst%C3%A9m.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-jine-multipoints.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-n%C3%A1bytek-a-vybaven%C3%AD.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-jine-points.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-mois-multipoints.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-mois-points.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-nabytek-a-vybaveni-multipoints.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-nabytek-a-vybaveni-points.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-vodni-prvky-multipoints.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-vodni-prvky-points.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-vodn%C3%AD-prvky.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -957,7 +909,7 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::projektyparo.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::projekty-participativn%C3%ADho-rozpo%C4%8Dtu-participatory-budget-projects.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -1229,11 +1181,11 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie-polygony-1.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-body-water-supply-network-accidents-points.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-polygony-water-supply-network-accidents-polygons.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1341,51 +1293,27 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-doprava-multipoints.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-doprava.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-doprava-points.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-h%C5%99i%C5%A1t%C4%9B-a-hern%C3%AD-prvky.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-hriste-multipoints.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-jin%C3%A9.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-hriste-points.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-m%C4%9Bstsk%C3%BD-orienta%C4%8Dn%C3%AD-a-informa%C4%8Dn%C3%AD-syst%C3%A9m.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-jine-multipoints.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-n%C3%A1bytek-a-vybaven%C3%AD.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-jine-points.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-mois-multipoints.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-mois-points.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-nabytek-a-vybaveni-multipoints.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-nabytek-a-vybaveni-points.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-vodni-prvky-multipoints.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-vodni-prvky-points.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-vodn%C3%AD-prvky.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1501,7 +1429,7 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::projektyparo.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::projekty-participativn%C3%ADho-rozpo%C4%8Dtu-participatory-budget-projects.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1773,11 +1701,11 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie-polygony-1.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-body-water-supply-network-accidents-points.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::havarie.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::hav%C3%A1rie-ve-vodovodn%C3%AD-s%C3%ADti-polygony-water-supply-network-accidents-polygons.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1885,51 +1813,27 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-doprava-multipoints.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-doprava.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-doprava-points.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-h%C5%99i%C5%A1t%C4%9B-a-hern%C3%AD-prvky.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-hriste-multipoints.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-jin%C3%A9.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-hriste-points.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-m%C4%9Bstsk%C3%BD-orienta%C4%8Dn%C3%AD-a-informa%C4%8Dn%C3%AD-syst%C3%A9m.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-jine-multipoints.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-n%C3%A1bytek-a-vybaven%C3%AD.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-jine-points.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-mois-multipoints.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-mois-points.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-nabytek-a-vybaveni-multipoints.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-nabytek-a-vybaveni-points.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-vodni-prvky-multipoints.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mobiliar-vodni-prvky-points.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mobili%C3%A1%C5%99-m%C4%9Bstsk%C3%BDch-%C4%8D%C3%A1st%C3%AD-vodn%C3%AD-prvky.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -2045,7 +1949,7 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::projektyparo.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::projekty-participativn%C3%ADho-rozpo%C4%8Dtu-participatory-budget-projects.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
