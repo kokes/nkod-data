@@ -5,10 +5,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://datazapad-karp.hub.arcgis.com/maps/34e6a1f1443846e49676de22bf53bd7d_0"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://datazapad-karp.hub.arcgis.com/maps/5ad57de2f5ea4f4483fd123f48beee47_0"
   },
   {
@@ -24,8 +20,8 @@
     "url": "https://datazapad-karp.hub.arcgis.com/pages/57c8b30a84554342869c647db610e4e0"
   },
   {
-    "name": "CSV",
-    "url": "https://datazapad-karp.hub.arcgis.com/datasets/34e6a1f1443846e49676de22bf53bd7d_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://datazapad-karp.hub.arcgis.com/pages/c828346c0ace4e39859674675df03a51"
   },
   {
     "name": "CSV",
@@ -37,10 +33,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://datazapad-karp.hub.arcgis.com/datasets/34e6a1f1443846e49676de22bf53bd7d_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://datazapad-karp.hub.arcgis.com/datasets/5ad57de2f5ea4f4483fd123f48beee47_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -49,19 +41,11 @@
   },
   {
     "name": "KML",
-    "url": "https://datazapad-karp.hub.arcgis.com/datasets/34e6a1f1443846e49676de22bf53bd7d_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://datazapad-karp.hub.arcgis.com/datasets/5ad57de2f5ea4f4483fd123f48beee47_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
     "url": "https://datazapad-karp.hub.arcgis.com/datasets/9fa2b7a9640540c6b956414fa811595d_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://datazapad-karp.hub.arcgis.com/datasets/34e6a1f1443846e49676de22bf53bd7d_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
