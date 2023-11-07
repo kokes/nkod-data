@@ -9,7 +9,7 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.datalk.cz/maps/b63c191a2ae2445787e562ea14afaae7_0"
+    "url": "https://www.datalk.cz/maps/4ca4f0715baf41719f78cf107967414d_0"
   },
   {
     "name": "CSV",
@@ -21,7 +21,7 @@
   },
   {
     "name": "CSV",
-    "url": "https://www.datalk.cz/datasets/b63c191a2ae2445787e562ea14afaae7_0.csv?where=1=1"
+    "url": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -33,7 +33,7 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://www.datalk.cz/datasets/b63c191a2ae2445787e562ea14afaae7_0.geojson?where=1=1"
+    "url": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -44,11 +44,19 @@
     "url": "https://www.datalk.cz/datasets/38d9797b83044ada9c674c08b54f8548_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
+    "name": "KML",
+    "url": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
     "name": "Shapefile",
     "url": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
     "url": "https://www.datalk.cz/datasets/38d9797b83044ada9c674c08b54f8548_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   }
 ]
