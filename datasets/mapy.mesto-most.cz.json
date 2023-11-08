@@ -9,7 +9,15 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/CenovaMapa_opendata/FeatureServer"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/CenovaMapa_opendata/FeatureServer/1"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/CenovaMapa_opendata/FeatureServer/2"
   },
   {
     "name": "ArcGIS GeoService",
@@ -21,19 +29,11 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/CenovaMapa_opendata/FeatureServer/5"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/CenovaMapa_opendata/FeatureServer/6"
   },
   {
     "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/CenovaMapa_opendata/FeatureServer/7"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/CenovaMapa_opendata/FeatureServer/8"
   },
   {
     "name": "ArcGIS GeoService",
@@ -54,6 +54,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/IntenzitaAutomobiloveDopravy_opendata/FeatureServer/1"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/JednorazoveHudebniAkce_opendata/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -89,19 +93,27 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/StozaryVO_opendata/FeatureServer/1"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/UzemniPlanMost2021_opendata/FeatureServer"
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/UzemniPlanMost2021_opendata/FeatureServer/1"
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/UzemniPlanMost2021_opendata/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/UzemniPlanMost2021_opendata/FeatureServer/7"
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/UzemniPlanMost2021_opendata/FeatureServer/3"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/UzemniPlanMost2021_opendata/FeatureServer/4"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/UzemniPlanMost2021_opendata/FeatureServer/5"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/UzemniPlanMost2021_opendata/FeatureServer/6"
   },
   {
     "name": "ArcGIS GeoService",
@@ -117,11 +129,15 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ZaplavovaUzemi_opendata/FeatureServer"
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/VolnePobihaniPsu_opendata/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ZaplavovaUzemi_opendata/FeatureServer/0"
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ZakazKonzumaceAlkoholu_opendata/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ZaplavovaUzemi_opendata/FeatureServer"
   },
   {
     "name": "ArcGIS GeoService",
@@ -129,6 +145,18 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/Zastavky_MHD_opendata/FeatureServer/0"
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ZaplavovaUzemi_opendata/FeatureServer/2"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ZaplavovaUzemi_opendata/FeatureServer/3"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/web/opendata/hlasovani_rmm_zmm/hlasovani-rmm-most.json"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/web/opendata/hlasovani_rmm_zmm/hlasovani-zmm-most.json"
   }
 ]
