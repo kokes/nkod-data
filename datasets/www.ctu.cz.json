@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Cenový barometr - mobilní internet",
+    "url": "https://www.ctu.cz/sites/default/files/barometr_mobilni_internet.csv"
+  },
+  {
+    "name": "Cenový barometr - mobilní průměrná cena za minutu",
+    "url": "https://www.ctu.cz/sites/default/files/barometr_cena_za_minutu.csv"
+  },
+  {
+    "name": "Cenový barometr - pevný internet",
+    "url": "https://www.ctu.cz/sites/default/files/barometr_pevny_internet.csv"
+  },
+  {
+    "name": "Úřední deska",
+    "url": "https://www.ctu.cz/sites/default/files/uredni-deska.json"
+  }
+]
