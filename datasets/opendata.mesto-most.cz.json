@@ -5,6 +5,22 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::bloky-v-mostě"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::budovy-ve-starém-mostě"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::cenová-mapa"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::cenová-mapa-2001"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::cenová-mapa-2005"
   },
   {
@@ -25,11 +41,11 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::cenová-mapa-2018"
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::cenová-mapa-2020"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::cenová-mapa-2020"
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::cenová-mapa-2022"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -37,7 +53,7 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::intenzita-automobilové-dopravy"
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::dopravní-nehody-v-orp-most"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -45,7 +61,7 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::objektová-mapa"
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::lokality-se-zákazem-konzumace-alkoholu"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -77,6 +93,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::stožáry-veřejného-osvětlení"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::sčítače-cyklistické-dopravy"
   },
   {
@@ -85,7 +105,7 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::zastávky-mhd"
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::válečné-hroby-a-památníky"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -113,6 +133,14 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-hranice-zastavěného-území-obce"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-koridory-dopravní-a-technické-infrastruktury"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-limity-těžby-uhlí-ze-zúr"
   },
   {
@@ -126,6 +154,30 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-zastavitelná-plocha-z"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-základní-funkční-plochy-"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-úses"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-územní-rezerva-r"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::budovy-ve-starém-mostě.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2001.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "CSV",
@@ -149,11 +201,11 @@
   },
   {
     "name": "CSV",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2018.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2020.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "CSV",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2020.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2022.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "CSV",
@@ -161,7 +213,7 @@
   },
   {
     "name": "CSV",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::intenzita-automobilové-dopravy.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::dopravní-nehody-v-orp-most.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "CSV",
@@ -169,7 +221,7 @@
   },
   {
     "name": "CSV",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::objektová-mapa.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::lokality-se-zákazem-konzumace-alkoholu.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "CSV",
@@ -197,11 +249,15 @@
   },
   {
     "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::stožáry-veřejného-osvětlení.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::volné-pobíhání-psů.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "CSV",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::zastávky-mhd.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::válečné-hroby-a-památníky.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "CSV",
@@ -221,6 +277,14 @@
   },
   {
     "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-hranice-zastavěného-území-obce.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-koridory-dopravní-a-technické-infrastruktury.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-limity-těžby-uhlí-ze-zúr.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -234,6 +298,30 @@
   {
     "name": "CSV",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-zastavitelná-plocha-z.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-základní-funkční-plochy-.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-úses.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-územní-rezerva-r.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::budovy-ve-starém-mostě.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2001.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "GeoJSON",
@@ -257,11 +345,11 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2018.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2020.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2020.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2022.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "GeoJSON",
@@ -269,7 +357,7 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::intenzita-automobilové-dopravy.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::dopravní-nehody-v-orp-most.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "GeoJSON",
@@ -277,7 +365,7 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::objektová-mapa.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::lokality-se-zákazem-konzumace-alkoholu.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "GeoJSON",
@@ -305,11 +393,15 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::stožáry-veřejného-osvětlení.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::volné-pobíhání-psů.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::zastávky-mhd.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::válečné-hroby-a-památníky.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "GeoJSON",
@@ -329,6 +421,14 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-hranice-zastavěného-území-obce.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-koridory-dopravní-a-technické-infrastruktury.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-limity-těžby-uhlí-ze-zúr.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -342,6 +442,30 @@
   {
     "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-zastavitelná-plocha-z.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-základní-funkční-plochy-.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-úses.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-územní-rezerva-r.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::budovy-ve-starém-mostě.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2001.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "KML",
@@ -365,11 +489,11 @@
   },
   {
     "name": "KML",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2018.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2020.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "KML",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2020.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2022.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "KML",
@@ -377,7 +501,7 @@
   },
   {
     "name": "KML",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::intenzita-automobilové-dopravy.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::dopravní-nehody-v-orp-most.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "KML",
@@ -385,7 +509,7 @@
   },
   {
     "name": "KML",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::objektová-mapa.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::lokality-se-zákazem-konzumace-alkoholu.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "KML",
@@ -409,11 +533,15 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::stožáry-veřejného-osvětlení.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::volné-pobíhání-psů.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "KML",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::zastávky-mhd.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::válečné-hroby-a-památníky.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "KML",
@@ -433,6 +561,14 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-hranice-zastavěného-území-obce.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-koridory-dopravní-a-technické-infrastruktury.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-limity-těžby-uhlí-ze-zúr.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -446,6 +582,30 @@
   {
     "name": "KML",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-zastavitelná-plocha-z.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-základní-funkční-plochy-.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-úses.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-územní-rezerva-r.kml?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::budovy-ve-starém-mostě.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2001.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
@@ -469,11 +629,11 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2018.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2020.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2020.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenová-mapa-2022.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
@@ -481,7 +641,7 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::intenzita-automobilové-dopravy.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::dopravní-nehody-v-orp-most.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
@@ -489,7 +649,7 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::objektová-mapa.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::lokality-se-zákazem-konzumace-alkoholu.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
@@ -513,11 +673,15 @@
   },
   {
     "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::stožáry-veřejného-osvětlení.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::volné-pobíhání-psů.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::zastávky-mhd.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::válečné-hroby-a-památníky.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
     "name": "Shapefile",
@@ -537,6 +701,14 @@
   },
   {
     "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-hranice-zastavěného-území-obce.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-koridory-dopravní-a-technické-infrastruktury.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-limity-těžby-uhlí-ze-zúr.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -550,5 +722,17 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-zastavitelná-plocha-z.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-základní-funkční-plochy-.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-úses.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-územní-rezerva-r.zip?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   }
 ]

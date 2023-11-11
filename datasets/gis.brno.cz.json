@@ -273,6 +273,10 @@
   },
   {
     "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_realizovana_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_stojany_na_kola_b_sjtsk.dxf"
   },
   {
@@ -609,6 +613,10 @@
   },
   {
     "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_realizovana_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_stojany_na_kola_b_wgs84.dxf"
   },
   {
@@ -910,6 +918,10 @@
   {
     "name": "GML (S-JSTK)",
     "url": "https://gis.brno.cz/public/opendata/pamob_g_voda_b_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_realizovana_gml_sjtsk.zip"
   },
   {
     "name": "GML (S-JSTK)",
@@ -1277,6 +1289,10 @@
   },
   {
     "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_realizovana_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_stojany_na_kola_b_gml_wgs84.zip"
   },
   {
@@ -1610,6 +1626,10 @@
   {
     "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pamob_g_voda_b_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_realizovana_sjtsk.geojson"
   },
   {
     "name": "GeoJSON (S-JTSK)",
@@ -1953,6 +1973,10 @@
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_realizovana_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_stojany_na_kola_b_sjtsk.gpkg"
   },
   {
@@ -2274,6 +2298,10 @@
   {
     "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/pamob_g_voda_b_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_realizovana_wgs84.gpkg"
   },
   {
     "name": "OGC GeoPackage (WGS84)",
@@ -2610,6 +2638,10 @@
   {
     "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pamob_g_voda_b_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_realizovana_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",
