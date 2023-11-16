@@ -1,0 +1,274 @@
+[
+  {
+    "name": "COVID-19: Celkový (kumulativní) počet osob s prokázanou nákazou dle krajských hygienických stanic vč",
+    "url": "https://data.mzcr.cz/distribuce/3/nakaza.csv"
+  },
+  {
+    "name": "COVID-19: Celkový (kumulativní) počet osob s prokázanou nákazou dle krajských hygienických stanic vč",
+    "url": "https://data.mzcr.cz/distribuce/4/nakazeni-vyleceni-umrti-testy.csv"
+  },
+  {
+    "name": "COVID-19: Celkový (kumulativní) počet provedených testů",
+    "url": "https://data.mzcr.cz/distribuce/7/testy.csv"
+  },
+  {
+    "name": "COVID-19: Celkový (kumulativní) počet provedených testů (v2)",
+    "url": "https://data.mzcr.cz/distribuce/9/testy-v2.csv"
+  },
+  {
+    "name": "COVID-19: Online dispečink intenzivní péče – volné kapacity",
+    "url": "https://data.mzcr.cz/distribuce/66/kapacity-intenzivni-pece.csv"
+  },
+  {
+    "name": "COVID-19: Přehled distribuce ochranného materiálu dle krajů ČR",
+    "url": "https://data.mzcr.cz/distribuce/333/pomucky.csv"
+  },
+  {
+    "name": "COVID-19: Přehled osob s prokázanou nákazou dle hlášení krajských hygienických stanic",
+    "url": "https://data.mzcr.cz/distribuce/34/osoby.csv"
+  },
+  {
+    "name": "Cervikální screeningové vyšetření: Pokrytí cílové populace",
+    "url": "https://data.mzcr.cz/distribuce/2/cervikalni-screening-c53.csv"
+  },
+  {
+    "name": "Kardiologie: Charakteristika hospitalizačních případů akutní péče",
+    "url": "https://data.mzcr.cz/distribuce/326/kardio-hospitalizace.csv"
+  },
+  {
+    "name": "Kardiologie: Epidemiologie srdečního selhání",
+    "url": "https://data.mzcr.cz/distribuce/332/kardio-srdecni-selhani.csv"
+  },
+  {
+    "name": "Kardiologie: Hypertenze",
+    "url": "https://data.mzcr.cz/distribuce/327/kardio-hypertenze.csv"
+  },
+  {
+    "name": "Kardiologie: Kardiostimulátory a implantabilní kardioverter-defibrilátory",
+    "url": "https://data.mzcr.cz/distribuce/328/kardio-kardiostimulatory-defibrilatory.csv"
+  },
+  {
+    "name": "Kardiologie: Zátěž populace ČR kardiovaskulárními onemocněními",
+    "url": "https://data.mzcr.cz/distribuce/330/kardio-KVO-zatez-populace.csv"
+  },
+  {
+    "name": "Kardiologie: Úmrtí osob na nemoci oběhové soustavy",
+    "url": "https://data.mzcr.cz/distribuce/331/kardio-prehled-zemrelych-osob.csv"
+  },
+  {
+    "name": "Kolorektální screeningové vyšetření: Pokrytí cílové populace",
+    "url": "https://data.mzcr.cz/distribuce/62/kolorektalni-screening-c18-c20.csv"
+  },
+  {
+    "name": "Mamografické screeningové vyšetření: Pokrytí cílové populace",
+    "url": "https://data.mzcr.cz/distribuce/263/mamograficky-screening-c50.csv"
+  },
+  {
+    "name": "NZIP: Přehled autorských článků",
+    "url": "https://data.mzcr.cz/distribuce/338/prehled-clanku-nzip.csv"
+  },
+  {
+    "name": "NZIP: Přehled doporučených externích zdrojů",
+    "url": "https://data.mzcr.cz/distribuce/341/prehled-externich-zdroju-nzip.csv"
+  },
+  {
+    "name": "NZIP: Přehled kategorií",
+    "url": "https://data.mzcr.cz/distribuce/340/prehled-kategorii-nzip.csv"
+  },
+  {
+    "name": "NZIP: Přehled rejstříkových pojmů",
+    "url": "https://data.mzcr.cz/distribuce/339/prehled-rejstrikovych-pojmu-nzip.csv"
+  },
+  {
+    "name": "Národní registr poskytovatelů zdravotních služeb",
+    "url": "https://data.mzcr.cz/distribuce/63/narodni-registr-poskytovatelu-zdravotnich-sluzeb.csv"
+  },
+  {
+    "name": "Psychiatrická péče: Akutní péče",
+    "url": "https://data.mzcr.cz/distribuce/264/akutni-pece.csv"
+  },
+  {
+    "name": "Psychiatrická péče: Alzheimerova nemoc a neurčené demence",
+    "url": "https://data.mzcr.cz/distribuce/64/alzheimerova-nemoc-a-neurcene-demence.csv"
+  },
+  {
+    "name": "Psychiatrická péče: Ambulantní péče",
+    "url": "https://data.mzcr.cz/distribuce/65/ambulantni-pece.csv"
+  },
+  {
+    "name": "Psychiatrická péče: Dlouhodobá péče",
+    "url": "https://data.mzcr.cz/distribuce/265/dlouhodoba-pece.csv"
+  },
+  {
+    "name": "Psychiatrická péče: Incidence, prevalence, hospitalizace a ambulantní péče",
+    "url": "https://data.mzcr.cz/distribuce/266/incidence-prevalence-hospitalizace-ambulantni-pece.csv"
+  },
+  {
+    "name": "Psychiatrická péče: Pokrytí návaznou péčí",
+    "url": "https://data.mzcr.cz/distribuce/267/pokryti-navaznou-peci.csv"
+  },
+  {
+    "name": "Psychiatrická péče: Pokrytí psychofarmaky",
+    "url": "https://data.mzcr.cz/distribuce/268/pokryti-psychofarmaky.csv"
+  },
+  {
+    "name": "Psychiatrická péče: Re-hospitalizace lidí s duševním onemocněním",
+    "url": "https://data.mzcr.cz/distribuce/269/dusevni-onemocneni-rehospitalizace.csv"
+  },
+  {
+    "name": "Psychiatrická péče: Sebevražednost lidí s duševním onemocněním",
+    "url": "https://data.mzcr.cz/distribuce/271/dusevni-onemocneni-sebevrazednost.csv"
+  },
+  {
+    "name": "Psychiatrická péče: Sebevražedné pokusy",
+    "url": "https://data.mzcr.cz/distribuce/270/sebevrazedne-pokusy.csv"
+  },
+  {
+    "name": "Psychiatrická péče: Úmrtnost lidí s duševním onemocněním",
+    "url": "https://data.mzcr.cz/distribuce/272/dusevni-onemocneni-umrtnost.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Narození podle způsobu porodu",
+    "url": "https://data.mzcr.cz/distribuce/312/novorozenci-porod.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Novorozenci a informace o propuštění",
+    "url": "https://data.mzcr.cz/distribuce/313/novorozenci-propusteni.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Novorozenci a péče na porodním sále",
+    "url": "https://data.mzcr.cz/distribuce/343/novorozenci-pece-sal.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Novorozenci a vrozené vady",
+    "url": "https://data.mzcr.cz/distribuce/318/novorozenci-vady.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Novorozenci podle léčby na oddělení",
+    "url": "https://data.mzcr.cz/distribuce/310/novorozenci-lecba-oddeleni.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Novorozenci podle léčby na porodním sále",
+    "url": "https://data.mzcr.cz/distribuce/311/novorozenci-lecba-sal.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Novorozenci podle základních sociodemografických charakteristik",
+    "url": "https://data.mzcr.cz/distribuce/315/populsada-novorozenci.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky a Robsonova klasifikace porodů",
+    "url": "https://data.mzcr.cz/distribuce/323/rodicky-robson.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky a císařské řezy",
+    "url": "https://data.mzcr.cz/distribuce/324/rodicky-cisar.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky a diabetes",
+    "url": "https://data.mzcr.cz/distribuce/320/rodicky-diabetes.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky a screeningová vyšetření v těhotenství",
+    "url": "https://data.mzcr.cz/distribuce/319/rodicky-screening.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky podle komplikací porodu",
+    "url": "https://data.mzcr.cz/distribuce/325/rodicky-komplikace-porod.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky podle komplikací v těhotenství",
+    "url": "https://data.mzcr.cz/distribuce/321/rodicky-komplikace-tehotenstvi.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky podle léků za porodu",
+    "url": "https://data.mzcr.cz/distribuce/317/rodicky-leky.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky podle způsobu porodu",
+    "url": "https://data.mzcr.cz/distribuce/322/rodicky-zpusob-porodu.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky podle základních sociodemografických charakteristik",
+    "url": "https://data.mzcr.cz/distribuce/314/populsada-rodicky.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Screening u narozených",
+    "url": "https://data.mzcr.cz/distribuce/316/novorozenci-screening.csv"
+  },
+  {
+    "name": "Standardizovaná incidence ZN průdušnice, průdušky a plíce (C33-34)",
+    "url": "https://data.mzcr.cz/distribuce/273/standardizovana-incidence-zn-prudusnice-prudusky-a-plice-c33-34.csv"
+  },
+  {
+    "name": "Standardizovaná incidence ZN rektosigmoidálního spojení, konečníku a řitního kanálu (C19-21)",
+    "url": "https://data.mzcr.cz/distribuce/274/standardizovana-incidence-zn-rektosigmoidalniho-spojeni-konecniku-a-ritniho-kanalu-c19-21.csv"
+  },
+  {
+    "name": "Standardizovaná incidence ZN tlustého střeva (C18)",
+    "url": "https://data.mzcr.cz/distribuce/275/standardizovana-incidence-zn-tlusteho-streva-c18.csv"
+  },
+  {
+    "name": "Standardizovaná incidence zhoubných novotvarů a novotvarů in situ, bez C44",
+    "url": "https://data.mzcr.cz/distribuce/284/standardizovana-incidence-zhoubnych-novotvaru-a-novotvaru-in-situ-bez-c44.csv"
+  },
+  {
+    "name": "Standardizovaná úmrtnost",
+    "url": "https://data.mzcr.cz/distribuce/276/standardizovana-umrtnost.csv"
+  },
+  {
+    "name": "Standardizovaná úmrtnost na poranění a otravy",
+    "url": "https://data.mzcr.cz/distribuce/277/standardizovana-umrtnost-na-poraneni-a-otravy.csv"
+  },
+  {
+    "name": "Střední délka života",
+    "url": "https://data.mzcr.cz/distribuce/278/stredni-delka-zivota.csv"
+  },
+  {
+    "name": "Vakcinace hrazené z veřejného zdravotního pojištění",
+    "url": "https://data.mzcr.cz/distribuce/342/vakcinace-verejne-zdravotni-pojisteni.csv"
+  },
+  {
+    "name": "Úrazy domácí + ostatní na 100 000 obyvatel",
+    "url": "https://data.mzcr.cz/distribuce/279/urazy-domaci-ostatni-na-100-000-obyvatel.csv"
+  },
+  {
+    "name": "Úrazy dopravní na 100 000 obyvatel",
+    "url": "https://data.mzcr.cz/distribuce/280/urazy-dopravni-na-100-000-obyvatel.csv"
+  },
+  {
+    "name": "Úrazy na 100 000 obyvatel",
+    "url": "https://data.mzcr.cz/distribuce/281/urazy-na-100-000-obyvatel.csv"
+  },
+  {
+    "name": "Úrazy pracovní na 100 000 obyvatel",
+    "url": "https://data.mzcr.cz/distribuce/282/urazy-pracovni-na-100-000-obyvatel.csv"
+  },
+  {
+    "name": "Úrazy sportovní na 100 000 obyvatel",
+    "url": "https://data.mzcr.cz/distribuce/283/urazy-sportovni-na-100-000-obyvatel.csv"
+  },
+  {
+    "name": "Číselník ORP",
+    "url": "https://data.mzcr.cz/distribuce/70/orp.csv"
+  },
+  {
+    "name": "Číselník krajů",
+    "url": "https://data.mzcr.cz/distribuce/68/kraje.csv"
+  },
+  {
+    "name": "Číselník okresů",
+    "url": "https://data.mzcr.cz/distribuce/69/okresy.csv"
+  },
+  {
+    "name": "Číselník pohlaví",
+    "url": "https://data.mzcr.cz/distribuce/71/pohlavi.csv"
+  },
+  {
+    "name": "Číselník typů hodnot",
+    "url": "https://data.mzcr.cz/distribuce/72/typ_hodnoty.csv"
+  },
+  {
+    "name": "Číselník věkových skupin",
+    "url": "https://data.mzcr.cz/distribuce/73/vekova_skupina.csv"
+  }
+]
