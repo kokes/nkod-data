@@ -125,6 +125,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ZakazKonzumaceAlkoholu_opendata/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ZaplavovaUzemi_opendata/FeatureServer"
   },
   {
@@ -142,6 +146,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ZaplavovaUzemi_opendata/FeatureServer/3"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/Zastavky_MHD_opendata/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
