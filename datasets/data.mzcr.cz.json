@@ -36,12 +36,32 @@
     "url": "https://data.mzcr.cz/distribuce/362/diabetes-mellitus-v-populaci-cr.csv"
   },
   {
+    "name": "Hrazené zdravotní služby: Charakteristika hospitalizačních případů akutní lůžkové péče",
+    "url": "https://data.mzcr.cz/distribuce/364/nrhzs-hospitalizace-cz-drg.csv"
+  },
+  {
+    "name": "Hrazené zdravotní služby: Charakteristika hospitalizačních případů akutní lůžkové péče dle typu zařízení",
+    "url": "https://data.mzcr.cz/distribuce/365/nrhzs-hospitalizace-typ-zz.csv"
+  },
+  {
+    "name": "Hrazené zdravotní služby: Prostředky zdravotnické techniky – Materiál vykázaný v rámci veřejného zdravotního pojištění ",
+    "url": "https://data.mzcr.cz/distribuce/373/nrhzs-pzt.csv"
+  },
+  {
     "name": "Hrazené zdravotní služby: Přehled vykázaných diagnóz dle kapitol   MKN-10",
     "url": "https://data.mzcr.cz/distribuce/363/nrhzs-mkn-kapitoly.csv"
   },
   {
+    "name": "Hrazené zdravotní služby: Přehled vykázaných diagnóz dle podkapitol MKN-10 ",
+    "url": "https://data.mzcr.cz/distribuce/366/nrhzs-mkn-podkapitoly.csv"
+  },
+  {
     "name": "Hrazené zdravotní služby: Přehled vykázaných tříznakových diagnóz dle MKN-10",
     "url": "https://data.mzcr.cz/distribuce/374/nrhzs-mkn-3-znaky.csv"
+  },
+  {
+    "name": "Hrazené zdravotní služby: Vykázané hromadně vyráběné léčivé přípravky v rámci veřejného zdravotního pojištění ",
+    "url": "https://data.mzcr.cz/distribuce/375/nrhzs-hvlp.csv"
   },
   {
     "name": "Hrazené zdravotní služby: Vykázané výkony zdravotní péče v rámci veřejného zdravotního pojištění u jednotlivých poskytovatelů zdravotních služeb",
