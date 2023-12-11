@@ -296,6 +296,18 @@
     "url": "https://data.mzcr.cz/distribuce/368/czdrg-ukazatele-dle-mdc-v4.csv"
   },
   {
+    "name": "dopravni-urazy-charakteristika-urazu-csv",
+    "url": "https://data.mzcr.cz/distribuce/384/dopravni-urazy-charakteristika-urazu.csv"
+  },
+  {
+    "name": "dopravni-urazy-diagnozy-s-csv",
+    "url": "https://data.mzcr.cz/distribuce/385/dopravni-urazy-diagnozy-s.csv"
+  },
+  {
+    "name": "dopravni-urazy-diagnozy-t-csv",
+    "url": "https://data.mzcr.cz/distribuce/386/dopravni-urazy-diagnozy-t.csv"
+  },
+  {
     "name": "onkologie-incidence-prevalence-csv",
     "url": "https://data.mzcr.cz/distribuce/372/onkologie-incidence-a-prevalence.csv"
   },
@@ -306,6 +318,18 @@
   {
     "name": "onkologie-preziti-csv",
     "url": "https://data.mzcr.cz/distribuce/378/onkologie-preziti.csv"
+  },
+  {
+    "name": "urazy-charakteristika-urazu-csv",
+    "url": "https://data.mzcr.cz/distribuce/381/urazy-charakteristika-urazu.csv"
+  },
+  {
+    "name": "urazy-diagnozy-s-csv",
+    "url": "https://data.mzcr.cz/distribuce/382/urazy-diagnozy-s.csv"
+  },
+  {
+    "name": "urazy-diagnozy-t-csv",
+    "url": "https://data.mzcr.cz/distribuce/383/urazy-diagnozy-t.csv"
   },
   {
     "name": "Úrazy domácí + ostatní na 100 000 obyvatel",
