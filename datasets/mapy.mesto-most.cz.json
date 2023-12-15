@@ -17,10 +17,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/Cykloscitace_opendata/FeatureServer/2"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/Cykloscitace_opendata/FeatureServer/3"
   },
   {
@@ -30,14 +26,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/DopravniNehodyPCR_opendata/FeatureServer/1"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/IntenzitaAutomobiloveDopravy_opendata/FeatureServer/1"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/JednorazoveHudebniAkce_opendata/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -69,10 +57,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/SkolskeObvody_opendata/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/UzemniPlanMost2021_opendata/FeatureServer"
   },
   {
@@ -81,15 +65,7 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/UzemniPlanMost2021_opendata/FeatureServer/1"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/UzemniPlanMost2021_opendata/FeatureServer/2"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/UzemniPlanMost2021_opendata/FeatureServer/3"
   },
   {
     "name": "ArcGIS GeoService",
@@ -146,14 +122,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ZaplavovaUzemi_opendata/FeatureServer/3"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/Zastavky_MHD_opendata/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/web/opendata/hlasovani_rmm_zmm/hlasovani-rmm-most.json"
   },
   {
     "name": "ArcGIS GeoService",
