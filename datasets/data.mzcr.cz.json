@@ -36,6 +36,18 @@
     "url": "https://data.mzcr.cz/distribuce/362/diabetes-mellitus-v-populaci-cr.csv"
   },
   {
+    "name": "Dopravní úrazy: Charakteristika úrazu",
+    "url": "https://data.mzcr.cz/distribuce/384/dopravni-urazy-charakteristika-urazu.csv"
+  },
+  {
+    "name": "Dopravní úrazy: Detailní charakteristika úrazu – Diagnózy S",
+    "url": "https://data.mzcr.cz/distribuce/385/dopravni-urazy-diagnozy-s.csv"
+  },
+  {
+    "name": "Dopravní úrazy: Detailní charakteristika úrazu – Diagnózy T",
+    "url": "https://data.mzcr.cz/distribuce/386/dopravni-urazy-diagnozy-t.csv"
+  },
+  {
     "name": "Hrazené zdravotní služby: Charakteristika hospitalizačních případů akutní lůžkové péče",
     "url": "https://data.mzcr.cz/distribuce/364/nrhzs-hospitalizace-cz-drg.csv"
   },
@@ -124,7 +136,7 @@
     "url": "https://data.mzcr.cz/distribuce/339/prehled-rejstrikovych-pojmu-nzip.csv"
   },
   {
-    "name": "NZIS: přehled komponent",
+    "name": "NZIS: Přehled komponent",
     "url": "https://data.mzcr.cz/distribuce/387/nzis-prehled-komponent.csv"
   },
   {
@@ -300,18 +312,6 @@
     "url": "https://data.mzcr.cz/distribuce/368/czdrg-ukazatele-dle-mdc-v4.csv"
   },
   {
-    "name": "dopravni-urazy-charakteristika-urazu-csv",
-    "url": "https://data.mzcr.cz/distribuce/384/dopravni-urazy-charakteristika-urazu.csv"
-  },
-  {
-    "name": "dopravni-urazy-diagnozy-s-csv",
-    "url": "https://data.mzcr.cz/distribuce/385/dopravni-urazy-diagnozy-s.csv"
-  },
-  {
-    "name": "dopravni-urazy-diagnozy-t-csv",
-    "url": "https://data.mzcr.cz/distribuce/386/dopravni-urazy-diagnozy-t.csv"
-  },
-  {
     "name": "onkologie-incidence-prevalence-csv",
     "url": "https://data.mzcr.cz/distribuce/372/onkologie-incidence-a-prevalence.csv"
   },
@@ -322,18 +322,6 @@
   {
     "name": "onkologie-preziti-csv",
     "url": "https://data.mzcr.cz/distribuce/378/onkologie-preziti.csv"
-  },
-  {
-    "name": "urazy-charakteristika-urazu-csv",
-    "url": "https://data.mzcr.cz/distribuce/381/urazy-charakteristika-urazu.csv"
-  },
-  {
-    "name": "urazy-diagnozy-s-csv",
-    "url": "https://data.mzcr.cz/distribuce/382/urazy-diagnozy-s.csv"
-  },
-  {
-    "name": "urazy-diagnozy-t-csv",
-    "url": "https://data.mzcr.cz/distribuce/383/urazy-diagnozy-t.csv"
   },
   {
     "name": "Úrazy domácí + ostatní na 100 000 obyvatel",
@@ -354,6 +342,18 @@
   {
     "name": "Úrazy sportovní na 100 000 obyvatel",
     "url": "https://data.mzcr.cz/distribuce/283/urazy-sportovni-na-100-000-obyvatel.csv"
+  },
+  {
+    "name": "Úrazy: Charakteristika úrazu",
+    "url": "https://data.mzcr.cz/distribuce/381/urazy-charakteristika-urazu.csv"
+  },
+  {
+    "name": "Úrazy: Detailní charakteristika úrazu – Diagnózy S",
+    "url": "https://data.mzcr.cz/distribuce/382/urazy-diagnozy-s.csv"
+  },
+  {
+    "name": "Úrazy: Detailní charakteristika úrazu – Diagnózy T",
+    "url": "https://data.mzcr.cz/distribuce/383/urazy-diagnozy-t.csv"
   },
   {
     "name": "Číselník ORP",
