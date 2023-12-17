@@ -37,11 +37,11 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/JednorazoveHudebniAkce_opendata/FeatureServer/0"
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/MaterskeObvody_opendata/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/MaterskeObvody_opendata/FeatureServer/0"
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ObjektovaMapa_opendata/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -105,7 +105,11 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/VolnePobihaniPsu_opendata/FeatureServer/0"
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/UzemniPlanMost2021_opendata/FeatureServer/9"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ValecneHrobyPamatniky_opendata/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -129,6 +133,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/web/opendata/hlasovani_rmm_zmm/hlasovani-zmm-most.json"
+    "url": "https://mapy.mesto-most.cz/web/opendata/hlasovani_rmm_zmm/hlasovani-rmm-most.json"
   }
 ]
