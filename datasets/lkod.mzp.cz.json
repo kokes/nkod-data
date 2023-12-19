@@ -130,5 +130,21 @@
   {
     "name": "geologie-osvedceni-odborne-zpusobilosti-seznam.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-evidence-drzitelu-vydanych-osvedceni-odpovedneho-resitele-geologickych-praci-2023.csv"
+  },
+  {
+    "name": "ippc_zarizeni_opendata_20231213.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-integrovana-prevence-2023.csv"
+  },
+  {
+    "name": "pripady-ekologicke-ujmy.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-pripady-ekologicke-ujmy-2023.csv"
+  },
+  {
+    "name": "provozovny_popisne_opendata_20231213.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-provozovny-irz-v-crzp-2023.csv"
+  },
+  {
+    "name": "uniky_prenosy_opendata_20231213.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-uniky-a-prenosy-latek-za-dotcene-ohlasujici-provozovny-za-dany-ohlasovaci-rok-2023.csv"
   }
 ]

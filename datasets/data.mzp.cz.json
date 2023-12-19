@@ -1,5 +1,9 @@
 [
   {
+    "name": "authorized_persons.csv",
+    "url": "https://data.mzp.cz/opendata/1.0.0/dataset/hnvo/authorized_persons.csv"
+  },
+  {
     "name": "entry",
     "url": "https://data.mzp.cz/opendata/1.0.0/dataset/dco/entry"
   },
@@ -10,5 +14,9 @@
   {
     "name": "uap.csv",
     "url": "https://data.mzp.cz/opendata/1.0.0/dataset/sekm/uap.csv"
+  },
+  {
+    "name": "user_cat3.csv",
+    "url": "https://data.mzp.cz/opendata/1.0.0/dataset/gmo/user_cat3.csv"
   }
 ]
