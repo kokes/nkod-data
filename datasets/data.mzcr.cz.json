@@ -120,6 +120,10 @@
     "url": "https://data.mzcr.cz/distribuce/263/mamograficky-screening-c50.csv"
   },
   {
+    "name": "Místa poskytování zdravotní péče",
+    "url": "https://data.mzcr.cz/distribuce/63/narodni-registr-poskytovatelu-zdravotnich-sluzeb.csv"
+  },
+  {
     "name": "NZIP: Přehled autorských článků",
     "url": "https://data.mzcr.cz/distribuce/338/prehled-clanku-nzip.csv"
   },
@@ -142,10 +146,6 @@
   {
     "name": "Nežádoucí události: Základní přehled v čase",
     "url": "https://data.mzcr.cz/distribuce/360/shnu-nezadouci-udalosti.csv"
-  },
-  {
-    "name": "Národní registr poskytovatelů zdravotních služeb",
-    "url": "https://data.mzcr.cz/distribuce/63/narodni-registr-poskytovatelu-zdravotnich-sluzeb.csv"
   },
   {
     "name": "Preventivní prohlídky: Preventivní prohlídky u praktických lékařů a stomatologů",

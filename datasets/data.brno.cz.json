@@ -45,6 +45,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::cyklodetektory.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::cykloopat%C5%99en%C3%AD-zrealizovan%C3%A1-cycling-infrastructure-existing.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -201,10 +205,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzity-cyklist%C5%AF-z-cyklodetektor%C5%AF-aktu%C3%A1ln%C3%AD-bike-traffic-detected-by-sensors-live-data.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::jakost-vody-water-quality.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -229,11 +229,11 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-budovy-accessibility-map-buildings.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-vstupy-do-budov-accessibility-map-entrances-to-the-buildings.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-vstupy-do-budov-accessibility-map-entrances-to-the-buildings.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mapa-pristupnosti-budovy.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -309,7 +309,7 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::pam%C3%A1tn%C3%A9-stromy-significant-protected-trees-1.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::pam%C3%A1tn%C3%A9-stromy-significant-protected-trees.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -541,6 +541,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::cyklodetektory.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::cykloopat%C5%99en%C3%AD-zrealizovan%C3%A1-cycling-infrastructure-existing.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -697,10 +701,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzity-cyklist%C5%AF-z-cyklodetektor%C5%AF-aktu%C3%A1ln%C3%AD-bike-traffic-detected-by-sensors-live-data.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::jakost-vody-water-quality.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -725,11 +725,11 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-budovy-accessibility-map-buildings.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-vstupy-do-budov-accessibility-map-entrances-to-the-buildings.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-vstupy-do-budov-accessibility-map-entrances-to-the-buildings.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mapa-pristupnosti-budovy.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -805,7 +805,7 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::pam%C3%A1tn%C3%A9-stromy-significant-protected-trees-1.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::pam%C3%A1tn%C3%A9-stromy-significant-protected-trees.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -1037,6 +1037,10 @@
   },
   {
     "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::cyklodetektory.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::cykloopat%C5%99en%C3%AD-zrealizovan%C3%A1-cycling-infrastructure-existing.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1193,10 +1197,6 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzity-cyklist%C5%AF-z-cyklodetektor%C5%AF-aktu%C3%A1ln%C3%AD-bike-traffic-detected-by-sensors-live-data.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::jakost-vody-water-quality.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1221,11 +1221,11 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-budovy-accessibility-map-buildings.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-vstupy-do-budov-accessibility-map-entrances-to-the-buildings.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-vstupy-do-budov-accessibility-map-entrances-to-the-buildings.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mapa-pristupnosti-budovy.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::pam%C3%A1tn%C3%A9-stromy-significant-protected-trees-1.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::pam%C3%A1tn%C3%A9-stromy-significant-protected-trees.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1533,6 +1533,10 @@
   },
   {
     "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::cyklodetektory.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::cykloopat%C5%99en%C3%AD-zrealizovan%C3%A1-cycling-infrastructure-existing.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1689,10 +1693,6 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzity-cyklist%C5%AF-z-cyklodetektor%C5%AF-aktu%C3%A1ln%C3%AD-bike-traffic-detected-by-sensors-live-data.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::jakost-vody-water-quality.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1717,11 +1717,11 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-budovy-accessibility-map-buildings.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-vstupy-do-budov-accessibility-map-entrances-to-the-buildings.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::mapa-p%C5%99%C3%ADstupnosti-vstupy-do-budov-accessibility-map-entrances-to-the-buildings.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::mapa-pristupnosti-budovy.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1797,7 +1797,7 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::pam%C3%A1tn%C3%A9-stromy-significant-protected-trees-1.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+    "url": "https://data.brno.cz/datasets/mestobrno::pam%C3%A1tn%C3%A9-stromy-significant-protected-trees.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
