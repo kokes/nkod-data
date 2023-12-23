@@ -1,5 +1,9 @@
 [
   {
+    "name": "Excel distribuce",
+    "url": "https://data.mpsv.cz/documents/1749923/7049859/bozp.xlsx"
+  },
+  {
     "name": "JSON distribuce",
     "url": "https://data.mpsv.cz/od/soubory/agentury-prace/agentury-prace.json"
   },
@@ -194,6 +198,18 @@
   {
     "name": "JSON distribuce",
     "url": "https://data.mpsv.cz/od/soubory/volna-mista/volna-mista.json"
+  },
+  {
+    "name": "JSON-LD distribuce",
+    "url": "https://data.mpsv.cz/documents/20142/7051271/zprostredkovatel.jsonld"
+  },
+  {
+    "name": "JSON-LD distribuce",
+    "url": "https://data.mpsv.cz/documents/20142/7051297/kolektivni-smlouva.jsonld"
+  },
+  {
+    "name": "JSON-LD distribuce",
+    "url": "https://data.mpsv.cz/documents/20142/7052723/kolektivni-smlouva-pro-dalsi-zamestnavatele.jsonld"
   },
   {
     "name": "JSON-LD distribuce",
