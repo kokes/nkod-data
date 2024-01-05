@@ -8,12 +8,12 @@
     "url": "https://data.mzp.cz/opendata/1.0.0/dataset/dco/entry"
   },
   {
-    "name": "entry.csv",
-    "url": "https://data.mzp.cz/opendata/1.0.0/dataset/dco/entry.csv"
-  },
-  {
     "name": "uap.csv",
     "url": "https://data.mzp.cz/opendata/1.0.0/dataset/sekm/uap.csv"
+  },
+  {
+    "name": "user_cat12.csv",
+    "url": "https://data.mzp.cz/opendata/1.0.0/dataset/gmo/user_cat12.csv"
   },
   {
     "name": "user_cat3.csv",

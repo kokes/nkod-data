@@ -28,6 +28,22 @@
     "url": "https://data.mzcr.cz/distribuce/34/osoby.csv"
   },
   {
+    "name": "CZ-DRG: Přehled vybraných ukazatelů podle DRG bazí",
+    "url": "https://data.mzcr.cz/distribuce/370/czdrg-ukazatele-dle-bazi-v4.csv"
+  },
+  {
+    "name": "CZ-DRG: Přehled vybraných ukazatelů podle DRG kategorií",
+    "url": "https://data.mzcr.cz/distribuce/369/czdrg-ukazatele-dle-kategorii-v4.csv"
+  },
+  {
+    "name": "CZ-DRG: Přehled vybraných ukazatelů podle DRG skupin",
+    "url": "https://data.mzcr.cz/distribuce/371/czdrg-ukazatele-dle-skupin-v4.csv"
+  },
+  {
+    "name": "CZ-DRG: Přehled vybraných ukazatelů podle MDC",
+    "url": "https://data.mzcr.cz/distribuce/368/czdrg-ukazatele-dle-mdc-v4.csv"
+  },
+  {
     "name": "Cervikální screeningové vyšetření: Pokrytí cílové populace",
     "url": "https://data.mzcr.cz/distribuce/2/cervikalni-screening-c53.csv"
   },
@@ -146,6 +162,18 @@
   {
     "name": "Nežádoucí události: Základní přehled v čase",
     "url": "https://data.mzcr.cz/distribuce/360/shnu-nezadouci-udalosti.csv"
+  },
+  {
+    "name": "Onkologie: Incidence a prevalence zhoubných nádorů v regionech ČR",
+    "url": "https://data.mzcr.cz/distribuce/372/onkologie-incidence-a-prevalence.csv"
+  },
+  {
+    "name": "Onkologie: Mortalita zhoubných nádorů v regionech ČR",
+    "url": "https://data.mzcr.cz/distribuce/377/onkologie-mortalita.csv"
+  },
+  {
+    "name": "Onkologie: Přežití pacientů s novotvary v ČR",
+    "url": "https://data.mzcr.cz/distribuce/378/onkologie-preziti.csv"
   },
   {
     "name": "Preventivní prohlídky: Preventivní prohlídky u praktických lékařů a stomatologů",
@@ -282,34 +310,6 @@
   {
     "name": "Vakcinace hrazené z veřejného zdravotního pojištění",
     "url": "https://data.mzcr.cz/distribuce/342/vakcinace-verejne-zdravotni-pojisteni.csv"
-  },
-  {
-    "name": "cz-drg-ukazatele-dle-skupin-v4-csv",
-    "url": "https://data.mzcr.cz/distribuce/371/czdrg-ukazatele-dle-skupin-v4.csv"
-  },
-  {
-    "name": "czdrg-ukazatele-dle-bazi-v4-csv",
-    "url": "https://data.mzcr.cz/distribuce/370/czdrg-ukazatele-dle-bazi-v4.csv"
-  },
-  {
-    "name": "czdrg-ukazatele-dle-kategorii-v4-csv",
-    "url": "https://data.mzcr.cz/distribuce/369/czdrg-ukazatele-dle-kategorii-v4.csv"
-  },
-  {
-    "name": "czdrg-ukazatele-dle-mdc-v4-csv",
-    "url": "https://data.mzcr.cz/distribuce/368/czdrg-ukazatele-dle-mdc-v4.csv"
-  },
-  {
-    "name": "onkologie-incidence-prevalence-csv",
-    "url": "https://data.mzcr.cz/distribuce/372/onkologie-incidence-a-prevalence.csv"
-  },
-  {
-    "name": "onkologie-mortalita-csv",
-    "url": "https://data.mzcr.cz/distribuce/377/onkologie-mortalita.csv"
-  },
-  {
-    "name": "onkologie-preziti-csv",
-    "url": "https://data.mzcr.cz/distribuce/378/onkologie-preziti.csv"
   },
   {
     "name": "Úrazy domácí + ostatní na 100 000 obyvatel",
