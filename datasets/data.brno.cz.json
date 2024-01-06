@@ -9,14 +9,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::akce-events.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::aktivn%C3%AD-z%C3%B3na-z%C3%A1plavov%C3%A9ho-%C3%BAzem%C3%AD-active-flood-zones.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::brno-brzo-stavebn%C3%AD-projekty-a-z%C3%A1m%C4%9Bry-brno-brzo-development-projects-and-plans.csv?where=1=1&outSR=%7B%22latestWkid%22%3A5514%2C%22wkid%22%3A102067%7D"
   },
   {
@@ -45,11 +37,19 @@
   },
   {
     "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::cyklodetektory.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::cykloopat%C5%99en%C3%AD-zrealizovan%C3%A1-cycling-infrastructure-existing.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::elektrick%C3%A9-nab%C3%ADjec%C3%AD-stanice-pro-auta-ev-charging-points.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::events.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -201,10 +201,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzity-cyklist%C5%AF-z-cyklodetektor%C5%AF-aktu%C3%A1ln%C3%AD-bike-traffic-detected-by-sensors-live-data.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::jakost-vody-water-quality.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -345,10 +341,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://data.brno.cz/datasets/mestobrno::pocitov%C3%A9-body-kultury-2022-perception-points-focused-on-the-culture.csv?where=1=1&outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::poh%C5%99ben%C3%A9-v%C3%BDznamn%C3%A9-osobnosti-graves-of-famous-personalities.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -481,6 +473,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-flood-zones-1.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q100-flood-zones-100-year-floods.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -502,14 +498,6 @@
   {
     "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::adresn%C3%AD-m%C3%ADsta-address-points.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::akce-events.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::aktivn%C3%AD-z%C3%B3na-z%C3%A1plavov%C3%A9ho-%C3%BAzem%C3%AD-active-flood-zones.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -541,11 +529,19 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::cyklodetektory.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::cykloopat%C5%99en%C3%AD-zrealizovan%C3%A1-cycling-infrastructure-existing.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::elektrick%C3%A9-nab%C3%ADjec%C3%AD-stanice-pro-auta-ev-charging-points.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::events.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -697,10 +693,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzity-cyklist%C5%AF-z-cyklodetektor%C5%AF-aktu%C3%A1ln%C3%AD-bike-traffic-detected-by-sensors-live-data.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::jakost-vody-water-quality.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -841,10 +833,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://data.brno.cz/datasets/mestobrno::pocitov%C3%A9-body-kultury-2022-perception-points-focused-on-the-culture.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::poh%C5%99ben%C3%A9-v%C3%BDznamn%C3%A9-osobnosti-graves-of-famous-personalities.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -977,6 +965,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-flood-zones-1.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q100-flood-zones-100-year-floods.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -998,14 +990,6 @@
   {
     "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::adresn%C3%AD-m%C3%ADsta-address-points.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::akce-events.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::aktivn%C3%AD-z%C3%B3na-z%C3%A1plavov%C3%A9ho-%C3%BAzem%C3%AD-active-flood-zones.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1037,11 +1021,19 @@
   },
   {
     "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::cyklodetektory.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::cykloopat%C5%99en%C3%AD-zrealizovan%C3%A1-cycling-infrastructure-existing.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::elektrick%C3%A9-nab%C3%ADjec%C3%AD-stanice-pro-auta-ev-charging-points.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::events.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1193,10 +1185,6 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzity-cyklist%C5%AF-z-cyklodetektor%C5%AF-aktu%C3%A1ln%C3%AD-bike-traffic-detected-by-sensors-live-data.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::jakost-vody-water-quality.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1337,10 +1325,6 @@
   },
   {
     "name": "KML",
-    "url": "https://data.brno.cz/datasets/mestobrno::pocitov%C3%A9-body-kultury-2022-perception-points-focused-on-the-culture.kml?where=1=1&outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::poh%C5%99ben%C3%A9-v%C3%BDznamn%C3%A9-osobnosti-graves-of-famous-personalities.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1473,6 +1457,10 @@
   },
   {
     "name": "KML",
+    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-flood-zones-1.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-q100-flood-zones-100-year-floods.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1494,14 +1482,6 @@
   {
     "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::adresn%C3%AD-m%C3%ADsta-address-points.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::akce-events.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::aktivn%C3%AD-z%C3%B3na-z%C3%A1plavov%C3%A9ho-%C3%BAzem%C3%AD-active-flood-zones.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1533,11 +1513,19 @@
   },
   {
     "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::cyklodetektory.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::cykloopat%C5%99en%C3%AD-zrealizovan%C3%A1-cycling-infrastructure-existing.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::elektrick%C3%A9-nab%C3%ADjec%C3%AD-stanice-pro-auta-ev-charging-points.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::events.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",
@@ -1689,10 +1677,6 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::intenzity-cyklist%C5%AF-z-cyklodetektor%C5%AF-aktu%C3%A1ln%C3%AD-bike-traffic-detected-by-sensors-live-data.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::jakost-vody-water-quality.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1833,10 +1817,6 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://data.brno.cz/datasets/mestobrno::pocitov%C3%A9-body-kultury-2022-perception-points-focused-on-the-culture.zip?where=1=1&outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
-  },
-  {
-    "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::poh%C5%99ben%C3%A9-v%C3%BDznamn%C3%A9-osobnosti-graves-of-famous-personalities.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1966,6 +1946,10 @@
   {
     "name": "Shapefile",
     "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1pis-do-mate%C5%99sk%C3%BDch-%C5%A1kol.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/datasets/mestobrno::z%C3%A1plavov%C3%A1-%C3%BAzem%C3%AD-flood-zones-1.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "Shapefile",

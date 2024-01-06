@@ -1,15 +1,19 @@
 [
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::bonita-klimatu"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::bonita-klimatu-z-hlediska-míry-zastavěnosti-území"
   },
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::bonita-klimatu-z-hlediska-oslunění"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::bonita-klimatu-z-hlediska-přirozené-ventilace-území"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::bonita-klimatu-z-hlediska-rychlosti-proudění"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -46,14 +50,6 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::hluková-mapa-den"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::hluková-mapa-noc"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::hranice-klimatických-regionů"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -130,10 +126,6 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::plán-využití-ploch-podměrečné-funkční-plochy-stabilizované-body-územní-plán"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::plán-úses"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -229,10 +221,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::stavební-uzávěry"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::subjekty-evvo"
   },
   {
@@ -261,7 +249,15 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::veřejně-prospěšné-stavby-liniové-prvky-územní-plán"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::veřejně-prospěšné-stavby-plošné-prvky-územní-plán"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::vrstevnice-1-m"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -285,10 +281,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::vyhrazené-stání-pro-zásobování"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::vyhrazené-stání-speciální"
   },
   {
@@ -297,15 +289,15 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::vyjmenované-stacionární-zdroje-znečišťování-ovzduší-rezzo-2"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::vymezení-zastavitelného-území-územní-plán"
   },
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::významné-vyhlídkové-body"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::významný-krajinný-prvek-registrovaný"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -333,10 +325,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::základní-mapa-1-25-000-linie"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::základní-mapa-1-25-000-symboly"
   },
   {
@@ -358,14 +346,6 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::záplavové-území-q5-"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::záplavové-území-q50-"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::záplavové-území-vltava-berounka"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -393,15 +373,19 @@
   },
   {
     "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu-z-hlediska-přirozené-ventilace-území.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu-z-hlediska-rychlosti-proudění.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu-z-hlediska-výskytu-bezvětří.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu-z-hlediska-znečištění-ovzduší.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -430,14 +414,6 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::hluková-mapa-den.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::hluková-mapa-noc.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::hranice-klimatických-regionů.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -525,10 +501,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::plán-úses.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::podlažnosti.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -613,10 +585,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::stavební-uzávěry.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::subjekty-evvo.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -645,7 +613,15 @@
   },
   {
     "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::veřejně-prospěšné-stavby-liniové-prvky-územní-plán.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::veřejně-prospěšné-stavby-plošné-prvky-územní-plán.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vrstevnice-1-m.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -669,10 +645,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vyhrazené-stání-pro-zásobování.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vyhrazené-stání-speciální.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -681,15 +653,15 @@
   },
   {
     "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vyjmenované-stacionární-zdroje-znečišťování-ovzduší-rezzo-2.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vymezení-zastavitelného-území-územní-plán.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::významné-vyhlídkové-body.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::významný-krajinný-prvek-registrovaný.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -717,10 +689,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::základní-mapa-1-25-000-linie.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::základní-mapa-1-25-000-symboly.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -742,14 +710,6 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::záplavové-území-q5-.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::záplavové-území-q50-.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::záplavové-území-vltava-berounka.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "CSV",
@@ -777,15 +737,19 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu-z-hlediska-přirozené-ventilace-území.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu-z-hlediska-rychlosti-proudění.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu-z-hlediska-výskytu-bezvětří.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu-z-hlediska-znečištění-ovzduší.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -814,14 +778,6 @@
   {
     "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::hluková-mapa-den.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::hluková-mapa-noc.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::hranice-klimatických-regionů.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -909,10 +865,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::plán-úses.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::podlažnosti.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -997,10 +949,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::stavební-uzávěry.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::subjekty-evvo.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1029,7 +977,15 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::veřejně-prospěšné-stavby-liniové-prvky-územní-plán.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::veřejně-prospěšné-stavby-plošné-prvky-územní-plán.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vrstevnice-1-m.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -1053,10 +1009,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vyhrazené-stání-pro-zásobování.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vyhrazené-stání-speciální.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1065,15 +1017,15 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vyjmenované-stacionární-zdroje-znečišťování-ovzduší-rezzo-2.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vymezení-zastavitelného-území-územní-plán.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::významné-vyhlídkové-body.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::významný-krajinný-prvek-registrovaný.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -1101,10 +1053,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::základní-mapa-1-25-000-linie.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::základní-mapa-1-25-000-symboly.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1126,14 +1074,6 @@
   {
     "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::záplavové-území-q5-.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::záplavové-území-q50-.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::záplavové-území-vltava-berounka.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "GeoJSON",
@@ -1161,15 +1101,19 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu-z-hlediska-přirozené-ventilace-území.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu-z-hlediska-rychlosti-proudění.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu-z-hlediska-výskytu-bezvětří.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu-z-hlediska-znečištění-ovzduší.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1198,14 +1142,6 @@
   {
     "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::hluková-mapa-den.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::hluková-mapa-noc.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::hranice-klimatických-regionů.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1293,10 +1229,6 @@
   },
   {
     "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::plán-úses.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::podlažnosti.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1381,10 +1313,6 @@
   },
   {
     "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::stavební-uzávěry.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::subjekty-evvo.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1413,7 +1341,15 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::veřejně-prospěšné-stavby-liniové-prvky-územní-plán.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::veřejně-prospěšné-stavby-plošné-prvky-územní-plán.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vrstevnice-1-m.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1437,10 +1373,6 @@
   },
   {
     "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vyhrazené-stání-pro-zásobování.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vyhrazené-stání-speciální.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1449,15 +1381,15 @@
   },
   {
     "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vyjmenované-stacionární-zdroje-znečišťování-ovzduší-rezzo-2.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vymezení-zastavitelného-území-územní-plán.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::významné-vyhlídkové-body.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::významný-krajinný-prvek-registrovaný.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1485,10 +1417,6 @@
   },
   {
     "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::základní-mapa-1-25-000-linie.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::základní-mapa-1-25-000-symboly.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1510,14 +1438,6 @@
   {
     "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::záplavové-území-q5-.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::záplavové-území-q50-.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::záplavové-území-vltava-berounka.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "KML",
@@ -1545,15 +1465,19 @@
   },
   {
     "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu-z-hlediska-přirozené-ventilace-území.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu-z-hlediska-rychlosti-proudění.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu-z-hlediska-výskytu-bezvětří.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu-z-hlediska-znečištění-ovzduší.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::bonita-klimatu.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "ZIP",
@@ -1582,14 +1506,6 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::hluková-mapa-den.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::hluková-mapa-noc.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::hranice-klimatických-regionů.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "ZIP",
@@ -1677,10 +1593,6 @@
   },
   {
     "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::plán-úses.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::podlažnosti.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1765,10 +1677,6 @@
   },
   {
     "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::stavební-uzávěry.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::subjekty-evvo.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1797,7 +1705,15 @@
   },
   {
     "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::veřejně-prospěšné-stavby-liniové-prvky-územní-plán.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::veřejně-prospěšné-stavby-plošné-prvky-územní-plán.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vrstevnice-1-m.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "ZIP",
@@ -1821,10 +1737,6 @@
   },
   {
     "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vyhrazené-stání-pro-zásobování.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vyhrazené-stání-speciální.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1833,15 +1745,15 @@
   },
   {
     "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vyjmenované-stacionární-zdroje-znečišťování-ovzduší-rezzo-2.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::vymezení-zastavitelného-území-územní-plán.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::významné-vyhlídkové-body.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::významný-krajinný-prvek-registrovaný.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "ZIP",
@@ -1869,10 +1781,6 @@
   },
   {
     "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::základní-mapa-1-25-000-linie.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::základní-mapa-1-25-000-symboly.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
@@ -1894,14 +1802,6 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::záplavové-území-q5-.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::záplavové-území-q50-.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-  },
-  {
-    "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::záplavové-území-vltava-berounka.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
   },
   {
     "name": "ZIP",
