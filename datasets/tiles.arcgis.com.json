@@ -10,5 +10,9 @@
   {
     "name": "Místa s intenzitou slunečního osvitu vyšší než 1000 kWh/m²/rok",
     "url": "https://tiles.arcgis.com/tiles/fUWVlHWZNxUvTUh8/arcgis/rest/services/plocha_nad_1000/MapServer"
+  },
+  {
+    "name": "b",
+    "url": "https://tiles.arcgis.com/tiles/fUWVlHWZNxUvTUh8/arcgis/rest/services/3D_model_most%C5%AF_2017/SceneServer"
   }
 ]

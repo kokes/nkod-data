@@ -20,10 +20,6 @@
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-orp.csv"
   },
   {
-    "name": "COVID-19: Denní přehled reinfekcí",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/reinfekce-denni-prehled.csv"
-  },
-  {
     "name": "COVID-19: Denní přehled testů, prokázaných nákaz, hospitalizací a JIP",
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/nakazeni-hospitalizace-testy.csv"
   },
@@ -124,10 +120,6 @@
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/testy-pcr-antigenni.csv"
   },
   {
-    "name": "COVID-19: Přehled případů s prodělaným onemocněním",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/pozitivni-pripady.csv"
-  },
-  {
     "name": "COVID-19: Přehled registrací podle očkovacích míst ČR",
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-registrace.csv"
   },
@@ -176,10 +168,6 @@
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-hospitalizace-tyden.csv"
   },
   {
-    "name": "COVID-19: Týdenní přehled nově potvrzených případů s rozdělením na prvoinfekce a reinfekce",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/nakazeni-reinfekce-tyden.csv"
-  },
-  {
     "name": "COVID-19: Týdenní přehled osob s prokázanou nákazou s ohledem na vykázaná očkování podle věkových ka",
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-pozitivni-tyden.csv"
   },
@@ -190,9 +178,5 @@
   {
     "name": "COVID-19: Základní přehled vykázaných očkování",
     "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-zakladni-prehled.csv"
-  },
-  {
-    "name": "COVID-19: Číselník prioritních skupin očkování",
-    "url": "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/prioritni-skupiny.csv"
   }
 ]

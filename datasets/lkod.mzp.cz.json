@@ -4,6 +4,14 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-certifikovane-osoby-opravnene-k-vystaveni-dokladu-splneni-udrzitelnosti-biopaliv-2023.csv"
   },
   {
+    "name": "csv-delka-silnicnich-a-zeleznicnich-komunikaci-lezicich-v-zaplavovych-uzemi.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-delka-silnicnich-a-zeleznicnich-komunikaci-lezicich-v-zaplavovych-uzemi-2022.csv"
+  },
+  {
+    "name": "csv-ekonomicky-prinos-aktivit-na-ochranu-zp.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-ekonomicky-prinos-aktivit-na-ochranu-zp-2022.csv"
+  },
+  {
     "name": "data-cenia-indikator-bohatost-struktury-lesnich-porostu-2022.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-bohatost-struktury-lesnich-porostu-2022.csv"
   },
@@ -14,10 +22,6 @@
   {
     "name": "data-cenia-indikator-celkova-a-nahodila-tezba-dreva-v-krajich-2022.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkova-a-nahodila-tezba-dreva-v-krajich-2022.csv"
-  },
-  {
-    "name": "data-cenia-indikator-celkova-produkce-odpadu-2021.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkova-produkce-odpadu-2021.csv"
   },
   {
     "name": "data-cenia-indikator-celkova-rozloha-holin-2022.csv",
@@ -72,14 +76,6 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-obyvatele-zasobovani-vodou-z-verejneho-vodovodu-2022.csv"
   },
   {
-    "name": "data-cenia-indikator-podil-jednotlivych-kategorii-nakladani-s-komunalnimi-odpady-2021.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-jednotlivych-kategorii-nakladani-s-komunalnimi-odpady-2021.csv"
-  },
-  {
-    "name": "data-cenia-indikator-podil-jednotlivych-kategorii-nakladani-s-odpady-2021.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-jednotlivych-kategorii-nakladani-s-odpady-2021.csv"
-  },
-  {
     "name": "data-cenia-indikator-podil-lesu-s-uplatnenim-podrostniho-a-vyberneho-zpusobu-hospodareni-2022.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-lesu-s-uplatnenim-podrostniho-a-vyberneho-zpusobu-hospodareni-2022.csv"
   },
@@ -94,10 +90,6 @@
   {
     "name": "data-cenia-indikator-podil-prirozene-obnovy-lesu-v-krajich-2022.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-prirozene-obnovy-lesu-v-krajich-2022.csv"
-  },
-  {
-    "name": "data-cenia-indikator-produkce-komunalnich-odpadu-2021.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-produkce-komunalnich-odpadu-2021.csv"
   },
   {
     "name": "data-cenia-indikator-protihlukove-steny-na-dalnicich-a-silnicich-2022.csv",
@@ -138,6 +130,14 @@
   {
     "name": "provozovny_popisne_opendata_20231213.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-provozovny-irz-v-crzp-2023.csv"
+  },
+  {
+    "name": "rozloha-holin-v-cr-podle-velikostnich-kategorii-ha-2003-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-struktura-holin-2022.csv"
+  },
+  {
+    "name": "spotreba-paliv-v-doprave-csv.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-spotreba-paliv-v-doprave-2022.csv"
   },
   {
     "name": "uniky_prenosy_opendata_20231213.csv",
