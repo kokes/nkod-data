@@ -68,6 +68,10 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-domaci-materialova-spotreba-2022.csv"
   },
   {
+    "name": "data-cenia-indikator-druhova-skladba-lesu-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-druhova-skladba-lesu-2022.csv"
+  },
+  {
     "name": "data-cenia-indikator-energeticka-narocnost-hospodarstvi-v-zemich-eu-2022.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-energeticka-narocnost-hospodarstvi-v-zemich-eu-2022.csv"
   },
@@ -84,12 +88,24 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-investice-do-protihlukovych-opatreni-na-silnicni-infrastrukture-2022.csv"
   },
   {
+    "name": "data-cenia-indikator-kategorizace-lesu-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-kategorizace-lesu-2022.csv"
+  },
+  {
     "name": "data-cenia-indikator-materialova-narocnost-hospodarstvi-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-materialova-narocnost-hospodarstvi-2021.csv"
   },
   {
+    "name": "data-cenia-indikator-mnozstvi-odumrele-drevni-hmoty-v-lesich-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-mnozstvi-odumrele-drevni-hmoty-v-lesich-2022.csv"
+  },
+  {
     "name": "data-cenia-indikator-monitoring-silnicni-infrastruktury-2022.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-monitoring-silnicni-infrastruktury-2022.csv"
+  },
+  {
+    "name": "data-cenia-indikator-nahodila-tezba-podle-pricin-vzniku-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-nahodila-tezba-podle-pricin-vzniku-2022.csv"
   },
   {
     "name": "data-cenia-indikator-nove-useky-dalnic-a-prelozky-2022.csv",
@@ -100,12 +116,24 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-obyvatele-zasobovani-vodou-z-verejneho-vodovodu-2022.csv"
   },
   {
+    "name": "data-cenia-indikator-odbery-podzemni-vody-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-odbery-podzemni-vody-2022.csv"
+  },
+  {
+    "name": "data-cenia-indikator-odbery-povrchove-vody-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-odbery-povrchove-vody-2022.csv"
+  },
+  {
     "name": "data-cenia-indikator-podil-lesu-s-uplatnenim-podrostniho-a-vyberneho-zpusobu-hospodareni-2022.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-lesu-s-uplatnenim-podrostniho-a-vyberneho-zpusobu-hospodareni-2022.csv"
   },
   {
     "name": "data-cenia-indikator-podil-objemu-produkce-druhotnych-surovin-na-primem-materialovem-vstupu-2022.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-objemu-produkce-druhotnych-surovin-na-primem-materialovem-vstupu-2022.csv"
+  },
+  {
+    "name": "data-cenia-indikator-podil-obyvatel-pripojenych-na-vodohospodarskou-infrastrukturu-v-krajich-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-obyvatel-pripojenych-na-vodohospodarskou-infrastrukturu-v-krajich-2022.csv"
   },
   {
     "name": "data-cenia-indikator-podil-prirozene-obnovy-lesu-2022.csv",
@@ -116,12 +144,28 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-prirozene-obnovy-lesu-v-krajich-2022.csv"
   },
   {
+    "name": "data-cenia-indikator-podil-vzorku-pudy-prekracujicich-preventivni-hodnoty-obsahu-prvku-ve-vyluhu-luc-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-vzorku-pudy-prekracujicich-preventivni-hodnoty-obsahu-prvku-ve-vyluhu-luc-2022.csv"
+  },
+  {
+    "name": "data-cenia-indikator-podil-vzorku-rybnicnich-a-ricnich-sedimentu-prekracujicich-limitni-hodnoty-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-vzorku-rybnicnich-a-ricnich-sedimentu-prekracujicich-limitni-hodnoty-2022.csv"
+  },
+  {
+    "name": "data-cenia-indikator-pripojeni-obyvatel-na-cistirny-odpadnich-vod-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pripojeni-obyvatel-na-cistirny-odpadnich-vod-2022.csv"
+  },
+  {
     "name": "data-cenia-indikator-protihlukove-steny-na-dalnicich-a-silnicich-2022.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-protihlukove-steny-na-dalnicich-a-silnicich-2022.csv"
   },
   {
     "name": "data-cenia-indikator-spotreba-pripravku-na-ochranu-rostlin-2022.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-spotreba-pripravku-na-ochranu-rostlin-2022.csv"
+  },
+  {
+    "name": "data-cenia-indikator-spotreba-vody-z-verejneho-vodovodu-v-krajich-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-spotreba-vody-z-verejneho-vodovodu-v-krajich-2022.csv"
   },
   {
     "name": "data-cenia-indikator-stav-zvere-2022.csv",
@@ -132,8 +176,16 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-vekova-struktura-lesu-2022.csv"
   },
   {
+    "name": "data-cenia-indikator-vypousteni-odpadnich-vod-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-vypousteni-odpadnich-vod-2022.csv"
+  },
+  {
     "name": "data-cenia-indikator-vyvoj-emisi-tezkych-kovu-v-evrope-2021.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-vyvoj-emisi-tezkych-kovu-v-evrope-2021.csv"
+  },
+  {
+    "name": "data-cenia-indikator-ztraty-vody-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-ztraty-vody-2022.csv"
   },
   {
     "name": "geologie-osvedceni-odborne-zpusobilosti-seznam.csv",
