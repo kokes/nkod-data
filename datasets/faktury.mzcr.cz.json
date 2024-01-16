@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Faktury resortu zdravotnictví - seznam faktur",
+    "url": "https://faktury.mzcr.cz/rest/invoices"
+  },
+  {
+    "name": "Faktury resortu zdravotnictví - seznam importů",
+    "url": "https://faktury.mzcr.cz/rest/imports"
+  },
+  {
+    "name": "Faktury resortu zdravotnictví - seznam zapojených organizací",
+    "url": "https://faktury.mzcr.cz/rest/organizations"
+  }
+]
