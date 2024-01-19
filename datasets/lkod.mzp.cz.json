@@ -96,10 +96,6 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-kategorizace-lesu-2022.csv"
   },
   {
-    "name": "data-cenia-indikator-materialova-narocnost-hospodarstvi-2021.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-materialova-narocnost-hospodarstvi-2021.csv"
-  },
-  {
     "name": "data-cenia-indikator-mnozstvi-odumrele-drevni-hmoty-v-lesich-2022.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-mnozstvi-odumrele-drevni-hmoty-v-lesich-2022.csv"
   },
@@ -194,6 +190,10 @@
   {
     "name": "ippc_zarizeni_opendata_20231213.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-integrovana-prevence-2023.csv"
+  },
+  {
+    "name": "mzp-uniky-a-prenosy-latek-za-dotcene-ohlasujici-provozovny-za-dany-ohlasovaci-rok.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-uniky-a-prenosy-latek-za-dotcene-ohlasujici-provozovny-za-dany-ohlasovaci-rok-2023.csv"
   },
   {
     "name": "podil-vybranych-zpusobu-nakladani-s-komunalnimi-odpady-na-celkove-produkci-komunalnich-odpadu-v-cr-2009-2021.csv",
