@@ -1,15 +1,7 @@
 [
   {
     "name": "GML",
-    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/zony_gml_wgs84.zip"
-  },
-  {
-    "name": "GML",
     "url": "https://dopravnimapy.kraj-lbc.cz/opendata/zastavky_gml_wgs84.zip"
-  },
-  {
-    "name": "KMZ",
-    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/zony.kmz"
   },
   {
     "name": "KMZ",
@@ -17,7 +9,7 @@
   },
   {
     "name": "SHP",
-    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/zony_shp_jtsk.zip"
+    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/spoje_shp_jtsk.zip"
   },
   {
     "name": "SHP",
@@ -25,7 +17,7 @@
   },
   {
     "name": "SHP - Projekce WGS-84",
-    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/zony_shp_wgs84.zip"
+    "url": "http://dopravnimapy.kraj-lbc.cz/opendata/spoje_shp_wgs84.zip"
   },
   {
     "name": "SHP - Projekce WGS-84",
