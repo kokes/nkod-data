@@ -472,8 +472,12 @@
     "url": "https://data.ctu.cz/sites/default/files/imports/import_podnikatele_2022/podnikatele_v_elektronickych_komunikacich.xls"
   },
   {
-    "name": "Podnikatelé v poštovních službách",
+    "name": "Podnikatelé v poštovních službách do 31. 12. 2023",
     "url": "https://data.ctu.cz/sites/default/files/imports/import_provozovatele/evidence_provozovatelu.csv"
+  },
+  {
+    "name": "Podnikatelé v poštovních službách od 1. 1. 2024",
+    "url": "https://data.ctu.cz/sites/default/files/imports/import_provozovatele/evidence_provozovatelu_od_2024.csv"
   },
   {
     "name": "Podíl investic na tržbách u nejvýznamnějších subjektů na trhu dle tržeb v roce 2017",
