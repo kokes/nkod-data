@@ -33,6 +33,10 @@
   },
   {
     "name": "Číselník v CSV",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.csv"
+  },
+  {
+    "name": "Číselník v CSV",
     "url": "https://data.dia.gov.cz/soubory/číselníky/stavy-registrované-aplikace.csv"
   },
   {
@@ -98,6 +102,10 @@
   {
     "name": "Číselník v HTML+RDFa",
     "url": "https://data.dia.gov.cz/soubory/číselníky/sporty.html"
+  },
+  {
+    "name": "Číselník v HTML+RDFa",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.html"
   },
   {
     "name": "Číselník v HTML+RDFa",
@@ -169,6 +177,10 @@
   },
   {
     "name": "Číselník v JSON-LD",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.jsonld"
+  },
+  {
+    "name": "Číselník v JSON-LD",
     "url": "https://data.dia.gov.cz/soubory/číselníky/stavy-registrované-aplikace.jsonld"
   },
   {
@@ -234,6 +246,10 @@
   {
     "name": "Číselník v RDF N-Quads",
     "url": "https://data.dia.gov.cz/soubory/číselníky/sporty.nq"
+  },
+  {
+    "name": "Číselník v RDF N-Quads",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.nq"
   },
   {
     "name": "Číselník v RDF N-Quads",
@@ -305,6 +321,10 @@
   },
   {
     "name": "Číselník v RDF N-Triples",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.nt"
+  },
+  {
+    "name": "Číselník v RDF N-Triples",
     "url": "https://data.dia.gov.cz/soubory/číselníky/stavy-registrované-aplikace.nt"
   },
   {
@@ -370,6 +390,10 @@
   {
     "name": "Číselník v RDF TriG",
     "url": "https://data.dia.gov.cz/soubory/číselníky/sporty.trig"
+  },
+  {
+    "name": "Číselník v RDF TriG",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.trig"
   },
   {
     "name": "Číselník v RDF TriG",
@@ -441,6 +465,10 @@
   },
   {
     "name": "Číselník v RDF Turtle",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.ttl"
+  },
+  {
+    "name": "Číselník v RDF Turtle",
     "url": "https://data.dia.gov.cz/soubory/číselníky/stavy-registrované-aplikace.ttl"
   },
   {
@@ -506,6 +534,10 @@
   {
     "name": "Číselník v RDF/XML",
     "url": "https://data.dia.gov.cz/soubory/číselníky/sporty.rdf"
+  },
+  {
+    "name": "Číselník v RDF/XML",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.rdf"
   },
   {
     "name": "Číselník v RDF/XML",
