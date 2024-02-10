@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://data-jihlava.hub.arcgis.com/maps/jihlava::cisterny"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://data-jihlava.hub.arcgis.com/maps/jihlava::zákaz-žebrání-vyhláška-č-7-2016"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/2f0fb198cf5541e7b6ca563e503ea8d6/csv?layers=13"
+  },
+  {
+    "name": "CSV",
+    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/381bc474e61048f99345d102b1e40f41/csv?layers=6"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/2f0fb198cf5541e7b6ca563e503ea8d6/geojson?layers=13"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/381bc474e61048f99345d102b1e40f41/geojson?layers=6"
+  },
+  {
+    "name": "KML",
+    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/2f0fb198cf5541e7b6ca563e503ea8d6/kml?layers=13"
+  },
+  {
+    "name": "KML",
+    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/381bc474e61048f99345d102b1e40f41/kml?layers=6"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/2f0fb198cf5541e7b6ca563e503ea8d6/shapefile?layers=13"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/381bc474e61048f99345d102b1e40f41/shapefile?layers=6"
+  }
+]
