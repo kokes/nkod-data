@@ -48,6 +48,10 @@
     "url": "https://www.czso.cz/documents/62353418/218666008/070013-24data012424.csv"
   },
   {
+    "name": "Data do ledna 2024",
+    "url": "https://www.czso.cz/documents/62353418/218666208/010022-24data021524.csv"
+  },
+  {
     "name": "Data do prosince 2018",
     "url": "https://www.czso.cz/documents/10180/71339619/250169-18data011519.zip"
   },
@@ -90,10 +94,6 @@
   {
     "name": "Data do prosince 2023",
     "url": "https://www.czso.cz/documents/62353418/198519204/241048-23data020624.csv"
-  },
-  {
-    "name": "Data do prosince 2023",
-    "url": "https://www.czso.cz/documents/62353418/198519244/010022-23data011124.csv"
   },
   {
     "name": "Data do prosince 2023",
@@ -330,18 +330,6 @@
   {
     "name": "Data roku 2022",
     "url": "https://www.czso.cz/documents/62353418/213522460/130141-23data2022.csv"
-  },
-  {
-    "name": "Data v CSV",
-    "url": "https://www.czso.cz/csu-ws/hr_pracovni/csv"
-  },
-  {
-    "name": "Data v JSON",
-    "url": "https://www.czso.cz/csu-ws/hr_pracovni/json"
-  },
-  {
-    "name": "Data v XML",
-    "url": "https://www.czso.cz/csu-ws/hr_pracovni/xml"
   },
   {
     "name": "Data za rok 2004",
@@ -854,10 +842,6 @@
   {
     "name": "Základní výsledky SLDB 2011",
     "url": "https://www.czso.cz/documents/10180/25233177/sldb_zv.csv/344b8550-444d-4af4-80d6-8486755a9d13"
-  },
-  {
-    "name": "Úřední deska ve formátu JSON-LD",
-    "url": "https://www.czso.cz/csu-ws/zdroj/czso/uredni_deska"
   },
   {
     "name": "Čtvrtletí roku 2022",
