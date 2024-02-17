@@ -1,10 +1,34 @@
 [
   {
     "name": "ArcGIS GeoService",
-    "url": "https://gis.jihlava-city.cz/server1/rest/services/opendata/opendata/FeatureServer/13"
+    "url": "https://gis.jihlava-city.cz/server1/rest/services/opendata/opendata/FeatureServer/1"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gis.jihlava-city.cz/server1/rest/services/opendata/opendata/FeatureServer/11"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gis.jihlava-city.cz/server1/rest/services/opendata/opendata/FeatureServer/3"
   },
   {
     "name": "ArcGIS GeoService",
     "url": "https://gis.jihlava-city.cz/server1/rest/services/opendata/opendata/FeatureServer/4"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gis.jihlava-city.cz/server1/rest/services/opendata/opendata/FeatureServer/5"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gis.jihlava-city.cz/server1/rest/services/opendata/opendata/FeatureServer/6"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gis.jihlava-city.cz/server1/rest/services/opendata/opendata/FeatureServer/8"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gis.jihlava-city.cz/server1/rest/services/opendata/opendata/MapServer/7"
   }
 ]

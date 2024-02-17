@@ -332,6 +332,10 @@
     "url": "https://www.czso.cz/documents/62353418/213522460/130141-23data2022.csv"
   },
   {
+    "name": "Data v JSON-LD",
+    "url": "https://www.czso.cz/csu-ws/zdroj/czso/volna-pracovni-mista"
+  },
+  {
     "name": "Data za rok 2004",
     "url": "https://www.czso.cz/documents/62353418/93789313/290038-18data2004.zip"
   },
@@ -842,6 +846,10 @@
   {
     "name": "Základní výsledky SLDB 2011",
     "url": "https://www.czso.cz/documents/10180/25233177/sldb_zv.csv/344b8550-444d-4af4-80d6-8486755a9d13"
+  },
+  {
+    "name": "Úřední deska ve formátu JSON-LD",
+    "url": "https://www.czso.cz/csu-ws/zdroj/czso/uredni_deska"
   },
   {
     "name": "Čtvrtletí roku 2022",
