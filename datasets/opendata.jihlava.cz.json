@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.jihlava.cz/maps/jihlava::opravy-na-vodovodu-kanalizaci"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/20a602b609bf468b8700d6b09e6b1612/csv?layers=3"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/20a602b609bf468b8700d6b09e6b1612/geojson?layers=3"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/20a602b609bf468b8700d6b09e6b1612/kml?layers=3"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/20a602b609bf468b8700d6b09e6b1612/shapefile?layers=3"
+  }
+]

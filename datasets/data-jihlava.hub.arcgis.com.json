@@ -1,122 +1,22 @@
 [
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://data-jihlava.hub.arcgis.com/maps/jihlava::cisterny"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://data-jihlava.hub.arcgis.com/maps/jihlava::odstavené-nemovitosti"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://data-jihlava.hub.arcgis.com/maps/jihlava::opravy-na-vodovodu-kanalizaci"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://data-jihlava.hub.arcgis.com/maps/jihlava::volební-místnosti"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://data-jihlava.hub.arcgis.com/maps/jihlava::volný-pohyb-psů-vyhláška-č-3-2015"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://data-jihlava.hub.arcgis.com/maps/jihlava::zákaz-žebrání-vyhláška-č-7-2016"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/20a602b609bf468b8700d6b09e6b1612/csv?layers=3"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/27795b8fbf06432ab5cbf46d5e245951/csv?layers=7"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/2f0fb198cf5541e7b6ca563e503ea8d6/csv?layers=13"
-  },
-  {
-    "name": "CSV",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/381bc474e61048f99345d102b1e40f41/csv?layers=6"
   },
   {
     "name": "CSV",
     "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/73c6e7ba9ee846cbab05ea7af0badcd9/csv?layers=12"
   },
   {
-    "name": "CSV",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/ac59aef9093a4ead9ccec2998b198991/csv?layers=8"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/20a602b609bf468b8700d6b09e6b1612/geojson?layers=3"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/27795b8fbf06432ab5cbf46d5e245951/geojson?layers=7"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/2f0fb198cf5541e7b6ca563e503ea8d6/geojson?layers=13"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/381bc474e61048f99345d102b1e40f41/geojson?layers=6"
-  },
-  {
     "name": "GeoJSON",
     "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/73c6e7ba9ee846cbab05ea7af0badcd9/geojson?layers=12"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/ac59aef9093a4ead9ccec2998b198991/geojson?layers=8"
-  },
-  {
-    "name": "KML",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/20a602b609bf468b8700d6b09e6b1612/kml?layers=3"
-  },
-  {
-    "name": "KML",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/27795b8fbf06432ab5cbf46d5e245951/kml?layers=7"
-  },
-  {
-    "name": "KML",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/2f0fb198cf5541e7b6ca563e503ea8d6/kml?layers=13"
-  },
-  {
-    "name": "KML",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/381bc474e61048f99345d102b1e40f41/kml?layers=6"
   },
   {
     "name": "KML",
     "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/73c6e7ba9ee846cbab05ea7af0badcd9/kml?layers=12"
   },
   {
-    "name": "KML",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/ac59aef9093a4ead9ccec2998b198991/kml?layers=8"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/20a602b609bf468b8700d6b09e6b1612/shapefile?layers=3"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/27795b8fbf06432ab5cbf46d5e245951/shapefile?layers=7"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/2f0fb198cf5541e7b6ca563e503ea8d6/shapefile?layers=13"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/381bc474e61048f99345d102b1e40f41/shapefile?layers=6"
-  },
-  {
     "name": "Shapefile",
     "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/73c6e7ba9ee846cbab05ea7af0badcd9/shapefile?layers=12"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://data-jihlava.hub.arcgis.com/api/download/v1/items/ac59aef9093a4ead9ccec2998b198991/shapefile?layers=8"
   }
 ]
