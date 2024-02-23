@@ -57,14 +57,6 @@
   },
   {
     "name": " GML",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_TSK_LU_terminy_p/S_JTSK/DOP_TSK_LU_terminy_p_gml.zip"
-  },
-  {
-    "name": " GML",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_TSK_LU_terminy_p/WGS_84/DOP_TSK_LU_terminy_p_gml.zip"
-  },
-  {
-    "name": " GML",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_TSK_UlicUsPAKOM_l/S_JTSK/DOP_TSK_UlicUsPAKOM_l_gml.zip"
   },
   {
@@ -145,14 +137,6 @@
   },
   {
     "name": " GeoJSON",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_TSK_LU_terminy_p/S_JTSK/DOP_TSK_LU_terminy_p.json"
-  },
-  {
-    "name": " GeoJSON",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_TSK_LU_terminy_p/WGS_84/DOP_TSK_LU_terminy_p.json"
-  },
-  {
-    "name": " GeoJSON",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_TSK_UlicUsPAKOM_l/S_JTSK/DOP_TSK_UlicUsPAKOM_l.json"
   },
   {
@@ -230,14 +214,6 @@
   {
     "name": " GeoJSON",
     "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_ZPS_ZonyStani_p/WGS_84/DOP_ZPS_ZonyStani_p.json"
-  },
-  {
-    "name": " Shapefile",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_TSK_LU_terminy_p/S_JTSK/DOP_TSK_LU_terminy_p_shp.zip"
-  },
-  {
-    "name": " Shapefile",
-    "url": "https://opendata.iprpraha.cz/CUR/DOP/DOP_TSK_LU_terminy_p/WGS_84/DOP_TSK_LU_terminy_p_shp.zip"
   },
   {
     "name": " Shapefile",
