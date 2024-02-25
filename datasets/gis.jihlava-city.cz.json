@@ -5,6 +5,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gis.jihlava-city.cz/server1/rest/services/opendata/opendata/FeatureServer/10"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gis.jihlava-city.cz/server1/rest/services/opendata/opendata/FeatureServer/11"
   },
   {
@@ -18,6 +22,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://gis.jihlava-city.cz/server1/rest/services/opendata/opendata/FeatureServer/14"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gis.jihlava-city.cz/server1/rest/services/opendata/opendata/FeatureServer/20"
   },
   {
     "name": "ArcGIS GeoService",

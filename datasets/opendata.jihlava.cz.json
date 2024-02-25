@@ -29,6 +29,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.jihlava.cz/maps/jihlava::parkomat"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.jihlava.cz/maps/jihlava::parkoviště-linie"
   },
   {
@@ -38,6 +42,10 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.jihlava.cz/maps/jihlava::plánované-odstávky-vody-kanalizace"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.jihlava.cz/maps/jihlava::sběrný-dvůr"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -109,11 +117,19 @@
   },
   {
     "name": "CSV",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/b0b8bc4493444674b6d295a49613d076/csv?layers=20"
+  },
+  {
+    "name": "CSV",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/e8b8a2a4e20747d0979948b91bc4c4ea/csv?layers=14"
   },
   {
     "name": "CSV",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/eb86ad680b27457b9647a93ea879094d/csv?layers=22"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/f5b3774d135f481fa633d61856ad81e8/csv?layers=10"
   },
   {
     "name": "CSV",
@@ -169,11 +185,19 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/b0b8bc4493444674b6d295a49613d076/geojson?layers=20"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/e8b8a2a4e20747d0979948b91bc4c4ea/geojson?layers=14"
   },
   {
     "name": "GeoJSON",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/eb86ad680b27457b9647a93ea879094d/geojson?layers=22"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/f5b3774d135f481fa633d61856ad81e8/geojson?layers=10"
   },
   {
     "name": "GeoJSON",
@@ -229,11 +253,19 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/b0b8bc4493444674b6d295a49613d076/kml?layers=20"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/e8b8a2a4e20747d0979948b91bc4c4ea/kml?layers=14"
   },
   {
     "name": "KML",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/eb86ad680b27457b9647a93ea879094d/kml?layers=22"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/f5b3774d135f481fa633d61856ad81e8/kml?layers=10"
   },
   {
     "name": "KML",
@@ -289,11 +321,19 @@
   },
   {
     "name": "Shapefile",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/b0b8bc4493444674b6d295a49613d076/shapefile?layers=20"
+  },
+  {
+    "name": "Shapefile",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/e8b8a2a4e20747d0979948b91bc4c4ea/shapefile?layers=14"
   },
   {
     "name": "Shapefile",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/eb86ad680b27457b9647a93ea879094d/shapefile?layers=22"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/f5b3774d135f481fa633d61856ad81e8/shapefile?layers=10"
   },
   {
     "name": "Shapefile",
