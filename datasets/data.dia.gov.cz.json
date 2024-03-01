@@ -9,6 +9,10 @@
   },
   {
     "name": "Číselník v CSV",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/hvds.csv"
+  },
+  {
+    "name": "Číselník v CSV",
     "url": "https://data.dia.gov.cz/soubory/číselníky/jiná-časová-specifikace.csv"
   },
   {
@@ -78,6 +82,10 @@
   {
     "name": "Číselník v HTML+RDFa",
     "url": "https://data.dia.gov.cz/soubory/číselníky/dny-v-týdnu.html"
+  },
+  {
+    "name": "Číselník v HTML+RDFa",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/hvds.html"
   },
   {
     "name": "Číselník v HTML+RDFa",
@@ -153,6 +161,10 @@
   },
   {
     "name": "Číselník v JSON-LD",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/hvds.jsonld"
+  },
+  {
+    "name": "Číselník v JSON-LD",
     "url": "https://data.dia.gov.cz/soubory/číselníky/jiná-časová-specifikace.jsonld"
   },
   {
@@ -222,6 +234,10 @@
   {
     "name": "Číselník v RDF N-Quads",
     "url": "https://data.dia.gov.cz/soubory/číselníky/dny-v-týdnu.nq"
+  },
+  {
+    "name": "Číselník v RDF N-Quads",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/hvds.nq"
   },
   {
     "name": "Číselník v RDF N-Quads",
@@ -297,6 +313,10 @@
   },
   {
     "name": "Číselník v RDF N-Triples",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/hvds.nt"
+  },
+  {
+    "name": "Číselník v RDF N-Triples",
     "url": "https://data.dia.gov.cz/soubory/číselníky/jiná-časová-specifikace.nt"
   },
   {
@@ -366,6 +386,10 @@
   {
     "name": "Číselník v RDF TriG",
     "url": "https://data.dia.gov.cz/soubory/číselníky/dny-v-týdnu.trig"
+  },
+  {
+    "name": "Číselník v RDF TriG",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/hvds.trig"
   },
   {
     "name": "Číselník v RDF TriG",
@@ -441,6 +465,10 @@
   },
   {
     "name": "Číselník v RDF Turtle",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/hvds.ttl"
+  },
+  {
+    "name": "Číselník v RDF Turtle",
     "url": "https://data.dia.gov.cz/soubory/číselníky/jiná-časová-specifikace.ttl"
   },
   {
@@ -510,6 +538,10 @@
   {
     "name": "Číselník v RDF/XML",
     "url": "https://data.dia.gov.cz/soubory/číselníky/dny-v-týdnu.rdf"
+  },
+  {
+    "name": "Číselník v RDF/XML",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/hvds.rdf"
   },
   {
     "name": "Číselník v RDF/XML",
