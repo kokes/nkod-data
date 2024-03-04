@@ -53,10 +53,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::poplachové-sirény"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::prostranství-se-zákazem-používání-skateboardů"
   },
   {
@@ -185,10 +181,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/1b566a30589c42398bac195f2dbd7fb7/csv?layers=0"
-  },
-  {
-    "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/1d2d1e4aa78346fc997df71af44009b1/csv?layers=0"
   },
   {
@@ -302,10 +294,6 @@
   {
     "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/08ba989b75e74878830f98e31cedc17c/geojson?layers=1"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/1b566a30589c42398bac195f2dbd7fb7/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -425,10 +413,6 @@
   },
   {
     "name": "KML",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/1b566a30589c42398bac195f2dbd7fb7/kml?layers=0"
-  },
-  {
-    "name": "KML",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/1d2d1e4aa78346fc997df71af44009b1/kml?layers=0"
   },
   {
@@ -534,10 +518,6 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/08ba989b75e74878830f98e31cedc17c/shapefile?layers=1"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/1b566a30589c42398bac195f2dbd7fb7/shapefile?layers=0"
   },
   {
     "name": "Shapefile",
