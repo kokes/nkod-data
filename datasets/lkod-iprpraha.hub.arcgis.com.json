@@ -33,6 +33,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::digitální-technická-mapa-prahy-inženýrské-sítě-autorizovaná-data-správců-průběh"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::geologické-jednotky-1"
   },
   {
@@ -605,6 +609,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/d13bfb994a44442a8b93d5d9729f4363/csv?layers=0"
+  },
+  {
+    "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/d413927046764eb9a7ea61320a312635/csv?layers=0"
   },
   {
@@ -942,6 +950,10 @@
   {
     "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/ca515661522f475ca5b742e265d6b759/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/d13bfb994a44442a8b93d5d9729f4363/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -1285,6 +1297,10 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/d13bfb994a44442a8b93d5d9729f4363/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/d413927046764eb9a7ea61320a312635/kml?layers=0"
   },
   {
@@ -1622,6 +1638,10 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/ca515661522f475ca5b742e265d6b759/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/d13bfb994a44442a8b93d5d9729f4363/shapefile?layers=0"
   },
   {
     "name": "ZIP",
