@@ -9,10 +9,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://gis.brno.cz/ags1/rest/services/Hosted/DissolvedRoutesToOverwrite/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/Hosted/Firmy/FeatureServer/0"
   },
   {
@@ -58,10 +54,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/Hosted/omi_vrstevnice_2019_1m_wgs/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://gis.brno.cz/ags1/rest/services/Hosted/zapis_ms/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
