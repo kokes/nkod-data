@@ -21,6 +21,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::cyklotrasy-vnitřní"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::dopravní-nehody-v-orp-most"
   },
   {
@@ -217,6 +221,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/734d3b10ff1844c3aebf8935ff8421b3/csv?layers=0"
+  },
+  {
+    "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/872b3cd26d004b86b565512f5d46ea94/csv?layers=0"
   },
   {
@@ -329,6 +337,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/734d3b10ff1844c3aebf8935ff8421b3/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/872b3cd26d004b86b565512f5d46ea94/geojson?layers=0"
   },
   {
@@ -437,6 +449,10 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/734d3b10ff1844c3aebf8935ff8421b3/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/872b3cd26d004b86b565512f5d46ea94/kml?layers=0"
   },
   {
@@ -538,6 +554,10 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/5c15e9e9e98a4d62bc5b4214526972d0/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/734d3b10ff1844c3aebf8935ff8421b3/shapefile?layers=0"
   },
   {
     "name": "Shapefile",
