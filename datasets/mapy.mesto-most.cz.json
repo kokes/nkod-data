@@ -9,10 +9,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/CenoveMapyMost_opendata/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/Cykloscitace_opendata/FeatureServer"
   },
   {
@@ -58,6 +54,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/RychlostniKamery_opendata/FeatureServer/2"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/Sireny_opendata/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
