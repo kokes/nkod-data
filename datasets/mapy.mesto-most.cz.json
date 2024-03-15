@@ -41,10 +41,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ObjektovaMapaPovrchoveSituace_opendata/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/RychlostniKamery_opendata/FeatureServer"
   },
   {

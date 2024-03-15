@@ -9,10 +9,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://gis.brno.cz/ags1/rest/services/Hosted/Firmy/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/Hosted/KAM_Pruzkum_Maloobchodu_2017/FeatureServer/0"
   },
   {
@@ -30,10 +26,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/Hosted/Pocet_pracovnich_mist_grid/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://gis.brno.cz/ags1/rest/services/Hosted/StreetLights/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
