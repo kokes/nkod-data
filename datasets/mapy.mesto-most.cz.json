@@ -9,6 +9,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/CenoveMapyMost_opendata/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/Cykloscitace_opendata/FeatureServer"
   },
   {
@@ -38,6 +42,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/MaterskeObvody_opendata/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ObjektovaMapaPovrchoveSituace_opendata/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
