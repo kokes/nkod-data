@@ -1444,6 +1444,34 @@
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/parkovaci_zony_JTSK_gjson.zip"
   },
   {
+    "name": "Školské obvody  (GML, S-JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/skolske_obvody_JTSK_gml.zip"
+  },
+  {
+    "name": "Školské obvody (DXF, S-JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/skolske_obvody_JTSK_dxf.zip"
+  },
+  {
+    "name": "Školské obvody (GML, WGS 84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/skolske_obvody_WGS84_gml.zip"
+  },
+  {
+    "name": "Školské obvody (GeoJSON, S-JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/skolske_obvody_JTSK_gjson.zip"
+  },
+  {
+    "name": "Školské obvody (GeoJSON, WGS 84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/skolske_obvody_WGS84_gjson.zip"
+  },
+  {
+    "name": "Školské obvody (SHP, S-JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/skolske_obvody_JTSK_shp.zip"
+  },
+  {
+    "name": "Školské obvody (SHP, WGS 84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/skolske_obvody_WGS84_shp.zip"
+  },
+  {
     "name": "Školy a školská zařízení (DXF, S-JTSK)",
     "url": "http://mapy.ostrava.cz/opendata/data/opendata/skoly_JTSK_dxf.zip"
   },
