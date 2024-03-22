@@ -1,7 +1,11 @@
 [
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/Bloky_opendata/FeatureServer/0"
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/Bloky_opendata/FeatureServer"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/BudovyStaryMost_opendata/FeatureServer"
   },
   {
     "name": "ArcGIS GeoService",
@@ -29,7 +33,15 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/DopravniNehodyPCR_opendata/FeatureServer"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/DopravniNehodyPCR_opendata/FeatureServer/1"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/IntenzitaAutomobiloveDopravy_opendata/FeatureServer"
   },
   {
     "name": "ArcGIS GeoService",
@@ -41,11 +53,15 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/MaterskeObvody_opendata/FeatureServer"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/MaterskeObvody_opendata/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ObjektovaMapaPovrchoveSituace_opendata/FeatureServer/0"
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ObjektovaMapaPovrchoveSituace_opendata/FeatureServer"
   },
   {
     "name": "ArcGIS GeoService",
@@ -61,7 +77,11 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/Sireny_opendata/FeatureServer/0"
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/Sireny_opendata/FeatureServer"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/SkateboardStop_opendata/FeatureServer"
   },
   {
     "name": "ArcGIS GeoService",
@@ -70,6 +90,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/SkolskeObvody_opendata/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/StozaryVO_opendata/FeatureServer"
   },
   {
     "name": "ArcGIS GeoService",
@@ -121,11 +145,27 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ValecneHrobyPamatniky_opendata/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/VolnePobihaniPsu_opendata/FeatureServer"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/VolnePobihaniPsu_opendata/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ZakazKonzumaceAlkoholu_opendata/FeatureServer"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/ZakazKonzumaceAlkoholu_opendata/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/Zastavky_MHD_opendata/FeatureServer"
   },
   {
     "name": "ArcGIS GeoService",
