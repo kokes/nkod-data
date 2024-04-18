@@ -337,6 +337,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::záplavové-území-q50-"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::záplavové-území-vltava-berounka"
   },
   {
@@ -554,6 +558,10 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/a9fd0f0b57f04baab4485afab85ed2fe/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/ad11523f87054026aef34a870d8583ec/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -909,6 +917,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/ad11523f87054026aef34a870d8583ec/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/ae7737cfb77246bf84a250e5bcb26c76/geojson?layers=0"
   },
   {
@@ -1261,6 +1273,10 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/ad11523f87054026aef34a870d8583ec/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/ae7737cfb77246bf84a250e5bcb26c76/kml?layers=0"
   },
   {
@@ -1610,6 +1626,10 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/a9fd0f0b57f04baab4485afab85ed2fe/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/ad11523f87054026aef34a870d8583ec/shapefile?layers=0"
   },
   {
     "name": "ZIP",
