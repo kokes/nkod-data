@@ -1,34 +1,30 @@
 [
   {
     "name": "Neveřejný",
-    "url": "https://mapy.geology.cz/arcgis/rest/services/Odpady/ium/MapServer/WFSServer?request=GetCapabilities&service=WFS"
-  },
-  {
-    "name": "WFS (CS)",
-    "url": "https://mapy.geology.cz/arcgis/rest/services/Dulni_Dila/poddolovana_uzemi/MapServer/WFSServer?request=GetCapabilities&service=WFS"
-  },
-  {
-    "name": "WFS (CS)",
-    "url": "https://mapy.geology.cz/arcgis/rest/services/Suroviny/chranena_loziskova_uzemi/MapServer/WFSServer?request=GetCapabilities&service=WFS"
-  },
-  {
-    "name": "WFS (CS)",
-    "url": "https://mapy.geology.cz/arcgis/rest/services/Suroviny/chranena_uzemi_zzzk/MapServer/WFSServer?request=GetCapabilities&service=WFS"
-  },
-  {
-    "name": "WFS (CS)",
-    "url": "https://mapy.geology.cz/arcgis/rest/services/Suroviny/loziska_zdroje/MapServer/WFSServer?request=GetCapabilities&service=WFS"
-  },
-  {
-    "name": "WFS (CS)",
-    "url": "https://mapy.geology.cz/arcgis/rest/services/Suroviny/pruzkumna_uzemi/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+    "url": "https://mapy.geology.cz/arcgis/services/Odpady/ium/MapServer/WFSServer?request=GetCapabilities&service=WFS"
   },
   {
     "name": "WFS (CS)",
     "url": "https://mapy.geology.cz/arcgis/services/Dulni_Dila/dulni_dila/MapServer/WFSServer?request=GetCapabilities&service=WFS"
   },
   {
-    "name": "WMS (CS)",
-    "url": "https://mapy.geology.cz/arcgis/services/Dulni_Dila/dulni_dila/MapServer/WMSServer?request=GetCapabilities&service=WMS"
+    "name": "WFS (CS)",
+    "url": "https://mapy.geology.cz/arcgis/services/Dulni_Dila/poddolovana_uzemi/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "WFS (CS)",
+    "url": "https://mapy.geology.cz/arcgis/services/Suroviny/chranena_loziskova_uzemi/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "WFS (CS)",
+    "url": "https://mapy.geology.cz/arcgis/services/Suroviny/chranena_uzemi_zzzk/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "WFS (CS)",
+    "url": "https://mapy.geology.cz/arcgis/services/Suroviny/loziska_zdroje/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "WFS (CS)",
+    "url": "https://mapy.geology.cz/arcgis/services/Suroviny/pruzkumna_uzemi/MapServer/WFSServer?request=GetCapabilities&service=WFS"
   }
 ]
