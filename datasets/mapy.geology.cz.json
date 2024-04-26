@@ -1,15 +1,15 @@
 [
   {
-    "name": "Neveřejný",
-    "url": "https://mapy.geology.cz/arcgis/services/Odpady/ium/MapServer/WFSServer?request=GetCapabilities&service=WFS"
-  },
-  {
     "name": "WFS (CS)",
     "url": "https://mapy.geology.cz/arcgis/services/Dulni_Dila/dulni_dila/MapServer/WFSServer?request=GetCapabilities&service=WFS"
   },
   {
     "name": "WFS (CS)",
     "url": "https://mapy.geology.cz/arcgis/services/Dulni_Dila/poddolovana_uzemi/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "WFS (CS)",
+    "url": "https://mapy.geology.cz/arcgis/services/Odpady/ium/MapServer/WFSServer?request=GetCapabilities&service=WFS"
   },
   {
     "name": "WFS (CS)",
