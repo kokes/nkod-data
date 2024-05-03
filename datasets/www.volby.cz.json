@@ -97,6 +97,22 @@
   },
   {
     "name": "Registr v CSV souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/csv_od/epcoco.csv"
+  },
+  {
+    "name": "Registr v CSV souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/csv_od/eprk.csv"
+  },
+  {
+    "name": "Registr v CSV souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/csv_od/eprkl.csv"
+  },
+  {
+    "name": "Registr v CSV souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/csv_od/eprkl_slozeni.csv"
+  },
+  {
+    "name": "Registr v CSV souboru",
     "url": "https://www.volby.cz/opendata/kv2022/csv_od/kvrk.csv"
   },
   {
@@ -110,6 +126,22 @@
   {
     "name": "Registr v CSV souboru",
     "url": "https://www.volby.cz/opendata/se2022/csv_od/serk.csv"
+  },
+  {
+    "name": "Registr v XML souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/xml/epcoco.xml"
+  },
+  {
+    "name": "Registr v XML souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/xml/eprk.xml"
+  },
+  {
+    "name": "Registr v XML souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/xml/eprkl.xml"
+  },
+  {
+    "name": "Registr v XML souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/xml/eprkl_slozeni.xml"
   },
   {
     "name": "Registr v XML souboru",
@@ -202,6 +234,14 @@
   {
     "name": "Soubor v CSV",
     "url": "https://www.volby.cz/opendata/ps2021/csv_od/psvolkr.csv"
+  },
+  {
+    "name": "Soubor v CSV souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/csv_od/cvs_slozeni.csv"
+  },
+  {
+    "name": "Soubor v CSV souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/csv_od/czemeu.csv"
   },
   {
     "name": "Výsledky za obce vybraného okresu ve formátu XML",
@@ -1221,6 +1261,26 @@
   },
   {
     "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/csv_od/cisob.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/csv_od/cns.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/csv_od/cnumnuts.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/csv_od/cpp.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/csv_od/cvs.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
     "url": "https://www.volby.cz/opendata/kv2022/csv_od/cns.csv"
   },
   {
@@ -1270,6 +1330,34 @@
   {
     "name": "Číselník v CSV souboru",
     "url": "https://www.volby.cz/opendata/se2022/csv_od/secoco.csv"
+  },
+  {
+    "name": "Číselník v XML souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/xml/cisob.xml"
+  },
+  {
+    "name": "Číselník v XML souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/xml/cns.xml"
+  },
+  {
+    "name": "Číselník v XML souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/xml/cnumnuts.xml"
+  },
+  {
+    "name": "Číselník v XML souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/xml/cpp.xml"
+  },
+  {
+    "name": "Číselník v XML souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/xml/cvs.xml"
+  },
+  {
+    "name": "Číselník v XML souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/xml/cvs_slozeni.xml"
+  },
+  {
+    "name": "Číselník v XML souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/xml/czemeu.xml"
   },
   {
     "name": "Číselník v XML souboru",
