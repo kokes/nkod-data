@@ -236,14 +236,6 @@
     "url": "https://www.volby.cz/opendata/ps2021/csv_od/psvolkr.csv"
   },
   {
-    "name": "Soubor v CSV souboru",
-    "url": "https://www.volby.cz/opendata/ep2024/csv_od/cvs_slozeni.csv"
-  },
-  {
-    "name": "Soubor v CSV souboru",
-    "url": "https://www.volby.cz/opendata/ep2024/csv_od/czemeu.csv"
-  },
-  {
     "name": "Výsledky za obce vybraného okresu ve formátu XML",
     "url": "https://www.volby.cz/pls/kv2022/vysledky_obce_okres?nuts="
   },
@@ -1278,6 +1270,14 @@
   {
     "name": "Číselník v CSV souboru",
     "url": "https://www.volby.cz/opendata/ep2024/csv_od/cvs.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/csv_od/cvs_slozeni.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/ep2024/csv_od/czemeu.csv"
   },
   {
     "name": "Číselník v CSV souboru",

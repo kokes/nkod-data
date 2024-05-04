@@ -97,6 +97,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::zastávky-mhd"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most"
   },
   {
@@ -237,6 +241,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a0098db16a2d45edb481c0c895ffdde6/csv?layers=0"
+  },
+  {
+    "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a983f7668cc64ee99ae66992e8379521/csv?layers=1"
   },
   {
@@ -357,6 +365,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a0098db16a2d45edb481c0c895ffdde6/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a983f7668cc64ee99ae66992e8379521/geojson?layers=1"
   },
   {
@@ -473,6 +485,10 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a0098db16a2d45edb481c0c895ffdde6/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a983f7668cc64ee99ae66992e8379521/kml?layers=1"
   },
   {
@@ -582,6 +598,10 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/872b3cd26d004b86b565512f5d46ea94/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a0098db16a2d45edb481c0c895ffdde6/shapefile?layers=0"
   },
   {
     "name": "Shapefile",
