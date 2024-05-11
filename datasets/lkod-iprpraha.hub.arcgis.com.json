@@ -245,14 +245,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::vrstevnice-2-m"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::vrstevnice-5-m"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::vyhrazená-parkovací-stání-pro-držitele-průkazu-ztp-p-bez-vazby-na-registrační-značku-vozidla"
   },
   {
@@ -557,15 +549,7 @@
   },
   {
     "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/846c75b0c0724a3d93da7b2d3bde3ce0/csv?layers=0"
-  },
-  {
-    "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/866cb0cbf4ec4fb0954476d7b2dc334a/csv?layers=0"
-  },
-  {
-    "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/89ed5050205a496684859e7ca71542a4/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -933,15 +917,7 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/846c75b0c0724a3d93da7b2d3bde3ce0/geojson?layers=0"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/866cb0cbf4ec4fb0954476d7b2dc334a/geojson?layers=0"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/89ed5050205a496684859e7ca71542a4/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -1309,15 +1285,7 @@
   },
   {
     "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/846c75b0c0724a3d93da7b2d3bde3ce0/kml?layers=0"
-  },
-  {
-    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/866cb0cbf4ec4fb0954476d7b2dc334a/kml?layers=0"
-  },
-  {
-    "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/89ed5050205a496684859e7ca71542a4/kml?layers=0"
   },
   {
     "name": "KML",
@@ -1685,15 +1653,7 @@
   },
   {
     "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/846c75b0c0724a3d93da7b2d3bde3ce0/shapefile?layers=0"
-  },
-  {
-    "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/866cb0cbf4ec4fb0954476d7b2dc334a/shapefile?layers=0"
-  },
-  {
-    "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/89ed5050205a496684859e7ca71542a4/shapefile?layers=0"
   },
   {
     "name": "ZIP",

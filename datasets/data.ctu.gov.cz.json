@@ -392,6 +392,10 @@
     "url": "https://data.ctu.gov.cz/sites/default/files/platy-clenu-rady-ctu-2022_0.csv"
   },
   {
+    "name": "Platy členů Rady ČTÚ za rok 2023",
+    "url": "https://data.ctu.gov.cz/sites/default/files/platy-clenu-rady-ctu-2023_0.csv"
+  },
+  {
     "name": "Plnění povinného podílu osob se zdravotním postižením v roce 2012",
     "url": "https://data.ctu.gov.cz/sites/default/files/plneni-povinneho-podilu-osob-se-zdravotnim-postizenim-2012.csv"
   },
@@ -434,6 +438,10 @@
   {
     "name": "Plnění povinného podílu osob se zdravotním postižením v roce 2022",
     "url": "https://data.ctu.gov.cz/sites/default/files/plneni-povinneho-podilu-osob-se-zdravotnim-postizenim-2022.csv"
+  },
+  {
+    "name": "Plnění povinného podílu osob se zdravotním postižením v roce 2023",
+    "url": "https://data.ctu.gov.cz/sites/default/files/plneni-povinneho-podilu-osob-se-zdravotnim-postizenim-2023.csv"
   },
   {
     "name": "Podíl investic na tržbách u nejvýznamnějších subjektů na trhu dle tržeb v roce 2017",
@@ -657,7 +665,7 @@
   },
   {
     "name": "Průměrný hrubý měsíční plat",
-    "url": "https://data.ctu.gov.cz/sites/default/files/prumerny-hruby-mesicni-plat-k-31-12_11_0.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/prumerny-hruby-mesicni-plat-k-31-12-2023.csv"
   },
   {
     "name": "Průměrný maloobchodní výnos operátora za 1 min. volání podle směru volání za rok 2017",
@@ -1101,7 +1109,7 @@
   },
   {
     "name": "Výdaje na vzdělávání zaměstnanců",
-    "url": "https://data.ctu.gov.cz/sites/default/files/vydaje-na-vzdelavani-zamestnancu-k-31-12_2_0.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/vydaje-na-vzdelavani-zamestnancu-k-31-12-2023.csv"
   },
   {
     "name": "Vývoj aktivních přípojek pro VDTS podle jednotlivých technologií ",
@@ -1365,19 +1373,19 @@
   },
   {
     "name": "Zaměstnanci dle vzdělání a pohlaví",
-    "url": "https://data.ctu.gov.cz/sites/default/files/cleneni-zamestnancu-dle-vzdelani-a-pohlavi-k-31-12_11.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-zamestnancu-podle-veku-a-pohlavi-k-31-12-2023_0.csv"
   },
   {
     "name": "Zaměstnanci na mateřské/rodičovské dovolené",
-    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-osob-na-materske-rodicovske-dovolene-k-31-12_14.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-osob-na-materske-rodicovske-dovolene-k-31-12-2023.csv"
   },
   {
     "name": "Zaměstnanci podle pohlaví a fluktuace",
-    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-zamestnancu-dle-pohlavi-a-jejich-fluktuace-k-31-12_9.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-zamestnancu-dle-pohlavi-a-jejich-fluktuace-k-31-12-2023.csv"
   },
   {
     "name": "Zaměstnanci podle věku a pohlaví",
-    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-zamestnancu-podle-veku-a-pohlavi-k-31-12_12.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-zamestnancu-podle-veku-a-pohlavi-k-31-12-2023.csv"
   },
   {
     "name": "Zaměstnanci v oboru elektronických komunikací",
@@ -1389,7 +1397,7 @@
   },
   {
     "name": "Zaměstnanci ve služebním a pracovním a mimopracovním vztahu",
-    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-zamestnancu-ve-sluzebnim-pracovnim-a-mimopracovnim-vztahu-k-31-12_3.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-zamestnancu-ve-sluzebnim-pracovnim-a-mimopracovnim-vztahu-k-31-12-2023.csv"
   },
   {
     "name": "Zařízení pevné služby",
