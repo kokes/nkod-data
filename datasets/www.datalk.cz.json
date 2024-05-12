@@ -5,6 +5,14 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datalk.cz/maps/1b40d4b146e648cca7ca4dfe9712264b_0"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datalk.cz/maps/34bdb4401c2c4005a3af11690cc4e0a4_0"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.datalk.cz/maps/38d9797b83044ada9c674c08b54f8548_0"
   },
   {
@@ -13,7 +21,15 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datalk.cz/maps/823b604ad926481dae05ab967bd08edd_0"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.datalk.cz/maps/870170d57cf94784a50600cc63e83415_0"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datalk.cz/maps/8ea6109bdfa14d9e8d1b43530b533f1d_0"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -29,6 +45,14 @@
   },
   {
     "name": "CSV",
+    "url": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.datalk.cz/api/download/v1/items/34bdb4401c2c4005a3af11690cc4e0a4/csv?layers=0"
+  },
+  {
+    "name": "CSV",
     "url": "https://www.datalk.cz/api/download/v1/items/38d9797b83044ada9c674c08b54f8548/csv?layers=0"
   },
   {
@@ -37,7 +61,15 @@
   },
   {
     "name": "CSV",
+    "url": "https://www.datalk.cz/api/download/v1/items/823b604ad926481dae05ab967bd08edd/csv?layers=0"
+  },
+  {
+    "name": "CSV",
     "url": "https://www.datalk.cz/api/download/v1/items/870170d57cf94784a50600cc63e83415/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.datalk.cz/api/download/v1/items/8ea6109bdfa14d9e8d1b43530b533f1d/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -53,6 +85,14 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://www.datalk.cz/api/download/v1/items/34bdb4401c2c4005a3af11690cc4e0a4/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://www.datalk.cz/api/download/v1/items/38d9797b83044ada9c674c08b54f8548/geojson?layers=0"
   },
   {
@@ -61,7 +101,15 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://www.datalk.cz/api/download/v1/items/823b604ad926481dae05ab967bd08edd/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://www.datalk.cz/api/download/v1/items/870170d57cf94784a50600cc63e83415/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://www.datalk.cz/api/download/v1/items/8ea6109bdfa14d9e8d1b43530b533f1d/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -77,6 +125,14 @@
   },
   {
     "name": "KML",
+    "url": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/kml?layers=0"
+  },
+  {
+    "name": "KML",
+    "url": "https://www.datalk.cz/api/download/v1/items/34bdb4401c2c4005a3af11690cc4e0a4/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://www.datalk.cz/api/download/v1/items/38d9797b83044ada9c674c08b54f8548/kml?layers=0"
   },
   {
@@ -85,7 +141,15 @@
   },
   {
     "name": "KML",
+    "url": "https://www.datalk.cz/api/download/v1/items/823b604ad926481dae05ab967bd08edd/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://www.datalk.cz/api/download/v1/items/870170d57cf94784a50600cc63e83415/kml?layers=0"
+  },
+  {
+    "name": "KML",
+    "url": "https://www.datalk.cz/api/download/v1/items/8ea6109bdfa14d9e8d1b43530b533f1d/kml?layers=0"
   },
   {
     "name": "KML",
@@ -101,6 +165,14 @@
   },
   {
     "name": "Shapefile",
+    "url": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.datalk.cz/api/download/v1/items/34bdb4401c2c4005a3af11690cc4e0a4/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
     "url": "https://www.datalk.cz/api/download/v1/items/38d9797b83044ada9c674c08b54f8548/shapefile?layers=0"
   },
   {
@@ -109,7 +181,15 @@
   },
   {
     "name": "Shapefile",
+    "url": "https://www.datalk.cz/api/download/v1/items/823b604ad926481dae05ab967bd08edd/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
     "url": "https://www.datalk.cz/api/download/v1/items/870170d57cf94784a50600cc63e83415/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.datalk.cz/api/download/v1/items/8ea6109bdfa14d9e8d1b43530b533f1d/shapefile?layers=0"
   },
   {
     "name": "Shapefile",
