@@ -1,13 +1,5 @@
 [
   {
-    "name": "Akce v ZOO",
-    "url": "https://storage.golemio.cz/lkod/zoopraha/72940c91-6b1a-434f-8702-90aff7fd1eab/924a36cc-6286-49f8-b8c3-12782823797e-akcevzoo.csv"
-  },
-  {
-    "name": "Bioodpad - Harmonogramy přistavování velkokapacitních kontejnerů na území MČ Praha 12",
-    "url": "https://storage.golemio.cz/lkod/praha-12/8e6e0983-e512-480a-8069-987ff16c02c2/opendata-harmonogram-odpady-bioodpad-mc-praha-12.csv"
-  },
-  {
     "name": "Cerpani_rozpoctu_MHMP_2021.csv",
     "url": "https://storage.golemio.cz/ckan/cerpani_rozpoctu_MHMP/Cerpani_rozpoctu_MHMP_2021.csv"
   },
@@ -30,58 +22,6 @@
   {
     "name": "Cerpani_rozpoctu_MHMP_2022.xml",
     "url": "https://storage.golemio.cz/ckan/cerpani_rozpoctu_MHMP/Cerpani_rozpoctu_MHMP_2022.xml"
-  },
-  {
-    "name": "DS_kontakty_seznam zaměstnanců_ÚMČ P11.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-11/c8c1fe2d-31e4-43c4-bb79-a53341e21a8e/6f354805-f93d-4e8a-87ac-aa07e7057dab-konverze_ds_kontakty_seznam-zamstnanc_um-p11.csv"
-  },
-  {
-    "name": "DS_kontakty_seznam zaměstnanců_ÚMČ P11.xlsx",
-    "url": "https://storage.golemio.cz/lkod/praha-11/c8c1fe2d-31e4-43c4-bb79-a53341e21a8e/8775a458-2a09-4a48-99c9-3bba1a6942df-konverze_ds_kontakty_seznam-zamstnanc_um-p11.xlsx"
-  },
-  {
-    "name": "DS_kontakty_seznam zaměstnanců_ÚMČ P11_leden_2021.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-11/c8c1fe2d-31e4-43c4-bb79-a53341e21a8e/7157fbb8-edbd-4b28-a4be-e83c174b198b-konverze_ds_kontakty_seznam-zamstnanc_um-p11_leden_2021.csv"
-  },
-  {
-    "name": "DS_kontakty_seznam zaměstnanců_ÚMČ P11_leden_2021.xlsx",
-    "url": "https://storage.golemio.cz/lkod/praha-11/c8c1fe2d-31e4-43c4-bb79-a53341e21a8e/357ae62a-2cec-443a-850a-fd09c5075f9f-ds_kontakty_seznam-zamstnanc_um-p11_leden_2021.xlsx"
-  },
-  {
-    "name": "Denní srážkové úhrny ze srážkoměrů 01-12 2021",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/8d3050e6-ee3f-47b5-8989-56b021885241/a11defbf-a56c-45db-b678-89e3a2803e53-denni-srakove-uhrny-ze-srakomr_01-12-2021-mm.csv"
-  },
-  {
-    "name": "Denní srážkové úhrny ze srážkoměrů 1-12 2022",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/8d3050e6-ee3f-47b5-8989-56b021885241/Denní%20srážkové%20úhrny%20ze%20srážkoměrů_01-12%202022%20v%20mm.csv"
-  },
-  {
-    "name": "Denní srážkové úhrny ze srážkoměrů 1-12 2023",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/8d3050e6-ee3f-47b5-8989-56b021885241/denni_uhrn_1-12-2023_mm.csv"
-  },
-  {
-    "name": "Dlouhodobý hmotný majetek 2018",
-    "url": "https://storage.golemio.cz/lkod/praha-8/ae6dc81b-38eb-475d-a560-7aabba9b16d5/23a84928-166d-4a03-89aa-f543f66ca25c-dhm-pozemky_2018.csv"
-  },
-  {
-    "name": "Dlouhodobý hmotný majetek neodpisovaný třída 03 MČ Praha 8 2015",
-    "url": "https://storage.golemio.cz/lkod/praha-8/ae6dc81b-38eb-475d-a560-7aabba9b16d5/36eb2359-4f50-41fd-a9eb-bf48e5145ab9-11.csv"
-  },
-  {
-    "name": "Dlouhodobý hmotný majetek neodpisovaný třída 03 MČ Praha 8 2017",
-    "url": "https://storage.golemio.cz/lkod/praha-8/ae6dc81b-38eb-475d-a560-7aabba9b16d5/e67ffdd7-7d6d-4e25-a44e-78d477112fe8-dlouhodoby-hmotny-neodepisovany-t.-03-31-no-price-gordic-re.csv"
-  },
-  {
-    "name": "Dlouhodobý nehmotný majetek MČ Praha 8 2015",
-    "url": "https://storage.golemio.cz/lkod/praha-8/a89dc398-2658-421f-b517-3defd24456a1/286fc518-a763-46e5-81e2-3958bbdedbf2-13.csv"
-  },
-  {
-    "name": "Dlouhodobý nehmotný majetek MČ Praha 8 2017",
-    "url": "https://storage.golemio.cz/lkod/praha-8/a89dc398-2658-421f-b517-3defd24456a1/e1c714b1-3d2a-464e-a1db-fe77b2949f4a-13-19-list1.csv"
-  },
-  {
-    "name": "Dlouhodobý nehmotný majetek MČ Praha 8 2018",
-    "url": "https://storage.golemio.cz/lkod/praha-8/a89dc398-2658-421f-b517-3defd24456a1/382e6407-d989-40bd-87a9-7799ed967232-dnm-nehmotny_2018.csv"
   },
   {
     "name": "Dopravní přestupky MHMP 2015",
@@ -110,126 +50,6 @@
   {
     "name": "Dopravní přestupky MHMP 2021",
     "url": "https://storage.golemio.cz/ckan/mporga/MHMP_dopravni_prestupky_2021.zip"
-  },
-  {
-    "name": "Faktury 1. pololetí 2016",
-    "url": "https://storage.golemio.cz/lkod/praha-7/8d268413-5dd7-43f5-88ad-441e14f5c8fa/ec4add55-1cdc-416e-bf66-65784e855841-faktury1.pol.2016.xlsx"
-  },
-  {
-    "name": "Faktury 1. pololetí 2017",
-    "url": "https://storage.golemio.cz/lkod/praha-7/8d268413-5dd7-43f5-88ad-441e14f5c8fa/e00cb73a-5b93-4e6c-95db-5616f29b65d9-faktury-1.pol.-2017mp7ke-zveejnni.xlsx"
-  },
-  {
-    "name": "Faktury 1. pololetí 2017 - Sedmá ubytovací s.r.o.",
-    "url": "https://storage.golemio.cz/lkod/praha-7/8d268413-5dd7-43f5-88ad-441e14f5c8fa/5b4c00d6-29af-409c-9e7c-12a6870e89c0-faktury-1.pol.-20177uke-zveejnni.xlsx"
-  },
-  {
-    "name": "Faktury 1. pololetí 2018",
-    "url": "https://storage.golemio.cz/lkod/praha-7/8d268413-5dd7-43f5-88ad-441e14f5c8fa/6687e3e3-77dc-4adb-a37b-c872ca895a9a-faktury-1.-pololeti-2018.xlsx"
-  },
-  {
-    "name": "Faktury 1. pololetí 2018 - 7U s.r.o.",
-    "url": "https://storage.golemio.cz/lkod/praha-7/8d268413-5dd7-43f5-88ad-441e14f5c8fa/93995085-c1a1-4f7f-82b4-b18e2a7e37e0-faktury-1.-pololeti-2018-7u-s.r.o..xlsx"
-  },
-  {
-    "name": "Faktury 2. pololetí 2016",
-    "url": "https://storage.golemio.cz/lkod/praha-7/8d268413-5dd7-43f5-88ad-441e14f5c8fa/f691f135-1479-4f5f-ae13-fe31e9e38d67-faktury-2.-pololeti-2016.xlsx"
-  },
-  {
-    "name": "Faktury 2. pololetí 2017",
-    "url": "https://storage.golemio.cz/lkod/praha-7/8d268413-5dd7-43f5-88ad-441e14f5c8fa/1b6fce4e-f341-4ef7-bc04-6dcd65ffc3b7-faktury-2.pol.-2017mcp7ke-zverejneni.xlsx"
-  },
-  {
-    "name": "Faktury 2. pololetí 2017 - 7U s.r.o.",
-    "url": "https://storage.golemio.cz/lkod/praha-7/8d268413-5dd7-43f5-88ad-441e14f5c8fa/0152ecf9-a169-4ed7-aa60-ee5c122a0224-faktury-2.pol.-20177uke-zverejneni.xlsx"
-  },
-  {
-    "name": "Faktury 2010",
-    "url": "https://storage.golemio.cz/lkod/praha-7/8d268413-5dd7-43f5-88ad-441e14f5c8fa/f350563e-4565-4c8c-9601-44fdc6081cca-pehledfakturr.2010.xlsx"
-  },
-  {
-    "name": "Faktury 2011",
-    "url": "https://storage.golemio.cz/lkod/praha-7/8d268413-5dd7-43f5-88ad-441e14f5c8fa/aba7f045-0a78-42d4-a1b3-45cc0e27091e-pehledfakturr.2011.xlsx"
-  },
-  {
-    "name": "Faktury 2012",
-    "url": "https://storage.golemio.cz/lkod/praha-7/8d268413-5dd7-43f5-88ad-441e14f5c8fa/138d6710-13d7-41ee-b8dd-e48989249dbe-pehledfakturr.2012.xlsx"
-  },
-  {
-    "name": "Faktury 2013",
-    "url": "https://storage.golemio.cz/lkod/praha-7/8d268413-5dd7-43f5-88ad-441e14f5c8fa/9417fab0-01a1-4527-96c7-0978cc555687-pehledfakturr.2013.xlsx"
-  },
-  {
-    "name": "Faktury 2014",
-    "url": "https://storage.golemio.cz/lkod/praha-7/8d268413-5dd7-43f5-88ad-441e14f5c8fa/923f5e6f-6324-42a9-bdf1-08e70a2220e3-pehledfakturr.2014.xlsx"
-  },
-  {
-    "name": "Faktury 2015",
-    "url": "https://storage.golemio.cz/lkod/praha-7/8d268413-5dd7-43f5-88ad-441e14f5c8fa/db83bfd5-3e8c-48d6-9c5f-f076435f56a5-pehledfakturr.2015.xlsx"
-  },
-  {
-    "name": "Faktury 2016 - Sedmá ubytovací s.r.o.",
-    "url": "https://storage.golemio.cz/lkod/praha-7/8d268413-5dd7-43f5-88ad-441e14f5c8fa/7ca6ded6-66a9-437a-93df-c7a26f2b8564-pehled-faktur-2016-sedma-ubytovaci.xlsx"
-  },
-  {
-    "name": "Faktury-MC-Praha12-2010.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/7518810d-0659-445c-a73c-522bd0c02c74/0298d472-531d-42e3-8acd-de5ef6bb3c37-faktury-mc-praha12-2010.csv"
-  },
-  {
-    "name": "Faktury-MC-Praha12-2011.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/7518810d-0659-445c-a73c-522bd0c02c74/c36fce43-2257-4f84-9070-24e29a9e7315-faktury-mc-praha12-2011.csv"
-  },
-  {
-    "name": "Faktury-MC-Praha12-2012.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/7518810d-0659-445c-a73c-522bd0c02c74/c4677b4a-0947-4ebf-9d1a-031bbda0cc1c-faktury-mc-praha12-2012.csv"
-  },
-  {
-    "name": "Faktury-MC-Praha12-2013.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/7518810d-0659-445c-a73c-522bd0c02c74/9fb5b2f2-365a-45f8-a69d-91682ff60f52-faktury-mc-praha12-2013.csv"
-  },
-  {
-    "name": "Faktury-MC-Praha12-2014.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/7518810d-0659-445c-a73c-522bd0c02c74/e06e32e6-78d9-4496-8ac2-3c43a9fd3adf-faktury-mc-praha12-2014.csv"
-  },
-  {
-    "name": "Faktury-MC-Praha12-2015.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/7518810d-0659-445c-a73c-522bd0c02c74/9c6b938e-79b9-4ccf-9d6f-6a2d4b8b6001-faktury-mc-praha12-2015.csv"
-  },
-  {
-    "name": "Faktury-MC-Praha12-2016.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/7518810d-0659-445c-a73c-522bd0c02c74/1f245a38-f014-4145-a9ba-25aee31f1a53-faktury-mc-praha12-2016.csv"
-  },
-  {
-    "name": "Faktury-MC-Praha12-2017.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/7518810d-0659-445c-a73c-522bd0c02c74/2d3d06a3-f75b-4d1f-b240-52c2df1076a8-faktury-mc-praha12-2017.csv"
-  },
-  {
-    "name": "Faktury-MC-Praha12-2018.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/7518810d-0659-445c-a73c-522bd0c02c74/c4d69ede-8792-4391-8973-78625f7963b7-faktury-mc-praha12-2018.csv"
-  },
-  {
-    "name": "Faktury-MC-Praha12-2019.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/7518810d-0659-445c-a73c-522bd0c02c74/ded10ad1-2233-48c1-bd92-8a216b0345e4-faktury-mc-praha12-2019.csv"
-  },
-  {
-    "name": "Faktury-MC-Praha12-2020.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/7518810d-0659-445c-a73c-522bd0c02c74/objednavky-MC-Praha-12-2020.csv"
-  },
-  {
-    "name": "Faktury-MC-Praha12-2021.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/7518810d-0659-445c-a73c-522bd0c02c74/7303368a-19e1-4884-b371-e7228ae70884-opendata-faktury-mc-praha-12.csv"
-  },
-  {
-    "name": "Faktury-MC-Praha12-2022.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/7518810d-0659-445c-a73c-522bd0c02c74/c7dee599-35ef-4264-a752-ff2be101f7d4-opendata-faktury-mc-praha-12.csv"
-  },
-  {
-    "name": "Faktury-MC-Praha12-2024.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/95b379b2-c38e-41ca-beac-81de6bd0fb56/opendata-faktury-mc-praha-12-2024.csv"
-  },
-  {
-    "name": "Faktury-MC-Praha12.2023.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/95b379b2-c38e-41ca-beac-81de6bd0fb56/opendata-faktury-mc-praha-12-2023.csv"
   },
   {
     "name": "Financni_vztahy_mezi_HMP_a_MC_HMP_2021.csv",
@@ -328,292 +148,12 @@
     "url": "https://storage.golemio.cz/lkod/mhp/c524500c-840a-49b5-841b-587d7c4b0737/f161c804-a9e1-4c9a-95c0-06ddd5639f9d-financni_vztahy_mezi_hmp_a_mc_hmp_2020.json"
   },
   {
-    "name": "Kniha doručených faktur 2015",
-    "url": "https://storage.golemio.cz/lkod/praha-5/eacf0976-8318-4799-9027-1642c33f2c6a/d0eaca9a-33e3-445e-a552-9c2f879cddcf-kniha-doruenych-faktur-p-5-za-rok-2015.csv"
-  },
-  {
-    "name": "Kniha doručených faktur 2015 ve formátu xlsx",
-    "url": "https://storage.golemio.cz/lkod/praha-5/eacf0976-8318-4799-9027-1642c33f2c6a/38bd1375-08d3-4441-a10f-85e07b882675-kniha-doruenych-faktur-p-5-za-rok-2015-pro-excel.xlsx"
-  },
-  {
-    "name": "Kniha doručených faktur P-5 za rok 2016 csv utf8",
-    "url": "https://storage.golemio.cz/lkod/praha-5/56d279c7-4cc4-428b-aa7f-884600614c96/297271ea-c6e9-4786-bf1c-b7df1ef2ed45-kniha-doruenych-faktur-p-5-za-rok-2016.csv"
-  },
-  {
-    "name": "Kniha doručených faktur P-5 za rok 2016 xlsx Excel",
-    "url": "https://storage.golemio.cz/lkod/praha-5/56d279c7-4cc4-428b-aa7f-884600614c96/1dcd6ca3-61a7-4cab-a1db-fa5a0b7ebcdd-kniha-doruenych-faktur-p-5-za-rok-2016-pro-excel.xlsx"
-  },
-  {
-    "name": "Komunikace se zákazníky 2020",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/3130556f-1b8e-4b36-98f0-cb6ae137ff07/e2e91e7f-2424-4a55-942a-b208a4f1ac2a-1_komunikace-se-zakazniky-statistika-za-rok-2020.csv"
-  },
-  {
-    "name": "Kontaktní osoby",
-    "url": "https://storage.golemio.cz/lkod/praha-8/bca34a0f-e552-4ff4-8a3d-c642455cae9c/5390d539-0a19-40d7-960d-19b812eaacb0-vizitky-vse.csv"
-  },
-  {
-    "name": "Kvalita vody 01-2022",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/6f5b32a7-0720-4647-8cb2-df164a937bf2-kvalita_vody_01_2022.csv"
-  },
-  {
-    "name": "Kvalita vody 01-2023",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/Kvalita_vody_01_2023.csv"
-  },
-  {
-    "name": "Kvalita vody 02-2022",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/a8f6a5f8-adad-4b8a-8052-fe5a3f9de84e-kvalita_vody_02_2022.csv"
-  },
-  {
-    "name": "Kvalita vody 02-2023",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/kvalita_vody_02_2023.csv"
-  },
-  {
-    "name": "Kvalita vody 02-2024",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/kvalita_vody_2_2024.csv"
-  },
-  {
-    "name": "Kvalita vody 03-2022",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/0ec28779-3e19-4b1f-93ca-dff4293d3ae9-kvalita_vody_03_2022.csv"
-  },
-  {
-    "name": "Kvalita vody 03-2023",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/kvalita_vody_03_2023.csv"
-  },
-  {
-    "name": "Kvalita vody 04-2022",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/76b05ab5-8a5f-4048-9471-5fd2cc061e28-kvalita_vody_04_2022.csv"
-  },
-  {
-    "name": "Kvalita vody 04-2023",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/kvalita_vody_04_2023.csv"
-  },
-  {
-    "name": "Kvalita vody 04-2024",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/kvalita_vody_4_2024.csv"
-  },
-  {
-    "name": "Kvalita vody 05-2022",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/c4cf7994-f2c1-46fe-ab52-28112c9e7a8e-kvalita_vody_05_2022.csv"
-  },
-  {
-    "name": "Kvalita vody 05-2023",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/kvalita_vody_05_2023.csv"
-  },
-  {
-    "name": "Kvalita vody 06-2022",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/071d53b1-aedc-422d-8dfe-f58fce63e82b-kvalita_vody_06_2022.csv"
-  },
-  {
-    "name": "Kvalita vody 06-2023",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/071d53b1-aedc-422d-8dfe-f58fce63e82b-kvalita_vody_06_2022.csv"
-  },
-  {
-    "name": "Kvalita vody 07-2022",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/51e176ac-5592-46c1-aaca-9c1e24de87fa-kvalita_vody_07_2022.csv"
-  },
-  {
-    "name": "Kvalita vody 07-2023",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/kvalita_vody_07_2023.csv"
-  },
-  {
-    "name": "Kvalita vody 08-2022",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/c98ab926-eca8-413a-8384-646bd0861ad8-kvalita_vody_08_2022.csv"
-  },
-  {
-    "name": "Kvalita vody 08-2023",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/kvalita_vody_08_2023.csv"
-  },
-  {
-    "name": "Kvalita vody 09-2022",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/Kvalita_vody_09_2022.csv"
-  },
-  {
-    "name": "Kvalita vody 09-2023",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/kvalita_vody_09_2023.csv"
-  },
-  {
-    "name": "Kvalita vody 10-2022",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/Kvalita_vody_10_2022.csv"
-  },
-  {
-    "name": "Kvalita vody 10-2023",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/kvalita_vody_10_2023.csv"
-  },
-  {
-    "name": "Kvalita vody 11-2022",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/Kvalita_vody_11_2022.csv"
-  },
-  {
-    "name": "Kvalita vody 11-2023",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/kvalita_vody_11_2023.csv"
-  },
-  {
-    "name": "Kvalita vody 12-2022",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/Kvalita_vody_12_2022.csv"
-  },
-  {
-    "name": "Kvalita vody 12-2023",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/kvalita_vody_12_2023.csv"
-  },
-  {
-    "name": "Kvalita vody 2020",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/19beb88e-f2cc-472b-9eeb-60202fac8163-kvalita_vody_2020.csv"
-  },
-  {
-    "name": "Kvalita vody 2021",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/73e7cd04-f031-4b95-899a-b5f27551df4e-kvalita_vody_2021.csv"
-  },
-  {
-    "name": "Kvalita vody 3/2024",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/kvalita_vody_3_2024.csv"
-  },
-  {
-    "name": "Lexikon biotopy",
-    "url": "https://storage.golemio.cz/lkod/zoopraha/26ec20b9-341a-4080-ba03-f49327fafe20/f2dd58ab-ef76-4c13-8ca2-06d969b33531-lexiconbiotopes.csv"
-  },
-  {
-    "name": "Lexikon biotopy vazby",
-    "url": "https://storage.golemio.cz/lkod/zoopraha/26ec20b9-341a-4080-ba03-f49327fafe20/d0792cb4-6227-4f5d-b09e-693394cfcbbd-lexiconbiotopesvazba.csv"
-  },
-  {
-    "name": "Lexikon kontinenty",
-    "url": "https://storage.golemio.cz/lkod/zoopraha/26ec20b9-341a-4080-ba03-f49327fafe20/3b4d38c0-da26-4d08-a8b8-bbce949712e1-lexikoncontinents.csv"
-  },
-  {
-    "name": "Lexikon kontinenty vazba",
-    "url": "https://storage.golemio.cz/lkod/zoopraha/26ec20b9-341a-4080-ba03-f49327fafe20/7d168acc-4db4-4830-a59a-a57415303bc6-lexikoncontinentsvazba.csv"
-  },
-  {
-    "name": "Lexikon lokality",
-    "url": "https://storage.golemio.cz/lkod/zoopraha/26ec20b9-341a-4080-ba03-f49327fafe20/4711a739-bd40-40fe-9be0-bc1c9681fcb4-lexiconlocalities.csv"
-  },
-  {
-    "name": "Lexikon lokality typy",
-    "url": "https://storage.golemio.cz/lkod/zoopraha/26ec20b9-341a-4080-ba03-f49327fafe20/d7c63960-b578-49fe-b3b1-54c177a780f8-lexiconlocalitiestypes.csv"
-  },
-  {
-    "name": "Lexikon potrava",
-    "url": "https://storage.golemio.cz/lkod/zoopraha/26ec20b9-341a-4080-ba03-f49327fafe20/27118703-392e-4267-bc94-765dbeb1f8d5-lexiconfood.csv"
-  },
-  {
-    "name": "Lexikon potrava vazba",
-    "url": "https://storage.golemio.cz/lkod/zoopraha/26ec20b9-341a-4080-ba03-f49327fafe20/dcd452c1-24b9-43bc-b0ef-3a64e6976428-lexiconfoodb.csv"
-  },
-  {
-    "name": "Lexikon třídy",
-    "url": "https://storage.golemio.cz/lkod/zoopraha/26ec20b9-341a-4080-ba03-f49327fafe20/d798a1a1-3173-4cb5-9691-af1cf44c070f-lexiconclass2.csv"
-  },
-  {
-    "name": "Lexikon zvířat",
-    "url": "https://storage.golemio.cz/lkod/zoopraha/26ec20b9-341a-4080-ba03-f49327fafe20/6d6f92fa-c28b-4027-8be9-23bee4a6cdf6-lexiconcomplete.xlsx"
-  },
-  {
-    "name": "Lexikon zvířat",
-    "url": "https://storage.golemio.cz/lkod/zoopraha/26ec20b9-341a-4080-ba03-f49327fafe20/b91ccc1c-528c-4269-90d1-daccd2843d21-lexiconcomplete.csv"
-  },
-  {
-    "name": "Lokace - harmonogramy přistavování velkokapacitních kontejnerů na území MČ Praha 12",
-    "url": "https://storage.golemio.cz/lkod/praha-12/8e6e0983-e512-480a-8069-987ff16c02c2/opendata-harmonogram-odpady-lokace-mc-praha-12.csv"
-  },
-  {
     "name": "MHMP_dopravni_prestupky_2022.zip",
     "url": "https://storage.golemio.cz/ckan/mporga/MHMP_dopravni_prestupky_2022.zip"
   },
   {
     "name": "MHMP_dopravni_prestupky_2023.zip",
     "url": "https://storage.golemio.cz/ckan/mporga/MHMP_dopravni_prestupky_2023.zip"
-  },
-  {
-    "name": "Najemni smlouvy nebytove prostory.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/8377ecf9-a402-4524-8ef4-6c723e9af7a6/opendata-nebytove-prostory-mc-praha-12.csv"
-  },
-  {
-    "name": "Neinvestiční financování státních škol Prahy 3",
-    "url": "https://storage.golemio.cz/lkod/praha-3/0ef21fd6-011f-4b41-9f60-cc50be77c3ae/bfa6b370-f6aa-459c-8011-fa6ba2368d81-p3_financovani_skol_opendata.xlsx"
-  },
-  {
-    "name": "Návštěvnost zoo",
-    "url": "https://storage.golemio.cz/lkod/zoopraha/bb4c0bf5-8f50-4290-9f1a-1be66b986bd5/c8948c01-974c-4f84-83db-1ce3274a0f7c-zoo-navstevnost.csv"
-  },
-  {
-    "name": "OKS_kontakty_seznam zamestnancu_UMČ P11_k 31.1.2022.xlsx",
-    "url": "https://storage.golemio.cz/lkod/praha-11/c8c1fe2d-31e4-43c4-bb79-a53341e21a8e/6d637555-e5fa-4fdc-8278-5d4264c3cdb1-oks_kontakty_seznam-zamestnancu_um-p11_k-31.1.2022.xlsx"
-  },
-  {
-    "name": "OUR_uzemni studie MC Praha 11 k 31.1.2022.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-11/9373ff4b-70e1-41d2-9904-cd04803ab11b/68286646-409b-476e-98f9-8f3ef6f18b9a-konverze_2_ds_our_uzemni-studie-mc-praha-11.csv"
-  },
-  {
-    "name": "OUR_uzemni studie MC Praha 11_k 31.1.2022.xlsx",
-    "url": "https://storage.golemio.cz/lkod/praha-11/9373ff4b-70e1-41d2-9904-cd04803ab11b/6ce86ca5-0f98-430a-bb38-fd80a7f6b1cf-2_ds_our_uzemni-studie-mc-praha-11.xlsx"
-  },
-  {
-    "name": "Objednavky-MC-Praha12-2010.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/69a8353e-0501-4223-836d-0547db7925ed/867ebc09-7d89-4b8c-a523-cee5250ea074-objednavky-mc-praha12-2010.csv"
-  },
-  {
-    "name": "Objednavky-MC-Praha12-2011.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/69a8353e-0501-4223-836d-0547db7925ed/7fa837d1-ac46-4386-82f2-c9471f262b68-objednavky-mc-praha12-2011.csv"
-  },
-  {
-    "name": "Objednavky-MC-Praha12-2012.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/69a8353e-0501-4223-836d-0547db7925ed/af288d14-9efe-4c56-98a8-5ba0771e4117-objednavky-mc-praha12-2012.csv"
-  },
-  {
-    "name": "Objednavky-MC-Praha12-2013.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/69a8353e-0501-4223-836d-0547db7925ed/64dfe067-b485-42d6-9002-54cc5c09f028-objednavky-mc-praha12-2013.csv"
-  },
-  {
-    "name": "Objednavky-MC-Praha12-2014.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/69a8353e-0501-4223-836d-0547db7925ed/522441b8-581c-45d0-8ff6-08ef39ecbe4b-objednavky-mc-praha12-2014.csv"
-  },
-  {
-    "name": "Objednavky-MC-Praha12-2015.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/69a8353e-0501-4223-836d-0547db7925ed/a75c4cf9-5bb8-42c4-92ec-e334474d3e25-objednavky-mc-praha12-2015.csv"
-  },
-  {
-    "name": "Objednavky-MC-Praha12-2016.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/69a8353e-0501-4223-836d-0547db7925ed/88fc8167-9ecb-40d4-b3fc-71f2cf60b34d-objednavky-mc-praha12-2016.csv"
-  },
-  {
-    "name": "Objednavky-MC-Praha12-2017.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/69a8353e-0501-4223-836d-0547db7925ed/1a17da14-c9d2-4b91-abf9-71ab04afa69f-objednavky-mc-praha12-2017.csv"
-  },
-  {
-    "name": "Objednavky-MC-Praha12-2018.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/69a8353e-0501-4223-836d-0547db7925ed/466d54cd-3c59-46fd-b510-e4d73eb1dd3c-objednavky-mc-praha12-2018.csv"
-  },
-  {
-    "name": "Objednavky-MC-Praha12-2019.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/69a8353e-0501-4223-836d-0547db7925ed/8d6f5bee-1d1f-445e-aa64-f78b92062920-objednavky-mc-praha12-2019.csv"
-  },
-  {
-    "name": "Objednavky-MC-Praha12-2020.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/69a8353e-0501-4223-836d-0547db7925ed/objednavky-MC-Praha-12-2020.csv"
-  },
-  {
-    "name": "Objednavky-MC-Praha12-2021.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/69a8353e-0501-4223-836d-0547db7925ed/objednavky-MC-Praha-12-2021.csv"
-  },
-  {
-    "name": "Objednavky-MC-Praha12-2022.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/69a8353e-0501-4223-836d-0547db7925ed/objednavky-MC-Praha-12-2022.csv"
-  },
-  {
-    "name": "Objednávky-MC-Praha12-2023.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/7d147215-7f98-419a-917b-7343df613107/opendata-objednavky-mc-praha-12-2023.csv"
-  },
-  {
-    "name": "Objednávky-MC-Praha12-2024.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/7d147215-7f98-419a-917b-7343df613107/opendata-objednavky-mc-praha-12-2024.csv"
-  },
-  {
-    "name": "Oborové skupiny",
-    "url": "https://storage.golemio.cz/lkod/mlp/d2b0a3e8-1482-4e00-962a-220d1230bded/6234e0ca-71b4-4e03-ac86-4450a73eb8ae-oborove-skupiny.csv"
-  },
-  {
-    "name": "Oborové skupiny",
-    "url": "https://storage.golemio.cz/lkod/mlp/d2b0a3e8-1482-4e00-962a-220d1230bded/7af62c91-0585-4acb-84ac-bc7e93f560f0-oborove-skupiny.xlsx"
   },
   {
     "name": "Odmeny_ZHMP_2021.csv",
@@ -672,42 +212,6 @@
     "url": "https://storage.golemio.cz/ckan/pko/PKO_dle_ucetni_operace.xlsx"
   },
   {
-    "name": "Pasport verejenych prostranstvi_2021",
-    "url": "https://storage.golemio.cz/lkod/praha-11/14f7dfe5-bda2-4caf-8207-810e50d1655c/666674b8-82ff-430b-ac23-3fd393e220bf-1_ds_our_pasport-verejenych-prostranstvi_mc-praha-11.xlsx"
-  },
-  {
-    "name": "Pasport verejenych prostranstvi_2021.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-11/14f7dfe5-bda2-4caf-8207-810e50d1655c/15f848d3-1887-4efe-bd0b-564e4eaf9a1a-konverze_1_ds_our_pasport-verejenych-prostranstvi_mc-praha-.csv"
-  },
-  {
-    "name": "Pasport verejenych prostranstvi_2021.xlsx",
-    "url": "https://storage.golemio.cz/lkod/praha-11/14f7dfe5-bda2-4caf-8207-810e50d1655c/cb16367b-29f7-4bd6-a318-8280c762be44-1_ds_our_pasport-verejenych-prostranstvi_mc-praha-11.xlsx"
-  },
-  {
-    "name": "Pasport veřejného prostranství 2019",
-    "url": "https://storage.golemio.cz/lkod/praha-11/14f7dfe5-bda2-4caf-8207-810e50d1655c/3a4aba36-48df-4291-b1c0-6e6d7341943e-konverze_ds_pasport-veejnych-prostranstvi_m-praha-11.csv"
-  },
-  {
-    "name": "Pasport veřejného prostranství 2020",
-    "url": "https://storage.golemio.cz/lkod/praha-11/14f7dfe5-bda2-4caf-8207-810e50d1655c/6470e92e-6c83-4855-b55f-b2c0504c7ecc-konverze_ds_pasport-veejnych-prostranstvi_m-praha-11_2020.c.csv"
-  },
-  {
-    "name": "Pasport veřejného prostranství 2020",
-    "url": "https://storage.golemio.cz/lkod/praha-11/14f7dfe5-bda2-4caf-8207-810e50d1655c/89270951-023c-40e3-85c1-c7689cf75eb5-ds_pasport-veejnych-prostranstvi_m-praha-11_2020.csv.xlsx"
-  },
-  {
-    "name": "Pasport veřejného prostranství 2022",
-    "url": "https://storage.golemio.cz/lkod/praha-11/14f7dfe5-bda2-4caf-8207-810e50d1655c/pasport-verejneho-prostranstvi-2022.csv"
-  },
-  {
-    "name": "Pasport veřejného prostranství 2022.xlsx",
-    "url": "https://storage.golemio.cz/lkod/praha-11/14f7dfe5-bda2-4caf-8207-810e50d1655c/pasport-verejneho-prostranstvi-2022.xlsx.xlsx"
-  },
-  {
-    "name": "Pasport veřejných prostranství_2019.xlsx",
-    "url": "https://storage.golemio.cz/lkod/praha-11/14f7dfe5-bda2-4caf-8207-810e50d1655c/cc63e791-3004-46a5-af12-871c66b6c68e-ds_pasport-veejnych-prostranstvi_m-praha-11.xlsx"
-  },
-  {
     "name": "Pocet_nove_uzavrenych_najemnich_vztahu_HMP.csv",
     "url": "https://storage.golemio.cz/ckan/nove_najmy_byty/Pocet_nove_uzavrenych_najemnich_vztahu_HMP.csv"
   },
@@ -732,76 +236,12 @@
     "url": "https://storage.golemio.cz/ckan/soudni_spory_byty/Pocet_vedenych_soudnich_sporu_k_bytovemu_fondu_HMP.xlsx"
   },
   {
-    "name": "Povolení a zákaz pobíhání psů na území MČ Praha 11",
-    "url": "https://storage.golemio.cz/lkod/praha-11/b08442cf-aac9-4067-ac99-ce013e079961/7_ds-ozp_povoleni-a-zakaz-pobihani-psu-mc-praha-11..xlsx"
-  },
-  {
-    "name": "Povolení a zákaz pobíhání psů na území MČ Praha 11",
-    "url": "https://storage.golemio.cz/lkod/praha-11/b08442cf-aac9-4067-ac99-ce013e079961/konverze_7_ds-ozp_povoleni-a-zakaz-pobihani-psu-mc-praha-11..csv"
-  },
-  {
-    "name": "Povolení k lovu a rybolovu",
-    "url": "https://storage.golemio.cz/lkod/praha-8/99beeef3-e35c-439f-be8e-7a8d06d30065/e80bca64-64b3-48cd-b831-e35fd528a8dd-2.csv"
-  },
-  {
-    "name": "Povolení k lovu a rybolovu 2017",
-    "url": "https://storage.golemio.cz/lkod/praha-8/99beeef3-e35c-439f-be8e-7a8d06d30065/43cddad0-314c-44c3-9df5-be661dd6724d-povoleni-k-lovu2017.csv"
-  },
-  {
-    "name": "Povolení k lovu a rybolovu 2018",
-    "url": "https://storage.golemio.cz/lkod/praha-8/99beeef3-e35c-439f-be8e-7a8d06d30065/67111264-5125-4f77-9ba9-b34139bd0c7d-povolenky-2018-list-1-povolenky-2018-list-1.csv.csv"
-  },
-  {
     "name": "Počet opravených bytů HMP",
     "url": "https://storage.golemio.cz/ckan/opravene_byty/Pocet_opravenych_bytu_HMP.csv"
   },
   {
     "name": "Počet opravených bytů HMP",
     "url": "https://storage.golemio.cz/ckan/opravene_byty/Pocet_opravenych_bytu_HMP.xlsx"
-  },
-  {
-    "name": "Počet žádostí dle zákona 106/1999_2022.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-11/4ec2a0f8-dc8c-4c72-af73-442e8b3747a1/383fe9bd-50d2-493d-b09c-c9707251d69d-konverze_16_oks_ds_seznam_zadost-o-informace-106.csv"
-  },
-  {
-    "name": "Počet žádostí dle zákona 106/1999_2022.xlsx",
-    "url": "https://storage.golemio.cz/lkod/praha-11/4ec2a0f8-dc8c-4c72-af73-442e8b3747a1/01296b26-4a9e-42ee-af26-b05ebec6c57e-16_oks_ds_seznam_zadost-o-informace-106.xlsx"
-  },
-  {
-    "name": "Počet žáků v ZŠ Praha 11",
-    "url": "https://storage.golemio.cz/lkod/praha-11/e7481174-1e15-4429-997e-c33b17e404a5/konverze_11_ds_osk_pocet-zaku-zs_praha-11_ke-konverzi.csv"
-  },
-  {
-    "name": "Počty dětí ve školním roce 2015/2016 v MČ Praha 8",
-    "url": "https://storage.golemio.cz/lkod/praha-8/620dcc81-e32f-467a-9972-5811dec3cca4/73ae3cad-73a6-4f84-a062-b27d310c909c-poty-dti-m-2015-2016.csv"
-  },
-  {
-    "name": "Počty dětí ve školním roce 2016/2017 v MČ Praha 8",
-    "url": "https://storage.golemio.cz/lkod/praha-8/620dcc81-e32f-467a-9972-5811dec3cca4/4cef2a18-fd66-4d22-bedf-bd244138acec-poty-dti-m-2016-2017.csv"
-  },
-  {
-    "name": "Počty dětí ve školním roce 2017/2018 v MČ Praha 8",
-    "url": "https://storage.golemio.cz/lkod/praha-8/620dcc81-e32f-467a-9972-5811dec3cca4/54971ab6-d03c-47c2-a7dc-6bdf5bebba71-poty-dti-m-2017-2018.csv"
-  },
-  {
-    "name": "Počty dětí ve školním roce 2018/2019 v MČ Praha 8",
-    "url": "https://storage.golemio.cz/lkod/praha-8/620dcc81-e32f-467a-9972-5811dec3cca4/af027b22-5528-416e-9d39-a8dcefb4b7e1-m-list-1.xlsx.csv"
-  },
-  {
-    "name": "Počty tříd a žáků ve školním roce 2015/2016 v MČ Praha 8",
-    "url": "https://storage.golemio.cz/lkod/praha-8/ccc44702-e413-422e-a902-3df631c87d57/1b2c6ba9-9b05-4060-b014-0b20d047a56e-7a.csv"
-  },
-  {
-    "name": "Počty tříd a žáků ve školním roce 2016/2017 v MČ Praha 8",
-    "url": "https://storage.golemio.cz/lkod/praha-8/ccc44702-e413-422e-a902-3df631c87d57/508c2ee4-f796-44f7-a274-5f56b548b0a3-poty-ak-z-2016-2017.csv"
-  },
-  {
-    "name": "Počty tříd a žáků ve školním roce 2017/2018 v MČ Praha 8",
-    "url": "https://storage.golemio.cz/lkod/praha-8/ccc44702-e413-422e-a902-3df631c87d57/056a4b8b-f38c-4ce2-92db-e537e1879f93-poty-ak-z-2017-2018.csv"
-  },
-  {
-    "name": "Počty tříd a žáků ve školním roce 2018/2019 v MČ Praha 8",
-    "url": "https://storage.golemio.cz/lkod/praha-8/ccc44702-e413-422e-a902-3df631c87d57/701c27c5-1803-429e-bd13-59e0d81ce40d-z-tidy.csv"
   },
   {
     "name": "Prijate_faktury_1999.csv",
@@ -1088,26 +528,6 @@
     "url": "https://storage.golemio.cz/ckan/publikacni_plan_mhmp/Publikacni_plan_verejnost.xlsx"
   },
   {
-    "name": "Přehled investičních akcí OSM MČ Praha 11 2023",
-    "url": "https://storage.golemio.cz/lkod/praha-11/915a72ef-a9e9-4ea3-9e6f-e5cbf71899d4/konverze_prehled-investicnich-akci-osm-2023.csv"
-  },
-  {
-    "name": "Přehled investičních akcí a velkých oprav MŠ a ZŠ 2023",
-    "url": "https://storage.golemio.cz/lkod/praha-11/35177adf-dfea-4be5-b7cb-652a14cada08/konverze_investice-zs-a-ms.csv"
-  },
-  {
-    "name": "Přehled jmenovitých oprav ZŠ a MŠ MČ Praha 11 2023",
-    "url": "https://storage.golemio.cz/lkod/praha-11/3eb66606-3642-48d5-a60e-4e972c03b464/konverze_jmenovite-opravy-zs-a-ms.csv"
-  },
-  {
-    "name": "Přehled výběrových řízení za rok 2022",
-    "url": "https://storage.golemio.cz/lkod/praha-11/eb0219b7-f0bd-4262-a281-ae4dc0d031b1/10_ds-okt_pa%99ehled-va½ba%9Brova½ch-a%99a­zena­-za-rok-2022.xlsx"
-  },
-  {
-    "name": "Přehled výběrových řízení za rok 2022",
-    "url": "https://storage.golemio.cz/lkod/praha-11/eb0219b7-f0bd-4262-a281-ae4dc0d031b1/konverze_10_ds-okt_prehled-vyberovych-rizeni-za-rok-2022.csv"
-  },
-  {
     "name": "Přijaté faktury MHMP 2021",
     "url": "https://storage.golemio.cz/ckan/prijate_faktury_MHMP/Prijate_faktury_MHMP_2021.csv"
   },
@@ -1118,10 +538,6 @@
   {
     "name": "Přijaté faktury MHMP 2021",
     "url": "https://storage.golemio.cz/ckan/prijate_faktury_MHMP/Prijate_faktury_MHMP_2021.xml"
-  },
-  {
-    "name": "Příspěvkové organizace MČ Praha 12",
-    "url": "https://storage.golemio.cz/lkod/praha-12/9fece778-023d-4bbe-8dc0-4913de9e1d06/prispevkove-organizace-mc-p12.csv"
   },
   {
     "name": "Rozpocet_MHMP_2021.csv",
@@ -1146,14 +562,6 @@
   {
     "name": "Rozpocet_MHMP_2022.xml",
     "url": "https://storage.golemio.cz/ckan/rozpocet_MHMP/Rozpocet_MHMP_2022.xml"
-  },
-  {
-    "name": "Rozpočet 2020.html",
-    "url": "https://storage.golemio.cz/lkod/praha-11/e40906ad-0593-4bd4-b92f-9b4ff3d8cad7/5f9e405f-3a19-4d48-b689-e1c7dda8a84e-odtrr001_202012_2021-07-30_1346.html"
-  },
-  {
-    "name": "Rozpočet 2021.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-11/8c650d74-b4ba-45ff-b96e-17fe2ef56d78/d16e009a-d0a0-49b1-bce0-998415584704-konverze_rozpoet_2021.csv"
   },
   {
     "name": "Rozpočet MHMP 2012",
@@ -1264,292 +672,12 @@
     "url": "https://storage.golemio.cz/lkod/mhp/2e269084-f149-44be-af76-304ab614e0f3/e9228bd6-b693-4869-be20-0824be495bc3-rozpocet_mhmp_2020.json"
   },
   {
-    "name": "Rozpočet MČ Praha 11_2021.html",
-    "url": "https://storage.golemio.cz/lkod/praha-11/8c650d74-b4ba-45ff-b96e-17fe2ef56d78/55cf661e-d989-43f6-aebc-f95f95da26d6-odtrr001_202012_2021-07-30_1346.html"
-  },
-  {
-    "name": "Rozpočet MČ Praha 11_2021.json",
-    "url": "https://storage.golemio.cz/lkod/praha-11/8c650d74-b4ba-45ff-b96e-17fe2ef56d78/95a7b4c2-61ec-4b35-8a6c-32edc2b8e26c-odtrr001_202012_2021-07-30_1346.json"
-  },
-  {
-    "name": "Rozpočet MČ Praha 11_2021.xml",
-    "url": "https://storage.golemio.cz/lkod/praha-11/8c650d74-b4ba-45ff-b96e-17fe2ef56d78/6aa7a694-ed75-4179-ac4c-0769921bafd3-odtrr001_202012_2021-07-30_1346.xml"
-  },
-  {
-    "name": "Rozpočet městské části Praha 8 pro rok 2015",
-    "url": "https://storage.golemio.cz/lkod/praha-8/3d3bf298-cf9a-449e-9bf5-086f03f6d970/1a872380-25ec-43e5-a318-5d523b40e433-3otevena-data-rozpoet.xls"
-  },
-  {
-    "name": "Sběrná místa pro odpad a umístění kontejnerů na území MČ Praha 8 2015",
-    "url": "https://storage.golemio.cz/lkod/praha-8/8ef96e1f-e7e1-4898-b85d-eb8450a9ccfe/77092d58-b39b-4159-a315-ddd4219cf300-4.csv"
-  },
-  {
-    "name": "Sběrná místa pro odpad a umístění kontejnerů na území MČ Praha 8 2017",
-    "url": "https://storage.golemio.cz/lkod/praha-8/8ef96e1f-e7e1-4898-b85d-eb8450a9ccfe/53eca567-ea55-4ef4-a69b-1d1701277410-sbrna-mista-pro-odpad-a-umistni-kontejner2017.csv"
-  },
-  {
-    "name": "Sběrná místa pro odpad a umístění kontejnerů na území MČ Praha 8 2018",
-    "url": "https://storage.golemio.cz/lkod/praha-8/8ef96e1f-e7e1-4898-b85d-eb8450a9ccfe/f3eca41e-f215-4fda-aa13-cc9bec559a2b-stanovit-tidneho-odpadu-list-1.xlsx"
-  },
-  {
-    "name": "Seznam MŠ a ZŠ MČ Praha 11",
-    "url": "https://storage.golemio.cz/lkod/praha-11/ec4f8f33-0f04-4657-bf25-a8459dece35c/konverze_seznam-ms-a-zs-zrizovanych-mc-praha-11.csv"
-  },
-  {
-    "name": "Seznam dětských hřišť na území MČ Praha 11",
-    "url": "https://storage.golemio.cz/lkod/praha-11/62b0c4d2-f5c2-4ca1-89ff-9187f8f20215/4_ds_ozp_detska-hriste_praha-11_2023.xlsx"
-  },
-  {
-    "name": "Seznam dětských hřišť na území MČ Praha 11",
-    "url": "https://storage.golemio.cz/lkod/praha-11/62b0c4d2-f5c2-4ca1-89ff-9187f8f20215/konverze_4_ds_ozp_detska-hriste_praha-11_2023_2.csv"
-  },
-  {
-    "name": "Seznam mateřských škol 2015-2016",
-    "url": "https://storage.golemio.cz/lkod/praha-8/03ec85cb-255f-45b1-8c4a-f8a1d8333639/8eca15a5-2c42-4b0d-befd-377f9748c83e-51.csv"
-  },
-  {
-    "name": "Seznam mateřských škol 2016-2017",
-    "url": "https://storage.golemio.cz/lkod/praha-8/03ec85cb-255f-45b1-8c4a-f8a1d8333639/86c0c3cb-1fd9-4de9-8f2f-ed5ce961059e-m-2016-2017.csv"
-  },
-  {
-    "name": "Seznam mateřských škol 2017-2018",
-    "url": "https://storage.golemio.cz/lkod/praha-8/03ec85cb-255f-45b1-8c4a-f8a1d8333639/45d24d78-3e5f-4c49-a50b-10b224d028cc-m-2017-2018-kontakty.csv"
-  },
-  {
-    "name": "Seznam mateřských škol 2018-2019",
-    "url": "https://storage.golemio.cz/lkod/praha-8/03ec85cb-255f-45b1-8c4a-f8a1d8333639/d447c1c8-7f1f-462d-8c26-c46d476504c6-m-kontakt-list-1.xlsx.csv"
-  },
-  {
-    "name": "Seznam neadresnych parkovacich stani OZP_2022.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-11/97ba07be-8eab-4ae7-81e2-862aafdea142/f2ec3aed-c41e-44e3-b342-dbd87ead5917-konverze_12_ds_do_seznam-neadresnych-parkovacich-stani-ozp.csv"
-  },
-  {
-    "name": "Seznam neadresnych parkovacich stani OZP_2022.xlsx",
-    "url": "https://storage.golemio.cz/lkod/praha-11/97ba07be-8eab-4ae7-81e2-862aafdea142/341cd3fc-f9d9-4ce7-8fc0-162e30621fb9-12_ds_do_seznam-neadresnych-parkovacich-stani-ozp.xlsx"
-  },
-  {
-    "name": "Seznam objektu MC Praha 11.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-11/7dad8e42-174c-4809-8559-c5e51f6a7a17/39c00e37-7ad6-4990-9757-501691956c35-konverze_13_ds_omp_seznam-objektu-mc-praha-11.csv"
-  },
-  {
-    "name": "Seznam objektu MC Praha 11.xlsx",
-    "url": "https://storage.golemio.cz/lkod/praha-11/7dad8e42-174c-4809-8559-c5e51f6a7a17/3fc2a40d-fb3c-4d25-9135-12e7c520cf34-13_ds_omp_seznam-objektu-mc-praha-11.xlsx"
-  },
-  {
-    "name": "Seznam odpadkových košů ve správě OŽP",
-    "url": "https://storage.golemio.cz/lkod/praha-11/b8aba29b-2bdb-41d0-89b3-fd17c076c5b7/3_ds_ozp_kose-ve-sprave-ozp.xlsx"
-  },
-  {
-    "name": "Seznam odpadkových košů ve správě OŽP",
-    "url": "https://storage.golemio.cz/lkod/praha-11/b8aba29b-2bdb-41d0-89b3-fd17c076c5b7/konverze_3_ds_ozp_kose-ve-sprave-ozp.csv"
-  },
-  {
-    "name": "Seznam památných stromů MČ Praha 11",
-    "url": "https://storage.golemio.cz/lkod/praha-11/79eccef6-d388-471b-886a-5776d20c095a/8_ds-ozp_seznam-pamatnych-stromu-na-mc-praha-11.xlsx"
-  },
-  {
-    "name": "Seznam památných stromů MČ Praha 11",
-    "url": "https://storage.golemio.cz/lkod/praha-11/79eccef6-d388-471b-886a-5776d20c095a/konverze_8_ds-ozp_seznam-pamatnych-stromu-na-mc-praha-11.csv"
-  },
-  {
-    "name": "Seznam sociálních služeb",
-    "url": "https://storage.golemio.cz/lkod/praha-8/f034006b-370e-4642-9e31-19599b381441/170f5039-f872-4ce1-b1c8-a304eb53a254-socialka.csv"
-  },
-  {
-    "name": "Seznam sociálních služeb 2017",
-    "url": "https://storage.golemio.cz/lkod/praha-8/f034006b-370e-4642-9e31-19599b381441/380e711c-a479-4fcf-98ee-abbd25845247-open-data-osvp8.csv-open-data-osvp8.csv.csv"
-  },
-  {
-    "name": "Seznam sociálních služeb 2018",
-    "url": "https://storage.golemio.cz/lkod/praha-8/f034006b-370e-4642-9e31-19599b381441/b10edebf-72ca-4399-9b0e-f71307de78df-socialni_sluzby_2018.csv"
-  },
-  {
-    "name": "Seznam sportovních hřišť na území MČ Praha 11",
-    "url": "https://storage.golemio.cz/lkod/praha-11/adf60f65-86bc-46be-989e-1337689e3eab/5_ds_ozp_sportovni-hriste_praha-11.xlsx"
-  },
-  {
-    "name": "Seznam sportovních hřišť na území MČ Praha 11",
-    "url": "https://storage.golemio.cz/lkod/praha-11/adf60f65-86bc-46be-989e-1337689e3eab/konverze_5_ds_ozp_sportovni-hriste_praha-11.csv"
-  },
-  {
-    "name": "Seznam strážníků a okrsků Městské policie MČ Praha 11",
-    "url": "https://storage.golemio.cz/lkod/praha-11/8c42f402-a4cf-4847-b927-c2b553782cd8/konverze_oks_seznam-strazniku.csv"
-  },
-  {
-    "name": "Seznam veřejně přístupných toalet na Praze 11",
-    "url": "https://storage.golemio.cz/lkod/praha-11/92a9e69c-9bc7-445c-9759-9a1910018071/9_ds-ozp_seznam-verejne-pristupnych-verejnych-toalet-na-praze-11-.xlsx"
-  },
-  {
-    "name": "Seznam veřejně přístupných toalet na Praze 11",
-    "url": "https://storage.golemio.cz/lkod/praha-11/92a9e69c-9bc7-445c-9759-9a1910018071/konverze_9_ds-ozp_seznam-verejne-pristupnych-verejnych-toalet-na-praze-11-.csv"
-  },
-  {
-    "name": "Seznam volných nebytových prostor k 31.10.2023",
-    "url": "https://storage.golemio.cz/lkod/praha-11/7245111f-0b3d-4a38-aabf-9d7e96e70f6b/konverze_volne-nebytove-prostory-k-10.2023csv.csv"
-  },
-  {
-    "name": "Seznam volných nebytových prostor k 31.10.2023",
-    "url": "https://storage.golemio.cz/lkod/praha-11/7245111f-0b3d-4a38-aabf-9d7e96e70f6b/volne-nebytove-prostory-k-10.2023.xlsx"
-  },
-  {
-    "name": "Seznam výběrových řízení na volná pracovní místa v MČ Praha 8 konané v roce 2017",
-    "url": "https://storage.golemio.cz/lkod/praha-8/c34f7274-ee70-4bc3-b245-35abd20f8f2b/9c69ad59-163c-4735-a4de-61805876a790-personalistika-praha8-2017-list1.csv"
-  },
-  {
-    "name": "Seznam zaměstnanců 8/2018",
-    "url": "https://storage.golemio.cz/lkod/praha-8/bca34a0f-e552-4ff4-8a3d-c642455cae9c/a97933f7-bf8f-422b-ac06-f45c29ccb12d-vizitka-8_2018.csv"
-  },
-  {
-    "name": "Seznam zaměstnanců k 1/2016",
-    "url": "https://storage.golemio.cz/lkod/praha-8/bca34a0f-e552-4ff4-8a3d-c642455cae9c/4573d8ad-d09b-4f59-84c7-e637dad2a289-informacestruktura.csv"
-  },
-  {
-    "name": "Seznam zaměstnanců k 2/2018",
-    "url": "https://storage.golemio.cz/lkod/praha-8/bca34a0f-e552-4ff4-8a3d-c642455cae9c/dfadac1f-3b30-459d-bb07-3209dbda84e8-pracovnici.csv"
-  },
-  {
-    "name": "Seznam zvířat k adopci",
-    "url": "https://storage.golemio.cz/lkod/zoopraha/86569c42-7788-44e4-bed6-23bd6b83bcea/959c0e6f-5afb-489f-95ef-c9c2982963de-adopcezvirata.csv"
-  },
-  {
-    "name": "Seznam základních škol v MČ Praha 8 2015-2016",
-    "url": "https://storage.golemio.cz/lkod/praha-8/9898a119-239c-41d2-a363-0b4c4f04bf0c/f922064b-d4bc-4a59-88b6-822df305d4de-71.csv"
-  },
-  {
-    "name": "Seznam základních škol v MČ Praha 8 2016-2017",
-    "url": "https://storage.golemio.cz/lkod/praha-8/9898a119-239c-41d2-a363-0b4c4f04bf0c/9c16fc84-13c3-478c-be35-b9ea455f2d77-z-2016-2017-kontakty.csv"
-  },
-  {
-    "name": "Seznam základních škol v MČ Praha 8 2017-2018",
-    "url": "https://storage.golemio.cz/lkod/praha-8/9898a119-239c-41d2-a363-0b4c4f04bf0c/690f3d9c-1bfb-4473-8bf6-ceef736a3d7b-z-2017-2018-kontakty.csv"
-  },
-  {
-    "name": "Seznam základních škol v MČ Praha 8 2018-2019",
-    "url": "https://storage.golemio.cz/lkod/praha-8/9898a119-239c-41d2-a363-0b4c4f04bf0c/789d2c41-af55-43e7-b957-632038ce548b-z-kontakt-list-1.csv"
-  },
-  {
-    "name": "Seznam čestných občanství MČ Praha 11 2001 - 2014",
-    "url": "https://storage.golemio.cz/lkod/praha-11/640e21cc-46da-4443-a62e-f679d389ae6e/4f750574-7f9a-4403-b5e9-2fc5b352a313-ds_estne-obanstvi_m-praha-11.xlsx"
-  },
-  {
-    "name": "Seznam čestných občanství_MČ Praha 11_2015_2020.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-11/640e21cc-46da-4443-a62e-f679d389ae6e/6582958a-ec73-4d56-8b79-76a94f5b03f7-konverze_seznam-estnych-oban-m-praha-11-2015_2020.csv"
-  },
-  {
-    "name": "Seznam čestných občanství_MČ Praha 11_2019.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-11/640e21cc-46da-4443-a62e-f679d389ae6e/083b5105-c54d-46e9-9b3e-7cebf6a639ab-konverze_ds_estne-obanstvi_m-praha-11.csv"
-  },
-  {
-    "name": "Seznam čestných občanství_MČ Praha 11_2021",
-    "url": "https://storage.golemio.cz/lkod/praha-11/640e21cc-46da-4443-a62e-f679d389ae6e/1d5c72e9-c35c-4976-b6c8-cfd5c52590c1-konverze_15_oks_ds_seznam-oceneni-mc-praha-11-2021.csv"
-  },
-  {
-    "name": "Seznam čestných občanství_MČ Praha 11_2021.xlsx",
-    "url": "https://storage.golemio.cz/lkod/praha-11/640e21cc-46da-4443-a62e-f679d389ae6e/45c3061c-1ca0-4916-8a1e-68b4faef0a28-15_oks_ds_seznam-oceneni-mc-praha-11-2021.xlsx"
-  },
-  {
-    "name": "Seznam čestných občanů MČ Praha 11 2015_2020.xlsx",
-    "url": "https://storage.golemio.cz/lkod/praha-11/640e21cc-46da-4443-a62e-f679d389ae6e/7f67fcb0-4d1b-47b8-82eb-ec055feaa9f0-seznam-estnych-oban-m-praha-11-2015_2020.xlsx"
-  },
-  {
-    "name": "Seznam čestných občanů k 11.7.2019",
-    "url": "https://storage.golemio.cz/lkod/praha-15/55993d04-6b59-4ab9-a4f2-a5a44911ec80/d9324ff1-9b04-4996-972a-693daf830932-seznam-cestnych-obcanu.xls"
-  },
-  {
     "name": "Seznam_organizaci_HMP.csv",
     "url": "https://storage.golemio.cz/ckan/seznam_organizaci_HMP/Seznam_organizaci_HMP.csv"
   },
   {
     "name": "Seznam_organizaci_HMP.xlsx",
     "url": "https://storage.golemio.cz/ckan/seznam_organizaci_HMP/Seznam_organizaci_HMP.xlsx"
-  },
-  {
-    "name": "Signaturové skupiiny",
-    "url": "https://storage.golemio.cz/lkod/mlp/d2b0a3e8-1482-4e00-962a-220d1230bded/af0b3e93-7e03-48fb-847c-660982838586-signaturove-skupiny.csv"
-  },
-  {
-    "name": "Signaturové skupiny",
-    "url": "https://storage.golemio.cz/lkod/mlp/d2b0a3e8-1482-4e00-962a-220d1230bded/6a3f2224-43cd-4d70-99e4-2d81119e965c-signaturove-skupiny.xlsx"
-  },
-  {
-    "name": "Smlouvy-MC-Praha12-2010.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/9a155e5f-b5a0-4e41-afa0-131ef96a4b59/bb59bd87-4ab7-41c0-aed5-a56aa853b207-smlouvy-mc-praha12-2010.csv"
-  },
-  {
-    "name": "Smlouvy-MC-Praha12-2011.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/9a155e5f-b5a0-4e41-afa0-131ef96a4b59/03a5135a-2d33-4ef4-874a-59b70a675850-smlouvy-mc-praha12-2011.csv"
-  },
-  {
-    "name": "Smlouvy-MC-Praha12-2012.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/9a155e5f-b5a0-4e41-afa0-131ef96a4b59/ca81fc13-a00c-4f56-80a1-78f3af1d0f06-smlouvy-mc-praha12-2012.csv"
-  },
-  {
-    "name": "Smlouvy-MC-Praha12-2013.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/9a155e5f-b5a0-4e41-afa0-131ef96a4b59/1d7b482a-c782-4803-bd7a-fafb23e60331-smlouvy-mc-praha12-2013.csv"
-  },
-  {
-    "name": "Smlouvy-MC-Praha12-2014.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/9a155e5f-b5a0-4e41-afa0-131ef96a4b59/c268085f-9019-4e2a-8f40-f51703304f15-smlouvy-mc-praha12-2014.csv"
-  },
-  {
-    "name": "Smlouvy-MC-Praha12-2015.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/9a155e5f-b5a0-4e41-afa0-131ef96a4b59/fa2a598b-7211-4c99-8135-d835787ff652-smlouvy-mc-praha12-2015.csv"
-  },
-  {
-    "name": "Smlouvy-MC-Praha12-2016.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/9a155e5f-b5a0-4e41-afa0-131ef96a4b59/5bb37c63-75a3-4fc6-a81c-78f34eb0b445-smlouvy-mc-praha12-2016.csv"
-  },
-  {
-    "name": "Smlouvy-MC-Praha12-2017.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/9a155e5f-b5a0-4e41-afa0-131ef96a4b59/9c0dd1ee-678e-4efd-8660-cae46e5ecee8-smlouvy-mc-praha12-2017.csv"
-  },
-  {
-    "name": "Smlouvy-MC-Praha12-2018.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/9a155e5f-b5a0-4e41-afa0-131ef96a4b59/6a181221-bb88-4110-8289-5d80d9401fc3-smlouvy-mc-praha12-2018.csv"
-  },
-  {
-    "name": "Smlouvy-MC-Praha12-2019.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/9a155e5f-b5a0-4e41-afa0-131ef96a4b59/2b0de06a-a7a2-40fb-8d26-9810c039a091-smlouvy-mc-praha12-2019.csv"
-  },
-  {
-    "name": "Smlouvy-MC-Praha12-2020.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/9a155e5f-b5a0-4e41-afa0-131ef96a4b59/smlouvy-MC-Praha-12-2020.csv"
-  },
-  {
-    "name": "Smlouvy-MC-Praha12-2021.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/9a155e5f-b5a0-4e41-afa0-131ef96a4b59/smlouvy-MC-Praha-12-2021.csv"
-  },
-  {
-    "name": "Smlouvy-MC-Praha12-2022.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/9a155e5f-b5a0-4e41-afa0-131ef96a4b59/opendata-smlouvy-MC-Praha-12-2022.csv"
-  },
-  {
-    "name": "Smlouvy-MC-Praha12-2023.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/36119500-1723-4b54-a469-b05fdab09a1c/opendata-smlouvy-mc-praha-12-2023.csv"
-  },
-  {
-    "name": "Smlouvy-MC-Praha12-2024.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-12/36119500-1723-4b54-a469-b05fdab09a1c/opendata-smlouvy-mc-praha-12-2024.csv"
-  },
-  {
-    "name": "Souhrnné provozní ukazatele",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/30049e0d-d8cf-4678-a0dd-1ec2f8291ec6/490dde62-2597-4658-b6cf-228a6c712ffc-3_souhrnne-provozni-ukazatele-statistika-za-rok-2020-1.csv"
-  },
-  {
-    "name": "Souhrnné technické ukazatele",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/ffb23e2f-2bad-4639-818c-8a5b85a33279/0e952c09-9188-4291-b352-a87d7e315d78-2_souhrnne-technicke-ukazatele-statistika-za-rok-2020.csv"
-  },
-  {
-    "name": "Sportoviště MČ Praha 8 2015",
-    "url": "https://storage.golemio.cz/lkod/praha-8/e0da5993-b46b-4f0c-908e-ee6fd68cecf6/30ab23cc-c036-43a9-bbb5-38f8586f74ab-8.csv"
-  },
-  {
-    "name": "Sportoviště MČ Praze 8 2017",
-    "url": "https://storage.golemio.cz/lkod/praha-8/e0da5993-b46b-4f0c-908e-ee6fd68cecf6/5e8b78d4-2ead-4fb3-9023-7511ecb982da-sportovit-2017.xlsx-list1.csv"
-  },
-  {
-    "name": "Sportoviště MČ Praze 8 2018",
-    "url": "https://storage.golemio.cz/lkod/praha-8/e0da5993-b46b-4f0c-908e-ee6fd68cecf6/665adc0c-7655-4d40-b1c9-37911a1f8957-sportovit-2019-list-1.xlsx.csv"
   },
   {
     "name": "Struktura_bytoveho_fondu_HMP.csv",
@@ -1560,24 +688,8 @@
     "url": "https://storage.golemio.cz/ckan/struktura_byty/Struktura_bytoveho_fondu_HMP.xls"
   },
   {
-    "name": "Uzemní studie MČ Praha 11 2022.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-11/9373ff4b-70e1-41d2-9904-cd04803ab11b/uzemni-studie-mc-praha-11_2022.csv"
-  },
-  {
-    "name": "VOK - Harmonogramy přistavování velkokapacitních kontejnerů na území MČ Praha 12",
-    "url": "https://storage.golemio.cz/lkod/praha-12/8e6e0983-e512-480a-8069-987ff16c02c2/opendata-harmonogram-odpady-vok-mc-praha-12.csv"
-  },
-  {
-    "name": "VUME PVS 2020-2022",
-    "url": "https://storage.golemio.cz/lkod/pvspvk/14591d2f-ef10-4993-b3cd-f89e337cde6e/vume-pvs-2020-2022.xlsx"
-  },
-  {
     "name": "Verejne_osvetleni_MHMP.zip",
     "url": "https://storage.golemio.cz/ckan/marbes/Verejne_osvetleni_MHMP.zip"
-  },
-  {
-    "name": "Veřejné toalety Praha 8 2018",
-    "url": "https://storage.golemio.cz/lkod/praha-8/c6c81445-bf68-43c5-a53d-732a3a02e824/5cb12d2f-c5ad-41c0-a107-122f90b11f9d-toalety.csv"
   },
   {
     "name": "Volné nebytové prostory MHMP",
@@ -1600,124 +712,12 @@
     "url": "https://storage.golemio.cz/ckan/obis/Vysledky_hlasovani_ZHMP_2018_-_2022.csv"
   },
   {
-    "name": "Výpujčky 1998-2015 souhrn",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/d6439b8f-72f0-41c6-8c93-7087ef567524-vypujcky-souhrn.csv"
-  },
-  {
-    "name": "Výpujčky v roce 1998",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/e5523017-5d0e-420b-b965-1ca40f505a7c-vypujcky-1998.csv"
-  },
-  {
-    "name": "Výpujčky v roce 1999",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/eb88fca0-93e2-4945-87c4-f440afc726da-vypujcky-1999.csv"
-  },
-  {
-    "name": "Výpujčky v roce 2000",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/5927f8db-abd5-45c9-847d-800e1433e0fb-vypujcky-2000.csv"
-  },
-  {
-    "name": "Výpujčky v roce 2001",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/bf06c96e-9e61-4208-a668-bebda8c3c05b-vypujcky-2001.csv"
-  },
-  {
-    "name": "Výpujčky v roce 2002",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/95a87a86-8a7f-4660-8fbc-18abf3bb22cc-vypujcky-2002.csv"
-  },
-  {
-    "name": "Výpujčky v roce 2003",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/5eaed0f7-f4a5-473c-86ca-cc9a059e0969-vypujcky-2003.csv"
-  },
-  {
-    "name": "Výpujčky v roce 2004",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/037c9f5e-9d88-4604-8a02-732a54ea53c1-vypujcky-2004.csv"
-  },
-  {
-    "name": "Výpujčky v roce 2005",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/120bbeb6-7d96-4d5b-ad6e-91bbe03b2494-vypujcky-2005.csv"
-  },
-  {
-    "name": "Výpujčky v roce 2006",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/e57590bf-c05f-4a83-ba2e-4b75eb56b02f-vypujcky-2006.csv"
-  },
-  {
-    "name": "Výpujčky v roce 2007",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/d93f1cf6-8a85-41c1-8eb3-73bb0000eaff-vypujcky-2007.csv"
-  },
-  {
-    "name": "Výpujčky v roce 2008",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/a84f4402-690e-489b-8108-752de39c5ce5-vypujcky-2008.csv"
-  },
-  {
-    "name": "Výpujčky v roce 2009",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/8f20b894-a001-490f-bb0c-170859abcfe7-vypujcky-2009.csv"
-  },
-  {
-    "name": "Výpujčky v roce 2010",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/051357cd-87d8-4e5c-9b95-bdfd4bc6e1a9-vypujcky-2010.csv"
-  },
-  {
-    "name": "Výpujčky v roce 2011",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/15802926-37e9-4937-85d1-115a02cbb83d-vypujcky-2011.csv"
-  },
-  {
-    "name": "Výpujčky v roce 2012",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/646f13e8-8eeb-404b-8a76-60f45d48c072-vypujcky-2012.csv"
-  },
-  {
-    "name": "Výpujčky v roce 2013",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/8649915c-78a8-493f-b211-cd77388c62cd-vypujcky-2013.csv"
-  },
-  {
-    "name": "Výpujčky v roce 2014",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/9ef25ffd-6f93-4d2a-98e5-2bc1a43bcc3a-vypujcky-2014.csv"
-  },
-  {
-    "name": "Výpujčky v roce 2015",
-    "url": "https://storage.golemio.cz/lkod/mlp/b31900f2-92b6-4a5d-b05b-4bb7e879ebb7/37231671-87a6-4682-a3d7-eaebd1363bb6-vypujcky-2015.csv"
-  },
-  {
-    "name": "Workout a fitness hřiště Praha 11",
-    "url": "https://storage.golemio.cz/lkod/praha-11/83f19c01-beea-4f68-8ec8-e41086fe5c31/6_ds_ozp_workout-a-fitness-hriste_praha-11.xlsx"
-  },
-  {
-    "name": "Workout a fitness hřiště Praha 11",
-    "url": "https://storage.golemio.cz/lkod/praha-11/83f19c01-beea-4f68-8ec8-e41086fe5c31/konverze_6_ds_ozp_workout-a-fitness-hriste_praha-11.csv"
-  },
-  {
     "name": "Zadosti_o_pronajem_bytu_HMP.csv",
     "url": "https://storage.golemio.cz/ckan/zadosti_byty/Zadosti_o_pronajem_bytu_HMP.csv"
   },
   {
     "name": "Zadosti_o_pronajem_bytu_HMP.xlsx",
     "url": "https://storage.golemio.cz/ckan/zadosti_byty/Zadosti_o_pronajem_bytu_HMP.xlsx"
-  },
-  {
-    "name": "Záchodky Praha 8 2015",
-    "url": "https://storage.golemio.cz/lkod/praha-8/c6c81445-bf68-43c5-a53d-732a3a02e824/8065266a-2b17-4741-93a9-08e7e1fe31f1-zachodky-list1.csv"
-  },
-  {
-    "name": "Záchodky Praha 8 2017",
-    "url": "https://storage.golemio.cz/lkod/praha-8/c6c81445-bf68-43c5-a53d-732a3a02e824/f0888804-41d9-471b-85ef-da6cd17f19ad-zachodky-2017.csv"
-  },
-  {
-    "name": "faktury_oict.csv",
-    "url": "https://storage.golemio.cz/ckan/oict-faktury/faktury_oict.csv"
-  },
-  {
-    "name": "kniha-dorucenych-faktur-p-5-za-rok-2017-csv-utf8",
-    "url": "https://storage.golemio.cz/lkod/praha-5/c66c06c8-7fe0-41f6-8154-1925841a97ad/381c40ba-fe8c-479b-8b70-a8110ea221b3-kniha-dorucenych-faktur-mc-praha-5-za-rok-2017.csv"
-  },
-  {
-    "name": "kniha-dorucenych-faktur-p-5-za-rok-2017-xlsx-Excel",
-    "url": "https://storage.golemio.cz/lkod/praha-5/c66c06c8-7fe0-41f6-8154-1925841a97ad/0bed2e80-1d95-4e5c-8cea-b40bc2cf4ac4-kniha-dorucenych-faktur-mc-praha-5-za-rok-2017.xlsx"
-  },
-  {
-    "name": "kniha-dorucenych-faktur-p-5-za-rok-2018-csv-utf8",
-    "url": "https://storage.golemio.cz/lkod/praha-5/4b280bb2-54b9-417c-bb4a-684cac7753cf/c8505f5f-233f-477f-89f1-e2a9c4d9bef3-kdf-2018.csv"
-  },
-  {
-    "name": "kniha-dorucenych-faktur-p-5-za-rok-2018-xlsx-Excel",
-    "url": "https://storage.golemio.cz/lkod/praha-5/4b280bb2-54b9-417c-bb4a-684cac7753cf/8ec89cd0-d968-4bac-bb26-dac1f4076d1a-kdf-2018.xlsx"
   },
   {
     "name": "kontrolyExport.xml",
@@ -1728,52 +728,8 @@
     "url": "https://storage.golemio.cz/ckan/ornext/opendata_events.json"
   },
   {
-    "name": "počet žádostí dle zákona 106_2021.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-11/4ec2a0f8-dc8c-4c72-af73-442e8b3747a1/c32d24b1-ec43-4b0a-86f0-67982cf55020-konverze_poet-adosi-dle-zakona-106_1999.csv"
-  },
-  {
-    "name": "počet žádostí dle zákona 106_2021.xlsx",
-    "url": "https://storage.golemio.cz/lkod/praha-11/4ec2a0f8-dc8c-4c72-af73-442e8b3747a1/50f44ef5-933f-4d08-a657-8a2ccb2023c3-poet-adosi-dle-zakona-106_1999.xlsx"
-  },
-  {
-    "name": "rozpočet_2020 (2).xml",
-    "url": "https://storage.golemio.cz/lkod/praha-11/e40906ad-0593-4bd4-b92f-9b4ff3d8cad7/74d44407-20b3-42ed-b625-054d64ec701a-rozpoet_2020-2.xml"
-  },
-  {
-    "name": "rozpočet_2020.json",
-    "url": "https://storage.golemio.cz/lkod/praha-11/e40906ad-0593-4bd4-b92f-9b4ff3d8cad7/068d1de1-d5a6-45e9-a0c7-019eb240930d-rozpoet_2020.json"
-  },
-  {
-    "name": "seznam pronájmů nebytových prostor",
-    "url": "https://storage.golemio.cz/lkod/praha-1/2f9975ff-8f31-4ee0-888b-1fcc5a9beddd/b51e9318-ca37-4dc2-b6ef-ff03df27b0c8-np-obsazene-vechna-data.csv"
-  },
-  {
-    "name": "seznam-clenu-organu.xlsx",
-    "url": "https://storage.golemio.cz/lkod/praha-15/44dc4568-11cf-4aa5-8a55-54ff3f2d7297/2929fab2-7417-40d5-a9a1-5029635429e6-seznam-clenu-organu.xlsx"
-  },
-  {
     "name": "verejne_zakazky.csv",
     "url": "https://storage.golemio.cz/ckan/tendersystems/verejne_zakazky.csv"
-  },
-  {
-    "name": "verejne_zakazky_PO.csv",
-    "url": "https://storage.golemio.cz/ckan/tendersystems/verejne_zakazky_PO.csv"
-  },
-  {
-    "name": "verejne_zakazky_opendata_zadano.csv",
-    "url": "https://storage.golemio.cz/ckan/vz_oict/verejne_zakazky_opendata_zadano.csv"
-  },
-  {
-    "name": "Územní studie MČ Praha 11.xlsx",
-    "url": "https://storage.golemio.cz/lkod/praha-11/9373ff4b-70e1-41d2-9904-cd04803ab11b/uzemni-studie-mc-praha-11.xlsx.xlsx"
-  },
-  {
-    "name": "Územní studie na území MČ Praha 11",
-    "url": "https://storage.golemio.cz/lkod/praha-11/9373ff4b-70e1-41d2-9904-cd04803ab11b/10670770-14d5-4feb-908e-ec6fb1894688-konverze_ds_our_uzemni-studie-na-uzemi-mp11_2020.csv"
-  },
-  {
-    "name": "Územní studie na území MČ Praha 11 2020",
-    "url": "https://storage.golemio.cz/lkod/praha-11/9373ff4b-70e1-41d2-9904-cd04803ab11b/2c265839-be1b-4d5b-a2b0-dd0266b5d84c-ds_our_uzemni-studie-na-uzemi-mp11_2020.xlsx"
   },
   {
     "name": "Čerpání rozpočtu MHMP 2012",
@@ -1882,65 +838,5 @@
   {
     "name": "Čerpání rozpočtu MHMP 2020",
     "url": "https://storage.golemio.cz/lkod/mhp/4d497f5a-edae-4f10-8aed-1e4152d0ad23/604a3290-0dd4-4261-919f-e86efa5fa0fd-cerpani_rozpoctu_mhmp_2020.csv"
-  },
-  {
-    "name": "Čerpání rozpočtu MČ Praha 11 rok 2021",
-    "url": "https://storage.golemio.cz/lkod/praha-11/cdfd74f0-fa55-4daa-ae6c-8cd61559404d/odtrr001_202112_2023-05-19_1029.csv"
-  },
-  {
-    "name": "Čerpání rozpočtu MČ Praha 11 rok 2021",
-    "url": "https://storage.golemio.cz/lkod/praha-11/cdfd74f0-fa55-4daa-ae6c-8cd61559404d/odtrr001_202112_2023-05-19_1029.html"
-  },
-  {
-    "name": "Čerpání rozpočtu MČ Praha 11 rok 2021",
-    "url": "https://storage.golemio.cz/lkod/praha-11/cdfd74f0-fa55-4daa-ae6c-8cd61559404d/odtrr001_202112_2023-05-19_1029.json"
-  },
-  {
-    "name": "Čerpání rozpočtu MČ Praha 11 rok 2021",
-    "url": "https://storage.golemio.cz/lkod/praha-11/cdfd74f0-fa55-4daa-ae6c-8cd61559404d/odtrr001_202112_2023-05-19_1029_int.xml"
-  },
-  {
-    "name": "Čerpání rozpočtu MČ Praha 11 rok 2022",
-    "url": "https://storage.golemio.cz/lkod/praha-11/5dd6cd75-8d40-438f-ba82-499952c3d52a/odtrr001_202212_2023-06-15_1527.csv"
-  },
-  {
-    "name": "Čerpání rozpočtu MČ Praha 11 rok 2022",
-    "url": "https://storage.golemio.cz/lkod/praha-11/5dd6cd75-8d40-438f-ba82-499952c3d52a/odtrr001_202212_2023-06-15_1527.json"
-  },
-  {
-    "name": "Čerpání rozpočtu MČ Praha 11 rok 2022",
-    "url": "https://storage.golemio.cz/lkod/praha-11/5dd6cd75-8d40-438f-ba82-499952c3d52a/odtrr001_202212_2023-06-15_1527_int.xml"
-  },
-  {
-    "name": "Čerpání rozpočtu MČ Praha 11 rok 2023",
-    "url": "https://storage.golemio.cz/lkod/praha-11/37e96ea5-0f77-457b-bb5c-306f6a53bdd7/odtrr001_202306_2023-09-11_1029.csv"
-  },
-  {
-    "name": "Čerpání rozpočtu MČ Praha 11 rok 2023",
-    "url": "https://storage.golemio.cz/lkod/praha-11/37e96ea5-0f77-457b-bb5c-306f6a53bdd7/odtrr001_202306_2023-09-11_1029.json"
-  },
-  {
-    "name": "Čerpání rozpočtu MČ Praha 11 rok 2023",
-    "url": "https://storage.golemio.cz/lkod/praha-11/37e96ea5-0f77-457b-bb5c-306f6a53bdd7/odtrr001_202306_2023-09-11_1029_int.xml"
-  },
-  {
-    "name": "Členové Zastupitelstva městské části Praha 12",
-    "url": "https://storage.golemio.cz/lkod/praha-12/f6fc54e1-89ae-46db-9163-5c7dcf924cb9/seznam-clenu-ZMC-RMC_2022-10.csv"
-  },
-  {
-    "name": "čerpání rozpočetu_2020.json",
-    "url": "https://storage.golemio.cz/lkod/praha-11/2193230c-a0c3-4e23-8739-591389ec2e31/51439e1f-f0ac-439a-9880-915616f94e26-erpani-rozpoetu_2020.json"
-  },
-  {
-    "name": "čerpání_rozpočet_2020.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-11/2193230c-a0c3-4e23-8739-591389ec2e31/4a64b294-2161-4f54-ada7-b0d1f9210ae6-konverze_erpani_rozpoet_2020.csv"
-  },
-  {
-    "name": "čerpání_rozpočet_2020.csv",
-    "url": "https://storage.golemio.cz/lkod/praha-11/e40906ad-0593-4bd4-b92f-9b4ff3d8cad7/5ff8fddd-ab35-4f10-a686-ca9fb8f4d733-konverze_erpani_rozpoet_2020.csv"
-  },
-  {
-    "name": "čerpání_rozpočtu_2020.xml",
-    "url": "https://storage.golemio.cz/lkod/praha-11/2193230c-a0c3-4e23-8739-591389ec2e31/635f5526-0ac7-4fc3-a8fd-c76ae0f9e840-erpani_rozpotu_2020.xml"
   }
 ]
