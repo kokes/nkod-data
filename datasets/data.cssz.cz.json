@@ -72,6 +72,10 @@
     "url": "https://data.cssz.cz/dataset/pocet-duchodcu-s-exekucni-srazkou-v-cr"
   },
   {
+    "name": "Počet důchodců s výplatou do ciziny v členění dle států",
+    "url": "https://data.cssz.cz/dataset/pocet-duchodcu-s-vyplatou-do-ciziny-dle-statu"
+  },
+  {
     "name": "Počet důchodů s výplatou do ciziny v členění dle států",
     "url": "https://data.cssz.cz/dataset/pocet-duchodu-s-vyplatou-do-ciziny-dle-statu"
   },
@@ -160,6 +164,10 @@
     "url": "https://data.cssz.cz/dataset/pocet-vyrizenych-zadosti-o-davku-dp-s-m-prvkem-dle-statu-v-cr"
   },
   {
+    "name": "Počet výplat důchodů s exekuční srážkou",
+    "url": "https://data.cssz.cz/dataset/pocet-vyplat-duchodu-s-exekucni-srazkou"
+  },
+  {
     "name": "Počet výplat příplatků a příspěvků k důchodům dle odškodňovacích zákonů",
     "url": "https://data.cssz.cz/dataset/pocet-vyplat-priplatku-a-prispevku-k-duchodum-dle-odskodnovacich-zakonu"
   },
@@ -170,6 +178,10 @@
   {
     "name": "Počty přihlášených pohledávek ČSSZ do insolvenčního řízení",
     "url": "https://data.cssz.cz/dataset/pocty-prihlasenych-pohledavek-cssz-do-insolvencniho-rizeni"
+  },
+  {
+    "name": "Počty vyplácených předčasných starobních důchodů a výdaje na předčasné starobní důchody v České republice",
+    "url": "https://data.cssz.cz/dataset/pocet-predcasnych-starobnich-duchodu-a-vydaje-v-cr"
   },
   {
     "name": "Průměrná délka pobírání starobního důchodu",
@@ -190,6 +202,10 @@
   {
     "name": "Průměrný věk u nově přiznaných důchodů v České republice",
     "url": "https://data.cssz.cz/dataset/prum-vek-u-nove-priznanych-duchodu-dle-druhu"
+  },
+  {
+    "name": "Přehled o celkovém počtu OSVČ podle krajů",
+    "url": "https://data.cssz.cz/dataset/prehled-o-celkovem-poctu-osvc-podle-kraju"
   },
   {
     "name": "Přehled o celkovém počtu OSVČ podle okresů",
@@ -322,5 +338,9 @@
   {
     "name": "Číselník specifikace cizozemského nositele pojištění",
     "url": "https://data.cssz.cz/dataset/ciselnik-specifikace-cizozemskeho-nositele-pojisteni"
+  },
+  {
+    "name": "Číselník zdravotních pojišťoven",
+    "url": "https://data.cssz.cz/dataset/ciselnik-zdravotnich-pojistoven"
   }
 ]
