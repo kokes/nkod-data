@@ -72,6 +72,10 @@
     "url": "https://data.mzcr.cz/data/distribuce/365/nrhzs-hospitalizace-typ-zz.csv"
   },
   {
+    "name": "Hrazené zdravotní služby: Migrace za lůžkovou péčí",
+    "url": "https://data.mzcr.cz/data/distribuce/389/Datova-sada-NR-04-38-Migrace-pece-2024-1.csv"
+  },
+  {
     "name": "Hrazené zdravotní služby: Prostředky zdravotnické techniky – Materiál vykázaný v rámci veřejného zdravotního pojištění ",
     "url": "https://data.mzcr.cz/data/distribuce/373/nrhzs-pzt.csv"
   },
@@ -366,5 +370,9 @@
   {
     "name": "Číselník věkových skupin",
     "url": "https://data.mzcr.cz/data/distribuce/73/vekova_skupina.csv"
+  },
+  {
+    "name": "Číselník věkových skupin NZIS",
+    "url": "https://data.mzcr.cz/data/distribuce/390/ciselnik-vekove-skupiny.csv"
   }
 ]
