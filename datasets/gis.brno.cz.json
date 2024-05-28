@@ -25,10 +25,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://gis.brno.cz/ags1/rest/services/Hosted/Pocet_pracovnich_mist_grid/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/Hosted/WazeAlerts/FeatureServer/0"
   },
   {
@@ -405,10 +401,6 @@
   },
   {
     "name": "DXF (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/volebni_mistnosti_b_sjtsk.dxf"
-  },
-  {
-    "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vyzn_os_sjtsk.dxf"
   },
   {
@@ -741,10 +733,6 @@
   },
   {
     "name": "DXF (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/volebni_mistnosti_b_wgs84.dxf"
-  },
-  {
-    "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/vyzn_os_wgs84.dxf"
   },
   {
@@ -990,10 +978,6 @@
   {
     "name": "GML (S-JSTK)",
     "url": "https://gis.brno.cz/public/opendata/vodnitokosammb_l_gml_sjtsk.zip"
-  },
-  {
-    "name": "GML (S-JSTK)",
-    "url": "https://gis.brno.cz/public/opendata/volebni_mistnosti_b_gml_sjtsk.zip"
   },
   {
     "name": "GML (S-JSTK)",
@@ -1421,10 +1405,6 @@
   },
   {
     "name": "GML (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/volebni_mistnosti_b_gml_wgs84.zip"
-  },
-  {
-    "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/vyzn_os_gml_wgs84.zip"
   },
   {
@@ -1758,10 +1738,6 @@
   {
     "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vodnitokpredreg_p_sjtsk.geojson"
-  },
-  {
-    "name": "GeoJSON (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/volebni_mistnosti_b_sjtsk.geojson"
   },
   {
     "name": "GeoJSON (S-JTSK)",
@@ -2113,10 +2089,6 @@
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/volebni_mistnosti_b_sjtsk.gpkg"
-  },
-  {
-    "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vyzn_os_sjtsk.gpkg"
   },
   {
@@ -2438,10 +2410,6 @@
   {
     "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/vodnitokpredreg_p_wgs84.gpkg"
-  },
-  {
-    "name": "OGC GeoPackage (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/volebni_mistnosti_b_wgs84.gpkg"
   },
   {
     "name": "OGC GeoPackage (WGS84)",
@@ -2774,10 +2742,6 @@
   {
     "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/vodnitokpredreg_p_shp_sjtsk.zip"
-  },
-  {
-    "name": "ShapeFile (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/volebni_mistnosti_b_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",
