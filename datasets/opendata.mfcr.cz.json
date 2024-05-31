@@ -1,5 +1,9 @@
 [
   {
+    "name": "Faktury ve formátu CSV",
+    "url": "https://opendata.mfcr.cz/exports/faktury_uzsvm/faktury_uzsvm.csv"
+  },
+  {
     "name": "Faktury ve formátu JSON",
     "url": "https://opendata.mfcr.cz/exports/faktury_uzsvm/faktury_uzsvm.json"
   },
