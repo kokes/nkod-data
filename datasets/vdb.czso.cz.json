@@ -1,26 +1,10 @@
 [
   {
-    "name": "Aktuálně platný seznam v CSV",
-    "url": "https://vdb.czso.cz/huz/huzcsv"
-  },
-  {
-    "name": "Data v CSV",
-    "url": "https://vdb.czso.cz/pll/eweb/cenyphm.data"
-  },
-  {
     "name": "Demografický vývoj města Děčín",
     "url": "https://vdb.czso.cz/vdbvo2/faces/cs/index.jsf?page=profil-uzemi&uzemiprofil=31548&u=__VUZEMI__43__562335#"
   },
   {
-    "name": "Klasifikace CZ_NACE pro RES v CSV",
-    "url": "https://vdb.czso.cz/opendata/ciselniky/polozky?kod=CZ_NACE_RES"
-  },
-  {
     "name": "Seznam ubytovacích zařízení na území města Děčín - hotely, penziony, kempy, ubytovny..",
     "url": "https://vdb.czso.cz/huz/obhuz.jsp?k=562335"
-  },
-  {
-    "name": "Statistické proměnné (ukazatele)",
-    "url": "https://vdb.czso.cz/pll/eweb/stapro.csv"
   }
 ]
