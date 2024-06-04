@@ -49,7 +49,11 @@
   },
   {
     "name": "Ekonomické ukazatele poštovního trhu",
-    "url": "https://data.ctu.gov.cz/sites/default/files/ekonomicke-ukazatele-trhu-postovnich-sluzeb_9.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/ekonomicke-ukazatele-trhu-postovnich-sluzeb_2023.csv"
+  },
+  {
+    "name": "Ekonomické ukazatele trhu poštovních služeb",
+    "url": "https://data.ctu.gov.cz/sites/default/files/ekonomicke-ukazatele-trhu-postovnich-sluzeb_2023_0.xlsx"
   },
   {
     "name": "Faktury uhrazené v roce 2015",
@@ -653,7 +657,11 @@
   },
   {
     "name": "Poštovní síť držitele poštovní licence - obslužná místa",
-    "url": "https://data.ctu.gov.cz/sites/default/files/postovni-sit-obsluzna-mista-drzitele-postovni-licence_8.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/postovni-sit-obsluzna-mista-drzitele-postovni-licence_2023.csv"
+  },
+  {
+    "name": "Poštovní síť držitele poštovní licence - obslužná místa",
+    "url": "https://data.ctu.gov.cz/sites/default/files/postovni-sit-obsluzna-mista-drzitele-postovni-licence_2023.xlsx"
   },
   {
     "name": "Prostředky na platy zaměstnanců",
@@ -685,7 +693,11 @@
   },
   {
     "name": "Přehled přídělů rádiových kmitočtů",
-    "url": "https://data.ctu.gov.cz/sites/default/files/pridely-radiovych-kmitoctu_202403_dab.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/pridely-radiovych-kmitoctu_202406.csv"
+  },
+  {
+    "name": "Přehled přídělů rádiových kmitočtů",
+    "url": "https://data.ctu.gov.cz/sites/default/files/pridely-radiovych-kmitoctu_202406.xlsx"
   },
   {
     "name": "Přenositelnost telefonních čísel",
@@ -693,11 +705,19 @@
   },
   {
     "name": "Přepravené poštovní zásilky v rámci jednotlivých služeb",
-    "url": "https://data.ctu.gov.cz/sites/default/files/objem-prepravenych-postovnych-zasilek_10.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/objem-prepravenych-postovnych-zasilek_2023.csv"
+  },
+  {
+    "name": "Přepravené poštovní zásilky v rámci jednotlivých služeb",
+    "url": "https://data.ctu.gov.cz/sites/default/files/objem-prepravenych-postovnych-zasilek_2023.xlsx"
   },
   {
     "name": "Přepravené poštovní zásilky v rámci základních služeb",
-    "url": "https://data.ctu.gov.cz/sites/default/files/zakladni-sluzby-poskytnute-drzitelem-postovni-licence_10.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/zakladni-sluzby-poskytnute-drzitelem-postovni-licence_2023.csv"
+  },
+  {
+    "name": "Přepravené poštovní zásilky v rámci základních služeb",
+    "url": "https://data.ctu.gov.cz/sites/default/files/zakladni-sluzby-poskytnute-drzitelem-postovni-licence_2023.xlsx"
   },
   {
     "name": "Přezkum rozhodnutí ve správním soudnictví",
@@ -809,7 +829,11 @@
   },
   {
     "name": "Service ID konkrétních služeb",
-    "url": "https://data.ctu.gov.cz/sites/default/files/service-id-konkretnich-sluzeb_21.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/service-id-konketnich-sluzeb_2023.csv"
+  },
+  {
+    "name": "Service ID konkrétních služeb",
+    "url": "https://data.ctu.gov.cz/sites/default/files/service-id-konketnich-sluzeb_2023.xlsx"
   },
   {
     "name": "Souhrnný rozpočet ČTÚ za rok 2015",
@@ -1393,7 +1417,11 @@
   },
   {
     "name": "Zaměstnanci v poštovních službách",
-    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-zamestnancu-v-postovnich-sluzbach_8.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-zamestnancu-v-postovnich-sluzbach_2023.csv"
+  },
+  {
+    "name": "Zaměstnanci v poštovních službách",
+    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-zamestnancu-v-postovnich-sluzbach_2023.xlsx"
   },
   {
     "name": "Zaměstnanci ve služebním a pracovním a mimopracovním vztahu",
