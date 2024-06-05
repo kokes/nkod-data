@@ -33,6 +33,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::cyklistické-trasy"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::generel-cyklistických-tras-hl-m-prahy"
   },
   {
@@ -349,6 +353,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::základní-mapa-1-25-000-linie"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::základní-mapa-1-25-000-symboly"
   },
   {
@@ -490,6 +498,14 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/476f57cf63694c3695d2573353d96d35/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4d683602e34d4fc9bd19e82cddba5b35/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4e16596fbc9d40288d4c3c8de31af455/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -889,6 +905,14 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4d683602e34d4fc9bd19e82cddba5b35/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4e16596fbc9d40288d4c3c8de31af455/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4f4a74d13dd64186a699d24718d0c728/geojson?layers=0"
   },
   {
@@ -1285,6 +1309,14 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4d683602e34d4fc9bd19e82cddba5b35/kml?layers=0"
+  },
+  {
+    "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4e16596fbc9d40288d4c3c8de31af455/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4f4a74d13dd64186a699d24718d0c728/kml?layers=0"
   },
   {
@@ -1678,6 +1710,14 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/476f57cf63694c3695d2573353d96d35/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4d683602e34d4fc9bd19e82cddba5b35/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4e16596fbc9d40288d4c3c8de31af455/shapefile?layers=0"
   },
   {
     "name": "ZIP",
