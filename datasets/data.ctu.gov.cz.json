@@ -4,6 +4,10 @@
     "url": "https://data.ctu.gov.cz/sites/default/files/tabulka6.csv"
   },
   {
+    "name": "Antény pevné služby - seznam",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_anteny/evidence-anten-pevne-sluzby.csv"
+  },
+  {
     "name": "Cenový barometr - OECD Mobile Voice Price Benchmarking",
     "url": "https://data.ctu.gov.cz/sites/default/files/barometr-oecd_0.csv"
   },
@@ -110,6 +114,22 @@
   {
     "name": "Faktury uhrazené v roce 2021",
     "url": "https://data.ctu.gov.cz/sites/default/files/faktury_uhrazene_v_roce_2021_kap328.xlsx"
+  },
+  {
+    "name": "Individuální oprávnění a volací značky stanic amatérské služby",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_radiove_kmitocty/import_radiove_kmitocty_opravneni.csv"
+  },
+  {
+    "name": "Individuální oprávnění a volací značky stanic letecké pohyblivé služby",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_radiove_kmitocty/import_radiove_kmitocty_letecka_opravneni.csv"
+  },
+  {
+    "name": "Individuální oprávnění a volací značky stanic námořní pohyblivé služby",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_radiove_kmitocty/import_radiove_kmitocty_namorni_opravneni.csv"
+  },
+  {
+    "name": "Koordinované vyzařovací diagramy antén rozhlasových a televizních vysílačů",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_anteny_diagramy/bc_ant_diagrams.csv"
   },
   {
     "name": "Maloobchodní ceny mobilního internetu dle služeb operátorů za rok 2013",
@@ -448,6 +468,30 @@
     "url": "https://data.ctu.gov.cz/sites/default/files/plneni-povinneho-podilu-osob-se-zdravotnim-postizenim-2023.csv"
   },
   {
+    "name": "Podnikatelé v elektronických komunikacích",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_podnikatele/podnikatele_v_elektronickych_komunikaci.csv"
+  },
+  {
+    "name": "Podnikatelé v elektronických komunikacích",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_podnikatele/podnikatele_v_elektronickych_komunikaci.xls"
+  },
+  {
+    "name": "Podnikatelé v elektronických komunikacích",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_podnikatele_2022/podnikatele_v_elektronickych_komunikacich.csv"
+  },
+  {
+    "name": "Podnikatelé v elektronických komunikacích",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_podnikatele_2022/podnikatele_v_elektronickych_komunikacich.xls"
+  },
+  {
+    "name": "Podnikatelé v poštovních službách do 31. 12. 2023",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_provozovatele/evidence_provozovatelu.csv"
+  },
+  {
+    "name": "Podnikatelé v poštovních službách od 1. 1. 2024",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_provozovatele/evidence_provozovatelu_od_2024.csv"
+  },
+  {
     "name": "Podíl investic na tržbách u nejvýznamnějších subjektů na trhu dle tržeb v roce 2017",
     "url": "https://data.ctu.gov.cz/sites/default/files/graf13.csv"
   },
@@ -616,6 +660,10 @@
     "url": "https://data.ctu.gov.cz/sites/default/files/pokryti_tranzitnich_zeleznicnich_koridoru_mobilnim_signalem_vysvetlivky.txt"
   },
   {
+    "name": "Pokuty",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_pokuty/Pokuty_moss.csv"
+  },
+  {
     "name": "Poplatky za využívání radiových kmitočtů",
     "url": "https://data.ctu.gov.cz/sites/default/files/poplatky_za_vyuziti_radiovych_kmitoctu.csv"
   },
@@ -724,8 +772,20 @@
     "url": "https://data.ctu.gov.cz/sites/default/files/prezkum-rozhodnuti-2023.csv"
   },
   {
+    "name": "Přidělená čísla a kódy",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_numbers/pridelena_cisla_a_kody.csv"
+  },
+  {
+    "name": "Přidělené kmitočty podle individuálních oprávnění a přídělů",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_radiove_kmitocty/import_radiove_kmitocty_individualni_opravneni.csv"
+  },
+  {
     "name": "Radiokomunikační účet",
     "url": "https://data.ctu.gov.cz/sites/default/files/prehled-o-stavu-radiokomunikacniho-uctu_5.csv"
+  },
+  {
+    "name": "Rozhlasové vysílače",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_rozhlas/prehled_rozhlasovych_kmitoctu.csv"
   },
   {
     "name": "Rozhodnutí o ceně",
@@ -846,6 +906,10 @@
   {
     "name": "Souhrnný rozpočet ČTÚ za rok 2017",
     "url": "https://data.ctu.gov.cz/sites/default/files/souhrnny-rozpocet-ctu-2017_0.csv"
+  },
+  {
+    "name": "Stanice bezdrátového místního informačního systému (BMIS)",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_bmis/evidence_stanic_bmis.csv"
   },
   {
     "name": "Struktura aktivních SIM karet v roce 2017",
@@ -1054,6 +1118,14 @@
   {
     "name": "Stížnosti podle ZPS",
     "url": "https://data.ctu.gov.cz/sites/default/files/stiznosti-dle-zps_5.csv"
+  },
+  {
+    "name": "Technické údaje pevných rádiových systémů typu bod-bod v pásmech 71-76 GHz a 81-86 GHz",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_bod_bod/prehled_pevnych_radiovych_systemu_bod_bod.csv"
+  },
+  {
+    "name": "Televizní vysílače",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_televize/prehled_opravneni_televizni_vysilace.csv"
   },
   {
     "name": "Tržní podíl největších poskytovatelů mobilních služeb dle počtu SIM karet v roce 2017",
@@ -1454,5 +1526,9 @@
   {
     "name": "Čisté náklady na poskytování základních služeb",
     "url": "https://data.ctu.gov.cz/sites/default/files/ciste-naklady-na-poskytovani-zakladnich-sluzeb_5.csv"
+  },
+  {
+    "name": "Šetření zdrojů rušení",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_ruseni/setreni_ruseni.csv"
   }
 ]
