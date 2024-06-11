@@ -72,10 +72,6 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-investice-a-neinvesticni-naklady-na-ochranu-zivotniho-prostredi-2022.csv"
   },
   {
-    "name": "data-cenia-indikator-investice-do-protihlukovych-opatreni-na-silnicni-infrastrukture-2022.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-investice-do-protihlukovych-opatreni-na-silnicni-infrastrukture-2022.csv"
-  },
-  {
     "name": "data-cenia-indikator-kategorizace-lesu-2022.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-kategorizace-lesu-2022.csv"
   },
@@ -206,5 +202,9 @@
   {
     "name": "mzp-uniky-prenosy-latek.xlsx",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-uniky-prenosy-latek-2023.xlsx"
+  },
+  {
+    "name": "mzp_kontaminovana_mista.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-kontaminovana-mista-2023.csv"
   }
 ]

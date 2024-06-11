@@ -1,7 +1,7 @@
 [
   {
-    "name": "authorized_person",
-    "url": "https://data.mzp.cz/opendata/1.0.0/dataset/hnvo/authorized_person"
+    "name": "cenia_osoby_nebezp_odpady.csv",
+    "url": "https://data.mzp.cz/opendata/1.0.0/dataset/hnvo/cenia_osoby_nebezp_odpady.csv"
   },
   {
     "name": "mzp_autorizovane_osoby_podle_zakona_o_ochrane_ovzdusi.csv",
@@ -14,10 +14,6 @@
   {
     "name": "mzp_evidence_vydanych_osvedceni_odpovedneho_resitele_geologickych_praci.csv",
     "url": "https://data.mzp.cz/opendata/1.0.0/dataset/geology/mzp_evidence_vydanych_osvedceni_odpovedneho_resitele_geologickych_praci.csv"
-  },
-  {
-    "name": "mzp_kontaminovana_mista.csv",
-    "url": "https://data.mzp.cz/opendata/1.0.0/dataset/sekm/mzp_kontaminovana_mista.csv"
   },
   {
     "name": "mzp_uzivatele_s_opravnenim_k_uzavrenemu_nakladani_s_gmo_v_prvni_a_druhe_kategorii_rizika.csv",
