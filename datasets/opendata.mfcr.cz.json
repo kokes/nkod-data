@@ -1,15 +1,311 @@
 [
   {
-    "name": "Faktury ve formátu CSV",
-    "url": "https://opendata.mfcr.cz/exports/faktury_uzsvm/faktury_uzsvm.csv"
+    "name": "( Množství meziproduktů dopravených na daňové území České republiky v režimu podmíněného osvobození od daně v roce 2023 v členění dle jednotlivých členských států odeslání a příslušného kalendářního měsíce",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2228/download?token=9L6yBCL5"
   },
   {
-    "name": "Faktury ve formátu JSON",
-    "url": "https://opendata.mfcr.cz/exports/faktury_uzsvm/faktury_uzsvm.json"
+    "name": "CRAB - Přehled dislokací",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2242/download?token=y8bmNI91"
   },
   {
-    "name": "Faktury ve formátu XLSX",
-    "url": "https://opendata.mfcr.cz/exports/faktury_uzsvm/faktury_uzsvm.xlsx"
+    "name": "DPH dle NACE",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2061/download?token=23Bhm0sJ"
+  },
+  {
+    "name": "DPH dle NACE",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2062/download?token=fuAS0Rl7"
+  },
+  {
+    "name": "Daň silniční",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2063/download?token=9JtvnQF0"
+  },
+  {
+    "name": "Daň silniční",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2064/download?token=A1Oe3oxx"
+  },
+  {
+    "name": "Daň z nemovitých věcí",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2059/download?token=up1bMSZl"
+  },
+  {
+    "name": "Daň z nemovitých věcí",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2060/download?token=Qhv8AS7_"
+  },
+  {
+    "name": "Daň z příjmů fyzických osob",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2116/download?token=ygbQDaCh"
+  },
+  {
+    "name": "Daň z příjmů fyzických osob",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2117/download?token=svQTyr0I"
+  },
+  {
+    "name": "Daň z příjmů právnických osob dle NACE",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2055/download?token=V0kAQdm0"
+  },
+  {
+    "name": "Daň z příjmů právnických osob dle NACE",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2056/download?token=UivQPajH"
+  },
+  {
+    "name": "Daň z vína a meziproduktů (dle jednotlivých skupin)",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2235/download?token=V1E5OpUi"
+  },
+  {
+    "name": "Daňové úlevy",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/79/download?token=3ADBgkGa"
+  },
+  {
+    "name": "Doprava pivo 2023 měsíce Im",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2194/download?token=XUSryAmv"
+  },
+  {
+    "name": "Faktury uhrazené z fondu privatizace",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2156/download?token=3gsllq-o"
+  },
+  {
+    "name": "Fiskální výhled 2021",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2170/download?token=w4VJSXj8"
+  },
+  {
+    "name": "Fiskální výhled 2022",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2171/download?token=-7nmmDhq"
+  },
+  {
+    "name": "Fiskální výhled ČR 2018",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1607/download?token=PDKNLJiq"
+  },
+  {
+    "name": "GFŘ - 10 největších dodavatelů ICT za rok 2014",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/213/download?token=dyp603rx"
+  },
+  {
+    "name": "GFŘ - ICT náklady na HW a SW v letech 2008 - 2015",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/211/download?token=3N1uhutg"
+  },
+  {
+    "name": "GŘC - 10 největších dodavatelů ICT za rok 2014",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/217/download?token=_zHnjV2c"
+  },
+  {
+    "name": "GŘC - ICT náklady na HW a SW v letech 2008-2015",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/214/download?token=nlolstP1"
+  },
+  {
+    "name": "Inkasa",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2067/download?token=gBDkmDKN"
+  },
+  {
+    "name": "Inkasa",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2068/download?token=q-k02N-o"
+  },
+  {
+    "name": "Inkaso v Kč - 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2200/download?token=4rL6_rbd"
+  },
+  {
+    "name": "Kniha podrozvahových účtů 2020",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1860/download?token=5iIOuG9V"
+  },
+  {
+    "name": "Kniha podrozvahových účtů za rok 2015",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1732/download?token=cgF1WqoO"
+  },
+  {
+    "name": "Kniha podrozvahových účtů za rok 2016",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1733/download?token=jNX-SoDf"
+  },
+  {
+    "name": "Kniha podrozvahových účtů za rok 2018",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1735/download?token=Jyf-lJj6"
+  },
+  {
+    "name": "Kniha podrozvahových účtů za rok 2021",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2038/download?token=4JBU4Pz8"
+  },
+  {
+    "name": "Kniha podrozvahových účtů za rok 2022",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2187/download?token=mtrDAsiD"
+  },
+  {
+    "name": "Konvergenční program 2014",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1609/download?token=5jlq9Bk1"
+  },
+  {
+    "name": "Konvergenční program 2015",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1610/download?token=97W12tem"
+  },
+  {
+    "name": "Konvergenční program 2016",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1611/download?token=V5IGB7rv"
+  },
+  {
+    "name": "Konvergenční program 2017",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1612/download?token=Y1gW407V"
+  },
+  {
+    "name": "Konvergenční program 2018",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1613/download?token=rUe6V6Em"
+  },
+  {
+    "name": "Konvergenční program 2019",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1614/download?token=iC_0PmZ1"
+  },
+  {
+    "name": "LPG uvedené do volného daňového oběhu v t (bez dovozu ze třetích zemí) 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2216/download?token=ytO1e8Aq"
+  },
+  {
+    "name": "MD - 10 největších dodavatelů ICT za rok 2014",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/221/download?token=TAewZ5M-"
+  },
+  {
+    "name": "MD - ICT náklady za HW a SW v letech 2008-2015",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/220/download?token=9l275Q-_"
+  },
+  {
+    "name": "MF - 10 největších dodavatelů ICT za rok 2014",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/212/download?token=SoHnjciJ"
+  },
+  {
+    "name": "MF - ICT náklady za HW a SW v letech 2008-2015",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/209/download?token=CDFwWPcI"
+  },
+  {
+    "name": "MMR - 10 největších ICT dodavatelů za rok 2014",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/229/download?token=Jcg1UVA6"
+  },
+  {
+    "name": "MMR - ICT náklady na HW a SW v letech 2008-2015",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/228/download?token=RygMx6BN"
+  },
+  {
+    "name": "MO - 10 největších ICT dodavatelů za rok 2014",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/227/download?token=wEMxUnY0"
+  },
+  {
+    "name": "MO - ICT náklady na HW a SW v letech 2008-2015",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/226/download?token=RIXDMRIS"
+  },
+  {
+    "name": "MSp - 10 největších ICT dodavatelů za rok 2014",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/225/download?token=QWZ2nL4u"
+  },
+  {
+    "name": "MSp - ICT náklady za HW a SW v letech 2008-2015",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/224/download?token=GFc6qiYk"
+  },
+  {
+    "name": "Makroekonomická predikce 1Q 2016",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1641/download?token=2VIVDm4U"
+  },
+  {
+    "name": "Makroekonomická predikce 1Q 2019",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1628/download?token=NUquje1U"
+  },
+  {
+    "name": "Makroekonomická predikce 1Q 2021",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2173/download?token=h5NKkVGs"
+  },
+  {
+    "name": "Makroekonomická predikce 1Q 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2181/download?token=7DxVyXUa"
+  },
+  {
+    "name": "Makroekonomická predikce 2Q 2017",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1636/download?token=o51-Rf90"
+  },
+  {
+    "name": "Makroekonomická predikce 2Q 2019",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1627/download?token=qGZQnHP0"
+  },
+  {
+    "name": "Makroekonomická predikce 2Q2021",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2174/download?token=6McegUvp"
+  },
+  {
+    "name": "Makroekonomická predikce 3Q 2020",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1622/download?token=q9jaNGiO"
+  },
+  {
+    "name": "Makroekonomická predikce 3Q 2022",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2179/download?token=2XMJEWVg"
+  },
+  {
+    "name": "Makroekonomická predikce 4Q 2015",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1640/download?token=GxwRvVMI"
+  },
+  {
+    "name": "Makroekonomická predikce 4Q 2017",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1638/download?token=xpszanBN"
+  },
+  {
+    "name": "Makroekonomická predikce 4Q 2018",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1629/download?token=ueMflVx3"
+  },
+  {
+    "name": "Makroekonomická predikce 4Q 2019",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1625/download?token=bh4UofDh"
+  },
+  {
+    "name": "Makroekonomická predikce 4Q 2022",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2180/download?token=kDpf8obw"
+  },
+  {
+    "name": "Množství lihu ve výrobcích KN 2207 - export, podmíněné osvobození od daně 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2202/download?token=8xMAgrQ5"
+  },
+  {
+    "name": "Množství meziproduktů dopravovaných z daňového území České republiky v režimu podmíněného osvobození od daně v roce 2023 v členění dle jednotlivých členských států určení a příslušného kalendářního měsíce",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2227/download?token=U_tQsUXV"
+  },
+  {
+    "name": "Množství ve výrobcích KN 2207 - export",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2206/download?token=MLxW0CDc"
+  },
+  {
+    "name": "Množství ve výrobcích KN 2207 - import mimo EU 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2208/download?token=t4746yhk"
+  },
+  {
+    "name": "Množství ve výrobcích KN 2208 - export mimo EU 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2207/download?token=gdr8yZR9"
+  },
+  {
+    "name": "Množství ve výrobcích KN 2208 - export, podmíněné osvobození od daně 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2203/download?token=UIsEO_ZI"
+  },
+  {
+    "name": "Množství ve výrobcích KN 2208 - export, podmíněné osvobození od daně 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2204/download?token=nsPm5M1e"
+  },
+  {
+    "name": "Množství výrobků uvedených pod KN 2204, 2205 a 2206 dovezených na daňové území České republiky ze zemí mimo daňové území EU v roce 2023 (v hektolitrech) v členění dle jednotlivých států a příslušného kalendářního měsíce",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2234/download?token=WaLmyRM1"
+  },
+  {
+    "name": "Množství výrobků uvedených pod KN 2204, 2205 a 2206 vyvezených z daňového území České republiky do zemí mimo daňové území EU v roce 2023 (v hektolitrech) v členění dle jednotlivých států a příslušného kalendářního měsíce",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2233/download?token=uQ3rGtB4"
+  },
+  {
+    "name": "Množství šumivého vína dopraveného na daňové území České republiky v režimu podmíněného osvobození od daně v roce 2023 v členění dle jednotlivých členských států odeslání a příslušného kalendářního měsíce",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2230/download?token=gCsYt08Y"
+  },
+  {
+    "name": "Množství šumivého vína dopravovaného z daňového území České republiky v režimu podmíněného osvobození od daně v roce 2023 v členění dle jednotlivých členských států určení a příslušného kalendářního měsíce",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2229/download?token=tQ-5OCwn"
+  },
+  {
+    "name": "MŽP - 10 největších dodavatelů ICT za rok 2014",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/223/download?token=b56H19jK"
+  },
+  {
+    "name": "MŽP - ICT náklady za HW a SW v letech 2008-2015",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/222/download?token=TzSPxbt6"
+  },
+  {
+    "name": "Náhrady škod 2011-2019",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1591/download?token=PcGFQ8mf"
   },
   {
     "name": "Náklady  státu za právní zastoupení",
@@ -64,6 +360,34 @@
     "url": "https://opendata.mfcr.cz/exports/platba_pojistenci/platba_pojistenci.xlsx"
   },
   {
+    "name": "Podíl jednotlivých obcí na části celostátního hrubého výnosu daně z technických her – 4. čtvrtletí 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2163/download?token=SULjTQPw"
+  },
+  {
+    "name": "Podíl počtu elektronických podání na celkovém počtu podání",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2139/download?token=pw23_etn"
+  },
+  {
+    "name": "Podíl počtu elektronických podání na celkovém počtu podání",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2140/download?token=Y59kGtTk"
+  },
+  {
+    "name": "Podíl počtu osobních daňových účtů s nedoplatkem vůči aktivním daňovým subjektům",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2143/download?token=tWp6dAPo"
+  },
+  {
+    "name": "Podíl počtu osobních daňových účtů s nedoplatkem vůči aktivním daňovým subjektům",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2145/download?token=Gm7GeXJc"
+  },
+  {
+    "name": "Podíl vymožených nedoplatků všemi vymáhacími způsoby na celkových nedoplatcích",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2146/download?token=vljqyYDu"
+  },
+  {
+    "name": "Podíl vymožených nedoplatků všemi vymáhacími způsoby na celkových nedoplatcích",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2147/download?token=oZ44dIKJ"
+  },
+  {
     "name": "Pokladní plnění státního rozpočtu",
     "url": "https://opendata.mfcr.cz/exports/pokladni_plneni/pokladni_plneni.csv"
   },
@@ -74,6 +398,98 @@
   {
     "name": "Pokladní plnění státního rozpočtu",
     "url": "https://opendata.mfcr.cz/exports/pokladni_plneni/pokladni_plneni.xlsx"
+  },
+  {
+    "name": "Poměr dražeb s jednáním a elektronických dražeb",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1920/download?token=f7mjD42p"
+  },
+  {
+    "name": "Poměr dražeb s jednáním a elektronických dražeb",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1921/download?token=HmTLV4x4"
+  },
+  {
+    "name": "Počet evidovaných a aktivních daňových subjektů",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2077/download?token=yu7tHjHX"
+  },
+  {
+    "name": "Počet evidovaných a aktivních daňových subjektů",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2078/download?token=3UhE3D1-"
+  },
+  {
+    "name": "Počet systemizovaných míst",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2092/download?token=EMWb9sOG"
+  },
+  {
+    "name": "Počet systemizovaných míst",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2093/download?token=Qy8drqWf"
+  },
+  {
+    "name": "Předpis přiznané daně z vybraných minerálních olejů (ostatní minerální oleje) 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2222/download?token=9BIMspNZ"
+  },
+  {
+    "name": "Přehled inkasa vybraných daní dle FÚ",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2124/download?token=YB7FZnye"
+  },
+  {
+    "name": "Přehled inkasa vybraných daní dle FÚ",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2125/download?token=B4JwJbvY"
+  },
+  {
+    "name": "Přehled o daňových nedoplatcích podle způsobu vymožení",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2096/download?token=O_kSwktd"
+  },
+  {
+    "name": "Přehled o daňových nedoplatcích podle způsobu vymožení",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2097/download?token=OYYkYO7e"
+  },
+  {
+    "name": "Přehled počtu daňových subjektů s nedoplatkem",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2128/download?token=Fst1JVtD"
+  },
+  {
+    "name": "Přehled počtu daňových subjektů s nedoplatkem",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2129/download?token=wXqnZLLD"
+  },
+  {
+    "name": "Přehled převedených výnosů z daní do místních rozpočtů",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2104/download?token=141a6g64"
+  },
+  {
+    "name": "Přehled převedených výnosů z daní do místních rozpočtů",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2105/download?token=6DaCz4aZ"
+  },
+  {
+    "name": "Přehled vybraných hodnot daňových nedoplatků",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2126/download?token=fsokoKyh"
+  },
+  {
+    "name": "Přehled vybraných hodnot daňových nedoplatků",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2127/download?token=AXxY9YLX"
+  },
+  {
+    "name": "Přehled vybraných hodnot daňových nedoplatků vymožených",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2100/download?token=GSbJ_mEX"
+  },
+  {
+    "name": "Přehled vybraných hodnot daňových nedoplatků vymožených",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2101/download?token=xsovz5w9"
+  },
+  {
+    "name": "Přehled výsledků postupů k odstranění pochybností",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2075/download?token=qXN1rk2l"
+  },
+  {
+    "name": "Přehled výsledků postupů k odstranění pochybností",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2076/download?token=9Wt43fNp"
+  },
+  {
+    "name": "Převody z FÚ do místních rozpočtů a státních fondů",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2106/download?token=YXfyjvEF"
+  },
+  {
+    "name": "Převody z FÚ do místních rozpočtů a státních fondů",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2107/download?token=xCXYrevS"
   },
   {
     "name": "Přezkoumání hospodaření",
@@ -92,40 +508,168 @@
     "url": "https://opendata.mfcr.cz/lod/sparql"
   },
   {
-    "name": "Seznam smluv",
-    "url": "https://opendata.mfcr.cz/exports/smlouvy/smlouvy.json"
+    "name": "Seznam nepovolených internetových her",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2190/download?token=22dBlKDs"
   },
   {
-    "name": "Smlouvy - seznam smluv",
-    "url": "https://opendata.mfcr.cz/exports/smlouvy/smlouvy.csv"
+    "name": "Seznam provozovatelů loterií a sázkových hers",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2035/download?token=HVCacoXL"
   },
   {
-    "name": "Smlouvy - seznam smluv",
-    "url": "https://opendata.mfcr.cz/exports/smlouvy/smlouvy.xlsx"
+    "name": "Seznam vládních institucí zařazených Seznam vládních institucí zařazených do sektoru S.13",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2162/download?token=gQohnG6R"
   },
   {
-    "name": "Smlouvy Ministerstva financí ČR - vazba na faktury",
-    "url": "https://opendata.mfcr.cz/exports/smlouvy_faktura/smlouvy_faktura.csv"
+    "name": "Seznam vládních institucí zařazených Seznam vládních institucí zařazených do sektoru S.13",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2164/download?token=Xlsdyk01"
   },
   {
-    "name": "Smlouvy Ministerstva financí ČR - vazba na faktury",
-    "url": "https://opendata.mfcr.cz/exports/smlouvy_faktura/smlouvy_faktura.json"
+    "name": "Souhrnný výkaz majetku a závazků státu za rok 2016",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1729/download?token=-ZXYZpj5"
   },
   {
-    "name": "Uhrazené faktury",
-    "url": "https://opendata.mfcr.cz/exports/faktury/faktury.csv"
+    "name": "Souhrnný výkaz majetku a závazků státu za rok 2018",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1731/download?token=Nzbb4yRy"
   },
   {
-    "name": "Uhrazené faktury",
-    "url": "https://opendata.mfcr.cz/exports/faktury/faktury.json"
+    "name": "Souhrnný výkaz majetku a závazků státu za rok 2019",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1736/download?token=9DqlM7Nw"
   },
   {
-    "name": "Uhrazené faktury",
-    "url": "https://opendata.mfcr.cz/exports/faktury/faktury.xlsx"
+    "name": "Souhrnný výkaz majetku a závazků státu za rok 2021",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2040/download?token=egKt9VYT"
   },
   {
-    "name": "Vazební tabulka smluv a faktur Ministerstva financí ČR",
-    "url": "https://opendata.mfcr.cz/exports/smlouvy_faktura/smlouvy_faktura.xlsx"
+    "name": "Souhrnný výkaz nákladů a výnosů státu za rok 2015",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1724/download?token=Ky9aXAxs"
+  },
+  {
+    "name": "Souhrnný výkaz nákladů a výnosů státu za rok 2017",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1726/download?token=7_GplVkG"
+  },
+  {
+    "name": "Souhrnný výkaz nákladů a výnosů státu za rok 2018",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1727/download?token=YfHOlQzj"
+  },
+  {
+    "name": "Souhrnný výkaz nákladů a výnosů státu za rok 2019",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1737/download?token=Gif59_Js"
+  },
+  {
+    "name": "Souhrnný výkaz nákladů a výnosů státu za rok 2022",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2188/download?token=9uvJ846p"
+  },
+  {
+    "name": "Statistiky mezinárodní pomoc při vymáhání",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2112/download?token=zQGRnFnX"
+  },
+  {
+    "name": "Statistiky mezinárodní pomoc při vymáhání",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2113/download?token=Cnj39t1T"
+  },
+  {
+    "name": "Struktura státního dluhu 072015",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/341/download?token=sNclDG-p"
+  },
+  {
+    "name": "Struktura zaměstnanců dle vzdělání",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2051/download?token=p5pQ9n9I"
+  },
+  {
+    "name": "Struktura zaměstnanců dle vzdělání",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2052/download?token=LbOK8Dfb"
+  },
+  {
+    "name": "UZSVM - 10 nějvětších dodavatelů ICT za rok 2014",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/219/download?token=CfGKw0Fx"
+  },
+  {
+    "name": "UZSVM - ICT náklady za HW a SW v letech 2008-2015",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/218/download?token=QLIULKoV"
+  },
+  {
+    "name": "Uplatněná odčitatelná položka dary",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2069/download?token=PHX6s6zS"
+  },
+  {
+    "name": "Uplatněná odčitatelná položka dary",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2070/download?token=lfODD8SP"
+  },
+  {
+    "name": "Vládní finanční statistika 2007",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/95/download?token=7Ngbq8ZS"
+  },
+  {
+    "name": "Vládní finanční statistika 2008",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/96/download?token=Pkrazgr5"
+  },
+  {
+    "name": "Vládní finanční statistika 2009",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/98/download?token=P8nfK23u"
+  },
+  {
+    "name": "Vládní finanční statistika 2010",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/99/download?token=mVCUk-JV"
+  },
+  {
+    "name": "Vládní finanční statistika 2011",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/100/download?token=9Mnd0LHA"
+  },
+  {
+    "name": "Vládní finanční statistika 2012",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/101/download?token=es68e9Qa"
+  },
+  {
+    "name": "Vládní finanční statistika 2013",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/102/download?token=g_ZHfyR-"
+  },
+  {
+    "name": "Vládní finanční statistika 2014",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/436/download?token=TFKAuurL"
+  },
+  {
+    "name": "Vládní finanční statistika 2015",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/539/download?token=YNYKB824"
+  },
+  {
+    "name": "Vratky osobám požívajícím výsad a imunit 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2224/download?token=q6UeeO-k"
+  },
+  {
+    "name": "Vyměřená daň v Kč (bez daně vyměřené při dovozu ze třetích zemí) 3 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2223/download?token=R03ARbe4"
+  },
+  {
+    "name": "Vyměřená daň v Kč (bez daně vyměřené při dovozu ze třetích zemí) b 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2221/download?token=qouBNVRT"
+  },
+  {
+    "name": "Vyměřená daň v Kč - 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2199/download?token=VdYqDQLN"
+  },
+  {
+    "name": "Vyměřená daň v Kč 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2212/download?token=MojcXd1d"
+  },
+  {
+    "name": "Vyměřená daň v Kč 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2225/download?token=w9Wakp4w"
+  },
+  {
+    "name": "Vyměřené nároky na vrácení daně v Kč (bez daně vyměřené při dovozu ze třetích zemí 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2219/download?token=fByg1FMH"
+  },
+  {
+    "name": "Vyměřené nároky na vrácení daně v Kč (osobám požívajícím výsad a imunit) - 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2197/download?token=uF3QenMH"
+  },
+  {
+    "name": "Víno a meziprodukty uvedené do volného daňového oběhu v hl 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2237/download?token=d2Hv9DXq"
+  },
+  {
+    "name": "Výměr v Kč 2023",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2214/download?token=sNO9m96N"
   },
   {
     "name": "Vývoj penzijního připojištění a doplňkového penzijního spoření",
@@ -136,32 +680,72 @@
     "url": "https://opendata.mfcr.cz/exports/penzijni_sporeni/penzijni_sporeni.json"
   },
   {
-    "name": "Vývoj stavebního spoření",
-    "url": "https://opendata.mfcr.cz/exports/stavebni_sporeni/stavebni_sporeni.csv"
+    "name": "Vývoj počtu daňových přiznání - DPH",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2084/download?token=T_-Q8h3Q"
   },
   {
-    "name": "Vývoj stavebního spoření",
-    "url": "https://opendata.mfcr.cz/exports/stavebni_sporeni/stavebni_sporeni.json"
+    "name": "Vývoj počtu daňových přiznání - DPH",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2085/download?token=-Z3uc5r6"
   },
   {
-    "name": "Vývoj stavebního spoření",
-    "url": "https://opendata.mfcr.cz/exports/stavebni_sporeni/stavebni_sporeni.xlsx"
+    "name": "Vývoj počtu daňových přiznání - daň z nemovitosti",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2079/download?token=RHpn8u2n"
   },
   {
-    "name": "Úřední deska",
-    "url": "https://opendata.mfcr.cz/uredni-deska/uredni-deska.jsonld"
+    "name": "Vývoj počtu daňových přiznání - daň z nemovitosti",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2080/download?token=93a4WNK0"
   },
   {
-    "name": "Číselník rozpočtových paragrafů",
-    "url": "https://opendata.mfcr.cz/exports/paragraf/paragraf.csv"
+    "name": "Vývoj počtu daňových přiznání - daň z příjmů FO",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2082/download?token=ffSc-ABq"
   },
   {
-    "name": "Číselník rozpočtových paragrafů",
-    "url": "https://opendata.mfcr.cz/exports/paragraf/paragraf.json"
+    "name": "Vývoj počtu daňových přiznání - daň z příjmů FO",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2083/download?token=dNobE9dm"
   },
   {
-    "name": "Číselník rozpočtových paragrafů",
-    "url": "https://opendata.mfcr.cz/exports/paragraf/paragraf.xlsx"
+    "name": "Vývoj počtu daňových přiznání - daň z příjmů PO",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2086/download?token=FfNouZqx"
+  },
+  {
+    "name": "Vývoj počtu daňových přiznání - daň z příjmů PO",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2087/download?token=ucZ_l_oh"
+  },
+  {
+    "name": "Vývoj počtu doručených daňových přiznání u vybraných daní dle EPI",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2090/download?token=DlaBmaDI"
+  },
+  {
+    "name": "Vývoj počtu doručených daňových přiznání u vybraných daní dle EPI",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2091/download?token=YM7XwJfI"
+  },
+  {
+    "name": "Údaj o relativní změně hodnoty úhrady celkových nedoplatků platbami z exekucí",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2150/download?token=mLZG36pY"
+  },
+  {
+    "name": "Údaj o relativní změně hodnoty úhrady celkových nedoplatků platbami z exekucí",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2151/download?token=uIUSHLml"
+  },
+  {
+    "name": "Údaje o podaných trestních oznámení na trestné činy",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2154/download?token=ISQtGqDo"
+  },
+  {
+    "name": "Údaje o podaných trestních oznámení na trestné činy",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/2155/download?token=Vo9DVNtn"
+  },
+  {
+    "name": "Časové řady vývoje státních záruk",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1599/download?token=L8e3wy0E"
+  },
+  {
+    "name": "Časové řady vývoje státních záruk",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/92/download?token=JB9-sQS9"
+  },
+  {
+    "name": "Čistá pozice ČR vůči EU",
+    "url": "https://opendata.mfcr.cz/katalog/cs/file/1851/download?token=5YCTIOE5"
   },
   {
     "name": "Číselník rozpočtových položek",
