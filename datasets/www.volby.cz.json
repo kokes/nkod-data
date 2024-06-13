@@ -1,6 +1,14 @@
 [
   {
     "name": "CSV soubor sbalený v ZIP archivu",
+    "url": "https://www.volby.cz/opendata/ep2024/csv_od/ept2.zip"
+  },
+  {
+    "name": "CSV soubor sbalený v ZIP archivu",
+    "url": "https://www.volby.cz/opendata/ep2024/csv_od/ept2p.zip"
+  },
+  {
+    "name": "CSV soubor sbalený v ZIP archivu",
     "url": "https://www.volby.cz/opendata/kv2022/csv_od/kvhl_csvod.zip"
   },
   {
@@ -34,6 +42,14 @@
   {
     "name": "GeoJson",
     "url": "https://www.volby.cz/opendata/se2022/geo/vol_okrsky_2022g100.geojson"
+  },
+  {
+    "name": "JSON soubor sbalený v ZIP archivu",
+    "url": "https://www.volby.cz/opendata/ep2024/json/ept2.zip"
+  },
+  {
+    "name": "JSON soubor sbalený v ZIP archivu",
+    "url": "https://www.volby.cz/opendata/ep2024/json/ept2p.zip"
   },
   {
     "name": "Okrsková data - CSV s JSON schématem v ZIP balíčku",

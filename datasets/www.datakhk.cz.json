@@ -213,6 +213,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datakhk.cz/maps/8ecc8847b9b54ef1bac90d17b8813617_0"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.datakhk.cz/maps/93d143d3fdbd492197fc23413b4a9542_0"
   },
   {
@@ -594,6 +598,10 @@
   {
     "name": "CSV",
     "url": "https://www.datakhk.cz/api/download/v1/items/8d9e15cc77b048f181c2d9ddba6fa8be/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.datakhk.cz/api/download/v1/items/8ecc8847b9b54ef1bac90d17b8813617/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -981,6 +989,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://www.datakhk.cz/api/download/v1/items/8ecc8847b9b54ef1bac90d17b8813617/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://www.datakhk.cz/api/download/v1/items/93d143d3fdbd492197fc23413b4a9542/geojson?layers=0"
   },
   {
@@ -1361,6 +1373,10 @@
   },
   {
     "name": "KML",
+    "url": "https://www.datakhk.cz/api/download/v1/items/8ecc8847b9b54ef1bac90d17b8813617/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://www.datakhk.cz/api/download/v1/items/93d143d3fdbd492197fc23413b4a9542/kml?layers=0"
   },
   {
@@ -1738,6 +1754,10 @@
   {
     "name": "Shapefile",
     "url": "https://www.datakhk.cz/api/download/v1/items/8d9e15cc77b048f181c2d9ddba6fa8be/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.datakhk.cz/api/download/v1/items/8ecc8847b9b54ef1bac90d17b8813617/shapefile?layers=0"
   },
   {
     "name": "Shapefile",
