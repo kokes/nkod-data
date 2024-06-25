@@ -49,6 +49,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_PID_ZAST_POPIS_B/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_PID_ZAST_POPIS_TYDEN_B/FeatureServer/0"
   },
   {
@@ -154,10 +158,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/HM_CUR_HM_HLUKOCHR_OPERNEZDI_L/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/HM_CUR_HM_HLUKOCHR_VALY_P/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
