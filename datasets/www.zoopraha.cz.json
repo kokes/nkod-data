@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Akce v zoo",
+    "url": "https://www.zoopraha.cz/?format=feed&type=rss"
+  },
+  {
+    "name": "Akce v zoo",
+    "url": "https://www.zoopraha.cz/_api/json/?action=akcezoo&type=rel"
+  },
+  {
+    "name": "Lexikon zvířat",
+    "url": "https://www.zoopraha.cz/_api/json/?action=lexikoncelek&type=rel"
+  }
+]
