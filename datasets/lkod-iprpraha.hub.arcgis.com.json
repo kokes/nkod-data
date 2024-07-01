@@ -185,7 +185,7 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::pražská-integrovaná-doprava-trasy-týden-aktuální-stav"
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::pražská-integrovaná-doprava-trasy-týden-aktuální-stav-1"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -385,6 +385,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::záplavové-území-vltava-berounka"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::zóny-placeného-stání"
   },
   {
@@ -454,6 +458,10 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/23703b0fabe342f497039a1b49fc712e/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/23f3414e33d74fed88c6e4600fdd5524/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -857,6 +865,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/23f3414e33d74fed88c6e4600fdd5524/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/28ee393a676a49778d3fb83553956fb2/geojson?layers=0"
   },
   {
@@ -1257,6 +1269,10 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/23f3414e33d74fed88c6e4600fdd5524/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/28ee393a676a49778d3fb83553956fb2/kml?layers=0"
   },
   {
@@ -1654,6 +1670,10 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/23703b0fabe342f497039a1b49fc712e/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/23f3414e33d74fed88c6e4600fdd5524/shapefile?layers=0"
   },
   {
     "name": "ZIP",
