@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/maps/KUOK::mateřské-školy-1"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/655e4b7f629a4236a0109a8c6c4a6e51/csv?layers=1"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/655e4b7f629a4236a0109a8c6c4a6e51/geojson?layers=1"
+  },
+  {
+    "name": "KML",
+    "url": "https://www.dataok.cz/api/download/v1/items/655e4b7f629a4236a0109a8c6c4a6e51/kml?layers=1"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.dataok.cz/api/download/v1/items/655e4b7f629a4236a0109a8c6c4a6e51/shapefile?layers=1"
+  }
+]
