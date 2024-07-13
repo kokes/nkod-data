@@ -1,6 +1,10 @@
 [
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/KPHdPhzFkBgzGlVf/arcgis/rest/services/Publika%C4%8Dn%C3%AD_pl%C3%A1n_DATA_OK/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/BMO_hranice2020/FeatureServer/0"
   },
   {

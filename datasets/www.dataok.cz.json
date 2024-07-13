@@ -1,11 +1,31 @@
 [
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/apps/KUOK::publikační-plán-data-ok-plánované"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/apps/KUOK::publikační-plán-data-ok-publikované"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.dataok.cz/maps/KUOK::mateřské-školy-1"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/maps/KUOK::publikační-plán-data-ok"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/5d40b47b016d4d2ebf13340c3aabc9f1/csv?layers=0"
   },
   {
     "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/655e4b7f629a4236a0109a8c6c4a6e51/csv?layers=1"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/5d40b47b016d4d2ebf13340c3aabc9f1/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
