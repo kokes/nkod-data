@@ -5,7 +5,15 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/Hosted/KAM_Pruzkum_Maloobchodu_2017/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/Hosted/KAM_Pruzkum_Maloobchodu_2021/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/Hosted/KAM_pruzkum_budov_OD_WGS_Projekt/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -46,6 +54,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/OMI/omi_unp3_bezne_obecni_byty_pocty/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/OMI/omi_unp3_druhy_bydleni_pocty/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
