@@ -48,8 +48,8 @@
     "url": "https://data.mzcr.cz/data/distribuce/2/cervikalni-screening-c53.csv"
   },
   {
-    "name": "Diabetologie: Diabetes mellitus v populaci ČR",
-    "url": "https://data.mzcr.cz/data/distribuce/362/diabetes-mellitus-v-populaci-cr.csv"
+    "name": "Diabetologie: Epidemiologie diabetes mellitus",
+    "url": "https://data.mzcr.cz/data/distribuce/362/Otevrena-data-NR-18-01-Diabetes-mellitus-2024-01.csv"
   },
   {
     "name": "Dopravní úrazy: Charakteristika úrazu",
@@ -65,19 +65,19 @@
   },
   {
     "name": "Hrazené zdravotní služby: Charakteristika hospitalizačních případů akutní lůžkové péče",
-    "url": "https://data.mzcr.cz/data/distribuce/364/Otevrena-data-NR-04-08-Hospitalizacni-pripady-akutni-pece-2024-01%20-%20kopie.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/364/Otevrena-data-NR-04-08-Hospitalizacni-pripady-akutni-pece-2024-01.csv"
   },
   {
     "name": "Hrazené zdravotní služby: Charakteristika hospitalizačních případů akutní lůžkové péče dle typu zařízení",
     "url": "https://data.mzcr.cz/data/distribuce/365/Otevrena-data-NR-04-09-Hospitalizacni-pripady-akutni-pece-dle-typu-ZZ-2024-01.csv"
   },
   {
-    "name": "Hrazené zdravotní služby: Migrace za lůžkovou péčí",
-    "url": "https://data.mzcr.cz/data/distribuce/389/Otevrena-data-NR-04-38-Migrace-pece-2024-01.csv"
+    "name": "Hrazené zdravotní služby: Hospitalizační případy akutní péče pro čtyřznakové diagnózy",
+    "url": "https://data.mzcr.cz/data/distribuce/390/Otevrena-data-NR-04-40-Hospitalizacni-pripady-akutni-pece-dg4znaky-2024-01.csv"
   },
   {
-    "name": "Hrazené zdravotní služby: Prostředky zdravotnické techniky – Materiál vykázaný v rámci veřejného zdravotního pojištění ",
-    "url": "https://data.mzcr.cz/data/distribuce/373/Otevrena-data-NR-04-04-Zdravotnicky-material-2024-01.csv"
+    "name": "Hrazené zdravotní služby: Migrace za lůžkovou péčí",
+    "url": "https://data.mzcr.cz/data/distribuce/389/Otevrena-data-NR-04-38-Migrace-pece-2024-01.csv"
   },
   {
     "name": "Hrazené zdravotní služby: Přehled vykázaných diagnóz dle kapitol   MKN-10",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Hrazené zdravotní služby: Přehled vykázaných tříznakových diagnóz dle MKN-10",
-    "url": "https://data.mzcr.cz/data/distribuce/374/nrhzs-mkn-3-znaky.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/374/Otevrena-data-NR-04-05-Triznakove-diagnozy-MKN-2024-01.csv"
   },
   {
     "name": "Hrazené zdravotní služby: Vykázané hromadně vyráběné léčivé přípravky v rámci veřejného zdravotního pojištění ",
@@ -104,24 +104,28 @@
     "url": "https://data.mzcr.cz/data/distribuce/376/Otevrena-data-NR-04-01-Vykony-2024-01.csv"
   },
   {
+    "name": "Hrazené zdravotní služby: Zdravotnický materiál vykázaný v rámci veřejného zdravotního pojištění",
+    "url": "https://data.mzcr.cz/data/distribuce/373/Otevrena-data-NR-04-04-Zdravotnicky-material-2024-01.csv"
+  },
+  {
     "name": "Kardiologie: Charakteristika hospitalizačních případů akutní péče s kardiologickou diagnózou",
-    "url": "https://data.mzcr.cz/data/distribuce/326/kardio-hospitalizace.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/326/Otevrena-data-OIS-01-05-Hospitalizacni-pripady-akutni-pece-kardio-2024-01.csv"
   },
   {
     "name": "Kardiologie: Epidemiologie srdečního selhání",
     "url": "https://data.mzcr.cz/data/distribuce/332/kardio-srdecni-selhani.csv"
   },
   {
-    "name": "Kardiologie: Hypertenze",
-    "url": "https://data.mzcr.cz/data/distribuce/327/kardio-hypertenze.csv"
+    "name": "Kardiologie: Hypertenze v populaci ČR",
+    "url": "https://data.mzcr.cz/data/distribuce/327/Otevrena-data-OIS-01-04-Hypertenze-2024-01-01.csv"
   },
   {
     "name": "Kardiologie: Kardiostimulátory a implantabilní kardioverter-defibrilátory",
-    "url": "https://data.mzcr.cz/data/distribuce/328/kardio-kardiostimulatory-defibrilatory.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/328/Otevrena-data-OIS-01-06-PM-ICD-2024-01.csv"
   },
   {
     "name": "Kardiologie: Zátěž populace ČR kardiovaskulárními onemocněními",
-    "url": "https://data.mzcr.cz/data/distribuce/330/kardio-KVO-zatez-populace.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/330/Otevrena-data-OIS-01-01-KV-zatez-2024-01.csv"
   },
   {
     "name": "Kardiologie: Úmrtí osob na nemoci oběhové soustavy",
@@ -181,7 +185,7 @@
   },
   {
     "name": "Preventivní prohlídky: Preventivní prohlídky u praktických lékařů a stomatologů",
-    "url": "https://data.mzcr.cz/data/distribuce/380/preventivni-prohlidky-prakticti-lekari-stomatologove.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/380/Otevrena-data-PPS-08-01-Preventivni-prohlidky-2024-01.csv"
   },
   {
     "name": "Psychiatrická péče: Akutní péče",
