@@ -17,6 +17,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/Hosted/ODAE_public_transit_positional_feature_service/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/Hosted/WazeAlerts/FeatureServer/0"
   },
   {
