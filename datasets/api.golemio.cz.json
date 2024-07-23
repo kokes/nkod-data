@@ -1,18 +1,18 @@
 [
   {
     "name": "Bicylecounters",
-    "url": "https://api.golemio.cz/v2/bicyclecounters"
+    "url": "https://api.golemio.cz"
   },
   {
     "name": "Stav ovzduší - AMS ČHMÚ",
-    "url": "https://api.golemio.cz/v2/airqualitystations"
+    "url": "https://api.golemio.cz"
   },
   {
     "name": "parking-lots",
-    "url": "https://api.golemio.cz/v2/parking"
+    "url": "https://api.golemio.cz"
   },
   {
     "name": "vehicle-positions",
-    "url": "https://api.golemio.cz/v2/vehiclepositions"
+    "url": "https://api.golemio.cz"
   }
 ]
