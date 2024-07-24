@@ -8,7 +8,15 @@
     "url": "https://ares.gov.cz/otevrena-data/ares_seznamIC_VR.csv.7z"
   },
   {
+    "name": "ARES - Seznam IČO změnový",
+    "url": "https://ares.gov.cz/otevrena-data/ares_seznamIC_VR_zmen.7z"
+  },
+  {
     "name": "ARES - Výstup pro všechna IČO",
     "url": "https://ares.gov.cz/otevrena-data/ares_vreo_all.tar.gz"
+  },
+  {
+    "name": "ARES - Číselník veřejných rejstříků",
+    "url": "https://ares.gov.cz/otevrena-data/ares_ciselnik_VR.csv"
   }
 ]

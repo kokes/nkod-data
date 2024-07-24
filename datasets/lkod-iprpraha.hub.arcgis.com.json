@@ -133,6 +133,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::plán-využití-ploch-podměrečné-funkční-plochy-plovoucí-body-územní-plán"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::plán-využití-ploch-podměrečné-funkční-plochy-stabilizované-body-územní-plán"
   },
   {
@@ -185,7 +189,7 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::pražská-integrovaná-doprava-vstupy-do-metra"
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::pražská-integrovaná-doprava-vstupy-do-metra-1"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -729,6 +733,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/d8db737b95ba4332ae6e7a3f78af57b7/csv?layers=0"
+  },
+  {
+    "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/d8edf52beb624dd1a529279029f65377/csv?layers=0"
   },
   {
@@ -1126,6 +1134,10 @@
   {
     "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/d81c126ac41b4f1983ad3e5590c46608/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/d8db737b95ba4332ae6e7a3f78af57b7/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -1529,6 +1541,10 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/d8db737b95ba4332ae6e7a3f78af57b7/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/d8edf52beb624dd1a529279029f65377/kml?layers=0"
   },
   {
@@ -1926,6 +1942,10 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/d81c126ac41b4f1983ad3e5590c46608/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/d8db737b95ba4332ae6e7a3f78af57b7/shapefile?layers=0"
   },
   {
     "name": "ZIP",
