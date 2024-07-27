@@ -1,6 +1,10 @@
 [
   {
     "name": "ArcGIS GeoService",
-    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/mate%C5%99sk%C3%A9_%C5%A1koly/FeatureServer/1"
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/Hosted/konzervato%C5%99e_test/FeatureServer/4"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/konzervato%C5%99e/FeatureServer/4"
   }
 ]
