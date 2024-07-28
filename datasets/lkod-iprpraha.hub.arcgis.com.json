@@ -41,6 +41,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::geologické-jednotky-1"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::hluková-mapa-automobilové-dopravy-den"
   },
   {
@@ -761,6 +765,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/eac7bdbc00bf4c3893eaa993a468d516/csv?layers=0"
+  },
+  {
+    "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/ecb9d721f86c4fc28f7e342afd8ba0b7/csv?layers=0"
   },
   {
@@ -1158,6 +1166,10 @@
   {
     "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/e8eca467000b4b089bcf3b900f51f0d5/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/eac7bdbc00bf4c3893eaa993a468d516/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -1561,6 +1573,10 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/eac7bdbc00bf4c3893eaa993a468d516/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/ecb9d721f86c4fc28f7e342afd8ba0b7/kml?layers=0"
   },
   {
@@ -1958,6 +1974,10 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/e8eca467000b4b089bcf3b900f51f0d5/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/eac7bdbc00bf4c3893eaa993a468d516/shapefile?layers=0"
   },
   {
     "name": "ZIP",
