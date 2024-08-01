@@ -161,6 +161,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::pražská-integrovaná-doprava-linky-aktuální-stav"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::pražská-integrovaná-doprava-linky-týden-aktuální-stav"
   },
   {
@@ -398,6 +402,10 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::územní-systém-ekologické-stability"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/03a8022da9fe4c4899f366f960041e36/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -801,6 +809,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/03a8022da9fe4c4899f366f960041e36/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/045287cb372d4f1d840dc5079f082b40/geojson?layers=0"
   },
   {
@@ -1201,6 +1213,10 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/03a8022da9fe4c4899f366f960041e36/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/045287cb372d4f1d840dc5079f082b40/kml?layers=0"
   },
   {
@@ -1598,6 +1614,10 @@
   {
     "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/fc3c90e8eaaf4937bfce6315a144cbdb/kml?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/03a8022da9fe4c4899f366f960041e36/shapefile?layers=0"
   },
   {
     "name": "ZIP",

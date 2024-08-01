@@ -1,5 +1,13 @@
 [
   {
+    "name": "ArcGIS Server služba (CS)",
+    "url": "https://mapy.geology.cz/arcgis/rest/services/Geologie/geologicka_mapa500/MapServer"
+  },
+  {
+    "name": "ArcGIS Server služba (EN)",
+    "url": "https://mapy.geology.cz/arcgis/rest/services/Geologie/geologicka_mapa500_en/MapServer"
+  },
+  {
     "name": "INSPIRE prohlížecí služba (CS)",
     "url": "https://mapy.geology.cz/arcgis/services/Geofyzika/VES/MapServer/WMSServer?request=GetCapabilities&service=WMS"
   },
@@ -10,6 +18,18 @@
   {
     "name": "INSPIRE prohlížecí služba (CS)",
     "url": "https://mapy.geology.cz/arcgis/services/Geohazardy/radon50/MapServer/WmsServer?SERVICE=WMS&REQUEST=GetCapabilities"
+  },
+  {
+    "name": "INSPIRE prohlížecí služba (CS)",
+    "url": "https://mapy.geology.cz/arcgis/services/Geohazardy/svahove_nestability/MapServer/WmsServer?SERVICE=WMS&REQUEST=GetCapabilities"
+  },
+  {
+    "name": "INSPIRE prohlížecí služba (CS)",
+    "url": "https://mapy.geology.cz/arcgis/services/Geologie/geologicka_mapa500/MapServer/WmsServer?SERVICE=WMS&REQUEST=GetCapabilities"
+  },
+  {
+    "name": "INSPIRE prohlížecí služba (CS)",
+    "url": "https://mapy.geology.cz/arcgis/services/Pudy/pudni_typy50/MapServer/WmsServer?SERVICE=WMS&REQUEST=GetCapabilities"
   },
   {
     "name": "WFS (CS)",
