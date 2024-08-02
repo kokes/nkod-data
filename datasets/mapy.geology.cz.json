@@ -29,6 +29,10 @@
   },
   {
     "name": "INSPIRE prohlížecí služba (CS)",
+    "url": "https://mapy.geology.cz/arcgis/services/Prozkoumanost/Vrtna_prozkoumanost/MapServer/WMSServer?request=GetCapabilities&service=WMS"
+  },
+  {
+    "name": "INSPIRE prohlížecí služba (CS)",
     "url": "https://mapy.geology.cz/arcgis/services/Pudy/pudni_typy50/MapServer/WmsServer?SERVICE=WMS&REQUEST=GetCapabilities"
   },
   {
