@@ -49,6 +49,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Jin%C3%A9_atraktivity_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Kreativn%C3%AD_vouchery_2020_2022_WFL1/FeatureServer/0"
   },
   {
@@ -70,6 +74,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Nemocnice_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Odborn%C3%A9_organizace_v_cestovn%C3%ADm_ruchu_a_l%C3%A1ze%C5%88stv%C3%AD_WFL1/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
