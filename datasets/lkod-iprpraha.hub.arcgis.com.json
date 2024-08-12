@@ -189,6 +189,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::pražská-integrovaná-doprava-vstupy-do-metra"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::pražská-integrovaná-doprava-zastávky-aktuální-stav"
   },
   {
@@ -601,6 +605,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/91fda93bea914b2d8c94806edfb90e7f/csv?layers=0"
+  },
+  {
+    "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/97843250089d49779dda838b03d15607/csv?layers=0"
   },
   {
@@ -990,6 +998,10 @@
   {
     "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/8f3386a4f73b4c658a91e78750e1ff96/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/91fda93bea914b2d8c94806edfb90e7f/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -1385,6 +1397,10 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/91fda93bea914b2d8c94806edfb90e7f/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/97843250089d49779dda838b03d15607/kml?layers=0"
   },
   {
@@ -1774,6 +1790,10 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/8f3386a4f73b4c658a91e78750e1ff96/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/91fda93bea914b2d8c94806edfb90e7f/shapefile?layers=0"
   },
   {
     "name": "ZIP",
