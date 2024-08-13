@@ -73,6 +73,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Muzea_v_p%C5%99%C3%ADrod%C4%9B_a_skanzeny_v_KVK_WFL1/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Nemocnice_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
   },
   {
@@ -142,5 +146,9 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Z%C3%A1m%C4%9Br_po%C4%8Dtu_p%C5%99ij%C3%ADman%C3%BDch_uchaze%C4%8D%C5%AF_pro_%C5%A1koln%C3%AD_rok_2024_2025_WFL1/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/ZOO_a_zooparky_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
   }
 ]
