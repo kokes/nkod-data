@@ -304,26 +304,6 @@
     "url": "https://data.mzcr.cz/data/distribuce/342/vakcinace-verejne-zdravotni-pojisteni.csv"
   },
   {
-    "name": "Úrazy domácí + ostatní na 100 000 obyvatel",
-    "url": "https://data.mzcr.cz/data/distribuce/279/urazy-domaci-ostatni-na-100-000-obyvatel.csv"
-  },
-  {
-    "name": "Úrazy dopravní na 100 000 obyvatel",
-    "url": "https://data.mzcr.cz/data/distribuce/280/urazy-dopravni-na-100-000-obyvatel.csv"
-  },
-  {
-    "name": "Úrazy na 100 000 obyvatel",
-    "url": "https://data.mzcr.cz/data/distribuce/281/urazy-na-100-000-obyvatel.csv"
-  },
-  {
-    "name": "Úrazy pracovní na 100 000 obyvatel",
-    "url": "https://data.mzcr.cz/data/distribuce/282/urazy-pracovni-na-100-000-obyvatel.csv"
-  },
-  {
-    "name": "Úrazy sportovní na 100 000 obyvatel",
-    "url": "https://data.mzcr.cz/data/distribuce/283/urazy-sportovni-na-100-000-obyvatel.csv"
-  },
-  {
     "name": "Úrazy: Charakteristika úrazu",
     "url": "https://data.mzcr.cz/data/distribuce/381/urazy-charakteristika-urazu.csv"
   },
@@ -334,29 +314,5 @@
   {
     "name": "Úrazy: Detailní charakteristika úrazu – Diagnózy T",
     "url": "https://data.mzcr.cz/data/distribuce/383/urazy-diagnozy-t.csv"
-  },
-  {
-    "name": "Číselník ORP",
-    "url": "https://data.mzcr.cz/data/distribuce/70/orp.csv"
-  },
-  {
-    "name": "Číselník krajů",
-    "url": "https://data.mzcr.cz/data/distribuce/68/kraje.csv"
-  },
-  {
-    "name": "Číselník okresů",
-    "url": "https://data.mzcr.cz/data/distribuce/69/okresy.csv"
-  },
-  {
-    "name": "Číselník pohlaví",
-    "url": "https://data.mzcr.cz/data/distribuce/71/pohlavi.csv"
-  },
-  {
-    "name": "Číselník typů hodnot",
-    "url": "https://data.mzcr.cz/data/distribuce/72/typ_hodnoty.csv"
-  },
-  {
-    "name": "Číselník věkových skupin",
-    "url": "https://data.mzcr.cz/data/distribuce/73/vekova_skupina.csv"
   }
 ]
