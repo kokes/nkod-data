@@ -341,6 +341,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::zookoutky-lesů-hmp-a-dále-farmy-terária-záchranné-stanice-a-další-podobné-objekty-jiných-organizací-na-území-prahy"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::záchytná-parkoviště-pr"
   },
   {
@@ -422,6 +426,10 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/0e2003cb31584b05b5377f79aae8bbff/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/11e60050340542c79b60c7bbbe7e50f9/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -833,6 +841,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/11e60050340542c79b60c7bbbe7e50f9/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/11f30ace33c44c7caedc75885cc37834/geojson?layers=0"
   },
   {
@@ -1241,6 +1253,10 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/11e60050340542c79b60c7bbbe7e50f9/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/11f30ace33c44c7caedc75885cc37834/kml?layers=0"
   },
   {
@@ -1646,6 +1662,10 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/0e2003cb31584b05b5377f79aae8bbff/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/11e60050340542c79b60c7bbbe7e50f9/shapefile?layers=0"
   },
   {
     "name": "ZIP",
