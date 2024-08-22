@@ -24,10 +24,6 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkove-odbery-vody-2023.csv"
   },
   {
-    "name": "data-cenia-indikator-celkovy-pocet-platnych-licenci-ekoznacek-2022.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkovy-pocet-platnych-licenci-ekoznacek-2022.csv"
-  },
-  {
     "name": "data-cenia-indikator-cisteni-odpadnich-vod-vypoustenych-do-kanalizace-2023.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-cisteni-odpadnich-vod-vypoustenych-do-kanalizace-2023.csv"
   },
@@ -194,6 +190,10 @@
   {
     "name": "mzp-integrovana-prevence.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-integrovana-prevence-2023.csv"
+  },
+  {
+    "name": "mzp-nelegalni-obchod-s-regulovanymi-latkami.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-nelegalni-obchod-s-regulovanymi-latkami-2023.csv"
   },
   {
     "name": "mzp-provozovny-irz-crzp.csv",
