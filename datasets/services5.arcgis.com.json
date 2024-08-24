@@ -5,10 +5,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_CYKLOTRASY_L/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_CYKLOZNACKY_B/FeatureServer/0"
   },
   {
@@ -30,10 +26,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_PID_TRASY_L/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_PID_TRASY_TYDEN_L/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -74,10 +66,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_ZACHPARKOVISTE_B/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_ZPS_PARKOMATY_B/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -301,10 +289,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/PUP_CUR_PVP_ZASTAVENEUZEMI_P/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/PUP_CUR_VPS_B/FeatureServer/0"
   },
   {
@@ -398,10 +382,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/ZPK_CUR_ZPK_O_KONT_TOITEM_B/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/ZPK_CUR_ZPK_O_KONT_TOSTAN_B/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",

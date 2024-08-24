@@ -29,15 +29,39 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::cyklistická-doprava-značky"
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::dop-cur-dop-cyklogenerel-l"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::cyklistické-trasy"
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::dop-cur-dop-cykloznacky-b"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::generel-cyklistických-tras-hl-m-prahy"
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::dop-cur-dop-pid-zast-popis-tyden-b"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::dop-cur-dop-pid-zastavky-tyden-b"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::dop-cur-dop-tsk-lu-terminy-p"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::dop-cur-dop-tsk-stani-ztp-b"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::dop-cur-dop-zachparkoviste-b"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::dop-cur-dop-zps-useky-p"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::dop-cur-dop-zps-zm-p"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -101,10 +125,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::letní-údržba-komunikací-tsk"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::městské-části"
   },
   {
@@ -134,10 +154,6 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::pangeo"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::parkovací-automaty-1"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -181,10 +197,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::pražská-integrovaná-doprava-popis-zastávek-týden-aktuální-stav"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::pražská-integrovaná-doprava-tarifní-pásma"
   },
   {
@@ -193,19 +205,11 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::pražská-integrovaná-doprava-trasy-týden-aktuální-stav"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::pražská-integrovaná-doprava-vstupy-do-metra"
   },
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::pražská-integrovaná-doprava-zastávky-aktuální-stav"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::pražská-integrovaná-doprava-zastávky-týden-aktuální-stav"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -234,14 +238,6 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::současný-stav-využití-území"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::současně-zastavěné-území-územní-plán"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::stanoviště-tříděného-odpadu"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -286,10 +282,6 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::veřejně-prospěšné-stavby-plošné-prvky-územní-plán"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::vyhrazená-parkovací-stání-pro-držitele-průkazu-ztp-p-bez-vazby-na-registrační-značku-vozidla"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -345,14 +337,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::záchytná-parkoviště-pr"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::zákaz-stání"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::základní-mapa-1-25-000-bloky-hranice"
   },
   {
@@ -405,10 +389,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::úseky-parkování-v-zónách-placeného-stání"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::územní-systém-ekologické-stability"
   },
   {
@@ -434,10 +414,6 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/11f30ace33c44c7caedc75885cc37834/csv?layers=0"
-  },
-  {
-    "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/150f549136904a429c26ed140f1184f8/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -514,10 +490,6 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4d683602e34d4fc9bd19e82cddba5b35/csv?layers=0"
-  },
-  {
-    "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4e16596fbc9d40288d4c3c8de31af455/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -602,10 +574,6 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/7c964c031add428ea094d83db4ec56b4/csv?layers=0"
-  },
-  {
-    "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/818316df3e624f3e83153164c4771838/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -701,10 +669,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/c0440a09307149a2bdd6bec4d0192590/csv?layers=0"
-  },
-  {
-    "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/c0500468d8184a2da0d6697b281f2507/csv?layers=0"
   },
   {
@@ -766,10 +730,6 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/e44d6a8f83e348a9b88da803a57d0511/csv?layers=0"
-  },
-  {
-    "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/e649f91e6d5449c19edfc56987891471/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -849,10 +809,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/150f549136904a429c26ed140f1184f8/geojson?layers=0"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/17b2a57f0c7a4179b7106c29b0215c1d/geojson?layers=0"
   },
   {
@@ -926,10 +882,6 @@
   {
     "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4d683602e34d4fc9bd19e82cddba5b35/geojson?layers=0"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4e16596fbc9d40288d4c3c8de31af455/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -1014,10 +966,6 @@
   {
     "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/7c964c031add428ea094d83db4ec56b4/geojson?layers=0"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/818316df3e624f3e83153164c4771838/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -1113,10 +1061,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/c0440a09307149a2bdd6bec4d0192590/geojson?layers=0"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/c0500468d8184a2da0d6697b281f2507/geojson?layers=0"
   },
   {
@@ -1178,10 +1122,6 @@
   {
     "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/e44d6a8f83e348a9b88da803a57d0511/geojson?layers=0"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/e649f91e6d5449c19edfc56987891471/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -1261,10 +1201,6 @@
   },
   {
     "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/150f549136904a429c26ed140f1184f8/kml?layers=0"
-  },
-  {
-    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/17b2a57f0c7a4179b7106c29b0215c1d/kml?layers=0"
   },
   {
@@ -1338,10 +1274,6 @@
   {
     "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4d683602e34d4fc9bd19e82cddba5b35/kml?layers=0"
-  },
-  {
-    "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4e16596fbc9d40288d4c3c8de31af455/kml?layers=0"
   },
   {
     "name": "KML",
@@ -1426,10 +1358,6 @@
   {
     "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/7c964c031add428ea094d83db4ec56b4/kml?layers=0"
-  },
-  {
-    "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/818316df3e624f3e83153164c4771838/kml?layers=0"
   },
   {
     "name": "KML",
@@ -1525,10 +1453,6 @@
   },
   {
     "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/c0440a09307149a2bdd6bec4d0192590/kml?layers=0"
-  },
-  {
-    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/c0500468d8184a2da0d6697b281f2507/kml?layers=0"
   },
   {
@@ -1590,10 +1514,6 @@
   {
     "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/e44d6a8f83e348a9b88da803a57d0511/kml?layers=0"
-  },
-  {
-    "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/e649f91e6d5449c19edfc56987891471/kml?layers=0"
   },
   {
     "name": "KML",
@@ -1673,10 +1593,6 @@
   },
   {
     "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/150f549136904a429c26ed140f1184f8/shapefile?layers=0"
-  },
-  {
-    "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/17b2a57f0c7a4179b7106c29b0215c1d/shapefile?layers=0"
   },
   {
@@ -1750,10 +1666,6 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4d683602e34d4fc9bd19e82cddba5b35/shapefile?layers=0"
-  },
-  {
-    "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4e16596fbc9d40288d4c3c8de31af455/shapefile?layers=0"
   },
   {
     "name": "ZIP",
@@ -1838,10 +1750,6 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/7c964c031add428ea094d83db4ec56b4/shapefile?layers=0"
-  },
-  {
-    "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/818316df3e624f3e83153164c4771838/shapefile?layers=0"
   },
   {
     "name": "ZIP",
@@ -1937,10 +1845,6 @@
   },
   {
     "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/c0440a09307149a2bdd6bec4d0192590/shapefile?layers=0"
-  },
-  {
-    "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/c0500468d8184a2da0d6697b281f2507/shapefile?layers=0"
   },
   {
@@ -2002,10 +1906,6 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/e44d6a8f83e348a9b88da803a57d0511/shapefile?layers=0"
-  },
-  {
-    "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/e649f91e6d5449c19edfc56987891471/shapefile?layers=0"
   },
   {
     "name": "ZIP",
