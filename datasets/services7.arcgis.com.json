@@ -45,6 +45,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/V%C3%BDjezdov%C3%A9_z%C3%A1kladny_ZZS_LK/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Z%C3%A1kladn%C3%AD_um%C4%9Bleck%C3%A9_%C5%A1koly_v_Libereck%C3%A9m_kraji/FeatureServer/0"
   }
 ]
