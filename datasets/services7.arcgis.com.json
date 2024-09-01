@@ -21,6 +21,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Lidov%C3%A9_architektonick%C3%A9_pam%C3%A1tky/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Muzea_v_Libereck%C3%A9m_kraji/FeatureServer/0"
   },
   {
