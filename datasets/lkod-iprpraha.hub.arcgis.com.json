@@ -317,6 +317,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::základní-mapa-1-25-000-bloky-hranice"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::základní-mapa-1-25-000-bloky-plochy"
   },
   {
@@ -634,6 +638,10 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/c0440a09307149a2bdd6bec4d0192590/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/c0500468d8184a2da0d6697b281f2507/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -1009,6 +1017,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/c0500468d8184a2da0d6697b281f2507/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/c0fce51931d749f9ad0e541e9c973ba1/geojson?layers=0"
   },
   {
@@ -1381,6 +1393,10 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/c0500468d8184a2da0d6697b281f2507/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/c0fce51931d749f9ad0e541e9c973ba1/kml?layers=0"
   },
   {
@@ -1750,6 +1766,10 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/c0440a09307149a2bdd6bec4d0192590/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/c0500468d8184a2da0d6697b281f2507/shapefile?layers=0"
   },
   {
     "name": "ZIP",
