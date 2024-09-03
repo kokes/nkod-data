@@ -33,6 +33,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::jednorázové-hudební-akce"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/maps/mestomost::lokality-se-zákazem-konzumace-alkoholu"
   },
   {
@@ -140,6 +144,10 @@
     "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-úses"
   },
   {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-územní-rezerva-r"
+  },
+  {
     "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/05e82cc6b3c8497b8a8abc5101ac5ce7/csv?layers=10"
   },
@@ -202,6 +210,14 @@
   {
     "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/70a51d23bec5446da750dd50ccee5ffd/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/7c0db231f6df4386a70d7ca86f7ed8ed/csv?layers=7"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/832481ad209946d2a97a3dd58275d13b/csv?layers=18"
   },
   {
     "name": "CSV",
@@ -337,6 +353,14 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/7c0db231f6df4386a70d7ca86f7ed8ed/geojson?layers=7"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/832481ad209946d2a97a3dd58275d13b/geojson?layers=18"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/8cb4e6444da0411aa10fb8ab06a2e9f6/geojson?layers=5"
   },
   {
@@ -469,6 +493,14 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/7c0db231f6df4386a70d7ca86f7ed8ed/kml?layers=7"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/832481ad209946d2a97a3dd58275d13b/kml?layers=18"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/8cb4e6444da0411aa10fb8ab06a2e9f6/kml?layers=5"
   },
   {
@@ -590,6 +622,14 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/70a51d23bec5446da750dd50ccee5ffd/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/7c0db231f6df4386a70d7ca86f7ed8ed/shapefile?layers=7"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/832481ad209946d2a97a3dd58275d13b/shapefile?layers=18"
   },
   {
     "name": "Shapefile",

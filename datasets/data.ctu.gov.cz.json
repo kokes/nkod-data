@@ -49,7 +49,27 @@
   },
   {
     "name": "Ekonomické ukazatele o trhu e-komunikací - tržby a investice",
-    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-ekonomicke_ukazatele_5.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-ekonomicke_ukazatele_2023.csv"
+  },
+  {
+    "name": "Ekonomické ukazatele o trhu e-komunikací - tržby a investice",
+    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-ekonomicke_ukazatele_2023.xlsx"
+  },
+  {
+    "name": "Ekonomické ukazatele o trhu pevných sítí",
+    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-pevna_sit_2023.csv"
+  },
+  {
+    "name": "Ekonomické ukazatele o trhu pevných sítí",
+    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-pevna_sit_2023.xlsx"
+  },
+  {
+    "name": "Ekonomické ukazatele o trhu rozhlasového a televizního vysílání",
+    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-televizni_a_rozhlasove_vysilani_2023.csv"
+  },
+  {
+    "name": "Ekonomické ukazatele o trhu rozhlasového a televizního vysílání",
+    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-televizni_a_rozhlasove_vysilani_2023.xlsx"
   },
   {
     "name": "Ekonomické ukazatele poštovního trhu",
@@ -712,8 +732,12 @@
     "url": "https://data.ctu.gov.cz/sites/default/files/graf93.csv"
   },
   {
-    "name": "Počet širokopásmových přístupů k síti Internet",
-    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-pocet_sirokopasmovych_pristupu_5.csv"
+    "name": "Počet širokopásmových přístupů k internetu",
+    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-pocet_sirokopasmovych_pristupu_2023.csv"
+  },
+  {
+    "name": "Počet širokopásmových přístupů k internetu",
+    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-pocet_sirokopasmovych_pristupu_2023.xlsx"
   },
   {
     "name": "Počty poskytovatelů služeb v mobilní síti",
@@ -1153,15 +1177,11 @@
   },
   {
     "name": "Ukazatele o trhu mobilních sítí",
-    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-mobilni_site_5.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-mobilni_site_2023.csv"
   },
   {
-    "name": "Ukazatele o trhu pevných sítí",
-    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-pevna_sit_3.csv"
-  },
-  {
-    "name": "Ukazatele o trhu rozhlasového a televizního vysílání",
-    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-televizni_a_rozhlasove_vysilani_3.csv"
+    "name": "Ukazatele o trhu mobilních sítí",
+    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-mobilni_site_2023.xlsx"
   },
   {
     "name": "Velkoobchodní ceny za ukončení volání ve veřejných mobilních telefonních sítích  - Česká republika",
