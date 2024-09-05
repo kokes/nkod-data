@@ -65,6 +65,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/maps/KUOK::zúr-ok-rozvojové-oblasti-a-osy-specifické-oblasti-bod-1"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.dataok.cz/maps/KUOK::školská-poradenská-zařízení-1"
   },
   {
@@ -106,6 +110,10 @@
   {
     "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/69ff3c91ad8e4b22bda4efc361530603/csv?layers=2"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/9693f4b922854f92abca8850ef685ebe/csv?layers=116"
   },
   {
     "name": "CSV",
@@ -181,6 +189,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/9693f4b922854f92abca8850ef685ebe/geojson?layers=116"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://www.dataok.cz/api/download/v1/items/98ec79f52014400e932dc05980056555/geojson?layers=0"
   },
   {
@@ -249,6 +261,10 @@
   },
   {
     "name": "KML",
+    "url": "https://www.dataok.cz/api/download/v1/items/9693f4b922854f92abca8850ef685ebe/kml?layers=116"
+  },
+  {
+    "name": "KML",
     "url": "https://www.dataok.cz/api/download/v1/items/9a49128a88924c2d913b87abf789dbb5/kml?layers=4"
   },
   {
@@ -310,6 +326,10 @@
   {
     "name": "Shapefile",
     "url": "https://www.dataok.cz/api/download/v1/items/69ff3c91ad8e4b22bda4efc361530603/shapefile?layers=2"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.dataok.cz/api/download/v1/items/9693f4b922854f92abca8850ef685ebe/shapefile?layers=116"
   },
   {
     "name": "Shapefile",
