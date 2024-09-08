@@ -405,6 +405,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::úseky-parkování-v-zónách-placeného-stání"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/maps/iprpraha::územní-systém-ekologické-stability"
   },
   {
@@ -478,6 +482,10 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/299c5e26cd6e4996a6e32613075df88e/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/29f7d2771591403cbef957d13b303da0/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -889,6 +897,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/29f7d2771591403cbef957d13b303da0/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/377ba136f0d042e9aa2831873c116c8a/geojson?layers=0"
   },
   {
@@ -1297,6 +1309,10 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/29f7d2771591403cbef957d13b303da0/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/377ba136f0d042e9aa2831873c116c8a/kml?layers=0"
   },
   {
@@ -1702,6 +1718,10 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/299c5e26cd6e4996a6e32613075df88e/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/29f7d2771591403cbef957d13b303da0/shapefile?layers=0"
   },
   {
     "name": "ZIP",
