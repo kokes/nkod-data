@@ -20,6 +20,30 @@
     "url": "https://ctu.gov.cz/vyhledavaci-databaze/full-export/xlsx/prehled-oznamenych-rozhrani"
   },
   {
+    "name": "Stacionární měření mobilního signálu 2G (LTE) - O2",
+    "url": "https://ctu.gov.cz/sites/default/files/applications/ctu_imports/import_stacionarni_mereni/2g_o2_stacionarni/2g_o2_stacionarni.zip"
+  },
+  {
+    "name": "Stacionární měření mobilního signálu 2G (LTE) - TM",
+    "url": "https://ctu.gov.cz/sites/default/files/applications/ctu_imports/import_stacionarni_mereni/2g_tm_stacionarni/2g_tm_stacionarni.zip"
+  },
+  {
+    "name": "Stacionární měření mobilního signálu 2G (LTE) - Vodafone",
+    "url": "https://ctu.gov.cz/sites/default/files/applications/ctu_imports/import_stacionarni_mereni/2g_vf_stacionarni/2g_vf_stacionarni.zip"
+  },
+  {
+    "name": "Stacionární měření mobilního signálu 4G (LTE) - O2",
+    "url": "https://ctu.gov.cz/sites/default/files/applications/ctu_imports/import_stacionarni_mereni/4g_o2_stacionarni/4g_o2_stacionarni.zip"
+  },
+  {
+    "name": "Stacionární měření mobilního signálu 4G (LTE) - TM",
+    "url": "https://ctu.gov.cz/sites/default/files/applications/ctu_imports/import_stacionarni_mereni/4g_tm_stacionarni/4g_tm_stacionarni.zip"
+  },
+  {
+    "name": "Stacionární měření mobilního signálu 4G (LTE) - Vodafone",
+    "url": "https://ctu.gov.cz/sites/default/files/applications/ctu_imports/import_stacionarni_mereni/4g_vf_stacionarni/4g_vf_stacionarni.zip"
+  },
+  {
     "name": "Úřední deska",
     "url": "https://ctu.gov.cz/sites/default/files/uredni-deska.json"
   }

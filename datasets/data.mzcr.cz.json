@@ -45,7 +45,7 @@
   },
   {
     "name": "Cervikální screeningové vyšetření: Pokrytí cílové populace",
-    "url": "https://data.mzcr.cz/data/distribuce/2/cervikalni-screening-c53.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/2/Otevrena-data-PPS-03-01-Cervix-screening-pokryti-populace-2024-01.csv"
   },
   {
     "name": "Diabetologie: Epidemiologie diabetes mellitus",
@@ -136,16 +136,40 @@
     "url": "https://data.mzcr.cz/data/distribuce/331/kardio-prehled-zemrelych-osob.csv"
   },
   {
+    "name": "Kolorektální screeningové vyšetření: Podíl osob s pozitivním TOKS",
+    "url": "https://data.mzcr.cz/data/distribuce/394/Otevrena-data-PPS-02-02-Kolorektum-TOKS-podil-pozitivnich-2024-01.csv"
+  },
+  {
     "name": "Kolorektální screeningové vyšetření: Pokrytí cílové populace",
-    "url": "https://data.mzcr.cz/data/distribuce/62/kolorektalni-screening-c18-c20.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/62/Otevrena-data-PPS-02-01-Kolorektum-screening-pokryti-populace-2024-01.csv"
+  },
+  {
+    "name": "Kolorektální screeningové vyšetření: Počet provedených screeningových TOKS",
+    "url": "https://data.mzcr.cz/data/distribuce/395/Otevrena-data-PPS-02-03-Kolorektum-TOKS-pocet-2024-01.csv"
+  },
+  {
+    "name": "Kolorektální screeningové vyšetření: Počet provedených screeningových kolonoskopií",
+    "url": "https://data.mzcr.cz/data/distribuce/397/Otevrena-data-PPS-02-04-Kolorektum-screeningove-kolonoskopie-pocet-2024-01.csv"
+  },
+  {
+    "name": "Kolorektální screeningové vyšetření: TOKS+ a navazující kolonoskopie",
+    "url": "https://data.mzcr.cz/data/distribuce/396/Otevrena-data-PPS-02-05-Kolorektum-TOKS-kolonoskopie-2024-01.csv"
   },
   {
     "name": "Lůžkový fond: Lůžkový fond ČR a jeho využití",
     "url": "https://data.mzcr.cz/data/distribuce/379/luzkovy-fond-cr-a-jeho-vyuziti.csv"
   },
   {
+    "name": "Mamografické screeningové vyšetření: Podíl žen s doplňujícím ultrazvukovým vyšetřením",
+    "url": "https://data.mzcr.cz/data/distribuce/393/Otevrena-data-PPS-01-03-Mamografie-ultrazvukova-vystreni-podil-2024-01.csv"
+  },
+  {
     "name": "Mamografické screeningové vyšetření: Pokrytí cílové populace",
-    "url": "https://data.mzcr.cz/data/distribuce/263/mamograficky-screening-c50.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/263/Otevrena-data-PPS-01-01-Mamografie-screening-pokryti-populace-2024-01.csv"
+  },
+  {
+    "name": "Mamografické screeningové vyšetření: Pokrytí cílové populace",
+    "url": "https://data.mzcr.cz/data/distribuce/392/Otevrena-data-PPS-01-02-Mamografie-screeningova-vysetreni-pocet-2024-01.csv"
   },
   {
     "name": "NZIP: Přehled autorských článků",
