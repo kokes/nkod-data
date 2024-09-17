@@ -1,79 +1,83 @@
 [
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::konzervatoře"
+    "url": "https://www.dataok.cz/datasets/KUOK::konzervatoře"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::konzervatoře-test"
+    "url": "https://www.dataok.cz/datasets/KUOK::konzervatoře-test"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::konzervatoře-test-host"
+    "url": "https://www.dataok.cz/datasets/KUOK::konzervatoře-test-host"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::mateřské-školy"
+    "url": "https://www.dataok.cz/datasets/KUOK::mateřské-školy"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::organizační-struktura-krajského-úřadu-olomouckého-kraje"
+    "url": "https://www.dataok.cz/datasets/KUOK::organizační-struktura-krajského-úřadu-olomouckého-kraje"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::parcely-1"
+    "url": "https://www.dataok.cz/datasets/KUOK::parcely-1"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::publikační-plán-olomouckého-kraje"
+    "url": "https://www.dataok.cz/datasets/KUOK::publikační-plán-olomouckého-kraje"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::střední-školy"
+    "url": "https://www.dataok.cz/datasets/KUOK::střední-školy"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::sídla-škol-a-školských-zařízení-1"
+    "url": "https://www.dataok.cz/datasets/KUOK::sídla-škol-a-školských-zařízení-1"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::vyšší-odborné-školy-1"
+    "url": "https://www.dataok.cz/datasets/KUOK::vyšší-odborné-školy-1"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::výchovná-a-ubytovací-zařízení-1"
+    "url": "https://www.dataok.cz/datasets/KUOK::výchovná-a-ubytovací-zařízení-1"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::zařízení-pro-ústavní-výchovu-1"
+    "url": "https://www.dataok.cz/datasets/KUOK::zařízení-pro-ústavní-výchovu-1"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::zařízení-školního-stravování-1"
+    "url": "https://www.dataok.cz/datasets/KUOK::zařízení-školního-stravování-1"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::zájmová-a-další-vzdělávací-zařízení-1"
+    "url": "https://www.dataok.cz/datasets/KUOK::zájmová-a-další-vzdělávací-zařízení-1"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::základní-umělecké-a-jazykové-školy-1"
+    "url": "https://www.dataok.cz/datasets/KUOK::základní-umělecké-a-jazykové-školy-1"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::základní-školy"
+    "url": "https://www.dataok.cz/datasets/KUOK::základní-školy"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::zúr-ok-rozvojové-oblasti-a-osy-specifické-oblasti-bod-1"
+    "url": "https://www.dataok.cz/datasets/KUOK::zúr-ok-rozvojové-oblasti-a-osy-specifické-oblasti-bod-1"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::školská-poradenská-zařízení-1"
+    "url": "https://www.dataok.cz/datasets/KUOK::zúr-ok-rozvojové-oblasti-a-osy-specifické-oblasti-linie"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/KUOK::školská-účelová-zařízení-1"
+    "url": "https://www.dataok.cz/datasets/KUOK::školská-poradenská-zařízení-1"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/datasets/KUOK::školská-účelová-zařízení-1"
   },
   {
     "name": "CSV",
@@ -126,6 +130,10 @@
   {
     "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/aad6d12f8015425fa3fb63f079d2666b/csv?layers=5"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/ac2bc975cd9243508379adbe8cb26b39/csv?layers=1"
   },
   {
     "name": "CSV",
@@ -205,6 +213,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/ac2bc975cd9243508379adbe8cb26b39/geojson?layers=1"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://www.dataok.cz/api/download/v1/items/b0fd4ec5dc884899960763d1c0baba83/geojson?layers=4"
   },
   {
@@ -273,6 +285,10 @@
   },
   {
     "name": "KML",
+    "url": "https://www.dataok.cz/api/download/v1/items/ac2bc975cd9243508379adbe8cb26b39/kml?layers=1"
+  },
+  {
+    "name": "KML",
     "url": "https://www.dataok.cz/api/download/v1/items/b0fd4ec5dc884899960763d1c0baba83/kml?layers=4"
   },
   {
@@ -338,6 +354,10 @@
   {
     "name": "Shapefile",
     "url": "https://www.dataok.cz/api/download/v1/items/aad6d12f8015425fa3fb63f079d2666b/shapefile?layers=5"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.dataok.cz/api/download/v1/items/ac2bc975cd9243508379adbe8cb26b39/shapefile?layers=1"
   },
   {
     "name": "Shapefile",

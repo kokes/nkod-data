@@ -413,6 +413,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/ulicni_useky/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/useky_placeneho_stani/FeatureServer/0"
   },
   {

@@ -141,6 +141,22 @@
   },
   {
     "name": "Registr v CSV souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/csv_od/kzrk.csv"
+  },
+  {
+    "name": "Registr v CSV souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/csv_od/kzrkl.csv"
+  },
+  {
+    "name": "Registr v CSV souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/csv_od/kzrkl_s.csv"
+  },
+  {
+    "name": "Registr v CSV souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/csv_od/kzrkl_slozeni.csv"
+  },
+  {
+    "name": "Registr v CSV souboru",
     "url": "https://www.volby.cz/opendata/se2022/csv_od/serk.csv"
   },
   {
@@ -1318,6 +1334,26 @@
   {
     "name": "Číselník v CSV souboru",
     "url": "https://www.volby.cz/opendata/kv2022/csv_od/kvtypzas.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/csv_od/cns.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/csv_od/cpp.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/csv_od/cvs.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/csv_od/cvs_slozeni.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/csv_od/kzciskr.csv"
   },
   {
     "name": "Číselník v CSV souboru",

@@ -2292,6 +2292,10 @@
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=88&typdat=0&cisjaz=203&format=2&separator=%2C"
   },
   {
+    "name": "Číselník v CSV ",
+    "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=151&typdat=0&cisjaz=203&format=2"
+  },
+  {
     "name": "Číselník v CSV včetně položek s ukončenou platností",
     "url": "https://apl.czso.cz/iSMS/do_cis_export?kodcis=149&typdat=0&datpohl=31.12.2021&cisjaz=203&format=2&separator=%2C"
   },

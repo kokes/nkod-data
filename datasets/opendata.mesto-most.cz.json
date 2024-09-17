@@ -1,151 +1,151 @@
 [
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::budovy-ve-starém-mostě"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cenové-mapy-města-mostu"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cyklotrasy-vnitřní"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::dopravní-nehody-v-orp-most"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::intenzita-automobilové-dopravy"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::jednorázové-hudební-akce"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::lokality-se-zákazem-konzumace-alkoholu"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::objektová-mapa-povrchové-situace"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::obvody-mateřských-škol"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::obvody-základních-škol"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::poplachové-sirény"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::prostory-pro-volné-pobíhání-psů"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::prostranství-se-zákazem-používání-skateboardů"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::rychlostní-kamery-data-z-měření"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::rychlostní-kamery-lokality-měření"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::stožáry-veřejného-osvětlení"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::sčítače-cykl-dopravy-data-z-měření"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::sčítače-cykl-dopravy-lokality-měření-1"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::válečné-hroby-a-památníky"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::zastávky-mhd-1"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::záplavové-území-s-periodicitou-100-let"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::záplavové-území-s-periodicitou-20-let"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::záplavové-území-s-periodicitou-5-let"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::záplavové-území-s-periodicitou-50-let"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-hranice-hornické-činnosti"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-hranice-zastavěného-území-obce"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-koridory-dopravní-a-technické-infrastruktury"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-limity-těžby-uhlí-ze-zúr"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-plocha-přestavby-p"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-plocha-změn-v-krajině-k"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-zastavitelná-plocha-z"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-základní-funkční-plochy-"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-úses"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-územní-rezerva-r"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/documents/mestomost::hlasování-rady"
   },
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/documents/mestomost::hlasování-zastupitelstva"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::bloky-v-mostě"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::budovy-ve-starém-mostě"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::cenové-mapy-města-mostu"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::cyklotrasy-vnitřní"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::dopravní-nehody-v-orp-most"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::intenzita-automobilové-dopravy"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::jednorázové-hudební-akce"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::lokality-se-zákazem-konzumace-alkoholu"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::objektová-mapa-povrchové-situace"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::obvody-mateřských-škol"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::obvody-základních-škol"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::poplachové-sirény"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::prostory-pro-volné-pobíhání-psů"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::prostranství-se-zákazem-používání-skateboardů"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::rychlostní-kamery-data-z-měření"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::rychlostní-kamery-lokality-měření"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::stožáry-veřejného-osvětlení"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::sčítače-cykl-dopravy-data-z-měření"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::sčítače-cykl-dopravy-lokality-měření-1"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::válečné-hroby-a-památníky"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::zastávky-mhd-1"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::záplavové-území-s-periodicitou-100-let"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::záplavové-území-s-periodicitou-20-let"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::záplavové-území-s-periodicitou-5-let"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::záplavové-území-s-periodicitou-50-let"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-hranice-hornické-činnosti"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-hranice-zastavěného-území-obce"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-koridory-dopravní-a-technické-infrastruktury"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-limity-těžby-uhlí-ze-zúr"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-plocha-přestavby-p"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-plocha-změn-v-krajině-k"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-zastavitelná-plocha-z"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-základní-funkční-plochy-"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-úses"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/maps/mestomost::územní-plán-most-územní-rezerva-r"
   },
   {
     "name": "CSV",
