@@ -76,6 +76,10 @@
     "url": "https://data.dia.gov.cz/soubory/číselníky/témata-událostí.csv"
   },
   {
+    "name": "Číselník v CSV",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.csv"
+  },
+  {
     "name": "Číselník v HTML+RDFa",
     "url": "https://data.dia.gov.cz/soubory/číselníky/dny-v-týdnu.html"
   },
@@ -146,6 +150,10 @@
   {
     "name": "Číselník v HTML+RDFa",
     "url": "https://data.dia.gov.cz/soubory/číselníky/témata-událostí.html"
+  },
+  {
+    "name": "Číselník v HTML+RDFa",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.html"
   },
   {
     "name": "Číselník v JSON-LD",
@@ -220,6 +228,10 @@
     "url": "https://data.dia.gov.cz/soubory/číselníky/témata-událostí.jsonld"
   },
   {
+    "name": "Číselník v JSON-LD",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.jsonld"
+  },
+  {
     "name": "Číselník v RDF N-Quads",
     "url": "https://data.dia.gov.cz/soubory/číselníky/dny-v-týdnu.nq"
   },
@@ -290,6 +302,10 @@
   {
     "name": "Číselník v RDF N-Quads",
     "url": "https://data.dia.gov.cz/soubory/číselníky/témata-událostí.nq"
+  },
+  {
+    "name": "Číselník v RDF N-Quads",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.nq"
   },
   {
     "name": "Číselník v RDF N-Triples",
@@ -364,6 +380,10 @@
     "url": "https://data.dia.gov.cz/soubory/číselníky/témata-událostí.nt"
   },
   {
+    "name": "Číselník v RDF N-Triples",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.nt"
+  },
+  {
     "name": "Číselník v RDF TriG",
     "url": "https://data.dia.gov.cz/soubory/číselníky/dny-v-týdnu.trig"
   },
@@ -434,6 +454,10 @@
   {
     "name": "Číselník v RDF TriG",
     "url": "https://data.dia.gov.cz/soubory/číselníky/témata-událostí.trig"
+  },
+  {
+    "name": "Číselník v RDF TriG",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.trig"
   },
   {
     "name": "Číselník v RDF Turtle",
@@ -508,6 +532,10 @@
     "url": "https://data.dia.gov.cz/soubory/číselníky/témata-událostí.ttl"
   },
   {
+    "name": "Číselník v RDF Turtle",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.ttl"
+  },
+  {
     "name": "Číselník v RDF/XML",
     "url": "https://data.dia.gov.cz/soubory/číselníky/dny-v-týdnu.rdf"
   },
@@ -578,5 +606,9 @@
   {
     "name": "Číselník v RDF/XML",
     "url": "https://data.dia.gov.cz/soubory/číselníky/témata-událostí.rdf"
+  },
+  {
+    "name": "Číselník v RDF/XML",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.rdf"
   }
 ]

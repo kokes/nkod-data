@@ -141,23 +141,39 @@
   },
   {
     "name": "Registr v CSV souboru",
+    "url": "https://www.volby.cz/opendata/se2022/csv_od/serk.csv"
+  },
+  {
+    "name": "Registr v JSON souboru",
     "url": "https://www.volby.cz/opendata/kz2024/csv_od/kzrk.csv"
   },
   {
-    "name": "Registr v CSV souboru",
+    "name": "Registr v JSON souboru",
     "url": "https://www.volby.cz/opendata/kz2024/csv_od/kzrkl.csv"
   },
   {
-    "name": "Registr v CSV souboru",
+    "name": "Registr v JSON souboru",
     "url": "https://www.volby.cz/opendata/kz2024/csv_od/kzrkl_s.csv"
   },
   {
-    "name": "Registr v CSV souboru",
+    "name": "Registr v JSON souboru",
     "url": "https://www.volby.cz/opendata/kz2024/csv_od/kzrkl_slozeni.csv"
   },
   {
-    "name": "Registr v CSV souboru",
-    "url": "https://www.volby.cz/opendata/se2022/csv_od/serk.csv"
+    "name": "Registr v JSON souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/json/kzrk.json"
+  },
+  {
+    "name": "Registr v JSON souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/json/kzrkl.json"
+  },
+  {
+    "name": "Registr v JSON souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/json/kzrkl_s.json"
+  },
+  {
+    "name": "Registr v JSON souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/json/kzrkl_slozeni.json"
   },
   {
     "name": "Registr v XML souboru",
@@ -1382,6 +1398,26 @@
   {
     "name": "Číselník v CSV souboru",
     "url": "https://www.volby.cz/opendata/se2022/csv_od/secoco.csv"
+  },
+  {
+    "name": "Číselník v JSON souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/json/cns.json"
+  },
+  {
+    "name": "Číselník v JSON souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/json/cpp.json"
+  },
+  {
+    "name": "Číselník v JSON souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/json/cvs.json"
+  },
+  {
+    "name": "Číselník v JSON souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/json/cvs_slozeni.json"
+  },
+  {
+    "name": "Číselník v JSON souboru",
+    "url": "https://www.volby.cz/opendata/kz2024/json/kzciskr.json"
   },
   {
     "name": "Číselník v XML souboru",
