@@ -65,11 +65,11 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/datasets/KUOK::zúr-ok-rozvojové-oblasti-a-osy-specifické-oblasti-bod-1"
+    "url": "https://www.dataok.cz/datasets/KUOK::zúr-ok-rozvojové-oblasti-a-osy-specifické-oblasti-linie"
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/datasets/KUOK::zúr-ok-rozvojové-oblasti-a-osy-specifické-oblasti-linie"
+    "url": "https://www.dataok.cz/datasets/KUOK::zúr-ok-územní-systém-ekologické-stability-linie"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -117,7 +117,7 @@
   },
   {
     "name": "CSV",
-    "url": "https://www.dataok.cz/api/download/v1/items/9693f4b922854f92abca8850ef685ebe/csv?layers=116"
+    "url": "https://www.dataok.cz/api/download/v1/items/6f6ef9a888f44810bc9d3e47a25829c9/csv?layers=2"
   },
   {
     "name": "CSV",
@@ -197,7 +197,7 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://www.dataok.cz/api/download/v1/items/9693f4b922854f92abca8850ef685ebe/geojson?layers=116"
+    "url": "https://www.dataok.cz/api/download/v1/items/6f6ef9a888f44810bc9d3e47a25829c9/geojson?layers=2"
   },
   {
     "name": "GeoJSON",
@@ -273,7 +273,7 @@
   },
   {
     "name": "KML",
-    "url": "https://www.dataok.cz/api/download/v1/items/9693f4b922854f92abca8850ef685ebe/kml?layers=116"
+    "url": "https://www.dataok.cz/api/download/v1/items/6f6ef9a888f44810bc9d3e47a25829c9/kml?layers=2"
   },
   {
     "name": "KML",
@@ -345,7 +345,7 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://www.dataok.cz/api/download/v1/items/9693f4b922854f92abca8850ef685ebe/shapefile?layers=116"
+    "url": "https://www.dataok.cz/api/download/v1/items/6f6ef9a888f44810bc9d3e47a25829c9/shapefile?layers=2"
   },
   {
     "name": "Shapefile",
