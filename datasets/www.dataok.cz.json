@@ -65,11 +65,23 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/datasets/KUOK::zúr-ok-rozvojové-oblasti-a-osy-specifické-oblasti-bod"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.dataok.cz/datasets/KUOK::zúr-ok-rozvojové-oblasti-a-osy-specifické-oblasti-linie"
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/datasets/KUOK::zúr-ok-rozvojové-oblasti-a-osy-specifické-oblasti-plocha"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.dataok.cz/datasets/KUOK::zúr-ok-územní-systém-ekologické-stability-linie"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/datasets/KUOK::zúr-ok-územní-systém-ekologické-stability-plocha"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -82,6 +94,10 @@
   {
     "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/078471c939c74397887e2abfecd1dc0a/csv?layers=4"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/131f26ea37034cdc9179d45386bb51d9/csv?layers=3"
   },
   {
     "name": "CSV",
@@ -141,6 +157,14 @@
   },
   {
     "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/b56a3582ff3c421790c4a9c89fd65b24/csv?layers=4"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/c59df9a80d6e413c89db5f0fbc8522e1/csv?layers=0"
+  },
+  {
+    "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/c9829b63acf142aabed4c32e8e9fb35c/csv?layers=12"
   },
   {
@@ -162,6 +186,10 @@
   {
     "name": "GeoJSON",
     "url": "https://www.dataok.cz/api/download/v1/items/078471c939c74397887e2abfecd1dc0a/geojson?layers=4"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/131f26ea37034cdc9179d45386bb51d9/geojson?layers=3"
   },
   {
     "name": "GeoJSON",
@@ -221,6 +249,14 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/b56a3582ff3c421790c4a9c89fd65b24/geojson?layers=4"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/c59df9a80d6e413c89db5f0fbc8522e1/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://www.dataok.cz/api/download/v1/items/c9829b63acf142aabed4c32e8e9fb35c/geojson?layers=12"
   },
   {
@@ -242,6 +278,10 @@
   {
     "name": "KML",
     "url": "https://www.dataok.cz/api/download/v1/items/078471c939c74397887e2abfecd1dc0a/kml?layers=4"
+  },
+  {
+    "name": "KML",
+    "url": "https://www.dataok.cz/api/download/v1/items/131f26ea37034cdc9179d45386bb51d9/kml?layers=3"
   },
   {
     "name": "KML",
@@ -293,6 +333,14 @@
   },
   {
     "name": "KML",
+    "url": "https://www.dataok.cz/api/download/v1/items/b56a3582ff3c421790c4a9c89fd65b24/kml?layers=4"
+  },
+  {
+    "name": "KML",
+    "url": "https://www.dataok.cz/api/download/v1/items/c59df9a80d6e413c89db5f0fbc8522e1/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://www.dataok.cz/api/download/v1/items/c9829b63acf142aabed4c32e8e9fb35c/kml?layers=12"
   },
   {
@@ -314,6 +362,10 @@
   {
     "name": "Shapefile",
     "url": "https://www.dataok.cz/api/download/v1/items/078471c939c74397887e2abfecd1dc0a/shapefile?layers=4"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.dataok.cz/api/download/v1/items/131f26ea37034cdc9179d45386bb51d9/shapefile?layers=3"
   },
   {
     "name": "Shapefile",
@@ -362,6 +414,14 @@
   {
     "name": "Shapefile",
     "url": "https://www.dataok.cz/api/download/v1/items/b0fd4ec5dc884899960763d1c0baba83/shapefile?layers=4"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.dataok.cz/api/download/v1/items/b56a3582ff3c421790c4a9c89fd65b24/shapefile?layers=4"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.dataok.cz/api/download/v1/items/c59df9a80d6e413c89db5f0fbc8522e1/shapefile?layers=0"
   },
   {
     "name": "Shapefile",
