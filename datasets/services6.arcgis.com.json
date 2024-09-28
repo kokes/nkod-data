@@ -73,6 +73,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/Denn%C3%AD_pr%C5%AFm%C4%9Bry___Daily_averages/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/DrinkingFountains/FeatureServer/0"
   },
   {
@@ -85,7 +89,15 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/Nadrze/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/Nehody_s_%C3%BA%C4%8Dast%C3%AD_chodc%C5%AF/FeatureServer/32"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/PLACES/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -97,7 +109,15 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/Sochy_pro_Brno/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/Street_slopes/FeatureServer/5"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/V%C3%BD%C5%A1ka_budov/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -142,6 +162,14 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/dobyvaci_prostory/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/dopravni_nehody/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/havarie/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -426,6 +454,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/vkp/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/vnitrobloky/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
