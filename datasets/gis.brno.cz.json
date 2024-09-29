@@ -5,6 +5,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/Hosted/KAM_Pocet_pracovnich_mist_grid/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/Hosted/KAM_Pruzkum_Maloobchodu_2017/FeatureServer/0"
   },
   {
@@ -49,7 +53,19 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/ODAE/ODAE_ids_jmk_sit/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/ODAE/ODAE_rozhledny/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/ODAE/ODAE_street_lights/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/ODAE/ODAE_univerzity_veda_vyzkum/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -62,6 +78,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/OMI/omi_unp3_druhy_bydleni_pocty/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags2/rest/services/OMI/OMI_DMP/ImageServer"
   },
   {
     "name": "ArcGIS GeoService",
