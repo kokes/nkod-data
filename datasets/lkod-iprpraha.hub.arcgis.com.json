@@ -153,6 +153,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::plán-úses"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::plán-úses-interakční-prvky"
   },
   {
@@ -454,6 +458,10 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/1aa6ff74369f46bc9be0160c1194e5c4/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/1be80325e71140b4b38d9874cbd422c7/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -869,6 +877,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/1be80325e71140b4b38d9874cbd422c7/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/1d59aab23b3647eaa09308440d69400d/geojson?layers=0"
   },
   {
@@ -1281,6 +1293,10 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/1be80325e71140b4b38d9874cbd422c7/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/1d59aab23b3647eaa09308440d69400d/kml?layers=0"
   },
   {
@@ -1690,6 +1706,10 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/1aa6ff74369f46bc9be0160c1194e5c4/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/1be80325e71140b4b38d9874cbd422c7/shapefile?layers=0"
   },
   {
     "name": "ZIP",

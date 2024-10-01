@@ -49,6 +49,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/ODAE/ODAE_dpnk_21_23/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/ODAE/ODAE_firmy/FeatureServer/0"
   },
   {
@@ -134,6 +138,10 @@
   {
     "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/chlu_p_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/csu_obvody_p_sjtsk.dxf"
   },
   {
     "name": "DXF (S-JTSK)",
@@ -341,6 +349,10 @@
   },
   {
     "name": "DXF (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/socialni_sluzby_b_sjtsk.dxf"
+  },
+  {
+    "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/spms_adresy_b_sjtsk.dxf"
   },
   {
@@ -474,6 +486,10 @@
   {
     "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/chlu_p_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/csu_obvody_p_wgs84.dxf"
   },
   {
     "name": "DXF (WGS84)",
@@ -677,6 +693,10 @@
   },
   {
     "name": "DXF (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/socialni_sluzby_b_wgs84.dxf"
+  },
+  {
+    "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/spms_adresy_b_wgs84.dxf"
   },
   {
@@ -806,6 +826,10 @@
   {
     "name": "GML (S-JSTK)",
     "url": "https://gis.brno.cz/public/opendata/chlu_p_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/csu_obvody_p_gml_sjtsk.zip"
   },
   {
     "name": "GML (S-JSTK)",
@@ -958,6 +982,10 @@
   {
     "name": "GML (S-JSTK)",
     "url": "https://gis.brno.cz/public/opendata/smerproudpodzvod_l_gml_sjtsk.zip"
+  },
+  {
+    "name": "GML (S-JSTK)",
+    "url": "https://gis.brno.cz/public/opendata/socialni_sluzby_b_gml_sjtsk.zip"
   },
   {
     "name": "GML (S-JSTK)",
@@ -1150,6 +1178,10 @@
   {
     "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/chlu_p_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/csu_obvody_p_gml_wgs84.zip"
   },
   {
     "name": "GML (WGS84)",
@@ -1357,6 +1389,10 @@
   },
   {
     "name": "GML (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/socialni_sluzby_b_gml_wgs84.zip"
+  },
+  {
+    "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/spms_adresy_b_gml_wgs84.zip"
   },
   {
@@ -1490,6 +1526,10 @@
   {
     "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/chlu_p_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/csu_obvody_p_sjtsk.geojson"
   },
   {
     "name": "GeoJSON (S-JTSK)",
@@ -1697,6 +1737,10 @@
   },
   {
     "name": "GeoJSON (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/socialni_sluzby_b_sjtsk.geojson"
+  },
+  {
+    "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/spms_adresy_b_sjtsk.geojson"
   },
   {
@@ -1838,6 +1882,10 @@
   {
     "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/chlu_p_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/csu_obvody_p_sjtsk.gpkg"
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
@@ -2049,6 +2097,10 @@
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/socialni_sluzby_b_sjtsk.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/spms_adresy_b_sjtsk.gpkg"
   },
   {
@@ -2182,6 +2234,10 @@
   {
     "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/chlu_p_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/csu_obvody_p_wgs84.gpkg"
   },
   {
     "name": "OGC GeoPackage (WGS84)",
@@ -2377,6 +2433,10 @@
   },
   {
     "name": "OGC GeoPackage (WGS84)",
+    "url": "https://gis.brno.cz/public/opendata/socialni_sluzby_b_wgs84.gpkg"
+  },
+  {
+    "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/spms_adresy_b_wgs84.gpkg"
   },
   {
@@ -2510,6 +2570,10 @@
   {
     "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/chlu_p_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/csu_obvody_p_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",
@@ -2710,6 +2774,10 @@
   {
     "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/smerproudpodzvod_l_shp_sjtsk.zip"
+  },
+  {
+    "name": "ShapeFile (S-JTSK)",
+    "url": "https://gis.brno.cz/public/opendata/socialni_sluzby_b_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",
