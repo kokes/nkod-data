@@ -5,6 +5,14 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/M%C3%ADstn%C3%AD_ak%C4%8Dn%C3%AD_skupiny___%C3%BAzemn%C3%AD_p%C5%AFsobnost/FeatureServer/1"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/M%C3%ADstn%C3%AD_ak%C4%8Dn%C3%AD_skupiny__s%C3%ADdla/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/konzervato%C5%99e/FeatureServer/4"
   },
   {
