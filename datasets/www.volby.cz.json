@@ -17,6 +17,14 @@
   },
   {
     "name": "CSV soubor sbalený v ZIP archivu",
+    "url": "https://www.volby.cz/opendata/kz2024/csv_od/kzt6.zip"
+  },
+  {
+    "name": "CSV soubor sbalený v ZIP archivu",
+    "url": "https://www.volby.cz/opendata/kz2024/csv_od/kzt6p.zip"
+  },
+  {
+    "name": "CSV soubor sbalený v ZIP archivu",
     "url": "https://www.volby.cz/opendata/prez2023/csv_od/pet1.zip"
   },
   {
@@ -50,6 +58,14 @@
   {
     "name": "JSON soubor sbalený v ZIP archivu",
     "url": "https://www.volby.cz/opendata/ep2024/json/ept2p.zip"
+  },
+  {
+    "name": "JSON soubor sbalený v ZIP archivu",
+    "url": "https://www.volby.cz/opendata/kz2024/json/kzt6.zip"
+  },
+  {
+    "name": "JSON soubor sbalený v ZIP archivu",
+    "url": "https://www.volby.cz/opendata/kz2024/json/kzt6p.zip"
   },
   {
     "name": "Okrsková data - CSV s JSON schématem v ZIP balíčku",
