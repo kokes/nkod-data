@@ -89,6 +89,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/N%C3%A1bo%C5%BEensk%C3%A9_pam%C3%A1tky_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Nemocnice_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
   },
   {
@@ -102,6 +106,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Organizace_z%C5%99%C3%ADzen%C3%A9_Karlovarsk%C3%BDm_krajem_WFL1/FeatureServer/3"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_pozoruhodnosti_v_KVK_WFL1/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -153,7 +161,19 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Technick%C3%A9_pam%C3%A1tky_v_KVK_WFL1/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Turistick%C3%A1_informa%C4%8Dn%C3%AD_centra_KVK_WFL1/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/UNESCO_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Vojensk%C3%A9_a_pietn%C3%AD_pam%C3%A1tky_v_KVK_WFL1/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
