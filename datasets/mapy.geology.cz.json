@@ -45,6 +45,10 @@
   },
   {
     "name": "WFS (CS)",
+    "url": "https://mapy.geology.cz/arcgis/services/Geohazardy/svahove_deformace/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "WFS (CS)",
     "url": "https://mapy.geology.cz/arcgis/services/Odpady/ium/MapServer/WFSServer?request=GetCapabilities&service=WFS"
   },
   {
