@@ -61,6 +61,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/ODAE/ODAE_kulturni_dominanty/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/ODAE/ODAE_rozhledny/FeatureServer/0"
   },
   {
@@ -70,6 +74,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/ODAE/ODAE_univerzity_veda_vyzkum/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/ODAE/ODAE_vyhlidkove_body/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",

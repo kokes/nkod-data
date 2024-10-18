@@ -45,6 +45,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::cyklistická-doprava-značky"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::dop-cur-dop-cyklotrasy-l"
   },
   {
@@ -426,6 +430,10 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/045287cb372d4f1d840dc5079f082b40/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/0c3b868fe70d4969bce2ced9db47ef7f/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -845,6 +853,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/0c3b868fe70d4969bce2ced9db47ef7f/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/0e2003cb31584b05b5377f79aae8bbff/geojson?layers=0"
   },
   {
@@ -1261,6 +1273,10 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/0c3b868fe70d4969bce2ced9db47ef7f/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/0e2003cb31584b05b5377f79aae8bbff/kml?layers=0"
   },
   {
@@ -1674,6 +1690,10 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/045287cb372d4f1d840dc5079f082b40/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/0c3b868fe70d4969bce2ced9db47ef7f/shapefile?layers=0"
   },
   {
     "name": "ZIP",
