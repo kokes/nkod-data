@@ -21,7 +21,7 @@
   },
   {
     "name": "INSPIRE prohlížecí služba (CS)",
-    "url": "https://mapy.geology.cz/arcgis/services/Geohazardy/svahove_nestability/MapServer/WmsServer?SERVICE=WMS&REQUEST=GetCapabilities"
+    "url": "https://mapy.geology.cz/arcgis/services/Geohazardy/svahove_deformace/MapServer/WMSServer?request=GetCapabilities&service=WMS"
   },
   {
     "name": "INSPIRE prohlížecí služba (CS)",
