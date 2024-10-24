@@ -205,6 +205,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://data.brno.cz/api/download/v1/items/59fd0ba6656043ae9f8fd581e691599e/csv?layers=0"
+  },
+  {
+    "name": "CSV",
     "url": "https://data.brno.cz/api/download/v1/items/5f5ef5229c204723844d075fde3fbd7c/csv?layers=0"
   },
   {
@@ -762,6 +766,10 @@
   {
     "name": "GeoJSON",
     "url": "https://data.brno.cz/api/download/v1/items/57f8e1b0d37d405db4ab50931002e675/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://data.brno.cz/api/download/v1/items/59fd0ba6656043ae9f8fd581e691599e/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -1325,6 +1333,10 @@
   },
   {
     "name": "KML",
+    "url": "https://data.brno.cz/api/download/v1/items/59fd0ba6656043ae9f8fd581e691599e/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://data.brno.cz/api/download/v1/items/5f5ef5229c204723844d075fde3fbd7c/kml?layers=0"
   },
   {
@@ -1882,6 +1894,10 @@
   {
     "name": "Shapefile",
     "url": "https://data.brno.cz/api/download/v1/items/57f8e1b0d37d405db4ab50931002e675/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://data.brno.cz/api/download/v1/items/59fd0ba6656043ae9f8fd581e691599e/shapefile?layers=0"
   },
   {
     "name": "Shapefile",

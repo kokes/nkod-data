@@ -41,6 +41,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datalk.cz/datasets/5c32328211f34553a6c2c1690c670b65_0"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.datalk.cz/datasets/5f6e9dc729f54ff9b45cda7a05730927_0"
   },
   {
@@ -134,6 +138,10 @@
   {
     "name": "CSV",
     "url": "https://www.datalk.cz/api/download/v1/items/4ca4f0715baf41719f78cf107967414d/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.datalk.cz/api/download/v1/items/5c32328211f34553a6c2c1690c670b65/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -233,6 +241,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://www.datalk.cz/api/download/v1/items/5c32328211f34553a6c2c1690c670b65/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://www.datalk.cz/api/download/v1/items/5f6e9dc729f54ff9b45cda7a05730927/geojson?layers=0"
   },
   {
@@ -329,6 +341,10 @@
   },
   {
     "name": "KML",
+    "url": "https://www.datalk.cz/api/download/v1/items/5c32328211f34553a6c2c1690c670b65/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://www.datalk.cz/api/download/v1/items/5f6e9dc729f54ff9b45cda7a05730927/kml?layers=0"
   },
   {
@@ -418,6 +434,10 @@
   {
     "name": "Shapefile",
     "url": "https://www.datalk.cz/api/download/v1/items/4ca4f0715baf41719f78cf107967414d/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.datalk.cz/api/download/v1/items/5c32328211f34553a6c2c1690c670b65/shapefile?layers=0"
   },
   {
     "name": "Shapefile",
