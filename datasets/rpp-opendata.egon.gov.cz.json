@@ -1,10 +1,6 @@
 [
   {
     "name": "SPARQL Endpoint",
-    "url": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/ovm.jsonld"
-  },
-  {
-    "name": "SPARQL Endpoint",
     "url": "https://rpp-opendata.egon.gov.cz/odrpp/sparql/"
   }
 ]
