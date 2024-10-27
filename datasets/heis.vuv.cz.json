@@ -1,0 +1,190 @@
+[
+  {
+    "name": "Chráněné oblasti přirozené akumulace vod",
+    "url": "https://heis.vuv.cz/data/webmap/wms.dll"
+  },
+  {
+    "name": "Chráněné oblasti přirozené akumulace vod - soubor ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/chopav/E_ISVS$CHOPAV.ZIP"
+  },
+  {
+    "name": "Koupací oblasti -  data ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/KoupaciOblast/E_ISVS$KOUP_OBL.zip"
+  },
+  {
+    "name": "Koupací oblasti - WMS služba",
+    "url": "https://heis.vuv.cz/data/webmap/wms.dll"
+  },
+  {
+    "name": "Kritické body a jejich přispívající plochy, soubor ke stažení",
+    "url": "https://heis.vuv.cz/uap/kritbody/zip.asp"
+  },
+  {
+    "name": "Mapy povodňového ohrožení, soubor ke stažení",
+    "url": "https://heis.vuv.cz/uap/povodnoveohrozeni/zip.asp"
+  },
+  {
+    "name": "Ochranná pásma vodních zdrojů - WMS služba",
+    "url": "https://heis.vuv.cz/data/webmap/wms.dll"
+  },
+  {
+    "name": "Ochranná pásma vodních zdrojů - data ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/OPVZ/E_ISVS$OPVZ.zip"
+  },
+  {
+    "name": "Prahové hodnoty podzemních vod",
+    "url": "https://heis.vuv.cz/db/prahovehodnotypzv/zip.asp"
+  },
+  {
+    "name": "Prohlížecí služba WMS",
+    "url": "https://heis.vuv.cz/data/webmap/wmsinspire.dll?SERVICE=WMS&MU=CZ&LANG=CS-CZ&REQUEST=GetCapabilities"
+  },
+  {
+    "name": "Rybné vody - WMS služba",
+    "url": "https://heis.vuv.cz/data/webmap/wms.dll"
+  },
+  {
+    "name": "Rybné vody - data ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/RybneVody/E_ISVS$RYB_VOD.zip"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/cs/record/atom/CZ-VUV-MD-ATOM-Inspire-WFD_SubUnit"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-FD_APSFR"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-FD_FA"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-FD_PFRA"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-NID_GWStat"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-NID_NVZ_DES_GIS"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-NID_Swstat"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-UWWTD_Agglomerations"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-UWWTD_DischargePoints"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-UWWTD_SA_catchment"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-UWWTD_UWWTPS"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-WFDCHRUZ"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-WFD_GroundWaterBody"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-WFD_MonitoringSite"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-WFD_RiverBasinDistrict"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-WFD_SWBCentreline"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-WFD_SurfaceWaterBody"
+  },
+  {
+    "name": "Stahovací služba ATOM",
+    "url": "https://heis.vuv.cz/xmicka/record/atom/CZ-VUV-MD-ATOM-Inspire-WFD_SurfaceWaterBodyLine"
+  },
+  {
+    "name": "Stav útvarů podzemních vod - WMS služba",
+    "url": "https://heis.vuv.cz/data/webmap/wms.dll"
+  },
+  {
+    "name": "Stav útvarů podzemních vod - data ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/UtvaryPZVStav/E_ISVS$UtvaryPZVStav.zip"
+  },
+  {
+    "name": "Stav útvarů povrchových vod - WFS služba",
+    "url": "https://heis.vuv.cz/data/webmap/wms.dll"
+  },
+  {
+    "name": "Stav útvarů povrchových vod - data ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/UtvaryPOVStav/E_ISVS$UPOV_STAV.zip"
+  },
+  {
+    "name": "Zranitelné oblasti - WMS služba",
+    "url": "https://heis.vuv.cz/data/webmap/wms.dll"
+  },
+  {
+    "name": "Zranitelné oblasti - data ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/ZranitOblasti/ISVS$ZRAN_OBL.zip"
+  },
+  {
+    "name": "Záplavová území - WMS služba",
+    "url": "https://heis.vuv.cz/data/webmap/wms.dll"
+  },
+  {
+    "name": "Záplavová území, 100 letá voda - data ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/ZaplavUzemi/E_ISVS$ZAPL_UZ100.zip"
+  },
+  {
+    "name": "Záplavová území, 20 letá voda - data ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/ZaplavUzemi/E_ISVS$ZAPL_UZ20.zip"
+  },
+  {
+    "name": "Záplavová území, 5 letá voda - data ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/ZaplavUzemi/E_ISVS$ZAPL_UZ5.zip"
+  },
+  {
+    "name": "Záplavová území, aktivní zóny - data ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/ZaplavUzemi/E_ISVS$ZAPL_UZAZ.zip"
+  },
+  {
+    "name": "Útvary podzemních vod - WMS služba",
+    "url": "https://heis.vuv.cz/data/webmap/wms.dll"
+  },
+  {
+    "name": "Útvary podzemních vod hlubinné vrstvy - data ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/UtvaryPZV/E_ISVS$UPZV_HL.zip"
+  },
+  {
+    "name": "Útvary podzemních vod svrchní vrstvy - data ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/UtvaryPZV/E_ISVS$UPZV_SV.zip"
+  },
+  {
+    "name": "Útvary podzemních vod základní vrstvy - data ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/UtvaryPZV/E_ISVS$UPZV_ZA.zip"
+  },
+  {
+    "name": "Útvary povrchových vod - WMS služba",
+    "url": "https://heis.vuv.cz/data/webmap/wms.dll"
+  },
+  {
+    "name": "Útvary povrchových vod - data ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/UtvaryPOV/ISVS$UtvaryPOV.zip"
+  }
+]
