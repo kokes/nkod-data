@@ -1,10 +1,6 @@
 [
   {
     "name": "ArcGIS GeoService",
-    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/Hosted/konzervato%C5%99e_test/FeatureServer/4"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/KUOK_PO_arealy_b/FeatureServer/1"
   },
   {
@@ -30,10 +26,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/M%C3%ADstn%C3%AD_ak%C4%8Dn%C3%AD_skupiny__s%C3%ADdla/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/konzervato%C5%99e/FeatureServer/4"
   },
   {
     "name": "ArcGIS GeoService",
