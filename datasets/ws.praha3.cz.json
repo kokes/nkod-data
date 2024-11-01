@@ -2,5 +2,9 @@
   {
     "name": "vybory-a-komise",
     "url": "https://ws.praha3.cz/api/api/vybory-a-komise"
+  },
+  {
+    "name": "zasobnik-investicnich-akci",
+    "url": "https://ws.praha3.cz/api/api/zasobnik-investicnich-akci"
   }
 ]

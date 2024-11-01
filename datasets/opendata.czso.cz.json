@@ -1,13 +1,5 @@
 [
   {
-    "name": "Aktivní osoby v ROS",
-    "url": "https://opendata.czso.cz/data/od_ros01/ros01_data.csv"
-  },
-  {
-    "name": "Aktivní provozovny ROS",
-    "url": "https://opendata.czso.cz/data/od_ros01/ros02_data.csv"
-  },
-  {
     "name": "Data roku 2000 v CSV formátu",
     "url": "https://opendata.czso.cz/data/od_krok01/krok_data_2000.csv"
   },
@@ -184,20 +176,12 @@
     "url": "https://opendata.czso.cz/data/od_mos01/mos_data_2021.csv"
   },
   {
-    "name": "Datové schránky ROS",
-    "url": "https://opendata.czso.cz/data/od_ros01/ros03_data.csv"
-  },
-  {
     "name": "Seznam ekonomických subjektů v CSV",
     "url": "https://opendata.czso.cz/data/od_org03/res_data.csv"
   },
   {
     "name": "Seznam právních forem a činností ekonomických subjektů v CSV",
     "url": "https://opendata.czso.cz/data/od_org03/res_pf_nace.csv"
-  },
-  {
-    "name": "Ukončené osoby v ROS",
-    "url": "https://opendata.czso.cz/data/od_ros01/ros04_data.csv"
   },
   {
     "name": "Číselník okruhů dat v CSV formátu",

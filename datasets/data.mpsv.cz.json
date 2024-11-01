@@ -137,6 +137,10 @@
   },
   {
     "name": "JSON distribuce",
+    "url": "https://data.mpsv.cz/od/soubory/ciselniky/typy-zmen-opendata.json"
+  },
+  {
+    "name": "JSON distribuce",
     "url": "https://data.mpsv.cz/od/soubory/ciselniky/typy-zrizovatele.json"
   },
   {
@@ -198,6 +202,10 @@
   {
     "name": "JSON distribuce",
     "url": "https://data.mpsv.cz/od/soubory/skoly/skoly.json"
+  },
+  {
+    "name": "JSON distribuce",
+    "url": "https://data.mpsv.cz/od/soubory/volna-mista-prirustek/volna-mista-prirustek.json"
   },
   {
     "name": "JSON distribuce",
@@ -353,6 +361,10 @@
   },
   {
     "name": "JSON-LD distribuce",
+    "url": "https://data.mpsv.cz/od/soubory/ciselniky/typyZmenOpenData.jsonld"
+  },
+  {
+    "name": "JSON-LD distribuce",
     "url": "https://data.mpsv.cz/od/soubory/ciselniky/ukonceni-studia.jsonld"
   },
   {
@@ -410,6 +422,10 @@
   {
     "name": "JSON-LD distribuce",
     "url": "https://data.mpsv.cz/od/soubory/skoly/skoly.jsonld"
+  },
+  {
+    "name": "JSON-LD distribuce",
+    "url": "https://data.mpsv.cz/od/soubory/volna-mista-prirustek/volna-mista-prirustek.jsonld"
   },
   {
     "name": "JSON-LD distribuce",

@@ -137,10 +137,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/OpendataUpd/FeatureServer/24"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/web/opendata/hlasovani_rmm_zmm/hlasovani-rmm-most.json"
   },
   {

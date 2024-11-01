@@ -1,6 +1,10 @@
 [
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/datasets/956b890af71440d0b9bc75c48c3e6387_1"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.dataok.cz/datasets/KUOK::konzervatoře"
   },
   {
@@ -50,6 +54,10 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://www.dataok.cz/datasets/KUOK::sídla-škol-a-školských-zařízení-1"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/datasets/KUOK::veřejné-zakázky-olomouckého-kraje"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -197,6 +205,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/956b890af71440d0b9bc75c48c3e6387/csv?layers=1"
+  },
+  {
+    "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/98ec79f52014400e932dc05980056555/csv?layers=0"
   },
   {
@@ -206,6 +218,10 @@
   {
     "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/ac2bc975cd9243508379adbe8cb26b39/csv?layers=1"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/ac6f91be336045b9a26fbd0a15f1c934/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -317,6 +333,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/956b890af71440d0b9bc75c48c3e6387/geojson?layers=1"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://www.dataok.cz/api/download/v1/items/98ec79f52014400e932dc05980056555/geojson?layers=0"
   },
   {
@@ -326,6 +346,10 @@
   {
     "name": "GeoJSON",
     "url": "https://www.dataok.cz/api/download/v1/items/ac2bc975cd9243508379adbe8cb26b39/geojson?layers=1"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/ac6f91be336045b9a26fbd0a15f1c934/geojson?layers=0"
   },
   {
     "name": "GeoJSON",

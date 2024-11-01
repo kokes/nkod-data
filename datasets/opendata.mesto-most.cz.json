@@ -101,10 +101,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-hranice-hornické-činnosti"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::územní-plán-most-hranice-zastavěného-území-obce"
   },
   {
@@ -234,10 +230,6 @@
   {
     "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a325104972f54de384019ef7c7b4d111/csv?layers=30"
-  },
-  {
-    "name": "CSV",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a59338fa7be24579b565d8ee445d8fb9/csv?layers=24"
   },
   {
     "name": "CSV",
@@ -377,10 +369,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a59338fa7be24579b565d8ee445d8fb9/geojson?layers=24"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/geojson?layers=14"
   },
   {
@@ -517,10 +505,6 @@
   },
   {
     "name": "KML",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a59338fa7be24579b565d8ee445d8fb9/kml?layers=24"
-  },
-  {
-    "name": "KML",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/kml?layers=14"
   },
   {
@@ -646,10 +630,6 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a325104972f54de384019ef7c7b4d111/shapefile?layers=30"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a59338fa7be24579b565d8ee445d8fb9/shapefile?layers=24"
   },
   {
     "name": "Shapefile",
