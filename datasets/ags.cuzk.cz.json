@@ -1,5 +1,9 @@
 [
   {
+    "name": "INSPIRE stahovací služba WCS pro téma Nadmořská výška-GRID (EL GRID)",
+    "url": "https://ags.cuzk.cz/arcgis2/services/INSPIRE_Nadmorska_vyska/ImageServer/WCSServer?request=GetCapabilities&service=WCS"
+  },
+  {
     "name": "Stahovací služba WFS - ZABAGED® - Polohopis",
     "url": "https://ags.cuzk.cz/arcgis/services/ZABAGED_POLOHOPIS/MapServer/WFSServer?request=GetCapabilities&service=WFS"
   },

@@ -97,6 +97,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Z%C3%A1bavn%C3%AD_centra/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Z%C3%A1kladn%C3%AD_um%C4%9Bleck%C3%A9_%C5%A1koly_v_Libereck%C3%A9m_kraji/FeatureServer/0"
   }
 ]
