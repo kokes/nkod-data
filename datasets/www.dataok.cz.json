@@ -173,15 +173,15 @@
   },
   {
     "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/45d986a4247647e5847e9fa827735fd0/csv?layers=0"
+  },
+  {
+    "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/5166a03db2a3437f8d4cec6ddf171f44/csv?layers=0"
   },
   {
     "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/55beb826a31c42f2ab65c88f52fddb46/csv?layers=3"
-  },
-  {
-    "name": "CSV",
-    "url": "https://www.dataok.cz/api/download/v1/items/5d40b47b016d4d2ebf13340c3aabc9f1/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -301,15 +301,15 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/45d986a4247647e5847e9fa827735fd0/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://www.dataok.cz/api/download/v1/items/5166a03db2a3437f8d4cec6ddf171f44/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
     "url": "https://www.dataok.cz/api/download/v1/items/55beb826a31c42f2ab65c88f52fddb46/geojson?layers=3"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://www.dataok.cz/api/download/v1/items/5d40b47b016d4d2ebf13340c3aabc9f1/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
