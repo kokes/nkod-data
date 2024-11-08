@@ -100,20 +100,12 @@
     "url": "https://data.cssz.cz/dataset/invalidita"
   },
   {
-    "name": "Počet námitek",
-    "url": "https://data.cssz.cz/dataset/pocet-namitek"
-  },
-  {
     "name": "Počet podaných ELDP",
     "url": "https://data.cssz.cz/dataset/pocet-podanych-eldp"
   },
   {
     "name": "Počet přijatých e-formulářů",
     "url": "https://data.cssz.cz/dataset/pocet-prijatych-eformularu"
-  },
-  {
-    "name": "Počet správních exekucí",
-    "url": "https://data.cssz.cz/dataset/pocet-spravnich-exekuci"
   },
   {
     "name": "Počet sto a víceletých důchodců podle krajů",
@@ -142,10 +134,6 @@
   {
     "name": "Počet vyplacených důchodů v České republice dle věkové kategorie",
     "url": "https://data.cssz.cz/dataset/duchody-dle-veku"
-  },
-  {
-    "name": "Počet vyplácených invalidních důchodů v České republice dle skupin diagnóz",
-    "url": "https://data.cssz.cz/dataset/pocet-vyplacenych-invalidnich-duchodu-v-ceske-republice"
   },
   {
     "name": "Počet vystavených potvrzení o příslušnosti k českým právním předpisům",
@@ -218,10 +206,6 @@
   {
     "name": "Přehled o počtu důchodců podle území, pohlaví, průměrné výše důchodu, průměrného věku a podle druhu důchodu",
     "url": "https://data.cssz.cz/dataset/duchodci-v-cr-krajich-okresech"
-  },
-  {
-    "name": "Přehled o počtu zaměstnavatelů, pojištěnců a pojistných vztahů podle krajů",
-    "url": "https://data.cssz.cz/dataset/prehled-o-poctu-zamestnavatelu-pojistencu-a-pojistnych-vztahu-podle-kraju"
   },
   {
     "name": "Přehled o počtu zaměstnavatelů, pojištěnců a pojistných vztahů podle okresů",
@@ -310,10 +294,6 @@
   {
     "name": "Číselník datových typů",
     "url": "https://data.cssz.cz/dataset/ciselnik-datovych-typu"
-  },
-  {
-    "name": "Číselník druhů akcí v tiskopise Oznámení o nástupu do zaměstnání",
-    "url": "https://data.cssz.cz/dataset/ciselnik-druhu-akci-v-tiskopise-onz"
   },
   {
     "name": "Číselník druhů pracovních činností",
