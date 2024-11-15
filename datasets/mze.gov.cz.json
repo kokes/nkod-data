@@ -1718,5 +1718,85 @@
   {
     "name": "PB - SHP",
     "url": "https://mze.gov.cz/public/app/eagriapp/lpisdata/3810-PB-SHP.zip"
+  },
+  {
+    "name": "RDM - Číselník režimů podpory / (RDM_CRP01B)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Veřejné informace (PUBLIC) / (RDM_PUB01C)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Změny v LPIS (LPI_GCL01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Úložiště dat o uvádění POR na trh - katalog / (JUP_CAT01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Úřední deska ve formátu JSON-LD",
+    "url": "https://mze.gov.cz/public/portal/mze/uredni-desky/ministerstvo-zemedelstvi.json"
+  },
+  {
+    "name": "Úřední deska ve formátu JSON-LD",
+    "url": "https://mze.gov.cz/public/web/cpi/uredni-deska/ceska-plemenarska-inspekce/index.json"
+  },
+  {
+    "name": "Úřední deska ve formátu JSON-LD",
+    "url": "https://mze.gov.cz/public/web/ukzuz/uredni-desky/ustredi-ukzuz/ukzuz_uredni-desky_ustredi-ukzuz.json"
+  },
+  {
+    "name": "Číselník - užitkové směry pěstování / (EH_CISUSP01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselník chmelnic (GET_CISELNIK_CHMELNIC) / (RCH_GCC01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselník hnojiv (GET_CIS_HNOJIV) / (RHN_GHN01C)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselník hnojiv (GET_CIS_HNOJIV) / (RHN_GHN01D)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselník kategorie zvířat pro krmné dny / (IZR_CKD01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselník opatření Nitrátové směrnice (NS) / (LPI_GNS01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselník plodin - verze D (LPI_GPL01D)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselník plodin / (LPI_GPL01C)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselník plodin / (LPI_GPL02A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselník přípravků (GET_CISELNIK_PRIPRAVKU_ROZSIRENY) / (EPH_GCP01C)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselník přípravků (GET_CISELNIK_PRIPRAVKU_ROZSIRENY) / (EPH_GCP01D)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselníky - odběrů živin plodinami / (EH_CISOZP01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselníky - produkty (EH_CISPRO01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
   }
 ]
