@@ -1,6 +1,10 @@
 [
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/%C5%BDidovsk%C3%A9_pam%C3%A1tky/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Adres%C3%A1%C5%99_obc%C3%AD_Libereck%C3%A9ho_kraje/FeatureServer/0"
   },
   {
@@ -102,5 +106,9 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Z%C3%A1kladn%C3%AD_um%C4%9Bleck%C3%A9_%C5%A1koly_v_Libereck%C3%A9m_kraji/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Z%C3%A1mky/FeatureServer/0"
   }
 ]
