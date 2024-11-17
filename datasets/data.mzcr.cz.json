@@ -120,6 +120,10 @@
     "url": "https://data.mzcr.cz/data/distribuce/373/Otevrena-data-NR-04-04-Zdravotnicky-material-2024-01.csv"
   },
   {
+    "name": "Hromadně vyráběné léčivé přípravky dle typu subjektu (IČZ) a dokladu",
+    "url": "https://data.mzcr.cz/data/distribuce/406/Otevrena-data-NR-04-57-hromadne-vyrabene-lecive-pripravky-icz-doklad-2024-01.csv"
+  },
+  {
     "name": "Kardiologie: Charakteristika hospitalizačních případů akutní péče s kardiologickou diagnózou",
     "url": "https://data.mzcr.cz/data/distribuce/326/Otevrena-data-OIS-01-05-Hospitalizacni-pripady-akutni-pece-kardio-2024-01.csv"
   },
@@ -268,6 +272,18 @@
     "url": "https://data.mzcr.cz/data/distribuce/272/dusevni-onemocneni-umrtnost.csv"
   },
   {
+    "name": "Recepty (HVLP) dle kódu SÚKL, měsíce a místa vydání (ATC aktuální)",
+    "url": "https://data.mzcr.cz/data/distribuce/408/Otevrena-data-NR-04-59-recepty-hvlp-kod-sukl-mesic-misto-vydani-atc-aktualni-2024-01.csv"
+  },
+  {
+    "name": "Recepty (HVLP) dle kódu SÚKL, měsíce a místa vydání (ATC v době vykázání)",
+    "url": "https://data.mzcr.cz/data/distribuce/407/Otevrena-data-NR-04-58-recepty-hvlp-kod-sukl-mesic-misto-vydani-atc-vykazani-2024-01.csv"
+  },
+  {
+    "name": "Recepty (HVLP) podle okresu předepsání, okresu výdeje a okresu bydliště pacienta",
+    "url": "https://data.mzcr.cz/data/distribuce/404/Otevrena-data-NR-04-45-recepty-hvlp-okres-predepsani-vydej-bydliste-2024-01.csv"
+  },
+  {
     "name": "Reprodukční zdraví: Narození podle způsobu porodu",
     "url": "https://data.mzcr.cz/data/distribuce/312/novorozenci-porod.csv"
   },
@@ -348,6 +364,10 @@
     "url": "https://data.mzcr.cz/data/distribuce/401/Otevrena-data-SSS-04-01-zdravotnicka-technika-zdravotnicka-zarizeni-2024-01.csv"
   },
   {
+    "name": "Zvlášť účtované léčivé přípravky dle SÚKL kódu a diagnózy (ATC v době vykázaní)",
+    "url": "https://data.mzcr.cz/data/distribuce/405/Otevrena-data-NR-04-55-zvlast-uctovane-lecive-pripravky-sukl-atc-vykazani-2024-01.csv"
+  },
+  {
     "name": "Úrazy: Charakteristika úrazu",
     "url": "https://data.mzcr.cz/data/distribuce/381/urazy-charakteristika-urazu.csv"
   },
@@ -358,5 +378,9 @@
   {
     "name": "Úrazy: Detailní charakteristika úrazu – Diagnózy T",
     "url": "https://data.mzcr.cz/data/distribuce/383/urazy-diagnozy-t.csv"
+  },
+  {
+    "name": "Číselník věkových skupin NZIS",
+    "url": "https://data.mzcr.cz/data/distribuce/403/Otevrena-data-OIS-12-01-ciselnik-vekove-skupiny-2024-01.csv"
   }
 ]
