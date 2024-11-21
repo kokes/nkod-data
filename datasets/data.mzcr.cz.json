@@ -124,6 +124,18 @@
     "url": "https://data.mzcr.cz/data/distribuce/409/Otevrena-data-NR-04-26-hromadne-vyrabene-lecive-pripravky-sukl-atc-vykazani-mesic-pojistovna-2024-01.csv"
   },
   {
+    "name": "Hromadně vyráběné léčivé přípravky (ATC aktuální) – kód SÚKL, měsíc, IČZ",
+    "url": "https://data.mzcr.cz/data/distribuce/412/Otevrena-data-NR-04-29-hromadne-vyrabene-lecive-pripravky-sukl-atc-aktualni-mesic-icz-2024-01.csv"
+  },
+  {
+    "name": "Hromadně vyráběné léčivé přípravky (ATC aktuální) – kód SÚKL, měsíc, pojišťovna",
+    "url": "https://data.mzcr.cz/data/distribuce/410/Otevrena-data-NR-04-28-hromadne-vyrabene-lecive-pripravky-sukl-atc-aktualni-mesic-pojistovna-2024-01.csv"
+  },
+  {
+    "name": "Hromadně vyráběné léčivé přípravky (ATC v době vykázaní) – kód SÚKL, měsíc, IČZ",
+    "url": "https://data.mzcr.cz/data/distribuce/411/Otevrena-data-NR-04-27-hromadne-vyrabene-lecive-pripravky-sukl-atc-vykazani-mesic-icz-2024-01.csv"
+  },
+  {
     "name": "Hromadně vyráběné léčivé přípravky dle typu subjektu (IČZ) a dokladu",
     "url": "https://data.mzcr.cz/data/distribuce/406/Otevrena-data-NR-04-57-hromadne-vyrabene-lecive-pripravky-icz-doklad-2024-01.csv"
   },
@@ -208,10 +220,6 @@
     "url": "https://data.mzcr.cz/data/distribuce/387/nzis-prehled-komponent.csv"
   },
   {
-    "name": "Nežádoucí události: Základní přehled v čase",
-    "url": "https://data.mzcr.cz/data/distribuce/360/shnu-nezadouci-udalosti.csv"
-  },
-  {
     "name": "Onkologie: Incidence a prevalence zhoubných nádorů v regionech ČR",
     "url": "https://data.mzcr.cz/data/distribuce/372/onkologie-incidence-a-prevalence.csv"
   },
@@ -226,6 +234,14 @@
   {
     "name": "Očkování, pozitivity, hospitalizace pro COVID-19, úmrtí, long covid a komorbidity u osob v ČR",
     "url": "https://data.mzcr.cz/data/distribuce/402/Otevrena-data-NR-26-30-COVID-19-prehled-populace-2024-01.csv"
+  },
+  {
+    "name": "Polymorbidita obyvatel dle kraje bydliště",
+    "url": "https://data.mzcr.cz/data/distribuce/413/Otevrena-data-NR-04-53-polymorbidita-obyvatel-kraj-bydliste-2024-01.csv"
+  },
+  {
+    "name": "Polymorbidita obyvatel dle kraje bydliště včetně příčiny úmrtí",
+    "url": "https://data.mzcr.cz/data/distribuce/414/Otevrena-data-NR-04-54-polymorbidita-obyvatel-kraj-bydliste-pricina-umrti-2024-01.csv"
   },
   {
     "name": "Preventivní prohlídky: Preventivní prohlídky u praktických lékařů a stomatologů",
@@ -274,6 +290,10 @@
   {
     "name": "Psychiatrická péče: Úmrtnost lidí s duševním onemocněním",
     "url": "https://data.mzcr.cz/data/distribuce/272/dusevni-onemocneni-umrtnost.csv"
+  },
+  {
+    "name": "Přehled hlášených nežádoucích událostí v lůžkové péči",
+    "url": "https://data.mzcr.cz/data/distribuce/360/Otevrena-data-SSS-06-01-nezadouci-udalosti-luzkova-pece-2024-01.csv"
   },
   {
     "name": "Recepty (HVLP) dle kódu SÚKL, měsíce a místa vydání (ATC aktuální)",
