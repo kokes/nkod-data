@@ -49,19 +49,11 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/OpendataProjekty/FeatureServer/3"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/OpendataProjekty/FeatureServer/32"
   },
   {
     "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/OpendataProjekty/FeatureServer/33"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/OpendataProjekty/FeatureServer/4"
   },
   {
     "name": "ArcGIS GeoService",
@@ -90,10 +82,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/OpendataUap/FeatureServer/29"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://mapy.mesto-most.cz/server/rest/services/Opendata/OpendataUap/FeatureServer/30"
   },
   {
     "name": "ArcGIS GeoService",

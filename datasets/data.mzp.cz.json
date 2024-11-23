@@ -1,5 +1,13 @@
 [
   {
+    "name": "aopk_objednavky.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/aopk_objednavky.csv"
+  },
+  {
+    "name": "aopk_smlouvy_platne_neplatne.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/aopk_smlouvy_platne_neplatne.csv"
+  },
+  {
     "name": "aopk_uhrazene_faktury.csv",
     "url": "https://data.mzp.cz/datasets/dataset/jasu/aopk_uhrazene_faktury.csv"
   },
