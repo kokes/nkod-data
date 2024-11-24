@@ -13,6 +13,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::cyklotrasy-vnitřní"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::dopravní-nehody-v-orp-most"
   },
   {
@@ -65,6 +69,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::sčítače-cykl-dopravy-data-z-měření"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::sčítače-cykl-dopravy-lokality-měření-1"
   },
   {
@@ -78,6 +86,10 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::záplavové-území-s-periodicitou-100-let"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::záplavové-území-s-periodicitou-20-let"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -173,6 +185,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/46892f5238de43c0bf7bb46339a28b46/csv?layers=4"
+  },
+  {
+    "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/4c94efc890ed4f64ab507fb2c5d0e0c7/csv?layers=9"
   },
   {
@@ -217,6 +233,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a325104972f54de384019ef7c7b4d111/csv?layers=30"
+  },
+  {
+    "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/csv?layers=14"
   },
   {
@@ -234,6 +254,10 @@
   {
     "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/b1ec706b4d4042f5a9f0a917f634d26e/csv?layers=13"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/b2f252c5b9d34561ab84fbf13de6913b/csv?layers=3"
   },
   {
     "name": "CSV",
@@ -297,6 +321,10 @@
   },
   {
     "name": "File Geodatabase",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/46892f5238de43c0bf7bb46339a28b46/filegdb?layers=4"
+  },
+  {
+    "name": "File Geodatabase",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/4c94efc890ed4f64ab507fb2c5d0e0c7/filegdb?layers=9"
   },
   {
@@ -341,6 +369,10 @@
   },
   {
     "name": "File Geodatabase",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a325104972f54de384019ef7c7b4d111/filegdb?layers=30"
+  },
+  {
+    "name": "File Geodatabase",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/filegdb?layers=14"
   },
   {
@@ -358,6 +390,10 @@
   {
     "name": "File Geodatabase",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/b1ec706b4d4042f5a9f0a917f634d26e/filegdb?layers=13"
+  },
+  {
+    "name": "File Geodatabase",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/b2f252c5b9d34561ab84fbf13de6913b/filegdb?layers=3"
   },
   {
     "name": "File Geodatabase",
@@ -421,6 +457,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/46892f5238de43c0bf7bb46339a28b46/geojson?layers=4"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/4c94efc890ed4f64ab507fb2c5d0e0c7/geojson?layers=9"
   },
   {
@@ -465,6 +505,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a325104972f54de384019ef7c7b4d111/geojson?layers=30"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/geojson?layers=14"
   },
   {
@@ -482,6 +526,10 @@
   {
     "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/b1ec706b4d4042f5a9f0a917f634d26e/geojson?layers=13"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/b2f252c5b9d34561ab84fbf13de6913b/geojson?layers=3"
   },
   {
     "name": "GeoJSON",
@@ -545,6 +593,10 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/46892f5238de43c0bf7bb46339a28b46/kml?layers=4"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/4c94efc890ed4f64ab507fb2c5d0e0c7/kml?layers=9"
   },
   {
@@ -589,6 +641,10 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a325104972f54de384019ef7c7b4d111/kml?layers=30"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/kml?layers=14"
   },
   {
@@ -606,6 +662,10 @@
   {
     "name": "KML",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/b1ec706b4d4042f5a9f0a917f634d26e/kml?layers=13"
+  },
+  {
+    "name": "KML",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/b2f252c5b9d34561ab84fbf13de6913b/kml?layers=3"
   },
   {
     "name": "KML",
@@ -669,6 +729,10 @@
   },
   {
     "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/46892f5238de43c0bf7bb46339a28b46/shapefile?layers=4"
+  },
+  {
+    "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/4c94efc890ed4f64ab507fb2c5d0e0c7/shapefile?layers=9"
   },
   {
@@ -713,6 +777,10 @@
   },
   {
     "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a325104972f54de384019ef7c7b4d111/shapefile?layers=30"
+  },
+  {
+    "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/shapefile?layers=14"
   },
   {
@@ -730,6 +798,10 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/b1ec706b4d4042f5a9f0a917f634d26e/shapefile?layers=13"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/b2f252c5b9d34561ab84fbf13de6913b/shapefile?layers=3"
   },
   {
     "name": "Shapefile",
