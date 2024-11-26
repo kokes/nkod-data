@@ -256,6 +256,10 @@
     "url": "https://data.mzcr.cz/data/distribuce/414/Otevrena-data-NR-04-54-polymorbidita-obyvatel-kraj-bydliste-pricina-umrti-2024-01.csv"
   },
   {
+    "name": "Poukazy (zdravotnické prostředky) podle okresu předepsání, okresu výdeje a okresu bydliště pacienta",
+    "url": "https://data.mzcr.cz/data/distribuce/420/Otevrena-data-NR-04-46-poukazy-zdravotnicke-prostredky-okres-predepsani-vydej-bydliste-2024-01.csv"
+  },
+  {
     "name": "Preventivní prohlídky: Preventivní prohlídky u praktických lékařů a stomatologů",
     "url": "https://data.mzcr.cz/data/distribuce/380/Otevrena-data-PPS-08-01-Preventivni-prohlidky-2024-01-1.csv"
   },
@@ -398,6 +402,10 @@
   {
     "name": "Zdravotnická technika dle zdravotnických zařízení",
     "url": "https://data.mzcr.cz/data/distribuce/401/Otevrena-data-SSS-04-01-zdravotnicka-technika-zdravotnicka-zarizeni-2024-01.csv"
+  },
+  {
+    "name": "Zdravotnické prostředky – kód, měsíc, pojišťovna",
+    "url": "https://data.mzcr.cz/data/distribuce/419/Otevrena-data-NR-04-30-zdravotnicke-prostredky-kod-mesic-pojistovna-2024-01.csv"
   },
   {
     "name": "Zvlášť účtované léčivé přípravky dle SÚKL kódu a diagnózy (ATC v době vykázaní)",
