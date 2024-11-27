@@ -324,8 +324,12 @@
     "url": "https://data.ctu.gov.cz/sites/default/files/regulovane_maximalni_ceny_4.csv"
   },
   {
+    "name": "Měření přepravních dob poštovních zásilek",
+    "url": "https://data.ctu.gov.cz/sites/default/files/plneni-kvalitativniho-ukazatele-prepravnich-dob_20231_0.xlsx"
+  },
+  {
     "name": "Měření přepravních dob poštovních zásilek za období",
-    "url": "https://data.ctu.gov.cz/sites/default/files/plneni-kvalitativniho-ukazatele-prepravnich-dob_2023.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/plneni-kvalitativniho-ukazatele-prepravnich-dob_20231.csv"
   },
   {
     "name": "Nejvýznamnější subjekty na trhu podle investic v roce 2017",
@@ -437,7 +441,11 @@
   },
   {
     "name": "Platy členů Rady ČTÚ za rok 2023",
-    "url": "https://data.ctu.gov.cz/sites/default/files/platy-clenu-rady-ctu-2023_0.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/platy-clenu-rady-ctu-2023.xlsx"
+  },
+  {
+    "name": "Platy členů Rady ČTÚ za rok 2023",
+    "url": "https://data.ctu.gov.cz/sites/default/files/platy-clenu-rady-ctu-2023_1.csv"
   },
   {
     "name": "Plnění povinného podílu osob se zdravotním postižením v roce 2012",
@@ -761,7 +769,11 @@
   },
   {
     "name": "Prostředky na platy zaměstnanců",
-    "url": "https://data.ctu.gov.cz/sites/default/files/prostredky-na-platy-zamestnancu_11.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/prostredky-na-platy-zamestnancu_2023.csv"
+  },
+  {
+    "name": "Prostředky na platy zaměstnanců",
+    "url": "https://data.ctu.gov.cz/sites/default/files/prostredky-na-platy-zamestnancu_2023.xlsx"
   },
   {
     "name": "Provozovatelé oprávnění nabízet konkrétní poštovní službu",
@@ -769,7 +781,11 @@
   },
   {
     "name": "Průměrný hrubý měsíční plat",
-    "url": "https://data.ctu.gov.cz/sites/default/files/prumerny-hruby-mesicni-plat-k-31-12-2023.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/prumerny-hruby-mesicni-plat-k-31-12-2023.xlsx"
+  },
+  {
+    "name": "Průměrný hrubý měsíční plat",
+    "url": "https://data.ctu.gov.cz/sites/default/files/prumerny-hruby-mesicni-plat-k-31-12-2023_0.csv"
   },
   {
     "name": "Průměrný maloobchodní výnos operátora za 1 min. volání podle směru volání za rok 2017",
@@ -1540,16 +1556,32 @@
     "url": "https://data.ctu.gov.cz/sites/default/files/vydaje-na-zahranicni-pracovni-cesty-2014_4.csv"
   },
   {
-    "name": "Zaměstnanci dle vzdělání a pohlaví",
-    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-zamestnancu-podle-veku-a-pohlavi-k-31-12-2023_0.csv"
-  },
-  {
     "name": "Zaměstnanci na mateřské/rodičovské dovolené",
     "url": "https://data.ctu.gov.cz/sites/default/files/pocet-osob-na-materske-rodicovske-dovolene-k-31-12-2023.csv"
   },
   {
+    "name": "Zaměstnanci na mateřské/rodičovské dovolené",
+    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-osob-na-materske-rodicovske-dovolene-k-31-12-2023.xlsx"
+  },
+  {
     "name": "Zaměstnanci podle pohlaví a fluktuace",
     "url": "https://data.ctu.gov.cz/sites/default/files/pocet-zamestnancu-dle-pohlavi-a-jejich-fluktuace-k-31-12-2023.csv"
+  },
+  {
+    "name": "Zaměstnanci podle pohlaví a fluktuace",
+    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-zamestnancu-dle-pohlavi-a-jejich-fluktuace-k-31-12-2023.xlsx"
+  },
+  {
+    "name": "Zaměstnanci podle pohlaví a vzdělání",
+    "url": "https://data.ctu.gov.cz/sites/default/files/cleneni-zamestnancu-dle-vzdelani-a-pohlavi-k-31-12_2023.csv"
+  },
+  {
+    "name": "Zaměstnanci podle pohlaví a vzdělání",
+    "url": "https://data.ctu.gov.cz/sites/default/files/cleneni-zamestnancu-dle-vzdelani-a-pohlavi-k-31-12_2023.xlsx"
+  },
+  {
+    "name": "Zaměstnanci podle pohlaví a věku",
+    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-zamestnancu-podle-veku-a-pohlavi-k-31-12-2023.xlsx"
   },
   {
     "name": "Zaměstnanci podle věku a pohlaví",
@@ -1574,6 +1606,10 @@
   {
     "name": "Zaměstnanci ve služebním a pracovním a mimopracovním vztahu",
     "url": "https://data.ctu.gov.cz/sites/default/files/pocet-zamestnancu-ve-sluzebnim-pracovnim-a-mimopracovnim-vztahu-k-31-12-2023.csv"
+  },
+  {
+    "name": "Zaměstnanci ve služebním a pracovním a mimopracovním vztahu",
+    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-zamestnancu-ve-sluzebnim-pracovnim-a-mimopracovnim-vztahu-k-31-12-2023.xlsx"
   },
   {
     "name": "Zařízení pevné služby",

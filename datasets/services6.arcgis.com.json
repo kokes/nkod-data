@@ -57,10 +57,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/BMO_hranice2020/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/BMO_obce2020/FeatureServer/0"
   },
   {
@@ -86,10 +82,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/Nehody_s_%C3%BA%C4%8Dast%C3%AD_chodc%C5%AF/FeatureServer/32"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/PLACES/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
