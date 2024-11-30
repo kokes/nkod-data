@@ -136,6 +136,14 @@
     "url": "https://data.ctu.gov.cz/sites/default/files/faktury_uhrazene_v_roce_2021_kap328.xlsx"
   },
   {
+    "name": "Faktury uhrazené v roce 2023",
+    "url": "https://data.ctu.gov.cz/sites/default/files/faktury_od_2023.csv"
+  },
+  {
+    "name": "Faktury uhrazené v roce 2023",
+    "url": "https://data.ctu.gov.cz/sites/default/files/faktury_od_2023.xlsx"
+  },
+  {
     "name": "Individuální oprávnění a volací značky stanic amatérské služby",
     "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_radiove_kmitocty/import_radiove_kmitocty_opravneni.csv"
   },
@@ -349,7 +357,11 @@
   },
   {
     "name": "Ostatní platby za provedenou práci",
-    "url": "https://data.ctu.gov.cz/sites/default/files/ostatni-platby-za-provedenou-praci_9.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/ostatni-platby-za-provedenou-praci_2023.csv"
+  },
+  {
+    "name": "Ostatní platby za provedenou práci",
+    "url": "https://data.ctu.gov.cz/sites/default/files/ostatni-platby-za-provedenou-praci_2023.xlsx"
   },
   {
     "name": "Ověřování odborné způsobilosti za rok 2014",
@@ -386,6 +398,14 @@
   {
     "name": "Ověřování odborné způsobilosti za rok 2022",
     "url": "https://data.ctu.gov.cz/sites/default/files/overovani-odborne-zpusobilosti-2022.csv"
+  },
+  {
+    "name": "Ověřování odborné způsobilosti za rok 2023",
+    "url": "https://data.ctu.gov.cz/sites/default/files/overovani-odborne-zpusobilosti-2023.csv"
+  },
+  {
+    "name": "Ověřování odborné způsobilosti za rok 2023",
+    "url": "https://data.ctu.gov.cz/sites/default/files/overovani-odborne-zpusobilosti-2023.xlsx"
   },
   {
     "name": "Oznámená zařízení",
@@ -717,7 +737,11 @@
   },
   {
     "name": "Poplatky za využívání radiových kmitočtů",
-    "url": "https://data.ctu.gov.cz/sites/default/files/poplatky_za_vyuziti_radiovych_kmitoctu.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/poplatky_za_vyuziti_radiovych_kmitoctu_2023.csv"
+  },
+  {
+    "name": "Poplatky za využívání rádiových kmitočtů",
+    "url": "https://data.ctu.gov.cz/sites/default/files/poplatky_za_vyuziti_radiovych_kmitoctu_2023.xlsx"
   },
   {
     "name": "Porovnání průměrného jednotkového velkoobchodního výnosu operátorů za prodej služeb MVNO/MVNE a průměrného jednotkového maloobchodního výnosu operátorů za tyto služby",
