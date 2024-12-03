@@ -32,6 +32,10 @@
     "url": "https://www.volby.cz/opendata/se2022/csv_od/set5_csvod.zip"
   },
   {
+    "name": "CSV soubor sbalený v ZIP archivu",
+    "url": "https://www.volby.cz/opendata/se2024/SE2024data20240928_csv.zip"
+  },
+  {
     "name": "CSV soubor v ZIP balíčku",
     "url": "https://www.volby.cz/opendata/ps2021/csv_od/pst4_csv_od.zip"
   },
@@ -160,6 +164,10 @@
     "url": "https://www.volby.cz/opendata/se2022/csv_od/serk.csv"
   },
   {
+    "name": "Registr v CSV souboru",
+    "url": "https://www.volby.cz/opendata/se2024/csv_od/serk.csv"
+  },
+  {
     "name": "Registr v JSON souboru",
     "url": "https://www.volby.cz/opendata/kz2024/csv_od/kzrk.csv"
   },
@@ -222,6 +230,10 @@
   {
     "name": "Registr v XML souboru",
     "url": "https://www.volby.cz/opendata/se2022/xml/serk.xml"
+  },
+  {
+    "name": "Registr v XML souboru",
+    "url": "https://www.volby.cz/opendata/se2024/xml/serk.xml"
   },
   {
     "name": "Registry - CSV soubory a JSON schémata v ZIP balíčku",
@@ -1289,7 +1301,15 @@
   },
   {
     "name": "XML s výsledky za jednotlivé okrsky ve vybraném kole a dávce",
+    "url": "https://www.volby.cz/appdata/senat/20240920/odata/okrsky/K1/vysledky_okrsky_00000.xml"
+  },
+  {
+    "name": "XML s výsledky za jednotlivé okrsky ve vybraném kole a dávce",
     "url": "https://www.volby.cz/pls/senat/vysledky_okrsky?datum_voleb=20220923&kolo=&davka="
+  },
+  {
+    "name": "XML s výsledky za jednotlivé senátní obvody",
+    "url": "https://www.volby.cz/appdata/senat/20240920/odata/vysledky.xml"
   },
   {
     "name": "XML s výsledky za jednotlivé senátní obvody",
@@ -1314,6 +1334,10 @@
   {
     "name": "XML soubor sbalený v ZIP archivu",
     "url": "https://www.volby.cz/opendata/se2022/xml/set5_xml.zip"
+  },
+  {
+    "name": "XML soubor sbalený v ZIP archivu",
+    "url": "https://www.volby.cz/opendata/se2024/SE2024data20240928_xml.zip"
   },
   {
     "name": "Číselník v CSV souboru",
@@ -1416,6 +1440,38 @@
     "url": "https://www.volby.cz/opendata/se2022/csv_od/secoco.csv"
   },
   {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/se2024/csv_od/cisob.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/se2024/csv_od/cns.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/se2024/csv_od/cnumnuts.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/se2024/csv_od/cpp.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/se2024/csv_od/cvs.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/se2024/csv_od/cvs_slozeni.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/se2024/csv_od/secobv.csv"
+  },
+  {
+    "name": "Číselník v CSV souboru",
+    "url": "https://www.volby.cz/opendata/se2024/csv_od/secoco.csv"
+  },
+  {
     "name": "Číselník v JSON souboru",
     "url": "https://www.volby.cz/opendata/kz2024/json/cns.json"
   },
@@ -1514,6 +1570,34 @@
   {
     "name": "Číselník v XML souboru",
     "url": "https://www.volby.cz/opendata/se2022/xml/secoco.xml"
+  },
+  {
+    "name": "Číselník v XML souboru",
+    "url": "https://www.volby.cz/opendata/se2024/xml/cisob.xml"
+  },
+  {
+    "name": "Číselník v XML souboru",
+    "url": "https://www.volby.cz/opendata/se2024/xml/cns.xml"
+  },
+  {
+    "name": "Číselník v XML souboru",
+    "url": "https://www.volby.cz/opendata/se2024/xml/cnumnuts.xml"
+  },
+  {
+    "name": "Číselník v XML souboru",
+    "url": "https://www.volby.cz/opendata/se2024/xml/cpp.xml"
+  },
+  {
+    "name": "Číselník v XML souboru",
+    "url": "https://www.volby.cz/opendata/se2024/xml/cvs.xml"
+  },
+  {
+    "name": "Číselník v XML souboru",
+    "url": "https://www.volby.cz/opendata/se2024/xml/secobv.xml"
+  },
+  {
+    "name": "Číselník v XML souboru",
+    "url": "https://www.volby.cz/opendata/se2024/xml/secoco.xml"
   },
   {
     "name": "Číselníky - CSV soubory a JSON schémata v ZIP balíčku",
