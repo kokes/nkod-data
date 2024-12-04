@@ -61,11 +61,19 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.jihlava.cz/datasets/jihlava::ztráty-a-nálezy"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.jihlava.cz/datasets/jihlava::zákaz-konzumace-alkoholu-vyhláška-č-6-2016"
   },
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.jihlava.cz/datasets/jihlava::zákaz-žebrání-vyhláška-č-7-2016"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/19b789ea1a5040d0aa5a9fad9e44312c/csv?layers=24"
   },
   {
     "name": "CSV",
@@ -137,6 +145,10 @@
   },
   {
     "name": "File Geodatabase",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/19b789ea1a5040d0aa5a9fad9e44312c/filegdb?layers=24"
+  },
+  {
+    "name": "File Geodatabase",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/20a602b609bf468b8700d6b09e6b1612/filegdb?layers=3"
   },
   {
@@ -194,6 +206,10 @@
   {
     "name": "File Geodatabase",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/f999572585a248a3b49b81acde1cb33c/filegdb?layers=11"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/19b789ea1a5040d0aa5a9fad9e44312c/geojson?layers=24"
   },
   {
     "name": "GeoJSON",
@@ -265,6 +281,10 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/19b789ea1a5040d0aa5a9fad9e44312c/kml?layers=24"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/20a602b609bf468b8700d6b09e6b1612/kml?layers=3"
   },
   {
@@ -330,6 +350,10 @@
   {
     "name": "KML",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/f999572585a248a3b49b81acde1cb33c/kml?layers=11"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.jihlava.cz/api/download/v1/items/19b789ea1a5040d0aa5a9fad9e44312c/shapefile?layers=24"
   },
   {
     "name": "Shapefile",

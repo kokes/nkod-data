@@ -16,6 +16,26 @@
     "url": "https://data.mzp.cz/opendata/1.0.0/dataset/hnvo/cenia_osoby_nebezp_odpady.csv"
   },
   {
+    "name": "cenia_smlouvy_platne_neplatne.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/cenia_smlouvy_platne_neplatne.csv"
+  },
+  {
+    "name": "cenia_uhrazene_faktury.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/cenia_uhrazene_faktury.csv"
+  },
+  {
+    "name": "cgs_objednavky.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/cgs_objednavky.csv"
+  },
+  {
+    "name": "cgs_smlouvy_platne_neplatne.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/cgs_smlouvy_platne_neplatne.csv"
+  },
+  {
+    "name": "cizp_objednavky.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/cizp_objednavky.csv"
+  },
+  {
     "name": "mzp_autorizovane_osoby_podle_zakona_o_ochrane_ovzdusi.csv",
     "url": "https://data.mzp.cz/opendata/1.0.0/dataset/isao/mzp_autorizovane_osoby_podle_zakona_o_ochrane_ovzdusi.csv"
   },
@@ -26,6 +46,14 @@
   {
     "name": "mzp_evidence_vydanych_osvedceni_odpovedneho_resitele_geologickych_praci.csv",
     "url": "https://data.mzp.cz/opendata/1.0.0/dataset/geology/mzp_evidence_vydanych_osvedceni_odpovedneho_resitele_geologickych_praci.csv"
+  },
+  {
+    "name": "mzp_objednavky.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/mzp_objednavky.csv"
+  },
+  {
+    "name": "mzp_smlouvy_platne_neplatne.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/mzp_smlouvy_platne_neplatne.csv"
   },
   {
     "name": "mzp_uzivatele_s_opravnenim_k_uzavrenemu_nakladani_s_gmo_v_prvni_a_druhe_kategorii_rizika.csv",
