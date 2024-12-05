@@ -841,7 +841,11 @@
   },
   {
     "name": "Přenositelnost telefonních čísel",
-    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-prenesenych-cisel-v-mobilnich-a-pevnych-sitich_15.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-prenesenych-cisel-v-mobilnich-a-pevnych-sitich_2023.csv"
+  },
+  {
+    "name": "Přenositelnost telefonních čísel",
+    "url": "https://data.ctu.gov.cz/sites/default/files/pocet-prenesenych-cisel-v-mobilnich-a-pevnych-sitich_2023.xlsx"
   },
   {
     "name": "Přepravené poštovní zásilky v rámci jednotlivých služeb",
@@ -1324,6 +1328,10 @@
     "url": "https://data.ctu.gov.cz/sites/default/files/vydaje-na-vzdelavani-zamestnancu-k-31-12-2023.csv"
   },
   {
+    "name": "Výdaje na vzdělávání zaměstnanců",
+    "url": "https://data.ctu.gov.cz/sites/default/files/vydaje-na-vzdelavani-zamestnancu-k-31-12-2023.xlsx"
+  },
+  {
     "name": "Vývoj aktivních přípojek pro VDTS podle jednotlivých technologií ",
     "url": "https://data.ctu.gov.cz/sites/default/files/graf68.csv"
   },
@@ -1652,8 +1660,12 @@
     "url": "https://data.ctu.gov.cz/sites/default/files/ztrata-z-poskytovani-univerzalni-sluzby-zvlastni-ceny_20.csv"
   },
   {
+    "name": "Účet cizích prostředků k úhradě nákladů poskytovateli univerzální služby",
+    "url": "https://data.ctu.gov.cz/sites/default/files/univerzalni_sluzba_2023_0.xlsx"
+  },
+  {
     "name": "Účet cizích prostředků k úhradě nákladů poskytovateli univerzální služby",
-    "url": "https://data.ctu.gov.cz/sites/default/files/prehled-o-stavu-uctu-cizich-prostredku-k-uhrade-nakladu-poskytovateli-univerzalni-sluzby_7.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/univerzalni_sluzba_2023.csv"
   },
   {
     "name": "Účet pro rozvoj zemského digitálního televizního vysílání za období 2012 - 2015",
