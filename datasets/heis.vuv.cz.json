@@ -8,6 +8,10 @@
     "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/chopav/E_ISVS$CHOPAV.ZIP"
   },
   {
+    "name": "Citlivé oblasti",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/ISVS/CitliveOblasti/ISVS$CitliveOblasti.zip"
+  },
+  {
     "name": "Koupací oblasti -  data ke stažení",
     "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/KoupaciOblast/E_ISVS$KOUP_OBL.zip"
   },
@@ -20,8 +24,16 @@
     "url": "https://heis.vuv.cz/uap/kritbody/zip.asp"
   },
   {
+    "name": "Mapy povodňového nebezpečí",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/heis/povodNebezpeci/Rozsah-povodne_2019.zip"
+  },
+  {
     "name": "Mapy povodňového ohrožení, soubor ke stažení",
     "url": "https://heis.vuv.cz/uap/povodnoveohrozeni/zip.asp"
+  },
+  {
+    "name": "Mapy povodňových rizik",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/heis/povodRizika/Povodnove-riziko_2019.zip"
   },
   {
     "name": "Ochranná pásma vodních zdrojů - WMS služba",
