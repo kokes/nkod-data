@@ -68,10 +68,6 @@
     "url": "https://data.mzcr.cz/data/distribuce/326/Otevrena-data-OIS-01-05-hospitalizacni-pripady-akutni-pece-kardio-2024-01.csv"
   },
   {
-    "name": "Diabetologie: Epidemiologie diabetes mellitus",
-    "url": "https://data.mzcr.cz/data/distribuce/362/Otevrena-data-NR-18-01-Diabetes-mellitus-2024-01.csv"
-  },
-  {
     "name": "Dopravní úrazy: Charakteristika úrazu",
     "url": "https://data.mzcr.cz/data/distribuce/384/dopravni-urazy-charakteristika-urazu.csv"
   },
@@ -84,6 +80,10 @@
     "url": "https://data.mzcr.cz/data/distribuce/386/dopravni-urazy-diagnozy-t.csv"
   },
   {
+    "name": "Epidemiologie diabetes mellitus",
+    "url": "https://data.mzcr.cz/data/distribuce/362/Otevrena-data-NR-18-01-diabetes-mellitus-2024-01.csv"
+  },
+  {
     "name": "Hospitalizační případy akutní a intenzivní péče v ČR a jejich charakteristiky – vývoj v čase",
     "url": "https://data.mzcr.cz/data/distribuce/421/Otevrena-data-NR-23-01-hospitalizacni-pripady-akutni-intezivni-pece-2024-01.csv"
   },
@@ -94,10 +94,6 @@
   {
     "name": "Hrazené zdravotní služby: Hospitalizační případy akutní péče pro čtyřznakové diagnózy",
     "url": "https://data.mzcr.cz/data/distribuce/390/Otevrena-data-NR-04-40-Hospitalizacni-pripady-akutni-pece-dg4znaky-2024-01.csv"
-  },
-  {
-    "name": "Hrazené zdravotní služby: Migrace za lůžkovou péčí",
-    "url": "https://data.mzcr.cz/data/distribuce/389/Otevrena-data-NR-04-38-Migrace-pece-2024-01.csv"
   },
   {
     "name": "Hrazené zdravotní služby: Přehled vykázaných diagnóz dle kapitol   MKN-10",
@@ -214,6 +210,10 @@
   {
     "name": "Mamografické screeningové vyšetření: Počet provedených screeningových mamografií",
     "url": "https://data.mzcr.cz/data/distribuce/392/Otevrena-data-PPS-01-02-Mamografie-screeningova-vysetreni-pocet-2024-01.csv"
+  },
+  {
+    "name": "Migrace za lůžkovou péčí",
+    "url": "https://data.mzcr.cz/data/distribuce/389/Otevrena-data-NR-04-38-migrace-pece-2024-02.csv"
   },
   {
     "name": "Mortalita zhoubných nádorů v regionech ČR",
