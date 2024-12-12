@@ -1916,6 +1916,14 @@
     "url": "https://gis.brno.cz/public/opendata/zasakovani_p_sjtsk.geojson"
   },
   {
+    "name": "Intenzita slunečního osvitu pro jednotlivé budovy",
+    "url": "https://gis.brno.cz/ags1/rest/services/Hosted/OMI_osluneni_budovy_info/FeatureServer"
+  },
+  {
+    "name": "Intenzita slunečního osvitu pro jednotlivé budovy",
+    "url": "https://gis.brno.cz/ags1/rest/services/Hosted/OMI_osluneni_budovy_info_v/FeatureServer"
+  },
+  {
     "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/areal_p_sjtsk.gpkg"
   },

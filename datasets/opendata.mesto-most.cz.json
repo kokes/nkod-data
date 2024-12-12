@@ -41,10 +41,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::obvody-základních-škol"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::poplachové-sirény"
   },
   {
@@ -86,10 +82,6 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::záplavové-území-s-periodicitou-100-let"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::záplavové-území-s-periodicitou-20-let"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -233,10 +225,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a325104972f54de384019ef7c7b4d111/csv?layers=30"
-  },
-  {
-    "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/csv?layers=14"
   },
   {
@@ -250,10 +238,6 @@
   {
     "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/b0da9106343f4529817bc37da157cee5/csv?layers=28"
-  },
-  {
-    "name": "CSV",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/b1ec706b4d4042f5a9f0a917f634d26e/csv?layers=13"
   },
   {
     "name": "CSV",
@@ -369,10 +353,6 @@
   },
   {
     "name": "File Geodatabase",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a325104972f54de384019ef7c7b4d111/filegdb?layers=30"
-  },
-  {
-    "name": "File Geodatabase",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/filegdb?layers=14"
   },
   {
@@ -386,10 +366,6 @@
   {
     "name": "File Geodatabase",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/b0da9106343f4529817bc37da157cee5/filegdb?layers=28"
-  },
-  {
-    "name": "File Geodatabase",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/b1ec706b4d4042f5a9f0a917f634d26e/filegdb?layers=13"
   },
   {
     "name": "File Geodatabase",
@@ -505,10 +481,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a325104972f54de384019ef7c7b4d111/geojson?layers=30"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/geojson?layers=14"
   },
   {
@@ -522,10 +494,6 @@
   {
     "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/b0da9106343f4529817bc37da157cee5/geojson?layers=28"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/b1ec706b4d4042f5a9f0a917f634d26e/geojson?layers=13"
   },
   {
     "name": "GeoJSON",
@@ -641,10 +609,6 @@
   },
   {
     "name": "KML",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a325104972f54de384019ef7c7b4d111/kml?layers=30"
-  },
-  {
-    "name": "KML",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/kml?layers=14"
   },
   {
@@ -658,10 +622,6 @@
   {
     "name": "KML",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/b0da9106343f4529817bc37da157cee5/kml?layers=28"
-  },
-  {
-    "name": "KML",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/b1ec706b4d4042f5a9f0a917f634d26e/kml?layers=13"
   },
   {
     "name": "KML",
@@ -777,10 +737,6 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a325104972f54de384019ef7c7b4d111/shapefile?layers=30"
-  },
-  {
-    "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/shapefile?layers=14"
   },
   {
@@ -794,10 +750,6 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/b0da9106343f4529817bc37da157cee5/shapefile?layers=28"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/b1ec706b4d4042f5a9f0a917f634d26e/shapefile?layers=13"
   },
   {
     "name": "Shapefile",
