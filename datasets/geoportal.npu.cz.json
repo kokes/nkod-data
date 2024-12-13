@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Služba ATOM centroidů rozsahů kulturních památek",
+    "url": "https://geoportal.npu.cz/opendata/atom/NPU_USKP_Centroid/npu.xml"
+  },
+  {
+    "name": "Služba ATOM definičních bodů kulturních památek",
+    "url": "https://geoportal.npu.cz/opendata/atom/NPU_USKP_DefinicniBod/npu.xml"
+  },
+  {
+    "name": "Služba ATOM polygonů rozsahů kulturních památek atd.",
+    "url": "https://geoportal.npu.cz/opendata/atom/NPU_USKP_Polygon/npu.xml"
+  },
+  {
+    "name": "WMS bodové identifikace kulturních památek",
+    "url": "https://geoportal.npu.cz/arcgis/services/Tematicke/CP_UAP_BI/MapServer/WMSServer?service=WMS&request=GetCapabilities"
+  },
+  {
+    "name": "WMS polygonů rozsahů kulturních památek atd.",
+    "url": "https://geoportal.npu.cz/arcgis/services/Tematicke/CP_UAP_PVO/MapServer/WMSServer?service=WMS&request=GetCapabilities"
+  }
+]
