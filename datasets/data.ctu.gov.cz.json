@@ -8,6 +8,10 @@
     "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_anteny/evidence-anten-pevne-sluzby.csv"
   },
   {
+    "name": "Antény pevné služby - seznam",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_anteny/evidence-anten-pevne-sluzby.xlsx"
+  },
+  {
     "name": "Cenový barometr - OECD Mobile Voice Price Benchmarking",
     "url": "https://data.ctu.gov.cz/sites/default/files/barometr-oecd_0.csv"
   },
@@ -158,6 +162,10 @@
   {
     "name": "Koordinované vyzařovací diagramy antén rozhlasových a televizních vysílačů",
     "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_anteny_diagramy/bc_ant_diagrams.csv"
+  },
+  {
+    "name": "Koordinované vyzařovací diagramy antén rozhlasových a televizních vysílačů",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_anteny_diagramy/bc_ant_diagrams.xlsx"
   },
   {
     "name": "Maloobchodní ceny mobilního internetu dle služeb operátorů za rok 2013",
@@ -1656,6 +1664,10 @@
     "url": "http://data.ctu.gov.cz/sites/default/files/imports/import_stanice/evidence-zarizeni-pevne-sluzby.csv"
   },
   {
+    "name": "Zařízení pevné služby",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_stanice/evidence-zarizeni-pevne-sluzby.xlsx"
+  },
+  {
     "name": "Ztráta z poskytování univerzální služby za období 2001-2006",
     "url": "https://data.ctu.gov.cz/sites/default/files/ztrata-z-univerzalni-sluzby-2001-az-2006.csv"
   },
@@ -1684,7 +1696,11 @@
     "url": "https://data.ctu.gov.cz/sites/default/files/ciste-naklady-na-poskytovani-zakladnich-sluzeb_5.csv"
   },
   {
-    "name": "Šetření zdrojů rušení",
+    "name": "Šetření rušení rádiového příjmu",
     "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_ruseni/setreni_ruseni.csv"
+  },
+  {
+    "name": "Šetření rušení rádiového příjmu",
+    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_ruseni/setreni_ruseni.xlsx"
   }
 ]
