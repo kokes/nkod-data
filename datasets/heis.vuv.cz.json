@@ -24,12 +24,12 @@
     "url": "http://heis.vuv.cz/isvs/zapluz"
   },
   {
-    "name": "Koupací oblasti -  data ke stažení",
-    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/KoupaciOblast/E_ISVS$KOUP_OBL.zip"
-  },
-  {
     "name": "Koupací oblasti - WMS služba",
     "url": "https://heis.vuv.cz/data/webmap/wms.dll"
+  },
+  {
+    "name": "Koupací oblasti - data ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/KoupaciOblast/E_ISVS$KOUP_OBL.zip"
   },
   {
     "name": "Kritické body a jejich přispívající plochy",
@@ -205,7 +205,7 @@
   },
   {
     "name": "Záplavová území, 5 letá voda - data ke stažení",
-    "url": "https://heis.vuv.cz/data/webmap/datovesady/isvs/ZaplavUzemi/E_ISVS$ZAPL_UZ5.zip"
+    "url": "http://heis.vuv.cz/isvs/zapluz"
   },
   {
     "name": "Záplavová území, aktivní zóny - data ke stažení",
