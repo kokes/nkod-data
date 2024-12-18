@@ -4,12 +4,28 @@
     "url": "https://ctu.gov.cz/sites/default/files/barometr_mobilni_internet.csv"
   },
   {
+    "name": "Cenový barometr - mobilní internet",
+    "url": "https://ctu.gov.cz/sites/default/files/barometr_mobilni_internet.xlsx"
+  },
+  {
     "name": "Cenový barometr - mobilní průměrná cena za minutu",
     "url": "https://ctu.gov.cz/sites/default/files/barometr_cena_za_minutu.csv"
   },
   {
+    "name": "Cenový barometr - mobilní průměrná cena za minutu",
+    "url": "https://ctu.gov.cz/sites/default/files/barometr_cena_za_minutu.xlsx"
+  },
+  {
     "name": "Cenový barometr - pevný internet",
     "url": "https://ctu.gov.cz/sites/default/files/barometr_pevny_internet.csv"
+  },
+  {
+    "name": "Cenový barometr - pevný internet",
+    "url": "https://ctu.gov.cz/sites/default/files/barometr_pevny_internet.xlsx"
+  },
+  {
+    "name": "Individuální oprávnění a volací značky stanic amatérské služby",
+    "url": "https://ctu.gov.cz/vyhledavaci-databaze/databaze-pridelenych-radiovych-kmitoctu-podle-vydanych-pridelu-a-individualnich-opravneni/amateri?hz_from=&hz_to=&export=1&db_sluzby=1&format=xlsx&use_pager=0"
   },
   {
     "name": "Přehled oznámených rozhraní podnikatelů zajišťujících veřejnou telekomunikační síť",
@@ -42,6 +58,10 @@
   {
     "name": "Stacionární měření mobilního signálu 4G (LTE) - Vodafone",
     "url": "https://ctu.gov.cz/sites/default/files/applications/ctu_imports/import_stacionarni_mereni/4g_vf_stacionarni/4g_vf_stacionarni.zip"
+  },
+  {
+    "name": "Televizní vysílače",
+    "url": "https://ctu.gov.cz/vyhledavaci-databaze/prehled-televiznich-vysilacu/opravneni?show_all=0&export=1&use_pager=0&format=xlsx"
   },
   {
     "name": "Úřední deska",
