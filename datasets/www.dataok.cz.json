@@ -1,6 +1,10 @@
 [
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/datasets/KUOK::dobrovolné-svazky-obcí-olomouckého-kraje-sídla"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.dataok.cz/datasets/KUOK::konzervatoře"
   },
   {
@@ -257,6 +261,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/e5ff7ee8c79843c1a3f99b505504e63a/csv?layers=0"
+  },
+  {
+    "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/f5bb1fe54e8d4aad9542d8688a073318/csv?layers=6"
   },
   {
@@ -473,6 +481,10 @@
   },
   {
     "name": "File Geodatabase",
+    "url": "https://www.dataok.cz/api/download/v1/items/e5ff7ee8c79843c1a3f99b505504e63a/filegdb?layers=0"
+  },
+  {
+    "name": "File Geodatabase",
     "url": "https://www.dataok.cz/api/download/v1/items/f5bb1fe54e8d4aad9542d8688a073318/filegdb?layers=6"
   },
   {
@@ -602,6 +614,10 @@
   {
     "name": "GeoJSON",
     "url": "https://www.dataok.cz/api/download/v1/items/e0304f20de884a34bd8bd788773378c7/geojson?layers=1"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/e5ff7ee8c79843c1a3f99b505504e63a/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -793,6 +809,10 @@
   },
   {
     "name": "KML",
+    "url": "https://www.dataok.cz/api/download/v1/items/e5ff7ee8c79843c1a3f99b505504e63a/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://www.dataok.cz/api/download/v1/items/f5bb1fe54e8d4aad9542d8688a073318/kml?layers=6"
   },
   {
@@ -978,6 +998,10 @@
   {
     "name": "Shapefile",
     "url": "https://www.dataok.cz/api/download/v1/items/e0304f20de884a34bd8bd788773378c7/shapefile?layers=1"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.dataok.cz/api/download/v1/items/e5ff7ee8c79843c1a3f99b505504e63a/shapefile?layers=0"
   },
   {
     "name": "Shapefile",
