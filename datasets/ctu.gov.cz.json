@@ -28,6 +28,14 @@
     "url": "https://ctu.gov.cz/vyhledavaci-databaze/databaze-pridelenych-radiovych-kmitoctu-podle-vydanych-pridelu-a-individualnich-opravneni/amateri?hz_from=&hz_to=&export=1&db_sluzby=1&format=xlsx&use_pager=0"
   },
   {
+    "name": "Individuální oprávnění a volací značky stanic letecké pohyblivé služby",
+    "url": "https://ctu.gov.cz/vyhledavaci-databaze/databaze-pridelenych-radiovych-kmitoctu-podle-vydanych-pridelu-a-individualnich-opravneni/letci?hz_from=&hz_to=&export=1&db_sluzby=1&format=xlsx&use_pager=0"
+  },
+  {
+    "name": "Individuální oprávnění a volací značky stanic námořní pohyblivé služby",
+    "url": "https://ctu.gov.cz/vyhledavaci-databaze/databaze-pridelenych-radiovych-kmitoctu-podle-vydanych-pridelu-a-individualnich-opravneni/namorni?hz_from=&hz_to=&export=1&db_sluzby=1&format=xlsx&use_pager=0"
+  },
+  {
     "name": "Přehled oznámených rozhraní podnikatelů zajišťujících veřejnou telekomunikační síť",
     "url": "https://ctu.gov.cz/vyhledavaci-databaze/full-export/csv/prehled-oznamenych-rozhrani"
   },
