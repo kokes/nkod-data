@@ -20,19 +20,7 @@
     "url": "https://geoportal-inspirewfs.cuzk.cz/WFS_INSPIRE_TN_RAIL/WFService.aspx?service=wfs&request=getcapabilities"
   },
   {
-    "name": "Stahovací služba WFS pro INSPIRE téma Vodstvo - Fyzické vody (HY_P)",
-    "url": "https://geoportal-inspirewfs.cuzk.cz/WFS_INSPIRE_HY/WFService.aspx?service=wfs&request=getcapabilities"
-  },
-  {
-    "name": "Stahovací služba WFS pro INSPIRE téma Vodstvo - hydrografická síť (HY_NET)",
-    "url": "https://geoportal-inspirewfs.cuzk.cz/WFS_INSPIRE_HY_NET/WFService.aspx?service=wfs&request=getcapabilities"
-  },
-  {
     "name": "Stahovací služba WFS pro INSPIRE téma Využití území (LU)",
     "url": "https://geoportal-inspirewfs.cuzk.cz/WFS_INSPIRE_LU/WFService.aspx?service=wfs&request=getcapabilities"
-  },
-  {
-    "name": "Stahovací služba WFS pro INSPIRE téma Zeměpisná jména (GN)",
-    "url": "https://geoportal-inspirewfs.cuzk.cz/WFS_INSPIRE_GN/WFService.aspx?service=wfs&request=getcapabilities"
   }
 ]
