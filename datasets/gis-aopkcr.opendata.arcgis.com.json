@@ -352,15 +352,11 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::arondace-v-zóně-národního-parku.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - ÚSES - koncepční vymezení nadregionálních biocenter (Esri Shape, WGS84, 1,9 MB)",
-    "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::úses-koncepční-vymezení-nadregionálních-biocenter.zip"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - ÚSES - koncepční vymezení nadregionálních biocenter (GeoJson, WGS84, 6,7 MB)",
-    "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::úses-koncepční-vymezení-nadregionálních-biocenter.geojson"
-  },
-  {
     "name": "Poskytování dat AOPK ČR - ÚSES - koncepční vymezení nadregionálních biocenter (KML, WGS84, 5,37 MB)",
-    "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::úses-koncepční-vymezení-nadregionálních-biocenter.kml"
+    "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::metodicky_sjednocené_vymezení_územního_systému_ekologické_stability.kml"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - ÚSES-metodicky_sjednocené_vymezení_územního_systému_ekologické_stability.zip (Esri Shape, WGS84, 1,9 MB)",
+    "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::úses-metodicky_sjednocené_vymezení_územního_systému_ekologické_stability.zip"
   }
 ]

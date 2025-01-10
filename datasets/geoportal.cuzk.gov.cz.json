@@ -6,5 +6,9 @@
   {
     "name": "Stahovací služba WFS pro INSPIRE téma Vodstvo - hydrografická síť (HY_NET)",
     "url": "https://geoportal.cuzk.gov.cz/geoserver/hy-n/wfs?service=wfs&request=getcapabilities"
+  },
+  {
+    "name": "Stahovací služba WFS pro INSPIRE téma Zeměpisná jména (GN)",
+    "url": "https://geoportal.cuzk.gov.cz/geoserver/gn/wfs?service=wfs&request=getcapabilities"
   }
 ]

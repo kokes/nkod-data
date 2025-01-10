@@ -44,6 +44,10 @@
     "url": "https://atom.cuzk.cz/get.ashx?theme=LU"
   },
   {
+    "name": "INSPIRE stahovací služba ATOM pro INSPIRE téma Zeměpisná jména (GN) - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=GN"
+  },
+  {
     "name": "INSPIRE stahovací služba ATOM pro téma Adresy (AD) - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=AD"
   },

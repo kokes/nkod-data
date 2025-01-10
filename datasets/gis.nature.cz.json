@@ -56,10 +56,6 @@
     "url": "https://gis.nature.cz/inspire/gml/INSPIRE-PS_Natura2000.gml"
   },
   {
-    "name": "GML INSPIRE Rozšíření evropsky významných druhů",
-    "url": "https://gis.nature.cz/arcgis/services/INSPIRE/InspireHabitatsBiotopesWFS/MapServer/WFSServer?request=GetCapabilities&service=WFS"
-  },
-  {
     "name": "Mapová služba WFS",
     "url": "https://gis.nature.cz/arcgis/services/PamatneStromy/PamStrom/MapServer/WFSServer?service=WFS&request=GetCapabilities"
   },
