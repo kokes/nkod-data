@@ -124,6 +124,10 @@
     "url": "https://data.mzcr.cz/data/distribuce/409/Otevrena-data-NR-04-26-hromadne-vyrabene-lecive-pripravky-sukl-atc-vykazani-mesic-pojistovna-2024-01.csv"
   },
   {
+    "name": "Hromadně vyráběné léčivé přípravky  – kód SÚKL, měsíc, IČZ výdeje nebo podání",
+    "url": "https://data.mzcr.cz/data/distribuce/428/Otevrena-data-NR-04-63-hromadne-vyrabene-lecive-pripravky-sukl-mesic-icz-vydej-nebo-podani.csv"
+  },
+  {
     "name": "Hromadně vyráběné léčivé přípravky (ATC aktuální) – kód SÚKL, měsíc, IČZ",
     "url": "https://data.mzcr.cz/data/distribuce/412/Otevrena-data-NR-04-29-hromadne-vyrabene-lecive-pripravky-sukl-atc-aktualni-mesic-icz-2024-01.csv"
   },
@@ -148,8 +152,16 @@
     "url": "https://data.mzcr.cz/data/distribuce/406/Otevrena-data-NR-04-57-hromadne-vyrabene-lecive-pripravky-icz-doklad-2024-01.csv"
   },
   {
+    "name": "Hromadně vyráběné léčivé přípravky – ATC (aktuální), měsíc, IČP",
+    "url": "https://data.mzcr.cz/data/distribuce/427/Otevrena-data-NR-04-62-hromadne-vyrabene-lecive-pripravky-atc-aktualni-mesic-icp.csv"
+  },
+  {
     "name": "Hromadně vyráběné léčivé přípravky – kód SÚKL, měsíc, IČP",
-    "url": "https://data.mzcr.cz/data/distribuce/418/Otevrena-data-NR-04-60-hromadne-vyrabene-lecive-pripravky-kod-sukl-mesic-icp-2024-01.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/418/Otevrena-data-NR-04-60-hromadne-vyrabene-lecive-pripravky-sukl-mesic-icp.csv"
+  },
+  {
+    "name": "Hromadně vyráběné léčivé přípravky – název LP, měsíc, IČP",
+    "url": "https://data.mzcr.cz/data/distribuce/426/Otevrena-data-NR-04-61-hromadne-vyrabene-lecive-pripravky-nazev-mesic-icp.csv"
   },
   {
     "name": "Incidence a prevalence zhoubných nádorů v regionech ČR",
