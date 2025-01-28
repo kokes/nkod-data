@@ -13,6 +13,10 @@
   },
   {
     "name": "Číselník v CSV",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.csv"
+  },
+  {
+    "name": "Číselník v CSV",
     "url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-územní-ochrany.csv"
   },
   {
@@ -49,6 +53,10 @@
   },
   {
     "name": "Číselník v CSV",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/typy-obsahu-údajů.csv"
+  },
+  {
+    "name": "Číselník v CSV",
     "url": "https://data.dia.gov.cz/soubory/číselníky/typy-pracovních-vztahů.csv"
   },
   {
@@ -80,12 +88,20 @@
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.csv"
   },
   {
+    "name": "Číselník v CSV",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-sdílení-údajů.csv"
+  },
+  {
     "name": "Číselník v HTML+RDFa",
     "url": "https://data.dia.gov.cz/soubory/číselníky/dny-v-týdnu.html"
   },
   {
     "name": "Číselník v HTML+RDFa",
     "url": "https://data.dia.gov.cz/soubory/číselníky/jiná-časová-specifikace.html"
+  },
+  {
+    "name": "Číselník v HTML+RDFa",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.html"
   },
   {
     "name": "Číselník v HTML+RDFa",
@@ -125,6 +141,10 @@
   },
   {
     "name": "Číselník v HTML+RDFa",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/typy-obsahu-údajů.html"
+  },
+  {
+    "name": "Číselník v HTML+RDFa",
     "url": "https://data.dia.gov.cz/soubory/číselníky/typy-pracovních-vztahů.html"
   },
   {
@@ -156,12 +176,20 @@
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.html"
   },
   {
+    "name": "Číselník v HTML+RDFa",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-sdílení-údajů.html"
+  },
+  {
     "name": "Číselník v JSON-LD",
     "url": "https://data.dia.gov.cz/soubory/číselníky/dny-v-týdnu.jsonld"
   },
   {
     "name": "Číselník v JSON-LD",
     "url": "https://data.dia.gov.cz/soubory/číselníky/jiná-časová-specifikace.jsonld"
+  },
+  {
+    "name": "Číselník v JSON-LD",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.jsonld"
   },
   {
     "name": "Číselník v JSON-LD",
@@ -201,6 +229,10 @@
   },
   {
     "name": "Číselník v JSON-LD",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/typy-obsahu-údajů.jsonld"
+  },
+  {
+    "name": "Číselník v JSON-LD",
     "url": "https://data.dia.gov.cz/soubory/číselníky/typy-pracovních-vztahů.jsonld"
   },
   {
@@ -232,12 +264,20 @@
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.jsonld"
   },
   {
+    "name": "Číselník v JSON-LD",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-sdílení-údajů.jsonld"
+  },
+  {
     "name": "Číselník v RDF N-Quads",
     "url": "https://data.dia.gov.cz/soubory/číselníky/dny-v-týdnu.nq"
   },
   {
     "name": "Číselník v RDF N-Quads",
     "url": "https://data.dia.gov.cz/soubory/číselníky/jiná-časová-specifikace.nq"
+  },
+  {
+    "name": "Číselník v RDF N-Quads",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.nq"
   },
   {
     "name": "Číselník v RDF N-Quads",
@@ -277,6 +317,10 @@
   },
   {
     "name": "Číselník v RDF N-Quads",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/typy-obsahu-údajů.nq"
+  },
+  {
+    "name": "Číselník v RDF N-Quads",
     "url": "https://data.dia.gov.cz/soubory/číselníky/typy-pracovních-vztahů.nq"
   },
   {
@@ -308,12 +352,20 @@
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.nq"
   },
   {
+    "name": "Číselník v RDF N-Quads",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-sdílení-údajů.nq"
+  },
+  {
     "name": "Číselník v RDF N-Triples",
     "url": "https://data.dia.gov.cz/soubory/číselníky/dny-v-týdnu.nt"
   },
   {
     "name": "Číselník v RDF N-Triples",
     "url": "https://data.dia.gov.cz/soubory/číselníky/jiná-časová-specifikace.nt"
+  },
+  {
+    "name": "Číselník v RDF N-Triples",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.nt"
   },
   {
     "name": "Číselník v RDF N-Triples",
@@ -353,6 +405,10 @@
   },
   {
     "name": "Číselník v RDF N-Triples",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/typy-obsahu-údajů.nt"
+  },
+  {
+    "name": "Číselník v RDF N-Triples",
     "url": "https://data.dia.gov.cz/soubory/číselníky/typy-pracovních-vztahů.nt"
   },
   {
@@ -384,12 +440,20 @@
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.nt"
   },
   {
+    "name": "Číselník v RDF N-Triples",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-sdílení-údajů.nt"
+  },
+  {
     "name": "Číselník v RDF TriG",
     "url": "https://data.dia.gov.cz/soubory/číselníky/dny-v-týdnu.trig"
   },
   {
     "name": "Číselník v RDF TriG",
     "url": "https://data.dia.gov.cz/soubory/číselníky/jiná-časová-specifikace.trig"
+  },
+  {
+    "name": "Číselník v RDF TriG",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.trig"
   },
   {
     "name": "Číselník v RDF TriG",
@@ -429,6 +493,10 @@
   },
   {
     "name": "Číselník v RDF TriG",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/typy-obsahu-údajů.trig"
+  },
+  {
+    "name": "Číselník v RDF TriG",
     "url": "https://data.dia.gov.cz/soubory/číselníky/typy-pracovních-vztahů.trig"
   },
   {
@@ -460,12 +528,20 @@
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.trig"
   },
   {
+    "name": "Číselník v RDF TriG",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-sdílení-údajů.trig"
+  },
+  {
     "name": "Číselník v RDF Turtle",
     "url": "https://data.dia.gov.cz/soubory/číselníky/dny-v-týdnu.ttl"
   },
   {
     "name": "Číselník v RDF Turtle",
     "url": "https://data.dia.gov.cz/soubory/číselníky/jiná-časová-specifikace.ttl"
+  },
+  {
+    "name": "Číselník v RDF Turtle",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.ttl"
   },
   {
     "name": "Číselník v RDF Turtle",
@@ -505,6 +581,10 @@
   },
   {
     "name": "Číselník v RDF Turtle",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/typy-obsahu-údajů.ttl"
+  },
+  {
+    "name": "Číselník v RDF Turtle",
     "url": "https://data.dia.gov.cz/soubory/číselníky/typy-pracovních-vztahů.ttl"
   },
   {
@@ -536,12 +616,20 @@
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.ttl"
   },
   {
+    "name": "Číselník v RDF Turtle",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-sdílení-údajů.ttl"
+  },
+  {
     "name": "Číselník v RDF/XML",
     "url": "https://data.dia.gov.cz/soubory/číselníky/dny-v-týdnu.rdf"
   },
   {
     "name": "Číselník v RDF/XML",
     "url": "https://data.dia.gov.cz/soubory/číselníky/jiná-časová-specifikace.rdf"
+  },
+  {
+    "name": "Číselník v RDF/XML",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.rdf"
   },
   {
     "name": "Číselník v RDF/XML",
@@ -581,6 +669,10 @@
   },
   {
     "name": "Číselník v RDF/XML",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/typy-obsahu-údajů.rdf"
+  },
+  {
+    "name": "Číselník v RDF/XML",
     "url": "https://data.dia.gov.cz/soubory/číselníky/typy-pracovních-vztahů.rdf"
   },
   {
@@ -610,5 +702,9 @@
   {
     "name": "Číselník v RDF/XML",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.rdf"
+  },
+  {
+    "name": "Číselník v RDF/XML",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-sdílení-údajů.rdf"
   }
 ]

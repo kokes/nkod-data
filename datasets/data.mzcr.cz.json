@@ -160,12 +160,24 @@
     "url": "https://data.mzcr.cz/data/distribuce/418/Otevrena-data-NR-04-60-hromadne-vyrabene-lecive-pripravky-sukl-mesic-icp.csv"
   },
   {
+    "name": "Hromadně vyráběné léčivé přípravky – kód SÚKL, měsíc, IČP předpisu, IČZ výdeje",
+    "url": "https://data.mzcr.cz/data/distribuce/432/Otevrena-data-NR-04-65-hromadne-vyrabene-lecive-pripravky-sukl-mesic-icp-predpis-icz-vydej.csv"
+  },
+  {
     "name": "Hromadně vyráběné léčivé přípravky – název LP, měsíc, IČP",
     "url": "https://data.mzcr.cz/data/distribuce/426/Otevrena-data-NR-04-61-hromadne-vyrabene-lecive-pripravky-nazev-mesic-icp.csv"
   },
   {
     "name": "Incidence a prevalence zhoubných nádorů v regionech ČR",
     "url": "https://data.mzcr.cz/data/distribuce/372/Otevrena-data-NR-07-01-incidence-prevalence-zhoubne-nadory-regiony-cr-2024-01.csv"
+  },
+  {
+    "name": "Individuálně připravované léčivé přípravky – kód SÚKL, měsíc, IČP předpisu, IČZ výdeje",
+    "url": "https://data.mzcr.cz/data/distribuce/430/Otevrena-data-NR-04-17-individualne-pripravovane-lecive-pripravky-sukl-mesic-icp-predpis-icz-vydej.csv"
+  },
+  {
+    "name": "Individuálně připravované léčivé přípravky – kód SÚKL, měsíc, IČZ",
+    "url": "https://data.mzcr.cz/data/distribuce/431/Otevrena-data-NR-04-19-individualne-pripravovane-lecive-pripravky-sukl-mesic-icz.csv"
   },
   {
     "name": "Kardiologie: Epidemiologie srdečního selhání",
@@ -250,6 +262,10 @@
   {
     "name": "NZIS: Přehled komponent",
     "url": "https://data.mzcr.cz/data/distribuce/387/nzis-prehled-komponent.csv"
+  },
+  {
+    "name": "Očkování proti HPV podle typu poskytovatele",
+    "url": "https://data.mzcr.cz/data/distribuce/433/Otevrena-data-NR-28-06-ockovani-hpv-typ-poskytovatele.csv"
   },
   {
     "name": "Očkování, pozitivity, hospitalizace pro COVID-19, úmrtí, long covid a komorbidity u osob v ČR",
@@ -412,8 +428,8 @@
     "url": "https://data.mzcr.cz/data/distribuce/342/vakcinace-verejne-zdravotni-pojisteni.csv"
   },
   {
-    "name": "Výkony zdravotní péče dle formy péče a odbornosti",
-    "url": "https://data.mzcr.cz/data/distribuce/429/Otevrena-data-NR-04-66-vykony-zdravotni-pece-forma-pece-odbornost-2025-01.csv"
+    "name": "Výkony zdravotní péče dle formy péče a odbornosti pracoviště",
+    "url": "https://data.mzcr.cz/data/distribuce/429/Otevrena-data-NR-04-66-vykony-zdravotni-pece-forma-pece-odbornost.csv"
   },
   {
     "name": "Výkony zdravotní péče vykázané v rámci veřejného zdravotního pojištění dle měsíců vykázání a zdravotní pojišťovny",
@@ -457,6 +473,6 @@
   },
   {
     "name": "Číselník věkových skupin NZIS",
-    "url": "https://data.mzcr.cz/data/distribuce/403/Otevrena-data-OIS-12-01-ciselnik-vekove-skupiny-2024-01.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/403/Otevrena-data-OIS-12-01-ciselnik-vekove-skupiny.csv"
   }
 ]
