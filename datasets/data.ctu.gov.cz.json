@@ -548,10 +548,6 @@
     "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_provozovatele/evidence_provozovatelu.csv"
   },
   {
-    "name": "Podnikatelé v poštovních službách od 1. 1. 2024",
-    "url": "https://data.ctu.gov.cz/sites/default/files/imports/import_provozovatele/evidence_provozovatelu_od_2024.csv"
-  },
-  {
     "name": "Podíl investic na tržbách u nejvýznamnějších subjektů na trhu dle tržeb v roce 2017",
     "url": "https://data.ctu.gov.cz/sites/default/files/graf13.csv"
   },
@@ -1677,7 +1673,11 @@
   },
   {
     "name": "Ztráta z povinného poskytování dílčí služby (zvláštní ceny) v rámci univerzální služby",
-    "url": "https://data.ctu.gov.cz/sites/default/files/ztrata-z-poskytovani-univerzalni-sluzby-zvlastni-ceny_20.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/ztrata-z-poskytovani-univerzalni-sluzby-zvlastni-ceny_2023.csv"
+  },
+  {
+    "name": "Ztráta z povinného poskytování dílčí služby (zvláštní ceny) v rámci univerzální služby",
+    "url": "https://data.ctu.gov.cz/sites/default/files/ztrata-z-poskytovani-univerzalni-sluzby-zvlastni-ceny_2023_0.xlsx"
   },
   {
     "name": "Účet cizích prostředků k úhradě nákladů poskytovateli univerzální služby",
@@ -1693,7 +1693,11 @@
   },
   {
     "name": "Čisté náklady na poskytování univerzální služby",
-    "url": "https://data.ctu.gov.cz/sites/default/files/ciste-naklady-univerzalni-sluzby_11.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/ciste-naklady-univerzalni-sluzby_2023.csv"
+  },
+  {
+    "name": "Čisté náklady na poskytování univerzální služby",
+    "url": "https://data.ctu.gov.cz/sites/default/files/ciste-naklady-univerzalni-sluzby_2023.xlsx"
   },
   {
     "name": "Čisté náklady na poskytování základních služeb",

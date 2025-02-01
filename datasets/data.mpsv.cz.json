@@ -205,10 +205,6 @@
   },
   {
     "name": "JSON distribuce",
-    "url": "https://data.mpsv.cz/od/soubory/volna-mista-prirustek/volna-mista-prirustek.json"
-  },
-  {
-    "name": "JSON distribuce",
     "url": "https://data.mpsv.cz/od/soubory/volna-mista/volna-mista.json"
   },
   {
@@ -422,10 +418,6 @@
   {
     "name": "JSON-LD distribuce",
     "url": "https://data.mpsv.cz/od/soubory/skoly/skoly.jsonld"
-  },
-  {
-    "name": "JSON-LD distribuce",
-    "url": "https://data.mpsv.cz/od/soubory/volna-mista-prirustek/volna-mista-prirustek.jsonld"
   },
   {
     "name": "JSON-LD distribuce",
