@@ -45,7 +45,15 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/ODAE/ODAE_ROB2025/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/ODAE/ODAE_dpnk_21_23/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gis.brno.cz/ags1/rest/services/ODAE/ODAE_firmy_leden_2025/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",

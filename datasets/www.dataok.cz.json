@@ -9,6 +9,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/datasets/KUOK::lékařská-a-lékárenská-pohotovostní-služba-v-olomouckém-kraji"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.dataok.cz/datasets/KUOK::mateřské-školy"
   },
   {
@@ -136,10 +140,6 @@
     "url": "https://www.dataok.cz/datasets/KUOK::školská-účelová-zařízení-1"
   },
   {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/maps/d32f08a1db4f4ec9bf4ede6e7b0282c1"
-  },
-  {
     "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/078471c939c74397887e2abfecd1dc0a/csv?layers=4"
   },
@@ -258,6 +258,10 @@
   {
     "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/d14a29152af04812aec80a1d11e07ae2/csv?layers=9"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/d32f08a1db4f4ec9bf4ede6e7b0282c1/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -481,6 +485,10 @@
   },
   {
     "name": "File Geodatabase",
+    "url": "https://www.dataok.cz/api/download/v1/items/d32f08a1db4f4ec9bf4ede6e7b0282c1/filegdb?layers=0"
+  },
+  {
+    "name": "File Geodatabase",
     "url": "https://www.dataok.cz/api/download/v1/items/e0304f20de884a34bd8bd788773378c7/filegdb?layers=1"
   },
   {
@@ -614,6 +622,10 @@
   {
     "name": "GeoJSON",
     "url": "https://www.dataok.cz/api/download/v1/items/d14a29152af04812aec80a1d11e07ae2/geojson?layers=9"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/d32f08a1db4f4ec9bf4ede6e7b0282c1/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -809,6 +821,10 @@
   },
   {
     "name": "KML",
+    "url": "https://www.dataok.cz/api/download/v1/items/d32f08a1db4f4ec9bf4ede6e7b0282c1/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://www.dataok.cz/api/download/v1/items/e0304f20de884a34bd8bd788773378c7/kml?layers=1"
   },
   {
@@ -998,6 +1014,10 @@
   {
     "name": "Shapefile",
     "url": "https://www.dataok.cz/api/download/v1/items/d14a29152af04812aec80a1d11e07ae2/shapefile?layers=9"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.dataok.cz/api/download/v1/items/d32f08a1db4f4ec9bf4ede6e7b0282c1/shapefile?layers=0"
   },
   {
     "name": "Shapefile",

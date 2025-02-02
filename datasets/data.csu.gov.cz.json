@@ -176,6 +176,22 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CRUHVD2/distribuce/json"
   },
   {
+    "name": "Národní účty – hlavní souhrnné ukazatele HDP - roční údaje",
+    "url": "https://data.csu.gov.cz/opendata/sady/NUC06R/distribuce/csv"
+  },
+  {
+    "name": "Národní účty – hlavní souhrnné ukazatele HDP - roční údaje",
+    "url": "https://data.csu.gov.cz/opendata/sady/NUC06R/distribuce/json"
+  },
+  {
+    "name": "Národní účty – hlavní souhrnné ukazatele HDP - čtvrtletní údaje",
+    "url": "https://data.csu.gov.cz/opendata/sady/NUC06Q/distribuce/csv"
+  },
+  {
+    "name": "Národní účty – hlavní souhrnné ukazatele HDP - čtvrtletní údaje",
+    "url": "https://data.csu.gov.cz/opendata/sady/NUC06Q/distribuce/json"
+  },
+  {
     "name": "Návštěvnost hromadných ubytovacích zařízení - měsíční data",
     "url": "https://data.csu.gov.cz/opendata/sady/CRU02M/distribuce/csv"
   },
@@ -446,6 +462,14 @@
   {
     "name": "Výdaje na ochranu životního prostředí ",
     "url": "https://data.csu.gov.cz/opendata/sady/WZPR05/distribuce/json"
+  },
+  {
+    "name": "Zahraniční obchod se zbožím podle zemí a zbožové nomenklatury KN8 ve finančním vyjádření",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZO01AM/distribuce/csv"
+  },
+  {
+    "name": "Zahraniční obchod se zbožím podle zemí a zbožové nomenklatury KN8 ve finančním vyjádření",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZO01AM/distribuce/json"
   },
   {
     "name": "Zemřelí podle pohlaví a základních věkových skupin",
