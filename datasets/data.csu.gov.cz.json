@@ -48,6 +48,30 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBY01CRQM/distribuce/json"
   },
   {
+    "name": "Domácnosti podle postavení osoby v čele a druhu domu",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR01D/distribuce/csv"
+  },
+  {
+    "name": "Domácnosti podle postavení osoby v čele a druhu domu",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR01D/distribuce/json"
+  },
+  {
+    "name": "Domácnosti podle postavení osoby v čele a užívání bytu",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR01B/distribuce/csv"
+  },
+  {
+    "name": "Domácnosti podle postavení osoby v čele a užívání bytu",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR01B/distribuce/json"
+  },
+  {
+    "name": "Domácnosti podle postavení osoby v čele a velkosti obce",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR01O/distribuce/csv"
+  },
+  {
+    "name": "Domácnosti podle postavení osoby v čele a velkosti obce",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR01O/distribuce/json"
+  },
+  {
     "name": "Emise hlavních znečišťujících látek do ovzduší - REZZO 1 - 4",
     "url": "https://data.csu.gov.cz/opendata/sady/WZPR02/distribuce/csv"
   },
@@ -62,6 +86,22 @@
   {
     "name": "Harmonizovaný index spotřebitelských cen (HICP)  - od 2000",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101C/distribuce/json"
+  },
+  {
+    "name": "Hranice materiální deprivace a míra materiální deprivace",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC02A/distribuce/csv"
+  },
+  {
+    "name": "Hranice materiální deprivace a míra materiální deprivace",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC02A/distribuce/json"
+  },
+  {
+    "name": "Hranice příjmové chudoby a míra příjmové chudoby ",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC01A/distribuce/csv"
+  },
+  {
+    "name": "Hranice příjmové chudoby a míra příjmové chudoby ",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC01A/distribuce/json"
   },
   {
     "name": "Indexy cen průmyslových výrobců podle Hlavních průmyslových skupin (HPS)",
@@ -80,12 +120,92 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBC01/distribuce/json"
   },
   {
+    "name": "Míra materiální deprivace podle ekonomické aktivity",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC02D/distribuce/csv"
+  },
+  {
+    "name": "Míra materiální deprivace podle ekonomické aktivity",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC02D/distribuce/json"
+  },
+  {
+    "name": "Míra materiální deprivace podle pohlaví",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC02B/distribuce/csv"
+  },
+  {
+    "name": "Míra materiální deprivace podle pohlaví",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC02B/distribuce/json"
+  },
+  {
+    "name": "Míra materiální deprivace podle právní formy užívání bytu",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC02F/distribuce/csv"
+  },
+  {
+    "name": "Míra materiální deprivace podle právní formy užívání bytu",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC02F/distribuce/json"
+  },
+  {
+    "name": "Míra materiální deprivace podle typu domácností",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC02E/distribuce/csv"
+  },
+  {
+    "name": "Míra materiální deprivace podle typu domácností",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC02E/distribuce/json"
+  },
+  {
+    "name": "Míra materiální deprivace podle věku",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC02C/distribuce/csv"
+  },
+  {
+    "name": "Míra materiální deprivace podle věku",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC02C/distribuce/json"
+  },
+  {
     "name": "Míra nezaměstnanosti podle věkových skupin a nejvyššího dosaženého vzdělání",
     "url": "https://data.csu.gov.cz/opendata/sady/ZAM06B/distribuce/csv"
   },
   {
     "name": "Míra nezaměstnanosti podle věkových skupin a nejvyššího dosaženého vzdělání",
     "url": "https://data.csu.gov.cz/opendata/sady/ZAM06B/distribuce/json"
+  },
+  {
+    "name": "Míra ohrožení příjmovou chudobou podle ekonomické aktivity",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC01D/distribuce/csv"
+  },
+  {
+    "name": "Míra ohrožení příjmovou chudobou podle ekonomické aktivity",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC01D/distribuce/json"
+  },
+  {
+    "name": "Míra ohrožení příjmovou chudobou podle pohlaví",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC01B/distribuce/csv"
+  },
+  {
+    "name": "Míra ohrožení příjmovou chudobou podle pohlaví",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC01B/distribuce/json"
+  },
+  {
+    "name": "Míra ohrožení příjmovou chudobou podle právní formy užívání bytu",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC01F/distribuce/csv"
+  },
+  {
+    "name": "Míra ohrožení příjmovou chudobou podle právní formy užívání bytu",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC01F/distribuce/json"
+  },
+  {
+    "name": "Míra ohrožení příjmovou chudobou podle věku",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC01C/distribuce/csv"
+  },
+  {
+    "name": "Míra ohrožení příjmovou chudobou podle věku",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC01C/distribuce/json"
+  },
+  {
+    "name": "Míra příjmové chudoby podle typu domácnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC01E/distribuce/csv"
+  },
+  {
+    "name": "Míra příjmové chudoby podle typu domácnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/SILC01E/distribuce/json"
   },
   {
     "name": "Míra zaměstnanosti podle věkových skupin a nejvyššího dosaženého vzdělání",
@@ -184,14 +304,6 @@
     "url": "https://data.csu.gov.cz/opendata/sady/NUC06R/distribuce/json"
   },
   {
-    "name": "Národní účty – hlavní souhrnné ukazatele HDP - čtvrtletní údaje",
-    "url": "https://data.csu.gov.cz/opendata/sady/NUC06Q/distribuce/csv"
-  },
-  {
-    "name": "Národní účty – hlavní souhrnné ukazatele HDP - čtvrtletní údaje",
-    "url": "https://data.csu.gov.cz/opendata/sady/NUC06Q/distribuce/json"
-  },
-  {
     "name": "Návštěvnost hromadných ubytovacích zařízení - měsíční data",
     "url": "https://data.csu.gov.cz/opendata/sady/CRU02M/distribuce/csv"
   },
@@ -214,6 +326,30 @@
   {
     "name": "Obyvatelstvo podle ekonomické aktivity, postavení v zaměstnání a pohlaví",
     "url": "https://data.csu.gov.cz/opendata/sady/SLD009/distribuce/json"
+  },
+  {
+    "name": "Pohyb zboží přes hranice podle zemí a zbožové nomenklatury KN8 v kilogramech",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZO01CM/distribuce/csv"
+  },
+  {
+    "name": "Pohyb zboží přes hranice podle zemí a zbožové nomenklatury KN8 v kilogramech",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZO01CM/distribuce/json"
+  },
+  {
+    "name": "Pohyb zboží přes hranice podle zemí a zbožové nomenklatury KN8 v naturálních jednotkách",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZO01DM/distribuce/csv"
+  },
+  {
+    "name": "Pohyb zboží přes hranice podle zemí a zbožové nomenklatury KN8 v naturálních jednotkách",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZO01DM/distribuce/json"
+  },
+  {
+    "name": "Pohyb zboží přes hranice podle zemí a zbožové nomenklatury KN8 ve finančním vyjádření ",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZO01BM/distribuce/csv"
+  },
+  {
+    "name": "Pohyb zboží přes hranice podle zemí a zbožové nomenklatury KN8 ve finančním vyjádření ",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZO01BM/distribuce/json"
   },
   {
     "name": "Počet a rozloha zvláště chráněných území (stav k 31. 12.)",
@@ -302,14 +438,6 @@
   {
     "name": "Projekce obyvatelstva České republiky",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY02PROJ1/distribuce/json"
-  },
-  {
-    "name": "Rozvody - vybrané souhrnné údaje",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY05B/distribuce/csv"
-  },
-  {
-    "name": "Rozvody - vybrané souhrnné údaje",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY05B/distribuce/json"
   },
   {
     "name": "Rozvody podle délky trvání manželství",
@@ -462,14 +590,6 @@
   {
     "name": "Výdaje na ochranu životního prostředí ",
     "url": "https://data.csu.gov.cz/opendata/sady/WZPR05/distribuce/json"
-  },
-  {
-    "name": "Zahraniční obchod se zbožím podle zemí a zbožové nomenklatury KN8 ve finančním vyjádření",
-    "url": "https://data.csu.gov.cz/opendata/sady/VZO01AM/distribuce/csv"
-  },
-  {
-    "name": "Zahraniční obchod se zbožím podle zemí a zbožové nomenklatury KN8 ve finančním vyjádření",
-    "url": "https://data.csu.gov.cz/opendata/sady/VZO01AM/distribuce/json"
   },
   {
     "name": "Zemřelí podle pohlaví a základních věkových skupin",
