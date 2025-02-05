@@ -44,16 +44,8 @@
     "url": "https://data.mzcr.cz/data/distribuce/368/czdrg-ukazatele-dle-mdc-v4.csv"
   },
   {
-    "name": "Cervikální screeningové vyšetření: Podíl žen s abnormálním výsledkem screeningové cytologie",
-    "url": "https://data.mzcr.cz/data/distribuce/399/Otevrena-data-PPS-03-02-Cervix-cytologie-podil-abnormalnich-2024-01.csv"
-  },
-  {
     "name": "Cervikální screeningové vyšetření: Pokrytí cílové populace",
-    "url": "https://data.mzcr.cz/data/distribuce/2/Otevrena-data-PPS-03-01-Cervix-screening-pokryti-populace-2024-01.csv"
-  },
-  {
-    "name": "Cervikální screeningové vyšetření: Počet provedených cervikovaginálních cytologií",
-    "url": "https://data.mzcr.cz/data/distribuce/400/Otevrena-data-PPS-03-03-Cervix-cytologie-pocet-2024-01.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/2/Otevrena-data-PPS-03-01-cervix-screening-pokryti-populace.csv"
   },
   {
     "name": "Charakteristika hospitalizačních případů akutní lůžkové péče",
@@ -200,20 +192,8 @@
     "url": "https://data.mzcr.cz/data/distribuce/331/kardio-prehled-zemrelych-osob.csv"
   },
   {
-    "name": "Kolorektální screeningové vyšetření: Podíl osob s pozitivním TOKS",
-    "url": "https://data.mzcr.cz/data/distribuce/394/Otevrena-data-PPS-02-02-Kolorektum-TOKS-podil-pozitivnich-2024-01.csv"
-  },
-  {
     "name": "Kolorektální screeningové vyšetření: Pokrytí cílové populace",
-    "url": "https://data.mzcr.cz/data/distribuce/62/Otevrena-data-PPS-02-01-Kolorektum-screening-pokryti-populace-2024-01.csv"
-  },
-  {
-    "name": "Kolorektální screeningové vyšetření: Počet provedených screeningových TOKS",
-    "url": "https://data.mzcr.cz/data/distribuce/395/Otevrena-data-PPS-02-03-Kolorektum-TOKS-pocet-2024-01.csv"
-  },
-  {
-    "name": "Kolorektální screeningové vyšetření: Počet provedených screeningových kolonoskopií",
-    "url": "https://data.mzcr.cz/data/distribuce/397/Otevrena-data-PPS-02-04-Kolorektum-screeningove-kolonoskopie-pocet-2024-01.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/62/Otevrena-data-PPS-02-01-kolorektum-screening-pokryti-populace.csv"
   },
   {
     "name": "Kolorektální screeningové vyšetření: TOKS+ a navazující kolonoskopie",
@@ -224,16 +204,8 @@
     "url": "https://data.mzcr.cz/data/distribuce/379/Otevrena-data-SSS-05-01-luzkovy-fond-vyuziti-2024-01.csv"
   },
   {
-    "name": "Mamografické screeningové vyšetření: Podíl žen s doplňujícím ultrazvukovým vyšetřením",
-    "url": "https://data.mzcr.cz/data/distribuce/393/Otevrena-data-PPS-01-03-Mamografie-ultrazvukova-vystreni-podil-2024-01.csv"
-  },
-  {
     "name": "Mamografické screeningové vyšetření: Pokrytí cílové populace",
-    "url": "https://data.mzcr.cz/data/distribuce/263/Otevrena-data-PPS-01-01-Mamografie-screening-pokryti-populace-2024-01.csv"
-  },
-  {
-    "name": "Mamografické screeningové vyšetření: Počet provedených screeningových mamografií",
-    "url": "https://data.mzcr.cz/data/distribuce/392/Otevrena-data-PPS-01-02-Mamografie-screeningova-vysetreni-pocet-2024-01.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/263/Otevrena-data-PPS-01-01-mamografie-screening-pokryti-populace.csv"
   },
   {
     "name": "Migrace za lůžkovou péčí",
@@ -272,6 +244,18 @@
     "url": "https://data.mzcr.cz/data/distribuce/402/Otevrena-data-NR-26-30-COVID-19-prehled-populace-2024-01.csv"
   },
   {
+    "name": "Podíl osob s pozitivním TOKS",
+    "url": "https://data.mzcr.cz/data/distribuce/394/Otevrena-data-PPS-02-02-kolorektum-toks-podil-pozitivnich.csv"
+  },
+  {
+    "name": "Podíl žen s abnormálním výsledkem screeningové cytologie",
+    "url": "https://data.mzcr.cz/data/distribuce/399/Otevrena-data-PPS-03-02-cervix-cytologie-podil-abnormalnich.csv"
+  },
+  {
+    "name": "Podíl žen s doplňujícím ultrazvukovým vyšetřením",
+    "url": "https://data.mzcr.cz/data/distribuce/393/Otevrena-data-PPS-01-03-Mamografie-ultrazvukova-vystreni-podil-2024-01.csv"
+  },
+  {
     "name": "Polymorbidita obyvatel dle kraje bydliště",
     "url": "https://data.mzcr.cz/data/distribuce/413/Otevrena-data-NR-04-53-polymorbidita-obyvatel-kraj-bydliste-2024-01.csv"
   },
@@ -282,6 +266,22 @@
   {
     "name": "Poukazy (zdravotnické prostředky) podle okresu předepsání, okresu výdeje a okresu bydliště pacienta",
     "url": "https://data.mzcr.cz/data/distribuce/420/Otevrena-data-NR-04-46-poukazy-zdravotnicke-prostredky-okres-predepsani-vydej-bydliste-2024-01.csv"
+  },
+  {
+    "name": "Počet provedených cervikovaginálních cytologií",
+    "url": "https://data.mzcr.cz/data/distribuce/400/Otevrena-data-PPS-03-03-cervix-cytologie-pocet.csv"
+  },
+  {
+    "name": "Počet provedených screeningových TOKS",
+    "url": "https://data.mzcr.cz/data/distribuce/395/Otevrena-data-PPS-02-03-kolorektum-toks-pocet.csv"
+  },
+  {
+    "name": "Počet provedených screeningových kolonoskopií",
+    "url": "https://data.mzcr.cz/data/distribuce/397/Otevrena-data-PPS-02-04-kolorektum-screeningove-kolonoskopie-pocet.csv"
+  },
+  {
+    "name": "Počet provedených screeningových mamografií",
+    "url": "https://data.mzcr.cz/data/distribuce/392/Otevrena-data-PPS-01-02-mamografie-screeningova-vysetreni-pocet.csv"
   },
   {
     "name": "Preventivní prohlídky: Preventivní prohlídky u praktických lékařů a stomatologů",
@@ -434,6 +434,10 @@
   {
     "name": "Výkony zdravotní péče vykázané v rámci veřejného zdravotního pojištění dle měsíců vykázání a zdravotní pojišťovny",
     "url": "https://data.mzcr.cz/data/distribuce/423/Otevrena-data-NR-04-23-vykony-rok-mesic-zp.csv"
+  },
+  {
+    "name": "Výkony zdravotní péče vykázané v rámci veřejného zdravotního pojištění dle měsíců vykázání, poskytovatelů zdravotních služeb a odborností",
+    "url": "https://data.mzcr.cz/data/distribuce/424/Otevrena-data-NR-04-24-vykony-rok-mesic-icz-odbornost.csv"
   },
   {
     "name": "Výkony zdravotní péče vykázané v rámci veřejného zdravotního pojištění ",

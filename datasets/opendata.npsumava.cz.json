@@ -2,5 +2,9 @@
   {
     "name": "faktury_SNPS.csv",
     "url": "https://opendata.npsumava.cz/faktury.php?export=csv"
+  },
+  {
+    "name": "smlouvy_SNPS.csv",
+    "url": "https://opendata.npsumava.cz/smlouvy.php?export=csv"
   }
 ]
