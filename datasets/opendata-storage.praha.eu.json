@@ -1,5 +1,13 @@
 [
   {
+    "name": "PKO_dle_ucetni_operace.csv",
+    "url": "https://opendata-storage.praha.eu/DPC_pko/ucet/PKO_dle_ucetni_operace.csv"
+  },
+  {
+    "name": "PKO_dle_ucetni_operace.xlsx",
+    "url": "https://opendata-storage.praha.eu/DPC_pko/ucet/PKO_dle_ucetni_operace.xlsx"
+  },
+  {
     "name": "Pocet_nove_uzavrenych_najemnich_vztahu_HMP.csv",
     "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/nove_najmy_byty/Pocet_nove_uzavrenych_najemnich_vztahu_HMP.csv"
   },
@@ -16,12 +24,28 @@
     "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/uvolnene_byty/Pocet_uvolnenych_bytu_HMP.xlsx"
   },
   {
+    "name": "Pocet_vedenych_soudnich_sporu_k_bytovemu_fondu_HMP.csv",
+    "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/soudni_spory_byty/Pocet_vedenych_soudnich_sporu_k_bytovemu_fondu_HMP.csv"
+  },
+  {
+    "name": "Pocet_vedenych_soudnich_sporu_k_bytovemu_fondu_HMP.xlsx",
+    "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/soudni_spory_byty/Pocet_vedenych_soudnich_sporu_k_bytovemu_fondu_HMP.xlsx"
+  },
+  {
     "name": "Počet opravených bytů HMP",
     "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/opravene_byty/Pocet_opravenych_bytu_HMP.csv"
   },
   {
     "name": "Počet opravených bytů HMP",
     "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/opravene_byty/Pocet_opravenych_bytu_HMP.xlsx"
+  },
+  {
+    "name": "Seznam_organizaci_HMP.csv",
+    "url": "https://opendata-storage.praha.eu/RED_seznam_organizaci_hmp/Seznam_organizaci_HMP.csv"
+  },
+  {
+    "name": "Seznam_organizaci_HMP.xlsx",
+    "url": "https://opendata-storage.praha.eu/RED_seznam_organizaci_hmp/Seznam_organizaci_HMP.xlsx"
   },
   {
     "name": "Struktura_bytoveho_fondu_HMP.csv",

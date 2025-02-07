@@ -21,7 +21,7 @@
   },
   {
     "name": "Evidence záplavových území",
-    "url": "http://heis.vuv.cz/isvs/zapluz"
+    "url": "https://heis.vuv.cz/isvs/zapluz"
   },
   {
     "name": "Koupací oblasti - WMS služba",
@@ -177,7 +177,7 @@
   },
   {
     "name": "Stav útvarů povrchových vod - WMS služba",
-    "url": "http://heis.vuv.cz/isvs/UtvaryPOVStav"
+    "url": "https://heis.vuv.cz/isvs/UtvaryPOVStav"
   },
   {
     "name": "Stav útvarů povrchových vod - data ke stažení",
@@ -205,7 +205,7 @@
   },
   {
     "name": "Záplavová území, 5 letá voda - data ke stažení",
-    "url": "http://heis.vuv.cz/isvs/zapluz"
+    "url": "https://heis.vuv.cz/isvs/zapluz"
   },
   {
     "name": "Záplavová území, aktivní zóny - data ke stažení",
@@ -214,6 +214,10 @@
   {
     "name": "Útvary podzemních vod - WMS služba",
     "url": "https://heis.vuv.cz/data/webmap/wms.dll"
+  },
+  {
+    "name": "Útvary podzemních vod - informační stránky",
+    "url": "https://heis.vuv.cz/isvs/UtvaryPZV"
   },
   {
     "name": "Útvary podzemních vod hlubinné vrstvy - data ke stažení",
@@ -237,6 +241,6 @@
   },
   {
     "name": "Útvary povrchových vod informační stránka a data ke stažení",
-    "url": "http://heis.vuv.cz/isvs/UtvaryPOV"
+    "url": "https://heis.vuv.cz/isvs/UtvaryPOV"
   }
 ]
