@@ -1,15 +1,19 @@
 [
   {
-    "name": "Ekologické údaje dle jednotlivých let reportů v SDF",
-    "url": "https://webgis.nature.cz/publicdocs/opendata/natura2000/ekologicke_informace_PrO_SDF_2021.ods"
+    "name": "Ekologické údaje dle jednotlivých let reportů v SDF - Druhy",
+    "url": "https://webgis.nature.cz/publicdocs/opendata/Natura2000/ekologicke_informace_PrO_vSDF_dle_jednotlivych_let_Druhy.csv"
+  },
+  {
+    "name": "Ekologické údaje dle jednotlivých let reportů v SDF - Stanoviště",
+    "url": "https://webgis.nature.cz/publicdocs/opendata/Natura2000/ekologicke_informace_PrO_vSDF_dle_jednotlivych_let_Stanoviste.csv"
   },
   {
     "name": "Metodika k aktualizaci SDF",
-    "url": "https://webgis.nature.cz/publicdocs/opendata/natura2000/Metodika_aktSDF_2021.docx"
+    "url": "https://webgis.nature.cz/publicdocs/opendata/natura2000/Metodika_aktSDF_2021.pdf"
   },
   {
     "name": "Přehled předmětů ochrany lokalit soustavy Natura 2000",
-    "url": "https://webgis.nature.cz/publicdocs/opendata/natura2000/seznam_predmetolokalit_Natura2000_440_2021.ods"
+    "url": "https://webgis.nature.cz/publicdocs/opendata/natura2000/seznam_predmetolokalit_Natura2000_440_2021.csv"
   },
   {
     "name": "Seznam lokalit soustavy Natura 2000",

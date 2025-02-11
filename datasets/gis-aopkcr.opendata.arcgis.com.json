@@ -196,12 +196,12 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::ochranná-pásma-mzchú.csv"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Ochranná pásma maloplošných zvláště chráněných území (CSV, WGS84, 35 MB)",
-    "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::ochranná-pásma-mzchú.geojson"
-  },
-  {
     "name": "Poskytování dat AOPK ČR - Ochranná pásma maloplošných zvláště chráněných území (Esri Shape, WGS84, 9,6 MB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::ochranná-pásma-mzchú.zip"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Ochranná pásma maloplošných zvláště chráněných území (GeoJSON, WGS84, 35 MB)",
+    "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::ochranná-pásma-mzchú.geojson"
   },
   {
     "name": "Poskytování dat AOPK ČR - Ochranná pásma maloplošných zvláště chráněných území (KML, WGS84, 28,9 MB)",
