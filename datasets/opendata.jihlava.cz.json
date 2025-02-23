@@ -1,10 +1,6 @@
 [
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.jihlava.cz/datasets/jihlava::cisterny"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.jihlava.cz/datasets/jihlava::hlášení-závad-aktuální"
   },
   {
@@ -89,10 +85,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://opendata.jihlava.cz/api/download/v1/items/381bc474e61048f99345d102b1e40f41/csv?layers=6"
-  },
-  {
-    "name": "CSV",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/447aaff5c6e8455e8bcd1286e117a0b2/csv?layers=4"
   },
   {
@@ -157,10 +149,6 @@
   },
   {
     "name": "File Geodatabase",
-    "url": "https://opendata.jihlava.cz/api/download/v1/items/381bc474e61048f99345d102b1e40f41/filegdb?layers=6"
-  },
-  {
-    "name": "File Geodatabase",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/447aaff5c6e8455e8bcd1286e117a0b2/filegdb?layers=4"
   },
   {
@@ -222,10 +210,6 @@
   {
     "name": "GeoJSON",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/2f0fb198cf5541e7b6ca563e503ea8d6/geojson?layers=13"
-  },
-  {
-    "name": "GeoJSON",
-    "url": "https://opendata.jihlava.cz/api/download/v1/items/381bc474e61048f99345d102b1e40f41/geojson?layers=6"
   },
   {
     "name": "GeoJSON",
@@ -297,10 +281,6 @@
   },
   {
     "name": "KML",
-    "url": "https://opendata.jihlava.cz/api/download/v1/items/381bc474e61048f99345d102b1e40f41/kml?layers=6"
-  },
-  {
-    "name": "KML",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/447aaff5c6e8455e8bcd1286e117a0b2/kml?layers=4"
   },
   {
@@ -366,10 +346,6 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/2f0fb198cf5541e7b6ca563e503ea8d6/shapefile?layers=13"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://opendata.jihlava.cz/api/download/v1/items/381bc474e61048f99345d102b1e40f41/shapefile?layers=6"
   },
   {
     "name": "Shapefile",
