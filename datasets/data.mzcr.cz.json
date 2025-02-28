@@ -1,5 +1,17 @@
 [
   {
+    "name": "Akutní péče v psychiatrii",
+    "url": "https://data.mzcr.cz/data/distribuce/264/Otevrena-data-OIS-04-01-akutni-pece-psychiatrie.csv"
+  },
+  {
+    "name": "Alzheimerova nemoc a neurčené demence",
+    "url": "https://data.mzcr.cz/data/distribuce/64/Otevrena-data-OIS-04-02-alzheimerova-nemoc-neurcene-demence.csv"
+  },
+  {
+    "name": "Ambulantní péče v psychiatrii",
+    "url": "https://data.mzcr.cz/data/distribuce/65/Otevrena-data-OIS-04-03-ambulantni-pece-psychiatrie.csv"
+  },
+  {
     "name": "COVID-19: Celkový (kumulativní) počet osob s prokázanou nákazou dle krajských hygienických stanic vč",
     "url": "https://data.mzcr.cz/data/distribuce/3/nakaza.csv"
   },
@@ -58,6 +70,10 @@
   {
     "name": "Charakteristika hospitalizačních případů akutní péče s kardiologickou diagnózou",
     "url": "https://data.mzcr.cz/data/distribuce/326/Otevrena-data-OIS-01-05-hospitalizacni-pripady-akutni-pece-kardio-2024-01.csv"
+  },
+  {
+    "name": "Dlouhodobá péče v psychiatrii",
+    "url": "https://data.mzcr.cz/data/distribuce/265/Otevrena-data-OIS-04-04-dlouhodoba-pece-psychiatrie.csv"
   },
   {
     "name": "Dopravní úrazy: Charakteristika úrazu",
@@ -286,22 +302,6 @@
   {
     "name": "Preventivní prohlídky: Preventivní prohlídky u praktických lékařů a stomatologů",
     "url": "https://data.mzcr.cz/data/distribuce/380/Otevrena-data-PPS-08-01-Preventivni-prohlidky-2024-01-1.csv"
-  },
-  {
-    "name": "Psychiatrická péče: Akutní péče",
-    "url": "https://data.mzcr.cz/data/distribuce/264/akutni-pece.csv"
-  },
-  {
-    "name": "Psychiatrická péče: Alzheimerova nemoc a neurčené demence",
-    "url": "https://data.mzcr.cz/data/distribuce/64/alzheimerova-nemoc-a-neurcene-demence.csv"
-  },
-  {
-    "name": "Psychiatrická péče: Ambulantní péče",
-    "url": "https://data.mzcr.cz/data/distribuce/65/ambulantni-pece.csv"
-  },
-  {
-    "name": "Psychiatrická péče: Dlouhodobá péče",
-    "url": "https://data.mzcr.cz/data/distribuce/265/dlouhodoba-pece.csv"
   },
   {
     "name": "Psychiatrická péče: Incidence, prevalence, hospitalizace a ambulantní péče",

@@ -140,6 +140,10 @@
     "url": "https://www.dataok.cz/datasets/KUOK::školská-účelová-zařízení-1"
   },
   {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/datasets/d2261c6ba10f4ad78e867c0578b5ac5c_585"
+  },
+  {
     "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/078471c939c74397887e2abfecd1dc0a/csv?layers=4"
   },
@@ -258,6 +262,10 @@
   {
     "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/d14a29152af04812aec80a1d11e07ae2/csv?layers=9"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/d2261c6ba10f4ad78e867c0578b5ac5c/csv?layers=585"
   },
   {
     "name": "CSV",
@@ -625,6 +633,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/d2261c6ba10f4ad78e867c0578b5ac5c/geojson?layers=585"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://www.dataok.cz/api/download/v1/items/d32f08a1db4f4ec9bf4ede6e7b0282c1/geojson?layers=0"
   },
   {
@@ -821,6 +833,10 @@
   },
   {
     "name": "KML",
+    "url": "https://www.dataok.cz/api/download/v1/items/d2261c6ba10f4ad78e867c0578b5ac5c/kml?layers=585"
+  },
+  {
+    "name": "KML",
     "url": "https://www.dataok.cz/api/download/v1/items/d32f08a1db4f4ec9bf4ede6e7b0282c1/kml?layers=0"
   },
   {
@@ -1014,6 +1030,10 @@
   {
     "name": "Shapefile",
     "url": "https://www.dataok.cz/api/download/v1/items/d14a29152af04812aec80a1d11e07ae2/shapefile?layers=9"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.dataok.cz/api/download/v1/items/d2261c6ba10f4ad78e867c0578b5ac5c/shapefile?layers=585"
   },
   {
     "name": "Shapefile",
