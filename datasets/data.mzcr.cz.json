@@ -296,6 +296,10 @@
     "url": "https://data.mzcr.cz/data/distribuce/392/Otevrena-data-PPS-01-02-mamografie-screeningova-vysetreni-pocet.csv"
   },
   {
+    "name": "Počty návštěv zdravotnických zařízení  dle MKN kategorií, odborností, okresu ZZ  a bydliště pacienta",
+    "url": "https://data.mzcr.cz/data/distribuce/434/Otevrena-data-NR-04-21-navstevy-zz-mkn-odbornosti-okresy-migrace.csv"
+  },
+  {
     "name": "Preventivní prohlídky: Preventivní prohlídky u praktických lékařů a stomatologů",
     "url": "https://data.mzcr.cz/data/distribuce/380/Otevrena-data-PPS-08-01-Preventivni-prohlidky-2024-01-1.csv"
   },
@@ -441,7 +445,7 @@
   },
   {
     "name": "Zdravotnická technika dle zdravotnických zařízení",
-    "url": "https://data.mzcr.cz/data/distribuce/401/Otevrena-data-SSS-04-01-zdravotnicka-technika-zdravotnicka-zarizeni-2024-01.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/401/Otevrena-data-SSS-04-01-zdravotnicka-technika-zarizeni.csv"
   },
   {
     "name": "Zdravotnické prostředky – kód, měsíc, IČZ",
