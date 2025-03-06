@@ -872,6 +872,10 @@
     "url": "https://mze.gov.cz/public/web/file/467411/pulec_farmar.zip"
   },
   {
+    "name": "Databáze dostupných ekologických osiv / (EAA_GMS01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
     "name": "Dotační opatření - číselník",
     "url": "https://mze.gov.cz/ssl/nosso-app/DataKeStazeni/Opatreni/GetXml"
   },
@@ -1184,8 +1188,20 @@
     "url": "https://mze.gov.cz/public/app/eagriapp/Files/evp_2023-12-31_202401231034_epsg5514.zip"
   },
   {
+    "name": "Evidence zemědělského podnikatele / (SZR_EZP03B)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "GET Číselník opatření / (SDB_OPA01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
     "name": "Hnojiva - číselník",
     "url": "https://mze.gov.cz/ssl/nosso-app/DataKeStazeni/Hnojiva/GetXml"
+  },
+  {
+    "name": "Informace o odrůdách / (RVI_NOU01B)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
   },
   {
     "name": "LPIS DPB celá ČR 2014 (SHP EPSG:5514)",
@@ -1816,6 +1832,18 @@
     "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
   },
   {
+    "name": "Veřejné informace (PUBLIC) / (RDM_PUB01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Veřejné informace (PUBLIC) / (RDM_PUB01B)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Veřejné informace (PUBLIC) / (RDM_PUB01C)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
     "name": "Změny v LPIS (LPI_GCL01A)",
     "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
   },
@@ -1877,6 +1905,10 @@
   },
   {
     "name": "Číselník přípravků (GET_CISELNIK_PRIPRAVKU_ROZSIRENY) / (EPH_GCP01D)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselník režimů podpory / (RDM_CRP01A)",
     "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
   },
   {

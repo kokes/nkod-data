@@ -296,8 +296,12 @@
     "url": "https://data.mzcr.cz/data/distribuce/392/Otevrena-data-PPS-01-02-mamografie-screeningova-vysetreni-pocet.csv"
   },
   {
-    "name": "Počty návštěv zdravotnických zařízení  dle MKN kategorií, odborností, okresu ZZ  a bydliště pacienta",
+    "name": "Počty návštěv zdravotnických zařízení dle MKN kategorií, odborností, okresu ZZ  a bydliště pacienta",
     "url": "https://data.mzcr.cz/data/distribuce/434/Otevrena-data-NR-04-21-navstevy-zz-mkn-odbornosti-okresy-migrace.csv"
+  },
+  {
+    "name": "Počty výjezdů zdravotnické záchranné služby",
+    "url": "https://data.mzcr.cz/data/distribuce/435/Otevrena-data-NR-04-22-vyjezdy-zdravotnicka-zachranna-sluzba.csv"
   },
   {
     "name": "Preventivní prohlídky: Preventivní prohlídky u praktických lékařů a stomatologů",
