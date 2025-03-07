@@ -20,12 +20,16 @@
     "url": "https://voda.gov.cz/data/ISVSVoda_Objektyvkoryte.zip"
   },
   {
-    "name": "Osy vodních linií",
+    "name": "Osy vodních linií (SHP EPSG:5514)",
     "url": "https://voda.gov.cz/data/ISVSVoda_Osyvodnichlinii.zip"
   },
   {
-    "name": "Správcovství vodních toků",
+    "name": "Správcovství vodních toků (SHP EPSG:5514)",
     "url": "https://voda.gov.cz/data/ISVSVoda_Spravcovstvivodnichtoku.zip"
+  },
+  {
+    "name": "Vodní nádrže (SHP EPSG:5514)",
+    "url": "https://voda.gov.cz/data/ISVSVoda_Vodninadrze.zip"
   },
   {
     "name": "Územní působnost s. p. Povodí",

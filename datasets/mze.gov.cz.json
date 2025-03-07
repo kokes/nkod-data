@@ -1832,6 +1832,22 @@
     "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
   },
   {
+    "name": "RacionalniHnojeni / (EPO_RHN01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Registr distributorů POR / (EAA_RDP01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Seznam dílů půdních bloků (GET DPB) / (LPI_GDP01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Seznam dílů půdních bloků (GET DPB) / (LPI_GDP01B)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
     "name": "Veřejné informace (PUBLIC) / (RDM_PUB01A)",
     "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
   },
@@ -1900,6 +1916,14 @@
     "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
   },
   {
+    "name": "Číselník přípravků (GET_CISELNIK_PRIPRAVKU_ROZSIRENY) (EPH_GCP01F)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselník přípravků (GET_CISELNIK_PRIPRAVKU_ROZSIRENY) (EPH_GCP01G)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
     "name": "Číselník přípravků (GET_CISELNIK_PRIPRAVKU_ROZSIRENY) / (EPH_GCP01C)",
     "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
   },
@@ -1908,7 +1932,27 @@
     "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
   },
   {
+    "name": "Číselník přípravků (GET_CISELNIK_PRIPRAVKU_ROZSIRENY) / (EPH_GCP01E)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
     "name": "Číselník režimů podpory / (RDM_CRP01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselník vinic (GET_CISELNIK_VINICE) / (RVI_GCV01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselník vinic (GET_CISELNIK_VINICE) / (RVI_GCV01B)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselník zvířat / (IZR_GCZ01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselník škodlivých organismů (GET_CISELNIK_SO) / (EPH_GSO01B)",
     "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
   },
   {
@@ -1917,6 +1961,26 @@
   },
   {
     "name": "Číselníky - produkty (EH_CISPRO01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselníky / (OOS_CIS01B)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselníky / (OOS_CIS01C)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselníky / (SZR_CIS01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Číselníky RDM / (RDM_CIS01A)",
+    "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
+  },
+  {
+    "name": "Škodlivé organismy / (SRS_TSO01A)",
     "url": "https://mze.gov.cz/ssl/nosso-app/EPO/WS/v2Online/vOKOsrv.ashx"
   }
 ]
