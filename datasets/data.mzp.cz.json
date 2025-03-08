@@ -1,0 +1,94 @@
+[
+  {
+    "name": "aopk_objednavky.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/aopk_objednavky.csv"
+  },
+  {
+    "name": "aopk_smlouvy_platne_neplatne.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/aopk_smlouvy_platne_neplatne.csv"
+  },
+  {
+    "name": "aopk_uhrazene_faktury.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/aopk_uhrazene_faktury.csv"
+  },
+  {
+    "name": "cenia_smlouvy_platne_neplatne.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/cenia_smlouvy_platne_neplatne.csv"
+  },
+  {
+    "name": "cenia_uhrazene_faktury.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/cenia_uhrazene_faktury.csv"
+  },
+  {
+    "name": "cgs_objednavky.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/cgs_objednavky.csv"
+  },
+  {
+    "name": "cgs_smlouvy_platne_neplatne.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/cgs_smlouvy_platne_neplatne.csv"
+  },
+  {
+    "name": "cgs_uhrazene_faktury.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/cgs_uhrazene_faktury.csv"
+  },
+  {
+    "name": "cizp_objednavky.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/cizp_objednavky.csv"
+  },
+  {
+    "name": "cizp_smlouvy_platne_neplatne.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/cizp_smlouvy_platne_neplatne.csv"
+  },
+  {
+    "name": "cizp_uhrazene_faktury.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/cizp_uhrazene_faktury.csv"
+  },
+  {
+    "name": "dco-mzp_databaze_certifikovanych_osob.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/dco/mzp_databaze_certifikovanych_osob"
+  },
+  {
+    "name": "geology-mzp_evidence_vydanych_osvedceni_odpovedneho_resitele_geologickych_praci.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/geology/mzp_evidence_vydanych_osvedceni_odpovedneho_resitele_geologickych_praci"
+  },
+  {
+    "name": "gmo-mzp_gmo_uzivatele_riziko_1_a_2.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/gmo/mzp_gmo_uzivatele_riziko_1_a_2"
+  },
+  {
+    "name": "gmo-mzp_gmo_uzivatele_riziko_3.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/gmo/mzp_gmo_uzivatele_riziko_3"
+  },
+  {
+    "name": "hnvo-mzp_prehled_osob_poverenych_k_hodnoceni_nebezpecnych_vlastnosti_odpadu.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/hnvo/mzp_prehled_osob_poverenych_k_hodnoceni_nebezpecnych_vlastnosti_odpadu"
+  },
+  {
+    "name": "ippc-mzp_integrovana_prevence_2023.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/ippc/mzp_integrovana_prevence_2023"
+  },
+  {
+    "name": "isao-mzp_autorizovane_osoby_ovzdusi.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/isao/mzp_autorizovane_osoby_ovzdusi"
+  },
+  {
+    "name": "mzp_objednavky.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/mzp_objednavky.csv"
+  },
+  {
+    "name": "mzp_smlouvy_platne_neplatne.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/mzp_smlouvy_platne_neplatne.csv"
+  },
+  {
+    "name": "mzp_uhrazene_faktury.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/mzp_uhrazene_faktury.csv"
+  },
+  {
+    "name": "sekm-mzp_kontaminovana_mista.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/sekm/mzp_kontaminovana_mista"
+  },
+  {
+    "name": "sjcr_uhrazene_faktury.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/sjcr_uhrazene_faktury.csv"
+  }
+]
