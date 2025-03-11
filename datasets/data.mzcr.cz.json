@@ -232,6 +232,10 @@
     "url": "https://data.mzcr.cz/data/distribuce/377/Otevrena-data-NR-07-02-mortalita-zhoubne-nadory-regiony-cr-2024-01.csv"
   },
   {
+    "name": "NZIP: Přehled autorských článků",
+    "url": "https://data.mzcr.cz/data/distribuce/338/Otevrena-data-nzip-autorske-clanky.csv"
+  },
+  {
     "name": "NZIP: Přehled doporučených externích zdrojů",
     "url": "https://data.mzcr.cz/data/distribuce/341/Otevrena-data-nzip-externi-zdroje.csv"
   },
@@ -266,6 +270,26 @@
   {
     "name": "Podíl žen s doplňujícím ultrazvukovým vyšetřením",
     "url": "https://data.mzcr.cz/data/distribuce/393/Otevrena-data-PPS-01-03-Mamografie-ultrazvukova-vystreni-podil-2024-01.csv"
+  },
+  {
+    "name": "Podíl žen s doplňujícím vyšetřením po screeningové mamografii",
+    "url": "https://data.mzcr.cz/data/distribuce/437/Otevrena-data-PPS-01-05-mamografie-doplnujici-vysetreni.csv"
+  },
+  {
+    "name": "Podíl žen s pozitivním hr-HPV testem v cílových věkových skupinách",
+    "url": "https://data.mzcr.cz/data/distribuce/443/Otevrena-data-PPS-03-06-cervix-podil-pozitivnich-hpv.csv"
+  },
+  {
+    "name": "Podíl žen s provedeným hr-HPV testem v cílových věkových skupinách",
+    "url": "https://data.mzcr.cz/data/distribuce/442/Otevrena-data-PPS-03-05-cervix-podil-hpv.csv"
+  },
+  {
+    "name": "Podíl žen vyšetřených diagnostickou mamografií",
+    "url": "https://data.mzcr.cz/data/distribuce/436/Otevrena-data-PPS-01-04-mamografie-diagnosticke.csv"
+  },
+  {
+    "name": "Pokrytí cílové populace cervikálním screeningovým vyšetřením v tříletém intervalu",
+    "url": "https://data.mzcr.cz/data/distribuce/441/Otevrena-data-PPS-03-04-cervix-pokryti-trilete.csv"
   },
   {
     "name": "Polymorbidita obyvatel dle kraje bydliště",
@@ -306,6 +330,10 @@
   {
     "name": "Preventivní prohlídky: Preventivní prohlídky u praktických lékařů a stomatologů",
     "url": "https://data.mzcr.cz/data/distribuce/380/Otevrena-data-PPS-08-01-Preventivni-prohlidky-2024-01-1.csv"
+  },
+  {
+    "name": "Průměrná čekací doba na navazující TOKS+ kolonoskopii po screeningovém TOKS s pozitivním výsledkem",
+    "url": "https://data.mzcr.cz/data/distribuce/440/Otevrena-data-PPS-02-07-kolorektum-cekaci-doba.csv"
   },
   {
     "name": "Psychiatrická péče: Incidence, prevalence, hospitalizace a ambulantní péče",
@@ -462,6 +490,14 @@
   {
     "name": "Zvlášť účtované léčivé přípravky dle SÚKL kódu a diagnózy (ATC v době vykázaní)",
     "url": "https://data.mzcr.cz/data/distribuce/405/Otevrena-data-NR-04-55-zvlast-uctovane-lecive-pripravky-sukl-atc-vykazani-2024-01.csv"
+  },
+  {
+    "name": "Úplné pokrytí cílové populace kolorektálním screeningem v tříletém intervalu",
+    "url": "https://data.mzcr.cz/data/distribuce/439/Otevrena-data-PPS-02-06-kolorektum-pokryti-uplne-trilete.csv"
+  },
+  {
+    "name": "Úplné pokrytí cílové populace mamografickým screeningem v tříletém intervalu",
+    "url": "https://data.mzcr.cz/data/distribuce/438/Otevrena-data-PPS-01-06-mamografie-pokryti-uplne-trilete.csv"
   },
   {
     "name": "Úrazy: Charakteristika úrazu",
