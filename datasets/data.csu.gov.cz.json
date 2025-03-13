@@ -440,6 +440,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/PRUM201/distribuce/json"
   },
   {
+    "name": "Projekce obyvatelstva v krajích České republiky",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY02PROJ2/distribuce/csv"
+  },
+  {
+    "name": "Projekce obyvatelstva v krajích České republiky",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY02PROJ2/distribuce/json"
+  },
+  {
     "name": "Projekce obyvatelstva České republiky",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY02PROJ1/distribuce/csv"
   },
@@ -478,6 +486,14 @@
   {
     "name": "Rozvody podle věku žen",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY05B02/distribuce/json"
+  },
+  {
+    "name": "Specifické indexy spotřebitelských cen",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101L/distribuce/csv"
+  },
+  {
+    "name": "Specifické indexy spotřebitelských cen",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101L/distribuce/json"
   },
   {
     "name": "Standardizované míry úmrtnosti",
