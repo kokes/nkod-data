@@ -24,6 +24,14 @@
     "url": "https://opendata-storage.praha.eu/UCT_cerpani_rozpoctu/cerpani_rozpoctu/Zdroje/2022/Cerpani_rozpoctu_MHMP_2022.xml"
   },
   {
+    "name": "PKO2_dle_splatnosti.csv",
+    "url": "https://opendata-storage.praha.eu/DPC_pko/splat_2022/PKO2_dle_splatnosti.csv"
+  },
+  {
+    "name": "PKO_dle_splatnosti.csv",
+    "url": "https://opendata-storage.praha.eu/DPC_pko/splat/PKO_dle_splatnosti.csv"
+  },
+  {
     "name": "PKO_dle_ucetni_operace.csv",
     "url": "https://opendata-storage.praha.eu/DPC_pko/ucet/PKO_dle_ucetni_operace.csv"
   },
