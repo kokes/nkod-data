@@ -24,6 +24,46 @@
     "url": "https://opendata-storage.praha.eu/UCT_cerpani_rozpoctu/cerpani_rozpoctu/Zdroje/2022/Cerpani_rozpoctu_MHMP_2022.xml"
   },
   {
+    "name": "Dopravní přestupky MHMP 2015",
+    "url": "https://opendata-storage.praha.eu/DSC_dopravni_prestupky/2015/dopravni_prestupky_2015.csv"
+  },
+  {
+    "name": "Dopravní přestupky MHMP 2016",
+    "url": "https://opendata-storage.praha.eu/DSC_dopravni_prestupky/2016/dopravni_prestupky_2016.csv"
+  },
+  {
+    "name": "Dopravní přestupky MHMP 2017",
+    "url": "https://opendata-storage.praha.eu/DSC_dopravni_prestupky/2017/dopravni_prestupky_2017.csv"
+  },
+  {
+    "name": "Dopravní přestupky MHMP 2018",
+    "url": "https://opendata-storage.praha.eu/DSC_dopravni_prestupky/2018/dopravni_prestupky_2018.csv"
+  },
+  {
+    "name": "Dopravní přestupky MHMP 2019",
+    "url": "https://opendata-storage.praha.eu/DSC_dopravni_prestupky/2019/dopravni_prestupky_2019.csv"
+  },
+  {
+    "name": "Dopravní přestupky MHMP 2020",
+    "url": "https://opendata-storage.praha.eu/DSC_dopravni_prestupky/2020/dopravni_prestupky_2020.csv"
+  },
+  {
+    "name": "Dopravní přestupky MHMP 2021",
+    "url": "https://opendata-storage.praha.eu/DSC_dopravni_prestupky/2021/MHMP_dopravni_prestupky_2021.csv"
+  },
+  {
+    "name": "Dopravní přestupky MHMP 2022",
+    "url": "https://opendata-storage.praha.eu/DSC_dopravni_prestupky/2022/MHMP_dopravni_prestupky_2022.csv"
+  },
+  {
+    "name": "Dopravní přestupky MHMP 2023",
+    "url": "https://opendata-storage.praha.eu/DSC_dopravni_prestupky/2023/MHMP_dopravni_prestupky_2023.csv"
+  },
+  {
+    "name": "Dopravní přestupky MHMP 2024",
+    "url": "https://opendata-storage.praha.eu/DSC_dopravni_prestupky/2024/MHMP_dopravni_prestupky_2024.csv"
+  },
+  {
     "name": "PKO2_dle_splatnosti.csv",
     "url": "https://opendata-storage.praha.eu/DPC_pko/splat_2022/PKO2_dle_splatnosti.csv"
   },
@@ -206,5 +246,17 @@
   {
     "name": "Čerpání rozpočtu MHMP 2020",
     "url": "https://opendata-storage.praha.eu/UCT_cerpani_rozpoctu/cerpani_rozpoctu/Zdroje/2020/Cerpani_rozpoctu_MHMP_2020.xml"
+  },
+  {
+    "name": "Čerpání rozpočtu MHMP 2025",
+    "url": "https://opendata-storage.praha.eu/UCT_cerpani_rozpoctu/cerpani_rozpoctu/Zdroje/2025/01/Cerpani_rozpoctu_MHMP_2025.csv"
+  },
+  {
+    "name": "Čerpání rozpočtu MHMP 2025",
+    "url": "https://opendata-storage.praha.eu/UCT_cerpani_rozpoctu/cerpani_rozpoctu/Zdroje/2025/01/Cerpani_rozpoctu_MHMP_2025.json"
+  },
+  {
+    "name": "Čerpání rozpočtu MHMP 2025",
+    "url": "https://opendata-storage.praha.eu/UCT_cerpani_rozpoctu/cerpani_rozpoctu/Zdroje/2025/01/Cerpani_rozpoctu_MHMP_2025.xml"
   }
 ]
