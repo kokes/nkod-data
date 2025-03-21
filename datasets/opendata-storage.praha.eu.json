@@ -232,12 +232,152 @@
     "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/opravene_byty/Pocet_opravenych_bytu_HMP.xlsx"
   },
   {
-    "name": "Seznam_organizaci_HMP.csv",
-    "url": "https://opendata-storage.praha.eu/RED_seznam_organizaci_hmp/Seznam_organizaci_HMP.csv"
+    "name": "Rozpocet_MHMP_2021.csv",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2021/Rozpocet_MHMP_2021.csv"
   },
   {
-    "name": "Seznam_organizaci_HMP.xlsx",
-    "url": "https://opendata-storage.praha.eu/RED_seznam_organizaci_hmp/Seznam_organizaci_HMP.xlsx"
+    "name": "Rozpocet_MHMP_2021.json",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2021/Rozpocet_MHMP_2021.json"
+  },
+  {
+    "name": "Rozpocet_MHMP_2021.xml",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2021/Rozpocet_MHMP_2021.xml"
+  },
+  {
+    "name": "Rozpocet_MHMP_2022.csv",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2022/Rozpocet_MHMP_2022.csv"
+  },
+  {
+    "name": "Rozpocet_MHMP_2022.json",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2022/Rozpocet_MHMP_2022.json"
+  },
+  {
+    "name": "Rozpocet_MHMP_2022.xml",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2022/Rozpocet_MHMP_2022.xml"
+  },
+  {
+    "name": "Rozpočet MHMP 2012",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2012/Rozpocet_MHMP_2012.csv"
+  },
+  {
+    "name": "Rozpočet MHMP 2012",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2012/Rozpocet_MHMP_2012.json"
+  },
+  {
+    "name": "Rozpočet MHMP 2012",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2012/Rozpocet_MHMP_2012.xml"
+  },
+  {
+    "name": "Rozpočet MHMP 2013",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2013/Rozpocet_MHMP_2013.csv"
+  },
+  {
+    "name": "Rozpočet MHMP 2013",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2013/Rozpocet_MHMP_2013.json"
+  },
+  {
+    "name": "Rozpočet MHMP 2013",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2013/Rozpocet_MHMP_2013.xml"
+  },
+  {
+    "name": "Rozpočet MHMP 2014",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2014/Rozpocet_MHMP_2014.csv"
+  },
+  {
+    "name": "Rozpočet MHMP 2014",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2014/Rozpocet_MHMP_2014.json"
+  },
+  {
+    "name": "Rozpočet MHMP 2014",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2014/Rozpocet_MHMP_2014.xml"
+  },
+  {
+    "name": "Rozpočet MHMP 2015",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2015/Rozpocet_MHMP_2015.csv"
+  },
+  {
+    "name": "Rozpočet MHMP 2015",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2015/Rozpocet_MHMP_2015.json"
+  },
+  {
+    "name": "Rozpočet MHMP 2015",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2015/Rozpocet_MHMP_2015.xml"
+  },
+  {
+    "name": "Rozpočet MHMP 2016",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2016/Rozpocet_MHMP_2016.csv"
+  },
+  {
+    "name": "Rozpočet MHMP 2016",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2016/Rozpocet_MHMP_2016.json"
+  },
+  {
+    "name": "Rozpočet MHMP 2016",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2016/Rozpocet_MHMP_2016.xml"
+  },
+  {
+    "name": "Rozpočet MHMP 2017",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2017/Rozpocet_MHMP_2017.csv"
+  },
+  {
+    "name": "Rozpočet MHMP 2017",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2017/Rozpocet_MHMP_2017.json"
+  },
+  {
+    "name": "Rozpočet MHMP 2017",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2017/Rozpocet_MHMP_2017.xml"
+  },
+  {
+    "name": "Rozpočet MHMP 2018",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2018/Rozpocet_MHMP_2018.csv"
+  },
+  {
+    "name": "Rozpočet MHMP 2018",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2018/Rozpocet_MHMP_2018.json"
+  },
+  {
+    "name": "Rozpočet MHMP 2018",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2018/Rozpocet_MHMP_2018.xml"
+  },
+  {
+    "name": "Rozpočet MHMP 2019",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2019/Rozpocet_MHMP_2019.csv"
+  },
+  {
+    "name": "Rozpočet MHMP 2019",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2019/Rozpocet_MHMP_2019.json"
+  },
+  {
+    "name": "Rozpočet MHMP 2019",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2019/Rozpocet_MHMP_2019.xml"
+  },
+  {
+    "name": "Rozpočet MHMP 2020",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2020/Rozpocet_MHMP_2020.csv"
+  },
+  {
+    "name": "Rozpočet MHMP 2020",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2020/Rozpocet_MHMP_2020.json"
+  },
+  {
+    "name": "Rozpočet MHMP 2020",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2020/Rozpocet_MHMP_2020.xml"
+  },
+  {
+    "name": "Rozpočet MHMP 2025",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2025/Rozpocet_MHMP_2025.csv"
+  },
+  {
+    "name": "Rozpočet MHMP 2025",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2025/Rozpocet_MHMP_2025.json"
+  },
+  {
+    "name": "Rozpočet MHMP 2025",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2025/Rozpocet_MHMP_2025.xml"
+  },
+  {
+    "name": "Seznam_organizaci_HMP.csv",
+    "url": "https://opendata-storage.praha.eu/RED_seznam_organizaci_hmp/Seznam_organizaci_HMP.csv"
   },
   {
     "name": "Struktura_bytoveho_fondu_HMP.csv",
@@ -366,6 +506,18 @@
   {
     "name": "Čerpání rozpočtu MHMP 2020",
     "url": "https://opendata-storage.praha.eu/UCT_cerpani_rozpoctu/cerpani_rozpoctu/Zdroje/2020/Cerpani_rozpoctu_MHMP_2020.xml"
+  },
+  {
+    "name": "Čerpání rozpočtu MHMP 2024",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2024/Rozpocet_MHMP_2024.csv"
+  },
+  {
+    "name": "Čerpání rozpočtu MHMP 2024",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2024/Rozpocet_MHMP_2024.json"
+  },
+  {
+    "name": "Čerpání rozpočtu MHMP 2024",
+    "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/rozpocet/Zdroje/2024/Rozpocet_MHMP_2024.xml"
   },
   {
     "name": "Čerpání rozpočtu MHMP 2025",
