@@ -4,16 +4,16 @@
     "url": "https://data.mpsv.cz/documents/1749923/7049685/akris.csv"
   },
   {
-    "name": "Excel distribuce",
-    "url": "https://data.mpsv.cz/documents/1749923/7049859/bozp.xlsx"
-  },
-  {
     "name": "JSON distribuce",
     "url": "https://data.mpsv.cz/od/soubory/agentury-prace/agentury-prace.json"
   },
   {
     "name": "JSON distribuce",
     "url": "https://data.mpsv.cz/od/soubory/aktivni-politika-zamestnanosti/aktivni-politika-zamestnanosti.json"
+  },
+  {
+    "name": "JSON distribuce",
+    "url": "https://data.mpsv.cz/od/soubory/bozp/bozp.json"
   },
   {
     "name": "JSON distribuce",
@@ -46,6 +46,10 @@
   {
     "name": "JSON distribuce",
     "url": "https://data.mpsv.cz/od/soubory/ciselniky/druhy-studia.json"
+  },
+  {
+    "name": "JSON distribuce",
+    "url": "https://data.mpsv.cz/od/soubory/ciselniky/druhy-zkousky.json"
   },
   {
     "name": "JSON distribuce",
@@ -229,6 +233,10 @@
   },
   {
     "name": "JSON-LD distribuce",
+    "url": "https://data.mpsv.cz/od/soubory/bozp/bozp.jsonld"
+  },
+  {
+    "name": "JSON-LD distribuce",
     "url": "https://data.mpsv.cz/od/soubory/ciselniky/casti-obci.jsonld"
   },
   {
@@ -258,6 +266,10 @@
   {
     "name": "JSON-LD distribuce",
     "url": "https://data.mpsv.cz/od/soubory/ciselniky/druhy-studia.jsonld"
+  },
+  {
+    "name": "JSON-LD distribuce",
+    "url": "https://data.mpsv.cz/od/soubory/ciselniky/druhy-zkousky.jsonld"
   },
   {
     "name": "JSON-LD distribuce",
