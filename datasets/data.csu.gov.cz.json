@@ -592,6 +592,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBY02FHVD/distribuce/json"
   },
   {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CRUHVD1/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY01BHVD/vybery"
+  },
+  {
     "name": "Vnitřní stěhování mezi SO ORP podle pohlaví a věku ",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY06E/distribuce/csv"
   },
