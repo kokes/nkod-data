@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/Matricn%C3%ADUrady/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/ObceDleORP/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/SeznamObci/FeatureServer/0"
+  }
+]
