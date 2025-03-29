@@ -120,10 +120,6 @@
     "url": "https://data.mzcr.cz/data/distribuce/375/Otevrena-data-NR-04-03-Hromadne-vyrabene-lecive-pripravky-2024-01.csv"
   },
   {
-    "name": "Hrazené zdravotní služby: Výkony zdravotní péče vykázané v rámci veřejného zdravotního pojištění u jednotlivých poskytovatelů zdravotních služeb",
-    "url": "https://data.mzcr.cz/data/distribuce/367/Otevrena-data-NR-04-02-Vykony-ICO-2024-01.csv"
-  },
-  {
     "name": "Hrazené zdravotní služby: Zdravotnický materiál vykázaný v rámci veřejného zdravotního pojištění",
     "url": "https://data.mzcr.cz/data/distribuce/373/Otevrena-data-NR-04-04-Zdravotnicky-material-2024-01.csv"
   },
@@ -470,6 +466,10 @@
   {
     "name": "Výkony zdravotní péče vykázané v rámci veřejného zdravotního pojištění dle měsíců vykázání, poskytovatelů zdravotních služeb a odborností",
     "url": "https://data.mzcr.cz/data/distribuce/424/Otevrena-data-NR-04-24-vykony-rok-mesic-icz-odbornost.csv"
+  },
+  {
+    "name": "Výkony zdravotní péče vykázané v rámci veřejného zdravotního pojištění u jednotlivých poskytovatelů zdravotních služeb",
+    "url": "https://data.mzcr.cz/data/distribuce/367/Otevrena-data-NR-04-02-vykony-ico.csv"
   },
   {
     "name": "Výkony zdravotní péče vykázané v rámci veřejného zdravotního pojištění ",
