@@ -96,6 +96,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101C/distribuce/json"
   },
   {
+    "name": "High-tech sektor v ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0101/distribuce/csv"
+  },
+  {
+    "name": "High-tech sektor v ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0101/distribuce/json"
+  },
+  {
     "name": "High-tech zboží",
     "url": "https://data.csu.gov.cz/opendata/sady/VAV02/distribuce/csv"
   },
@@ -120,6 +128,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/SILC01A/distribuce/json"
   },
   {
+    "name": "ICT sektor",
+    "url": "https://data.csu.gov.cz/opendata/sady/ICT01/distribuce/csv"
+  },
+  {
+    "name": "ICT sektor",
+    "url": "https://data.csu.gov.cz/opendata/sady/ICT01/distribuce/json"
+  },
+  {
     "name": "Indexy cen průmyslových výrobců podle Hlavních průmyslových skupin (HPS)",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0201A/distribuce/csv"
   },
@@ -134,6 +150,14 @@
   {
     "name": "Indexy tržeb bez DPH v maloobchodě a za prodej a opravy motorových vozidel",
     "url": "https://data.csu.gov.cz/opendata/sady/OBC01/distribuce/json"
+  },
+  {
+    "name": "Informační a mediální sektor",
+    "url": "https://data.csu.gov.cz/opendata/sady/ICT02/distribuce/csv"
+  },
+  {
+    "name": "Informační a mediální sektor",
+    "url": "https://data.csu.gov.cz/opendata/sady/ICT02/distribuce/json"
   },
   {
     "name": "Míra materiální deprivace podle ekonomické aktivity",
@@ -653,6 +677,14 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ICT01/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ICT02/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ICT04/vybery"
   },
   {
@@ -922,6 +954,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/SILC02F/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0101/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
