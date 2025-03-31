@@ -93,10 +93,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::záplavové-území-s-periodicitou-100-let"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::záplavové-území-s-periodicitou-20-let"
   },
   {
@@ -265,10 +261,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/b0da9106343f4529817bc37da157cee5/csv?layers=28"
-  },
-  {
-    "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/b1ec706b4d4042f5a9f0a917f634d26e/csv?layers=13"
   },
   {
@@ -406,10 +398,6 @@
   {
     "name": "File Geodatabase",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/acfbda9822504895bfc6a2c381fa16d1/filegdb?layers=17"
-  },
-  {
-    "name": "File Geodatabase",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/b0da9106343f4529817bc37da157cee5/filegdb?layers=28"
   },
   {
     "name": "File Geodatabase",
@@ -553,10 +541,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/b0da9106343f4529817bc37da157cee5/geojson?layers=28"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/b1ec706b4d4042f5a9f0a917f634d26e/geojson?layers=13"
   },
   {
@@ -697,10 +681,6 @@
   },
   {
     "name": "KML",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/b0da9106343f4529817bc37da157cee5/kml?layers=28"
-  },
-  {
-    "name": "KML",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/b1ec706b4d4042f5a9f0a917f634d26e/kml?layers=13"
   },
   {
@@ -838,10 +818,6 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/acfbda9822504895bfc6a2c381fa16d1/shapefile?layers=17"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/b0da9106343f4529817bc37da157cee5/shapefile?layers=28"
   },
   {
     "name": "Shapefile",
