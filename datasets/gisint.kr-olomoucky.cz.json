@@ -29,6 +29,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/Turistick%C3%A1_informa%C4%8Dn%C3%AD_centra_v_Olomouck%C3%A9m_kraji/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/ZIPR_prirodni_parky/FeatureServer/0"
   },
   {
