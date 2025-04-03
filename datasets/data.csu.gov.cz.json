@@ -16,22 +16,6 @@
     "url": "https://data.csu.gov.cz/opendata/sady/ENE01/distribuce/json"
   },
   {
-    "name": "Celkové výdaje na zdravotní péči podle druhu vykázané péče (v mil. Kč)",
-    "url": "https://data.csu.gov.cz/opendata/sady/ZDR02/distribuce/csv"
-  },
-  {
-    "name": "Celkové výdaje na zdravotní péči podle druhu vykázané péče (v mil. Kč)",
-    "url": "https://data.csu.gov.cz/opendata/sady/ZDR02/distribuce/json"
-  },
-  {
-    "name": "Celkové výdaje na zdravotní péči podle zdroje financování (v mil. Kč)",
-    "url": "https://data.csu.gov.cz/opendata/sady/ZDR01/distribuce/csv"
-  },
-  {
-    "name": "Celkové výdaje na zdravotní péči podle zdroje financování (v mil. Kč)",
-    "url": "https://data.csu.gov.cz/opendata/sady/ZDR01/distribuce/json"
-  },
-  {
     "name": "Dlouhodobé časové řady - roční údaje za Českou republiku",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY01CR/distribuce/csv"
   },
@@ -142,6 +126,14 @@
   {
     "name": "Indexy cen průmyslových výrobců podle Hlavních průmyslových skupin (HPS)",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0201A/distribuce/json"
+  },
+  {
+    "name": "Indexy cen vývozu a dovozu, směnné relace podle klasifikace CPA - neočištěné o vliv měnového kurzu",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0301/distribuce/csv"
+  },
+  {
+    "name": "Indexy cen vývozu a dovozu, směnné relace podle klasifikace CPA - neočištěné o vliv měnového kurzu",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0301/distribuce/json"
   },
   {
     "name": "Indexy tržeb bez DPH v maloobchodě a za prodej a opravy motorových vozidel",
@@ -653,6 +645,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0301/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CRU02M/vybery"
   },
   {
@@ -1029,6 +1025,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZDR03/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZUR01B/vybery"
   },
   {
@@ -1110,6 +1110,30 @@
   {
     "name": "Výdaje na ochranu životního prostředí ",
     "url": "https://data.csu.gov.cz/opendata/sady/WZPR05/distribuce/json"
+  },
+  {
+    "name": "Výdaje za zdravotní péči podle typu poskytovatele a druhu zdravotní péče (mil. Kč)",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZDR03/distribuce/csv"
+  },
+  {
+    "name": "Výdaje za zdravotní péči podle typu poskytovatele a druhu zdravotní péče (mil. Kč)",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZDR03/distribuce/json"
+  },
+  {
+    "name": "Výdaje za zdravotní péči podle zdroje financování a druhu zdravotní péče (mil. Kč)",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZDR01/distribuce/csv"
+  },
+  {
+    "name": "Výdaje za zdravotní péči podle zdroje financování a druhu zdravotní péče (mil. Kč)",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZDR01/distribuce/json"
+  },
+  {
+    "name": "Výdaje za zdravotní péči podle zdroje financování a typu poskytovatele (mil. Kč)",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZDR02/distribuce/csv"
+  },
+  {
+    "name": "Výdaje za zdravotní péči podle zdroje financování a typu poskytovatele (mil. Kč)",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZDR02/distribuce/json"
   },
   {
     "name": "Zahraniční obchod se zbožím podle zemí a zbožové nomenklatury KN8 ve finančním vyjádření",

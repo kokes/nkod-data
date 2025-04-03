@@ -184,44 +184,68 @@
     "url": "https://opendata-storage.praha.eu/ROZ_rozpocet_finance/financni_vztahy/Zdroje/2020/Financni_vztahy_mezi_HMP_a_MC_HMP_2020.xml"
   },
   {
-    "name": "PKO2_dle_splatnosti.csv",
-    "url": "https://opendata-storage.praha.eu/DPC_pko/splat_2022/PKO2_dle_splatnosti.csv"
+    "name": "Odměny členů Zastupitelstva HMP 2021",
+    "url": "https://opendata-storage.praha.eu/PER_odmeny_zhmp/2021/Odmeny_ZHMP_2021.csv"
   },
   {
-    "name": "PKO_dle_splatnosti.csv",
+    "name": "Odměny členů Zastupitelstva HMP 2021",
+    "url": "https://opendata-storage.praha.eu/PER_odmeny_zhmp/2021/Odmeny_ZHMP_2021.xlsx"
+  },
+  {
+    "name": "Odměny členů Zastupitelstva HMP 2022",
+    "url": "https://opendata-storage.praha.eu/PER_odmeny_zhmp/2022/Odmeny_ZHMP_2022.csv"
+  },
+  {
+    "name": "Odměny členů Zastupitelstva HMP 2022",
+    "url": "https://opendata-storage.praha.eu/PER_odmeny_zhmp/2022/Odmeny_ZHMP_2022.xlsx"
+  },
+  {
+    "name": "Odměny členů Zastupitelstva HMP 2023",
+    "url": "https://opendata-storage.praha.eu/PER_odmeny_zhmp/2023/Odmeny_ZHMP_2023.csv"
+  },
+  {
+    "name": "Odměny členů Zastupitelstva HMP 2023",
+    "url": "https://opendata-storage.praha.eu/PER_odmeny_zhmp/2023/Odmeny_ZHMP_2023.xlsx"
+  },
+  {
+    "name": "Odměny členů Zastupitelstva HMP 2024",
+    "url": "https://opendata-storage.praha.eu/PER_odmeny_zhmp/2024/Odmeny_ZHMP_2024.csv"
+  },
+  {
+    "name": "Odměny členů Zastupitelstva HMP 2024",
+    "url": "https://opendata-storage.praha.eu/PER_odmeny_zhmp/2024/Odmeny_ZHMP_2024.xlsx"
+  },
+  {
+    "name": "Poplatek za komunální odpad dle splatnosti",
     "url": "https://opendata-storage.praha.eu/DPC_pko/splat/PKO_dle_splatnosti.csv"
   },
   {
-    "name": "PKO_dle_ucetni_operace.csv",
+    "name": "Poplatek za komunální odpad dle splatnosti",
+    "url": "https://opendata-storage.praha.eu/DPC_pko/splat/PKO_dle_splatnosti.xlsx"
+  },
+  {
+    "name": "Poplatek za komunální odpad dle splatnosti od 2022",
+    "url": "https://opendata-storage.praha.eu/DPC_pko/splat_2022/PKO2_dle_splatnosti.csv"
+  },
+  {
+    "name": "Poplatek za komunální odpad dle splatnosti od 2022",
+    "url": "https://opendata-storage.praha.eu/DPC_pko/splat_2022/PKO2_dle_splatnosti.xlsx"
+  },
+  {
+    "name": "Poplatek za komunální odpad dle účetní operace",
     "url": "https://opendata-storage.praha.eu/DPC_pko/ucet/PKO_dle_ucetni_operace.csv"
   },
   {
-    "name": "PKO_dle_ucetni_operace.xlsx",
+    "name": "Poplatek za komunální odpad dle účetní operace",
     "url": "https://opendata-storage.praha.eu/DPC_pko/ucet/PKO_dle_ucetni_operace.xlsx"
   },
   {
-    "name": "Pocet_nove_uzavrenych_najemnich_vztahu_HMP.csv",
+    "name": "Počet nově uzavřených nájemních vztahů HMP ",
     "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/nove_najmy_byty/Pocet_nove_uzavrenych_najemnich_vztahu_HMP.csv"
   },
   {
-    "name": "Pocet_nove_uzavrenych_najemnich_vztahu_HMP.xls",
+    "name": "Počet nově uzavřených nájemních vztahů HMP ",
     "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/nove_najmy_byty/Pocet_nove_uzavrenych_najemnich_vztahu_HMP.xls"
-  },
-  {
-    "name": "Pocet_uvolnenych_bytu_HMP.csv",
-    "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/uvolnene_byty/Pocet_uvolnenych_bytu_HMP.csv"
-  },
-  {
-    "name": "Pocet_uvolnenych_bytu_HMP.xlsx",
-    "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/uvolnene_byty/Pocet_uvolnenych_bytu_HMP.xlsx"
-  },
-  {
-    "name": "Pocet_vedenych_soudnich_sporu_k_bytovemu_fondu_HMP.csv",
-    "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/soudni_spory_byty/Pocet_vedenych_soudnich_sporu_k_bytovemu_fondu_HMP.csv"
-  },
-  {
-    "name": "Pocet_vedenych_soudnich_sporu_k_bytovemu_fondu_HMP.xlsx",
-    "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/soudni_spory_byty/Pocet_vedenych_soudnich_sporu_k_bytovemu_fondu_HMP.xlsx"
   },
   {
     "name": "Počet opravených bytů HMP",
@@ -230,6 +254,22 @@
   {
     "name": "Počet opravených bytů HMP",
     "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/opravene_byty/Pocet_opravenych_bytu_HMP.xlsx"
+  },
+  {
+    "name": "Počet uvolněných bytů HMP",
+    "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/uvolnene_byty/Pocet_uvolnenych_bytu_HMP.csv"
+  },
+  {
+    "name": "Počet uvolněných bytů HMP",
+    "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/uvolnene_byty/Pocet_uvolnenych_bytu_HMP.xlsx"
+  },
+  {
+    "name": "Počet vedených soudních sporů k bytovému fondu HMP",
+    "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/soudni_spory_byty/Pocet_vedenych_soudnich_sporu_k_bytovemu_fondu_HMP.csv"
+  },
+  {
+    "name": "Počet vedených soudních sporů k bytovému fondu HMP",
+    "url": "https://opendata-storage.praha.eu/OBF_bytovy_fond/soudni_spory_byty/Pocet_vedenych_soudnich_sporu_k_bytovemu_fondu_HMP.xlsx"
   },
   {
     "name": "Přijaté faktury 2025",
