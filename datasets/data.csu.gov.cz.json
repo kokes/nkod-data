@@ -1,5 +1,13 @@
 [
   {
+    "name": " Indexy cen stavebních děl podle klasifikace CZ-CC",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0202A/distribuce/csv"
+  },
+  {
+    "name": " Indexy cen stavebních děl podle klasifikace CZ-CC",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0202A/distribuce/json"
+  },
+  {
     "name": "Analytické ukazatele demografického vývoje České republiky od roku 1920",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY01CRGEN/distribuce/csv"
   },
@@ -496,6 +504,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBY02PROJ1/distribuce/json"
   },
   {
+    "name": "Průměrná cena topného oleje v ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0201F/distribuce/csv"
+  },
+  {
+    "name": "Průměrná cena topného oleje v ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0201F/distribuce/json"
+  },
+  {
     "name": "Rozvody - vybrané souhrnné údaje",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY05B/distribuce/csv"
   },
@@ -642,6 +658,14 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0201A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0201F/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0202A/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
