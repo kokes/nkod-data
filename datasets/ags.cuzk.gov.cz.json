@@ -1,0 +1,34 @@
+[
+  {
+    "name": "INSPIRE stahovací služba WCS pro téma Nadmořská výška-GRID (EL GRID)",
+    "url": "https://ags.cuzk.gov.cz/arcgis2/services/INSPIRE_Nadmorska_vyska/ImageServer/WCSServer?request=GetCapabilities&service=WCS"
+  },
+  {
+    "name": "Stahovací služba WFS - ZABAGED® - Polohopis",
+    "url": "https://ags.cuzk.gov.cz/arcgis/services/ZABAGED_POLOHOPIS/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS pro Body Sítě permanentních stanic GNSS České republiky CZEPOS",
+    "url": "https://ags.cuzk.gov.cz/arcgis/services/BodovaPole/MapServer/WFSServer?service=wfs&request=getcapabilities"
+  },
+  {
+    "name": "Stahovací služba WFS pro Polohové bodové pole",
+    "url": "https://ags.cuzk.gov.cz/arcgis/services/BodovaPole/MapServer/WFSServer?service=wfs&request=getcapabilities"
+  },
+  {
+    "name": "Stahovací služba WFS pro Tíhové bodové pole",
+    "url": "https://ags.cuzk.gov.cz/arcgis/services/BodovaPole/MapServer/WFSServer?service=wfs&request=getcapabilities"
+  },
+  {
+    "name": "Stahovací služba WFS pro Výškové bodové pole",
+    "url": "https://ags.cuzk.gov.cz/arcgis/services/BodovaPole/MapServer/WFSServer?service=wfs&request=getcapabilities"
+  },
+  {
+    "name": "Stahovací služba WFS pro ZABAGED® - Výškopis - vrstevnice",
+    "url": "https://ags.cuzk.gov.cz/arcgis/services/ZABAGED_VRSTEVNICE/MapServer/WFSServer?service=wfs&request=getcapabilities"
+  },
+  {
+    "name": "Stahovací služba WFS pro data Databáze geografických jmen České republiky (Geonames)",
+    "url": "https://ags.cuzk.gov.cz/arcgis/services/GEONAMES/Geonames/MapServer/WFSServer?service=wfs&request=getcapabilities"
+  }
+]

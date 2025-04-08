@@ -228,6 +228,10 @@
     "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/kvalita_vody_03_2023.csv"
   },
   {
+    "name": "Kvalita vody 03-2025",
+    "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/kvalita_vody_3_2025.csv"
+  },
+  {
     "name": "Kvalita vody 04-2022",
     "url": "https://storage.golemio.cz/lkod/pvspvk/d5f6b977-9c7c-465e-b679-caa2ac4b2993/76b05ab5-8a5f-4048-9471-5fd2cc061e28-kvalita_vody_04_2022.csv"
   },
@@ -584,286 +588,6 @@
     "url": "https://storage.golemio.cz/lkod/praha-8/ccc44702-e413-422e-a902-3df631c87d57/701c27c5-1803-429e-bd13-59e0d81ce40d-z-tidy.csv"
   },
   {
-    "name": "Prijate_faktury_1999.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/9a4a6c73-6c19-4599-aa35-5ad952b6eb9e/cb793ce9-b953-452b-959c-5e14fbcfb567-prijate_faktury_1999.csv"
-  },
-  {
-    "name": "Prijate_faktury_1999.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/9a4a6c73-6c19-4599-aa35-5ad952b6eb9e/c47ccdfe-669c-41a5-b163-98b5fb3b638a-prijate_faktury_1999.json"
-  },
-  {
-    "name": "Prijate_faktury_1999.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/9a4a6c73-6c19-4599-aa35-5ad952b6eb9e/cc90054e-1468-4730-8a2d-39f689ab3981-prijate_faktury_1999.xml"
-  },
-  {
-    "name": "Prijate_faktury_2000.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/86444fb9-88cd-4c3a-af56-9bb078c46032/c89ae379-9d5b-452c-88eb-e8ad96211103-prijate_faktury_2000.csv"
-  },
-  {
-    "name": "Prijate_faktury_2000.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/86444fb9-88cd-4c3a-af56-9bb078c46032/3b7cf1bb-9e7c-470e-a9d1-e4974f7e74a3-prijate_faktury_2000.json"
-  },
-  {
-    "name": "Prijate_faktury_2000.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/86444fb9-88cd-4c3a-af56-9bb078c46032/606ed455-7351-4424-9923-8357cd0f6a37-prijate_faktury_2000.xml"
-  },
-  {
-    "name": "Prijate_faktury_2001.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/343d74dc-ed51-4928-9939-6891b92d96da/c0089a3b-3e6f-41b7-bd4b-f9c94f647252-prijate_faktury_2001.csv"
-  },
-  {
-    "name": "Prijate_faktury_2001.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/343d74dc-ed51-4928-9939-6891b92d96da/048f985c-86ed-4e5c-bd00-41dc747fe42d-prijate_faktury_2001.json"
-  },
-  {
-    "name": "Prijate_faktury_2001.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/343d74dc-ed51-4928-9939-6891b92d96da/5cdccc6c-9530-4829-b75b-5bd92c5f9bcc-prijate_faktury_2001.xml"
-  },
-  {
-    "name": "Prijate_faktury_2002.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/8514cb40-2878-44d0-98e2-34a43157b7f0/ce5b21af-4781-46cf-8fef-b97612944c68-prijate_faktury_2002.csv"
-  },
-  {
-    "name": "Prijate_faktury_2002.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/8514cb40-2878-44d0-98e2-34a43157b7f0/39e8948f-76fa-4555-b19b-9b9deccaa71f-prijate_faktury_2002.json"
-  },
-  {
-    "name": "Prijate_faktury_2002.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/8514cb40-2878-44d0-98e2-34a43157b7f0/8d97f7e2-dd87-49c4-9661-64f3d638ac6e-prijate_faktury_2002.xml"
-  },
-  {
-    "name": "Prijate_faktury_2003.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/9a8c2680-89af-4bf8-8f40-e4df9b88fe1f/a3b78454-4cd5-4583-849d-b0982f5cb409-prijate_faktury_2003.csv"
-  },
-  {
-    "name": "Prijate_faktury_2003.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/9a8c2680-89af-4bf8-8f40-e4df9b88fe1f/c2acd151-11db-469c-95f3-08ee555bccff-prijate_faktury_2003.json"
-  },
-  {
-    "name": "Prijate_faktury_2003.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/9a8c2680-89af-4bf8-8f40-e4df9b88fe1f/7699fa3c-74a4-4ed3-969d-ab3806296f7d-prijate_faktury_2003.xml"
-  },
-  {
-    "name": "Prijate_faktury_2004.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/945a7e31-3fb3-41fb-9b25-54e1c94b1049/b5e630d9-d29f-4976-bafb-adb5f7ff27d8-prijate_faktury_2004.csv"
-  },
-  {
-    "name": "Prijate_faktury_2004.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/945a7e31-3fb3-41fb-9b25-54e1c94b1049/ee0d7407-7d99-41e5-ab0c-d801f89aa20c-prijate_faktury_2004.json"
-  },
-  {
-    "name": "Prijate_faktury_2004.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/945a7e31-3fb3-41fb-9b25-54e1c94b1049/b89d245c-59f1-4f33-8da0-bd0519ed4fd6-prijate_faktury_2004.xml"
-  },
-  {
-    "name": "Prijate_faktury_2005.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/c8a97555-975c-4ab0-803f-20ca805b7b07/985b9e01-b040-4eaa-9b6c-dd66fab3f313-prijate_faktury_2005.csv"
-  },
-  {
-    "name": "Prijate_faktury_2005.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/c8a97555-975c-4ab0-803f-20ca805b7b07/ea185f61-4800-4529-bc26-b2b93f4bf4cc-prijate_faktury_2005.json"
-  },
-  {
-    "name": "Prijate_faktury_2005.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/c8a97555-975c-4ab0-803f-20ca805b7b07/5088ea76-a75e-4180-bf98-d7826a247298-prijate_faktury_2005.xml"
-  },
-  {
-    "name": "Prijate_faktury_2006.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/730c44e7-c862-4375-a61c-e0727442736c/3dad4e9b-8134-478e-aae2-a45e28e19cfc-prijate_faktury_2006.csv"
-  },
-  {
-    "name": "Prijate_faktury_2006.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/730c44e7-c862-4375-a61c-e0727442736c/dc864739-0900-46fa-8117-b7bbeb68a8c6-prijate_faktury_2006.json"
-  },
-  {
-    "name": "Prijate_faktury_2006.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/730c44e7-c862-4375-a61c-e0727442736c/f258a2e2-25da-4c88-a911-12bd20428613-prijate_faktury_2006.xml"
-  },
-  {
-    "name": "Prijate_faktury_2007.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/8c00d9f0-e865-4154-972e-7adde33ca3fa/58146165-3166-4d9a-b438-b664caf82e38-prijate_faktury_2007.csv"
-  },
-  {
-    "name": "Prijate_faktury_2007.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/8c00d9f0-e865-4154-972e-7adde33ca3fa/d8650ed4-9c27-4840-9954-f73faa67e32e-prijate_faktury_2007.json"
-  },
-  {
-    "name": "Prijate_faktury_2007.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/8c00d9f0-e865-4154-972e-7adde33ca3fa/f39aef25-08bb-4fec-9c43-01ddd083352b-prijate_faktury_2007.xml"
-  },
-  {
-    "name": "Prijate_faktury_2008.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/420842bc-e34f-4748-b3fb-6d26fbc0d99d/30319ce6-690c-4007-8082-7513703ffe02-prijate_faktury_2008.csv"
-  },
-  {
-    "name": "Prijate_faktury_2008.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/420842bc-e34f-4748-b3fb-6d26fbc0d99d/b7b6b2bd-bee2-406b-9ba5-f242d1bdcc4d-prijate_faktury_2008.json"
-  },
-  {
-    "name": "Prijate_faktury_2008.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/420842bc-e34f-4748-b3fb-6d26fbc0d99d/c06c5622-c153-4c4b-8678-2ae6490ee03b-prijate_faktury_2008.xml"
-  },
-  {
-    "name": "Prijate_faktury_2009.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/1c14879d-7001-4765-b829-1e3ed67d0e0d/cb4140c4-95de-4730-8631-8df139aedeae-prijate_faktury_2009.csv"
-  },
-  {
-    "name": "Prijate_faktury_2009.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/1c14879d-7001-4765-b829-1e3ed67d0e0d/fa457bf4-c272-4a5e-8e4c-75c41ab9fcc2-prijate_faktury_2009.json"
-  },
-  {
-    "name": "Prijate_faktury_2009.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/1c14879d-7001-4765-b829-1e3ed67d0e0d/59f6959f-c668-4e10-a483-6bf7389684ad-prijate_faktury_2009.xml"
-  },
-  {
-    "name": "Prijate_faktury_2010.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/d4bf4a56-278a-42bb-88fd-8a612e8c39ff/bbfff005-6027-4576-89fb-5bd24d6cca8c-prijate_faktury_2010.csv"
-  },
-  {
-    "name": "Prijate_faktury_2010.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/d4bf4a56-278a-42bb-88fd-8a612e8c39ff/ed6f268d-439f-4195-bc18-e2a33bb709c9-prijate_faktury_2010.json"
-  },
-  {
-    "name": "Prijate_faktury_2010.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/d4bf4a56-278a-42bb-88fd-8a612e8c39ff/2ea0cd03-f299-437e-8270-2d5644c0a234-prijate_faktury_2010.xml"
-  },
-  {
-    "name": "Prijate_faktury_2011.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/2a89f7b7-7fdd-4b8f-9379-637796814eb0/3cee69fd-71a3-4fa9-a2b5-7d09369d442e-prijate_faktury_2011.csv"
-  },
-  {
-    "name": "Prijate_faktury_2011.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/2a89f7b7-7fdd-4b8f-9379-637796814eb0/ead3f7fc-2d25-4930-bb6d-6d0a2488c05d-prijate_faktury_2011.json"
-  },
-  {
-    "name": "Prijate_faktury_2011.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/2a89f7b7-7fdd-4b8f-9379-637796814eb0/7389ba76-b955-4fee-bab6-596729a30811-prijate_faktury_2011.xml"
-  },
-  {
-    "name": "Prijate_faktury_2012.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/96adcaff-13a3-48ae-b0a7-c407167d3456/7d8c54e4-91c2-4630-8614-ae7779f4e900-prijate_faktury_2012.csv"
-  },
-  {
-    "name": "Prijate_faktury_2012.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/96adcaff-13a3-48ae-b0a7-c407167d3456/d2349069-17fa-4f4e-b7a9-f684fa9472c4-prijate_faktury_2012.json"
-  },
-  {
-    "name": "Prijate_faktury_2012.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/96adcaff-13a3-48ae-b0a7-c407167d3456/0d7e4685-61bf-46d2-af7f-500d3ddd6e0c-prijate_faktury_2012.xml"
-  },
-  {
-    "name": "Prijate_faktury_2013.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/3516c4f0-7401-437f-ae0b-791bfd205e86/20d9f9b9-f4df-4cec-aff0-4b0a60d4b3f2-prijate_faktury_2013.csv"
-  },
-  {
-    "name": "Prijate_faktury_2013.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/3516c4f0-7401-437f-ae0b-791bfd205e86/61040ce4-eade-486f-89ce-3235989229fe-prijate_faktury_2013.json"
-  },
-  {
-    "name": "Prijate_faktury_2013.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/3516c4f0-7401-437f-ae0b-791bfd205e86/8fa4137a-4bbc-4a98-bdb2-190e0b82a465-prijate_faktury_2013.xml"
-  },
-  {
-    "name": "Prijate_faktury_2014.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/dfacad8e-ba67-43f0-bcf9-d66ca1217321/7db08e38-9bd3-4441-a831-8550e3b5e91a-prijate_faktury_2014.csv"
-  },
-  {
-    "name": "Prijate_faktury_2014.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/dfacad8e-ba67-43f0-bcf9-d66ca1217321/f4fca178-bf16-47f0-8549-6fde376c566f-prijate_faktury_2014.json"
-  },
-  {
-    "name": "Prijate_faktury_2014.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/dfacad8e-ba67-43f0-bcf9-d66ca1217321/635cd762-4394-4fe0-887e-5b6546b2463c-prijate_faktury_2014.xml"
-  },
-  {
-    "name": "Prijate_faktury_2015.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/228af079-94fb-4135-a4b9-117f3a701ac6/8b26487a-5775-4cdd-9fcd-e0d7e110a71e-prijate_faktury_2015.csv"
-  },
-  {
-    "name": "Prijate_faktury_2015.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/228af079-94fb-4135-a4b9-117f3a701ac6/7f901cd0-9ed4-400e-9eb5-80d57409a2ec-prijate_faktury_2015.json"
-  },
-  {
-    "name": "Prijate_faktury_2015.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/228af079-94fb-4135-a4b9-117f3a701ac6/84574d5c-9bd8-4bc3-bc02-423c130d4975-prijate_faktury_2015.xml"
-  },
-  {
-    "name": "Prijate_faktury_2016.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/ec8f2cb8-2ee6-4466-a9e5-42c3cfb5e2fa/67c24acb-50c7-43ff-8cb8-c963d49b6925-prijate_faktury_2016.csv"
-  },
-  {
-    "name": "Prijate_faktury_2016.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/ec8f2cb8-2ee6-4466-a9e5-42c3cfb5e2fa/0eba4385-6802-453c-b8d1-cded0d63f963-prijate_faktury_2016.json"
-  },
-  {
-    "name": "Prijate_faktury_2016.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/ec8f2cb8-2ee6-4466-a9e5-42c3cfb5e2fa/c111a12f-40ac-4fc5-a89b-fc1676a39bcc-prijate_faktury_2016.xml"
-  },
-  {
-    "name": "Prijate_faktury_2017.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/7b959c7f-1ad9-43b2-9db0-b61ee10a17a0/e95c6ff1-6c00-4a09-ad82-a107712d6896-prijate_faktury_2017.csv"
-  },
-  {
-    "name": "Prijate_faktury_2017.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/7b959c7f-1ad9-43b2-9db0-b61ee10a17a0/635f2483-abaf-476b-93be-f6751655d932-prijate_faktury_2017.json"
-  },
-  {
-    "name": "Prijate_faktury_2017.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/7b959c7f-1ad9-43b2-9db0-b61ee10a17a0/e451026f-ad0d-4ce6-bc1b-c814ac63bf59-prijate_faktury_2017.xml"
-  },
-  {
-    "name": "Prijate_faktury_2018.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/297df178-ad31-439a-8251-857230a23943/a45dc4c3-331f-4b2a-a909-4e92c9c99fc3-prijate_faktury_2018.csv"
-  },
-  {
-    "name": "Prijate_faktury_2018.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/297df178-ad31-439a-8251-857230a23943/2c161cd8-08e8-463d-a131-b6b7fe69ebd1-prijate_faktury_2018.json"
-  },
-  {
-    "name": "Prijate_faktury_2018.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/297df178-ad31-439a-8251-857230a23943/9ad24634-1341-4c3c-aa50-479f95419ef1-prijate_faktury_2018.xml"
-  },
-  {
-    "name": "Prijate_faktury_2019.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/e946db0e-5343-4015-aceb-9b7caf06157b/0135c3d3-10d1-45aa-ae1b-9a4326417ab4-prijate_faktury_2019.csv"
-  },
-  {
-    "name": "Prijate_faktury_2019.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/e946db0e-5343-4015-aceb-9b7caf06157b/e7bc84a2-7229-4927-9cc4-cc44d4e938fa-prijate_faktury_2019.json"
-  },
-  {
-    "name": "Prijate_faktury_2019.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/e946db0e-5343-4015-aceb-9b7caf06157b/c867e221-4762-4c2b-bda9-8c465a426c45-prijate_faktury_2019.xml"
-  },
-  {
-    "name": "Prijate_faktury_2020.csv",
-    "url": "https://storage.golemio.cz/lkod/mhp/264332e1-482b-48ef-8ba7-919f6866ca4f/0b41bc06-5abe-46fb-8eba-64d540431956-prijate_faktury_mhmp_2020.csv"
-  },
-  {
-    "name": "Prijate_faktury_2020.json",
-    "url": "https://storage.golemio.cz/lkod/mhp/264332e1-482b-48ef-8ba7-919f6866ca4f/2bf0225d-9022-450d-bf51-a368af717b6c-prijate_faktury_mhmp_2020.json"
-  },
-  {
-    "name": "Prijate_faktury_2020.xml",
-    "url": "https://storage.golemio.cz/lkod/mhp/264332e1-482b-48ef-8ba7-919f6866ca4f/aa488afb-092b-438d-910c-dfe0a14482d8-prijate_faktury_mhmp_2020.xml"
-  },
-  {
-    "name": "Prijate_faktury_MHMP_2022.csv",
-    "url": "https://storage.golemio.cz/ckan/prijate_faktury_MHMP/Prijate_faktury_MHMP_2022.csv"
-  },
-  {
-    "name": "Prijate_faktury_MHMP_2022.json",
-    "url": "https://storage.golemio.cz/ckan/prijate_faktury_MHMP/Prijate_faktury_MHMP_2022.json"
-  },
-  {
-    "name": "Prijate_faktury_MHMP_2022.xml",
-    "url": "https://storage.golemio.cz/ckan/prijate_faktury_MHMP/Prijate_faktury_MHMP_2022.xml"
-  },
-  {
-    "name": "Publikační plán MHMP",
-    "url": "https://storage.golemio.cz/ckan/publikacni_plan_mhmp/Publikacni_plan_verejnost.csv"
-  },
-  {
     "name": "Přehled investičních akcí OSM MČ Praha 11 2023",
     "url": "https://storage.golemio.cz/lkod/praha-11/915a72ef-a9e9-4ea3-9e6f-e5cbf71899d4/konverze_prehled-investicnich-akci-osm-2023.csv"
   },
@@ -878,18 +602,6 @@
   {
     "name": "Přehled výběrových řízení za rok 2022",
     "url": "https://storage.golemio.cz/lkod/praha-11/eb0219b7-f0bd-4262-a281-ae4dc0d031b1/konverze_10_ds-okt_prehled-vyberovych-rizeni-za-rok-2022.csv"
-  },
-  {
-    "name": "Přijaté faktury MHMP 2021",
-    "url": "https://storage.golemio.cz/ckan/prijate_faktury_MHMP/Prijate_faktury_MHMP_2021.csv"
-  },
-  {
-    "name": "Přijaté faktury MHMP 2021",
-    "url": "https://storage.golemio.cz/ckan/prijate_faktury_MHMP/Prijate_faktury_MHMP_2021.json"
-  },
-  {
-    "name": "Přijaté faktury MHMP 2021",
-    "url": "https://storage.golemio.cz/ckan/prijate_faktury_MHMP/Prijate_faktury_MHMP_2021.xml"
   },
   {
     "name": "Příspěvkové organizace MČ Praha 12",
@@ -1184,10 +896,6 @@
     "url": "https://storage.golemio.cz/lkod/pvspvk/14591d2f-ef10-4993-b3cd-f89e337cde6e/vume-pvs-2020-2022.xlsx"
   },
   {
-    "name": "Verejne_osvetleni_MHMP.zip",
-    "url": "https://storage.golemio.cz/ckan/marbes/Verejne_osvetleni_MHMP.zip"
-  },
-  {
     "name": "Veřejné toalety Praha 8 2018",
     "url": "https://storage.golemio.cz/lkod/praha-8/c6c81445-bf68-43c5-a53d-732a3a02e824/5cb12d2f-c5ad-41c0-a107-122f90b11f9d-toalety.csv"
   },
@@ -1346,10 +1054,6 @@
   {
     "name": "seznam-clenu-organu.xlsx",
     "url": "https://storage.golemio.cz/lkod/praha-15/44dc4568-11cf-4aa5-8a55-54ff3f2d7297/2929fab2-7417-40d5-a9a1-5029635429e6-seznam-clenu-organu.xlsx"
-  },
-  {
-    "name": "verejne_zakazky.csv",
-    "url": "https://storage.golemio.cz/ckan/tendersystems/verejne_zakazky.csv"
   },
   {
     "name": "verejne_zakazky_PO.csv",
