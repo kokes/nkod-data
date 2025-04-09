@@ -1,5 +1,25 @@
 [
   {
+    "name": "AOS.xml",
+    "url": "https://data.mzp.cz/isoh2/OpenData/HF04/AOS.xml"
+  },
+  {
+    "name": "KS.xml",
+    "url": "https://data.mzp.cz/isoh2/OpenData/HF05/KS.xml"
+  },
+  {
+    "name": "KS.xml",
+    "url": "https://data.mzp.cz/isoh2/OpenData/HF07/KS.xml"
+  },
+  {
+    "name": "KS.xml",
+    "url": "https://data.mzp.cz/isoh2/OpenData/HF08/KS.xml"
+  },
+  {
+    "name": "KS.xml",
+    "url": "https://data.mzp.cz/isoh2/OpenData/HF11/KS.xml"
+  },
+  {
     "name": "aopk_objednavky.csv",
     "url": "https://data.mzp.cz/datasets/dataset/jasu/aopk_objednavky.csv"
   },

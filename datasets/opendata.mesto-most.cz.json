@@ -69,10 +69,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::stožáry-veřejného-osvětlení"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::sčítače-cykl-dopravy-data-z-měření"
   },
   {
@@ -249,10 +245,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/csv?layers=14"
-  },
-  {
-    "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a85f78b02b2e484b8c381bb9f0462212/csv?layers=1"
   },
   {
@@ -386,10 +378,6 @@
   {
     "name": "File Geodatabase",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a325104972f54de384019ef7c7b4d111/filegdb?layers=30"
-  },
-  {
-    "name": "File Geodatabase",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/filegdb?layers=14"
   },
   {
     "name": "File Geodatabase",
@@ -529,10 +517,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/geojson?layers=14"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a85f78b02b2e484b8c381bb9f0462212/geojson?layers=1"
   },
   {
@@ -669,10 +653,6 @@
   },
   {
     "name": "KML",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/kml?layers=14"
-  },
-  {
-    "name": "KML",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a85f78b02b2e484b8c381bb9f0462212/kml?layers=1"
   },
   {
@@ -806,10 +786,6 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/a325104972f54de384019ef7c7b4d111/shapefile?layers=30"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://opendata.mesto-most.cz/api/download/v1/items/a7805114861f4f3f8dd4c449ba2ee5fe/shapefile?layers=14"
   },
   {
     "name": "Shapefile",
