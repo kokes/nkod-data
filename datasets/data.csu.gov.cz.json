@@ -512,6 +512,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0201F/distribuce/json"
   },
   {
+    "name": "Průměrné ceny průmyslových výrobců vybraných potravinářských výrobků bez DPH a ostatních daní a za všechny formy dodání",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0201C/distribuce/csv"
+  },
+  {
+    "name": "Průměrné ceny průmyslových výrobců vybraných potravinářských výrobků bez DPH a ostatních daní a za všechny formy dodání",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0201C/distribuce/json"
+  },
+  {
     "name": "Rozvody - vybrané souhrnné údaje",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY05B/distribuce/csv"
   },
@@ -658,6 +666,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0201A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0201C/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
