@@ -1,0 +1,90 @@
+[
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/KUOK_PO_arealy_b/FeatureServer/1"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/KUOK_PO_arealy_p/FeatureServer/3"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/KUOK_PO_budovy_p/FeatureServer/2"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/KUOK_PO_parcely_p/FeatureServer/4"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/KUOK_PO_sidla_b/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/M%C3%ADstn%C3%AD_ak%C4%8Dn%C3%AD_skupiny___%C3%BAzemn%C3%AD_p%C5%AFsobnost/FeatureServer/1"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/M%C3%ADstn%C3%AD_ak%C4%8Dn%C3%AD_skupiny__s%C3%ADdla/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/Turistick%C3%A1_informa%C4%8Dn%C3%AD_centra_v_Olomouck%C3%A9m_kraji/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/ZIPR_prirodni_parky/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/dobrovolne_svazky_obci_sidla/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/pohotovostn%C3%AD_slu%C5%BEba_v_Olomouck%C3%A9m_kraji/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/publika%C4%8Dn%C3%AD_pl%C3%A1n_Olomouck%C3%A9ho_kraje/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/ve%C5%99ejn%C3%A9_zak%C3%A1zky_Olomouck%C3%A9ho_kraje/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/ve%C5%99ejn%C3%A9_zak%C3%A1zky_Spr%C3%A1vy_silnic_Olomouck%C3%A9ho_kraje/FeatureServer/1"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/portal_UP/Z%C3%9AR_OK___%C3%BAzemn%C3%AD_syst%C3%A9m_ekologick%C3%A9_stability___LINIE/FeatureServer/2"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/portal_UP/Z%C3%9AR_OK___%C3%BAzemn%C3%AD_syst%C3%A9m_ekologick%C3%A9_stability___PLOCHA/FeatureServer/3"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/portal_UP/Z%C3%9AR_OK___ostatn%C3%AD_plochy_a_koridory_nadm%C3%ADstn%C3%ADho_v%C3%BDznamu___PLOCHA/FeatureServer/8"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/portal_UP/Z%C3%9AR_OK___plochy_a_koridory_dopravn%C3%AD_infrastruktury___PLOCHA/FeatureServer/7"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/portal_UP/Z%C3%9AR_OK___plochy_a_koridory_technick%C3%A9_infrastruktury___PLOCHA/FeatureServer/6"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/portal_UP/Z%C3%9AR_OK___rozvojov%C3%A9_oblasti_a_osy__specifick%C3%A9_oblasti___PLOCHA/FeatureServer/4"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/portal_UP/Z%C3%9AR_OK_rozvojov%C3%A9_oblasti_a_osy__specifick%C3%A9_oblasti_BOD/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/portal_UP/Z%C3%9AR_OK_rozvojov%C3%A9_oblasti_a_osy_specifick%C3%A9_oblasti_LINIE/FeatureServer/1"
+  }
+]
