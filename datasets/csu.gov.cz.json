@@ -80,10 +80,6 @@
     "url": "https://csu.gov.cz/docs/107508/736d031b-9985-cbe6-f510-1e266e57ec82/130140-22data072922.csv"
   },
   {
-    "name": "Data do roku 2022",
-    "url": "https://csu.gov.cz/docs/107508/ca7cacf2-a661-7dec-cb36-83d25d5bd1d6/160061-24data022924.csv"
-  },
-  {
     "name": "Data do roku 2022 - revize",
     "url": "https://csu.gov.cz/docs/107508/8cfbf19a-3703-e03b-2c64-a71ee8cb1071/340129-23data092923.zip"
   },
@@ -154,6 +150,10 @@
   {
     "name": "Data do roku 2023",
     "url": "https://csu.gov.cz/docs/107508/da1a5810-c699-d15e-7494-3833cf9a8f30/od_dem04_ut_rs_053124.zip"
+  },
+  {
+    "name": "Data do roku 2023",
+    "url": "https://csu.gov.cz/docs/107508/e39f5409-9ff4-721a-a924-6215a3a5ebcc/160061-25data041525.csv?version=1.0"
   },
   {
     "name": "Data do roku 2023",
@@ -873,7 +873,23 @@
   },
   {
     "name": "Čtvrtletí roku 2024",
+    "url": "https://csu.gov.cz/docs/107508/8d3c61bb-f07c-6e82-8c7d-6b6668a938d2/140133-24data071524.zip"
+  },
+  {
+    "name": "Čtvrtletí roku 2024",
+    "url": "https://csu.gov.cz/docs/107508/931d6446-b3fc-bd59-5b6f-f72734e5a6ec/140131-24data071524.zip"
+  },
+  {
+    "name": "Čtvrtletí roku 2024",
     "url": "https://csu.gov.cz/docs/107508/fe55e535-92b9-54d6-1fde-898474196d89/140131-24data011525.zip?version=1.0"
+  },
+  {
+    "name": "Čtvrtletí roku 2025",
+    "url": "https://csu.gov.cz/docs/107508/28cd1f7a-41d4-8f03-049e-8ec4609ebc47/140133-25data041525.zip"
+  },
+  {
+    "name": "Čtvrtletí roku 2025",
+    "url": "https://csu.gov.cz/docs/107508/68ea2868-abe7-d89a-26fe-9285459bb9bc/140131-25data041525.zip"
   },
   {
     "name": "Ženy ve věku 15 a více let podle rodinného stavu, vzdělání, věku a počtu dětí",
