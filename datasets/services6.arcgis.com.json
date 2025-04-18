@@ -125,10 +125,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/brownfieldy/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/chranena_loziskova_uzemi/FeatureServer/0"
   },
   {
@@ -141,10 +137,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/cykloopatreni_realizovana_opendata/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/dobyvaci_prostory/FeatureServer/0"
   },
   {
@@ -153,31 +145,11 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/havarie/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/havarie_polygony/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/horizontalni_vrty/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/hranice_brna/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/hranice_hrbitovu/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/hranice_hrobovych_skupin/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/hranice_mc/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -233,6 +205,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/mestska_pamatkova_rezervace/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/mobiliar_bariery/FeatureServer/0"
   },
   {
@@ -261,11 +237,15 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/odpadkove_kose/FeatureServer/0"
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/od_pentlogram_bus_wgs84/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/osm_parcel_locker/FeatureServer/0"
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/od_pentlogram_tramvaj_wgs84/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/odpadkove_kose/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",

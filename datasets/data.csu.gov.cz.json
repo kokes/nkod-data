@@ -136,6 +136,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0201B/distribuce/json"
   },
   {
+    "name": "Indexy cen průmyslových výrobců - rozklad přírůstků v procentních bodech",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0201E/distribuce/csv"
+  },
+  {
+    "name": "Indexy cen průmyslových výrobců - rozklad přírůstků v procentních bodech",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0201E/distribuce/json"
+  },
+  {
     "name": "Indexy cen průmyslových výrobců podle Hlavních průmyslových skupin (HPS)",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0201A/distribuce/csv"
   },
@@ -682,6 +690,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0201C/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0201E/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
