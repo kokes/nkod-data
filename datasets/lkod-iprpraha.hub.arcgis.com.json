@@ -173,6 +173,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::objekty-městské-policie-praha-body"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::odpadní-zařízení-pro-občany"
   },
   {
@@ -401,10 +405,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::věznice"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::zimní-údržba-komunikací-tsk"
   },
   {
@@ -609,7 +609,7 @@
   },
   {
     "name": "CSV",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/514eb60630f84c0eb19c3c809e934843/csv?layers=0"
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/50166f3becfd47229c7e45b673332500/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -1085,7 +1085,7 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/514eb60630f84c0eb19c3c809e934843/geojson?layers=0"
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/50166f3becfd47229c7e45b673332500/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -1561,7 +1561,7 @@
   },
   {
     "name": "KML",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/514eb60630f84c0eb19c3c809e934843/kml?layers=0"
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/50166f3becfd47229c7e45b673332500/kml?layers=0"
   },
   {
     "name": "KML",
@@ -2037,7 +2037,7 @@
   },
   {
     "name": "XLSX",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/514eb60630f84c0eb19c3c809e934843/excel?layers=0"
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/50166f3becfd47229c7e45b673332500/excel?layers=0"
   },
   {
     "name": "XLSX",
@@ -2645,11 +2645,11 @@
   },
   {
     "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/514eb60630f84c0eb19c3c809e934843/filegdb?layers=0"
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/50166f3becfd47229c7e45b673332500/filegdb?layers=0"
   },
   {
     "name": "ZIP",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/514eb60630f84c0eb19c3c809e934843/shapefile?layers=0"
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/50166f3becfd47229c7e45b673332500/shapefile?layers=0"
   },
   {
     "name": "ZIP",
