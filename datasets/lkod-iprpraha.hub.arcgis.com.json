@@ -405,6 +405,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::věznice"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::zimní-údržba-komunikací-tsk"
   },
   {
@@ -610,6 +614,10 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/50166f3becfd47229c7e45b673332500/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/514eb60630f84c0eb19c3c809e934843/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -1089,6 +1097,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/514eb60630f84c0eb19c3c809e934843/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/52a06a0ff95b4d5c8ea5ba49ed727e17/geojson?layers=0"
   },
   {
@@ -1565,6 +1577,10 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/514eb60630f84c0eb19c3c809e934843/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/52a06a0ff95b4d5c8ea5ba49ed727e17/kml?layers=0"
   },
   {
@@ -2038,6 +2054,10 @@
   {
     "name": "XLSX",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/50166f3becfd47229c7e45b673332500/excel?layers=0"
+  },
+  {
+    "name": "XLSX",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/514eb60630f84c0eb19c3c809e934843/excel?layers=0"
   },
   {
     "name": "XLSX",
@@ -2650,6 +2670,14 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/50166f3becfd47229c7e45b673332500/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/514eb60630f84c0eb19c3c809e934843/filegdb?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/514eb60630f84c0eb19c3c809e934843/shapefile?layers=0"
   },
   {
     "name": "ZIP",
