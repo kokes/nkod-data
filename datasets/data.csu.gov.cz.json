@@ -1041,6 +1041,14 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/WGEN03C1/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/WGEN03C2/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/WNUC05C/vybery"
   },
   {
@@ -1268,12 +1276,28 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBY04B/distribuce/json"
   },
   {
+    "name": "Ženy a muži – používání chytrých zařízení",
+    "url": "https://data.csu.gov.cz/opendata/sady/WGEN03C2/distribuce/csv"
+  },
+  {
+    "name": "Ženy a muži – používání chytrých zařízení",
+    "url": "https://data.csu.gov.cz/opendata/sady/WGEN03C2/distribuce/json"
+  },
+  {
     "name": "Ženy a muži – používání internetu",
     "url": "https://data.csu.gov.cz/opendata/sady/WGEN03C/distribuce/csv"
   },
   {
     "name": "Ženy a muži – používání internetu",
     "url": "https://data.csu.gov.cz/opendata/sady/WGEN03C/distribuce/json"
+  },
+  {
+    "name": "Ženy a muži – činnosti vykonávané na internetu",
+    "url": "https://data.csu.gov.cz/opendata/sady/WGEN03C1/distribuce/csv"
+  },
+  {
+    "name": "Ženy a muži – činnosti vykonávané na internetu",
+    "url": "https://data.csu.gov.cz/opendata/sady/WGEN03C1/distribuce/json"
   },
   {
     "name": "Živě narození podle pohlaví",

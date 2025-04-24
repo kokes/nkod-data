@@ -225,7 +225,7 @@
   },
   {
     "name": "Migrace za lůžkovou péčí",
-    "url": "https://data.mzcr.cz/data/distribuce/389/Otevrena-data-NR-04-38-migrace-pece-2024-02.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/389/Otevrena-data-NR-04-38-migrace-luzkova-pece.csv"
   },
   {
     "name": "Mortalita zhoubných nádorů v regionech ČR",
@@ -414,6 +414,10 @@
   {
     "name": "Reprodukční zdraví: Rodičky a Robsonova klasifikace porodů",
     "url": "https://data.mzcr.cz/data/distribuce/323/rodicky-robson.csv"
+  },
+  {
+    "name": "Reprodukční zdraví: Rodičky a Robsonova klasifikace porodů",
+    "url": "https://data.mzcr.cz/data/distribuce/446/rodicky-robson.xlsx"
   },
   {
     "name": "Reprodukční zdraví: Rodičky a císařské řezy",
