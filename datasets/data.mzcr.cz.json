@@ -96,6 +96,10 @@
     "url": "https://data.mzcr.cz/data/distribuce/362/Otevrena-data-NR-18-01-diabetes-mellitus-2024-01.csv"
   },
   {
+    "name": "Epidemiologie srdečního selhání",
+    "url": "https://data.mzcr.cz/data/distribuce/332/Otevrena-data-OIS-01-03-srdecni-selhani.csv"
+  },
+  {
     "name": "Hospitalizační případy akutní a intenzivní péče v ČR a jejich charakteristiky – vývoj v čase",
     "url": "https://data.mzcr.cz/data/distribuce/421/Otevrena-data-NR-23-01-hospitalizacni-pripady-akutni-intezivni-pece-2024-01.csv"
   },
@@ -186,10 +190,6 @@
   {
     "name": "Individuálně připravované léčivé přípravky – kód SÚKL, měsíc, IČZ",
     "url": "https://data.mzcr.cz/data/distribuce/431/Otevrena-data-NR-04-19-individualne-pripravovane-lecive-pripravky-sukl-mesic-icz.csv"
-  },
-  {
-    "name": "Kardiologie: Epidemiologie srdečního selhání",
-    "url": "https://data.mzcr.cz/data/distribuce/332/kardio-srdecni-selhani.csv"
   },
   {
     "name": "Kardiologie: Hypertenze v populaci ČR",
