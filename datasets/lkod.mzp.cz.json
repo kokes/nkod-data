@@ -12,10 +12,6 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-cerpani-programu-nova-zelena-usporam-2023.csv"
   },
   {
-    "name": "csv-ekonomie-cerpani-prostredku-z-opzp.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-cerpani-prostredku-z-opzp-2023.csv"
-  },
-  {
     "name": "csv-ekonomie-indikator-alokace-prostredku-z-fondu-eu-na-projekty.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-alokace-prostredku-z-fondu-eu-na-projekty-2023.csv"
   },
@@ -34,6 +30,18 @@
   {
     "name": "csv-odpady-indikator-produkce-komunalnich-odpadu.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-produkce-komunalnich-odpadu-2023.csv"
+  },
+  {
+    "name": "csv-odpady-indikator-produkce-obalovych-odpadu.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-produkce-obalovych-odpadu-2023.csv"
+  },
+  {
+    "name": "csv-znecisteni-indikator-havarie-seveso.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-havarie-seveso-2023.csv"
+  },
+  {
+    "name": "csv-znecisteni-indikator-pocet-zarizeni-ippc-v-krajich.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pocet-zarizeni-ippc-v-krajich-2023.csv"
   },
   {
     "name": "data-cenia-indikator-bohatost-struktury-lesnich-porostu-2023.csv",
@@ -88,12 +96,20 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-materialova-narocnost-hospodarstvi-2023.csv"
   },
   {
+    "name": "data-cenia-indikator-mezinarodni-obchod-s-ohrozenymi-druhy-chranenymi-umluvou-cites-2023.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-mezinarodni-obchod-s-ohrozenymi-druhy-chranenymi-umluvou-cites-2023.csv"
+  },
+  {
     "name": "data-cenia-indikator-mnozstvi-odumrele-drevni-hmoty-v-lesich-2023.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-mnozstvi-odumrele-drevni-hmoty-v-lesich-2023.csv"
   },
   {
     "name": "data-cenia-indikator-nahodila-tezba-podle-pricin-vzniku-2023.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-nahodila-tezba-podle-pricin-vzniku-2023.csv"
+  },
+  {
+    "name": "data-cenia-indikator-nelegalni-obchod-s-ohrozenymi-druhy-chranenymi-umluvou-cites-2023.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-nelegalni-obchod-s-ohrozenymi-druhy-chranenymi-umluvou-cites-2023.csv"
   },
   {
     "name": "data-cenia-indikator-obyvatele-zasobovani-vodou-z-verejneho-vodovodu-2023.csv",
@@ -106,6 +122,10 @@
   {
     "name": "data-cenia-indikator-odbery-povrchove-vody-2023.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-odbery-povrchove-vody-2023.csv"
+  },
+  {
+    "name": "data-cenia-indikator-pocet-zvlaste-chranenych-druhu-zivocichu-fauny-cr-ohrozenych-druhu-zivocichu-sv-2023.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pocet-zvlaste-chranenych-druhu-zivocichu-fauny-cr-ohrozenych-druhu-zivocichu-sv-2023.csv"
   },
   {
     "name": "data-cenia-indikator-podil-lesu-s-uplatnenim-podrostniho-a-vyberneho-zpusobu-hospodareni-2023.csv",
@@ -140,6 +160,10 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-prumerna-velikost-dilu-pudnich-bloku-2023.csv"
   },
   {
+    "name": "data-cenia-indikator-sanace-kontaminovanych-mist-2023.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-sanace-kontaminovanych-mist-2023.csv"
+  },
+  {
     "name": "data-cenia-indikator-spotreba-pripravku-na-ochranu-rostlin-2023.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-spotreba-pripravku-na-ochranu-rostlin-2023.csv"
   },
@@ -164,6 +188,14 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-vekova-struktura-obyvatelstva-2023.csv"
   },
   {
+    "name": "data-cenia-indikator-verejne-vydaje-na-ochranu-zivotniho-prostredi-z-centralnich-zdroju-2023.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-verejne-vydaje-na-ochranu-zivotniho-prostredi-z-centralnich-zdroju-2023.csv"
+  },
+  {
+    "name": "data-cenia-indikator-verejne-vydaje-na-ochranu-zivotniho-prostredi-z-uzemnich-rozpoctu-2023.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-verejne-vydaje-na-ochranu-zivotniho-prostredi-z-uzemnich-rozpoctu-2023.csv"
+  },
+  {
     "name": "data-cenia-indikator-vypousteni-odpadnich-vod-2023.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-vypousteni-odpadnich-vod-2023.csv"
   },
@@ -174,6 +206,14 @@
   {
     "name": "mzp-certifi-osoby-biopaliva.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-certifi-osoby-biopaliva-2023.csv"
+  },
+  {
+    "name": "mzp-katalog-odpadu.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-katalog-odpadu-2025.csv"
+  },
+  {
+    "name": "mzp-katalog-skupiny-elektrozarizeni.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-katalog-skupiny-elektrozarizeni-2025.csv"
   },
   {
     "name": "mzp-mnozstvi-kalu-predanych-k-zemedelskemu-vyuziti-2023-202408260956-1-.csv",
@@ -202,5 +242,13 @@
   {
     "name": "mzp-uniky-prenosy-latek.xlsx",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-uniky-prenosy-latek-2023.xlsx"
+  },
+  {
+    "name": "mzp-zpusoby-nakladani-s-odpady.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-zpusoby-nakladani-s-odpady-2025.csv"
+  },
+  {
+    "name": "obce-cr-se-schvalenymi-adaptacnimi-strategiemi-resp.-plany-2022.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pocet-obci-ktere-maji-adaptacni-plany-2023.csv"
   }
 ]
