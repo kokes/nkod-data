@@ -1,10 +1,6 @@
 [
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/datasets/fe7caf4d663b465c83c2983262078e6d_40"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::bloky-v-mostě"
   },
   {
@@ -57,6 +53,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::regulace-hlučných-činností"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::rychlostní-kamery-data-z-měření"
   },
   {
@@ -74,6 +74,10 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::sčítače-cykl-dopravy-lokality-měření-1"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::tržní-řád"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -261,6 +265,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/d262ee91495d40369593bd69988d5992/csv?layers=55"
+  },
+  {
+    "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/e91cb7afcf264116bbcb84d98d30580c/csv?layers=32"
   },
   {
@@ -390,6 +398,10 @@
   {
     "name": "File Geodatabase",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/ce8dff43e36f4d73ba2f1c6377e8b6dd/filegdb?layers=2"
+  },
+  {
+    "name": "File Geodatabase",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/d262ee91495d40369593bd69988d5992/filegdb?layers=55"
   },
   {
     "name": "File Geodatabase",
@@ -525,6 +537,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/d262ee91495d40369593bd69988d5992/geojson?layers=55"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/e91cb7afcf264116bbcb84d98d30580c/geojson?layers=32"
   },
   {
@@ -657,6 +673,10 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/d262ee91495d40369593bd69988d5992/kml?layers=55"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/e91cb7afcf264116bbcb84d98d30580c/kml?layers=32"
   },
   {
@@ -786,6 +806,10 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/ce8dff43e36f4d73ba2f1c6377e8b6dd/shapefile?layers=2"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/d262ee91495d40369593bd69988d5992/shapefile?layers=55"
   },
   {
     "name": "Shapefile",

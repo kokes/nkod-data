@@ -85,10 +85,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://gis.brno.cz/ags1/rest/services/ODAE/cz_mm_brno_sde_data_brno_ODAE_dobijeci_stanice_elektro/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://gis.brno.cz/ags1/rest/services/ODAE/g_volebni_mistnosti_b/FeatureServer/0"
   },
   {

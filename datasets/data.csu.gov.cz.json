@@ -128,6 +128,22 @@
     "url": "https://data.csu.gov.cz/opendata/sady/ICT01/distribuce/json"
   },
   {
+    "name": "Indexy cen nemovitostí (%) - data MF ČR (do roku 2019)",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0403/distribuce/csv"
+  },
+  {
+    "name": "Indexy cen nemovitostí (%) - data MF ČR (do roku 2019)",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0403/distribuce/json"
+  },
+  {
+    "name": "Indexy cen nemovitostí (%) - data ČÚZK (od 2015)",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0401/distribuce/csv"
+  },
+  {
+    "name": "Indexy cen nemovitostí (%) - data ČÚZK (od 2015)",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0401/distribuce/json"
+  },
+  {
     "name": "Indexy cen průmyslových výrobců (CZ-CPA_2015)",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0201B/distribuce/csv"
   },
@@ -528,12 +544,36 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0201F/distribuce/json"
   },
   {
+    "name": "Průměrné ceny nemovitostí - data MF ČR (do roku 2019)",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0404/distribuce/csv"
+  },
+  {
+    "name": "Průměrné ceny nemovitostí - data MF ČR (do roku 2019)",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0404/distribuce/json"
+  },
+  {
     "name": "Průměrné ceny průmyslových výrobců vybraných potravinářských výrobků bez DPH a ostatních daní a za všechny formy dodání",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0201C/distribuce/csv"
   },
   {
     "name": "Průměrné ceny průmyslových výrobců vybraných potravinářských výrobků bez DPH a ostatních daní a za všechny formy dodání",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0201C/distribuce/json"
+  },
+  {
+    "name": "Průměrné kupní ceny nemovitostí - zdroj dat ČÚZK (od 2019)",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0402/distribuce/csv"
+  },
+  {
+    "name": "Průměrné kupní ceny nemovitostí - zdroj dat ČÚZK (od 2019)",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0402/distribuce/json"
+  },
+  {
+    "name": "Rozklad přírůstků indexů vývozních a dovozních cen podle klasifikace CPA - neočištěné o vliv měnového kurzu",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0305/distribuce/csv"
+  },
+  {
+    "name": "Rozklad přírůstků indexů vývozních a dovozních cen podle klasifikace CPA - neočištěné o vliv měnového kurzu",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0305/distribuce/json"
   },
   {
     "name": "Rozvody - vybrané souhrnné údaje",
@@ -706,6 +746,26 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0301/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0305/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0401/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0402/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0403/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0404/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
