@@ -1,6 +1,10 @@
 [
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/%C3%BAzemn%C3%AD_p%C5%AFsobnost_stavebn%C3%ADch_%C3%BA%C5%99ad%C5%AF_v_Olomouck%C3%A9m_kraji/FeatureServer/1"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/KUOK_PO_arealy_b/FeatureServer/1"
   },
   {

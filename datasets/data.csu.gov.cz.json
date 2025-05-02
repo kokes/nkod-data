@@ -697,14 +697,6 @@
   },
   {
     "name": "Ukazatele věkového složení k 31. 12.",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY02FGEN/distribuce/csv"
-  },
-  {
-    "name": "Ukazatele věkového složení k 31. 12.",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY02FGEN/distribuce/json"
-  },
-  {
-    "name": "Ukazatele věkového složení k 31. 12.",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY02FHVD/distribuce/csv"
   },
   {
@@ -874,10 +866,6 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY02F/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY02FGEN/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
