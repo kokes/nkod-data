@@ -53,6 +53,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/stavebn%C3%AD_%C3%BA%C5%99ady_v_Olomouck%C3%A9m_kraji/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/ve%C5%99ejn%C3%A9_zak%C3%A1zky_Olomouck%C3%A9ho_kraje/FeatureServer/0"
   },
   {

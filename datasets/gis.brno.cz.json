@@ -129,10 +129,6 @@
   },
   {
     "name": "DXF (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_uch61_l_sjtsk.dxf"
-  },
-  {
-    "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_sjtsk.dxf"
   },
   {
@@ -186,10 +182,6 @@
   {
     "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/g_obec_p_sjtsk.dxf"
-  },
-  {
-    "name": "DXF (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/g_pz_pam_zona_rez_op_p_sjtsk.dxf"
   },
   {
     "name": "DXF (S-JTSK)",
@@ -257,15 +249,7 @@
   },
   {
     "name": "DXF (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/od_pentlogram_bus_sjtsk.dxf"
-  },
-  {
-    "name": "DXF (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/od_pentlogram_sjtsk.dxf"
-  },
-  {
-    "name": "DXF (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/od_pentlogram_tramvaj_sjtsk.dxf"
   },
   {
     "name": "DXF (S-JTSK)",
@@ -469,10 +453,6 @@
   },
   {
     "name": "DXF (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_uch61_l_wgs84.dxf"
-  },
-  {
-    "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_wgs84.dxf"
   },
   {
@@ -526,10 +506,6 @@
   {
     "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/g_obec_p_wgs84.dxf"
-  },
-  {
-    "name": "DXF (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/g_pz_pam_zona_rez_op_p_wgs84.dxf"
   },
   {
     "name": "DXF (WGS84)",
@@ -594,14 +570,6 @@
   {
     "name": "DXF (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/od_mhd_linky_wgs84.dxf"
-  },
-  {
-    "name": "DXF (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/od_pentlogram_bus_wgs84.dxf"
-  },
-  {
-    "name": "DXF (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/od_pentlogram_tramvaj_wgs84.dxf"
   },
   {
     "name": "DXF (WGS84)",
@@ -805,10 +773,6 @@
   },
   {
     "name": "GML (S-JSTK)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_uch61_l_gml_sjtsk.zip"
-  },
-  {
-    "name": "GML (S-JSTK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_gml_sjtsk.zip"
   },
   {
@@ -854,10 +818,6 @@
   {
     "name": "GML (S-JSTK)",
     "url": "https://gis.brno.cz/public/opendata/g_obec_p_gml_sjtsk.zip"
-  },
-  {
-    "name": "GML (S-JSTK)",
-    "url": "https://gis.brno.cz/public/opendata/g_pz_pam_zona_rez_op_p_gml_sjtsk.zip"
   },
   {
     "name": "GML (S-JSTK)",
@@ -1065,14 +1025,6 @@
   },
   {
     "name": "GML (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/od_pentlogram_bus_gml_sjtsk.zip"
-  },
-  {
-    "name": "GML (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/od_pentlogram_tramvaj_gml_sjtsk.zip"
-  },
-  {
-    "name": "GML (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/pk_g_cykloopatreni_stojany_na_kola_b_gml_sjtsk.zip"
   },
   {
@@ -1149,10 +1101,6 @@
   },
   {
     "name": "GML (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_uch61_l_gml_wgs84.zip"
-  },
-  {
-    "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_gml_wgs84.zip"
   },
   {
@@ -1206,10 +1154,6 @@
   {
     "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/g_obec_p_gml_wgs84.zip"
-  },
-  {
-    "name": "GML (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/g_pz_pam_zona_rez_op_p_gml_wgs84.zip"
   },
   {
     "name": "GML (WGS84)",
@@ -1277,15 +1221,7 @@
   },
   {
     "name": "GML (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/od_pentlogram_bus_gml_wgs84.zip"
-  },
-  {
-    "name": "GML (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/od_pentlogram_gml_wgs84.zip"
-  },
-  {
-    "name": "GML (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/od_pentlogram_tramvaj_gml_wgs84.zip"
   },
   {
     "name": "GML (WGS84)",
@@ -1489,10 +1425,6 @@
   },
   {
     "name": "GeoJSON (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_uch61_l_sjtsk.geojson"
-  },
-  {
-    "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_sjtsk.geojson"
   },
   {
@@ -1546,10 +1478,6 @@
   {
     "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/g_obec_p_sjtsk.geojson"
-  },
-  {
-    "name": "GeoJSON (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/g_pz_pam_zona_rez_op_p_sjtsk.geojson"
   },
   {
     "name": "GeoJSON (S-JTSK)",
@@ -1617,15 +1545,7 @@
   },
   {
     "name": "GeoJSON (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/od_pentlogram_bus_sjtsk.geojson"
-  },
-  {
-    "name": "GeoJSON (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/od_pentlogram_sjtsk.geojson"
-  },
-  {
-    "name": "GeoJSON (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/od_pentlogram_tramvaj_sjtsk.geojson"
   },
   {
     "name": "GeoJSON (S-JTSK)",
@@ -1837,10 +1757,6 @@
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_uch61_l_sjtsk.gpkg"
-  },
-  {
-    "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_sjtsk.gpkg"
   },
   {
@@ -1894,10 +1810,6 @@
   {
     "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/g_obec_p_sjtsk.gpkg"
-  },
-  {
-    "name": "OGC GeoPackage (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/g_pz_pam_zona_rez_op_p_sjtsk.gpkg"
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
@@ -1969,15 +1881,7 @@
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/od_pentlogram_bus_sjtsk.gpkg"
-  },
-  {
-    "name": "OGC GeoPackage (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/od_pentlogram_sjtsk.gpkg"
-  },
-  {
-    "name": "OGC GeoPackage (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/od_pentlogram_tramvaj_sjtsk.gpkg"
   },
   {
     "name": "OGC GeoPackage (S-JTSK)",
@@ -2181,10 +2085,6 @@
   },
   {
     "name": "OGC GeoPackage (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_uch61_l_wgs84.gpkg"
-  },
-  {
-    "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_wgs84.gpkg"
   },
   {
@@ -2234,10 +2134,6 @@
   {
     "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/g_adresni_misto_all_sde_b_wgs84.gpkg"
-  },
-  {
-    "name": "OGC GeoPackage (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/g_pz_pam_zona_rez_op_p_wgs84.gpkg"
   },
   {
     "name": "OGC GeoPackage (WGS84)",
@@ -2298,14 +2194,6 @@
   {
     "name": "OGC GeoPackage (WGS84)",
     "url": "https://gis.brno.cz/public/opendata/od_mhd_linky_wgs84.gpkg"
-  },
-  {
-    "name": "OGC GeoPackage (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/od_pentlogram_bus_wgs84.gpkg"
-  },
-  {
-    "name": "OGC GeoPackage (WGS84)",
-    "url": "https://gis.brno.cz/public/opendata/od_pentlogram_tramvaj_wgs84.gpkg"
   },
   {
     "name": "OGC GeoPackage (WGS84)",
@@ -2513,10 +2401,6 @@
   },
   {
     "name": "ShapeFile (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/bkom_g_uch61_l_shp_sjtsk.zip"
-  },
-  {
-    "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/bkom_g_zony251_p_shp_sjtsk.zip"
   },
   {
@@ -2570,10 +2454,6 @@
   {
     "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/g_obec_p_shp_sjtsk.zip"
-  },
-  {
-    "name": "ShapeFile (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/g_pz_pam_zona_rez_op_p_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",
@@ -2641,15 +2521,7 @@
   },
   {
     "name": "ShapeFile (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/od_pentlogram_bus_shp_sjtsk.zip"
-  },
-  {
-    "name": "ShapeFile (S-JTSK)",
     "url": "https://gis.brno.cz/public/opendata/od_pentlogram_shp_sjtsk.zip"
-  },
-  {
-    "name": "ShapeFile (S-JTSK)",
-    "url": "https://gis.brno.cz/public/opendata/od_pentlogram_tramvaj_shp_sjtsk.zip"
   },
   {
     "name": "ShapeFile (S-JTSK)",

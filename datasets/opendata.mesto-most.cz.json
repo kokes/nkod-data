@@ -21,10 +21,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.mesto-most.cz/datasets/mestomost::jednorázové-hudební-akce"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::lokality-se-zákazem-konzumace-alkoholu"
   },
   {
@@ -46,6 +42,10 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::poplatek-za-užívání-veřejného-prostranství"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::pořádání-hudebních-akcí"
   },
   {
     "name": "ArcGIS Hub Dataset",

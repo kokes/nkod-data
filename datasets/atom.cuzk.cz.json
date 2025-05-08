@@ -120,7 +120,11 @@
     "url": "https://atom.cuzk.cz/get.ashx?theme=ZABAGED-GPKG"
   },
   {
-    "name": "Stahovací služba ATOM pro ZABAGED® - Výškopis - vrstevnice - OpenSearch",
+    "name": "Stahovací služba ATOM pro ZABAGED® - Výškopis - vrstevnice - DGN - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZABAGED-vyskopis-DGN"
+  },
+  {
+    "name": "Stahovací služba ATOM pro ZABAGED® - Výškopis - vrstevnice - SHP - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=ZABAGED-vyskopis"
   },
   {

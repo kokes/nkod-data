@@ -632,6 +632,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBY01PD/distribuce/json"
   },
   {
+    "name": "Stav a pohyb obyvatel obyvatel v obcích - předběžné údaje",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY01PDOB/distribuce/csv"
+  },
+  {
+    "name": "Stav a pohyb obyvatel obyvatel v obcích - předběžné údaje",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY01PDOB/distribuce/json"
+  },
+  {
     "name": "Stěhování - vybrané souhrnné údaje",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY06/distribuce/csv"
   },
@@ -838,6 +846,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY01PD/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY01PDOB/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",

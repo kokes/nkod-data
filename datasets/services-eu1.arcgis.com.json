@@ -29,6 +29,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Divadla_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Galerie_kreativc%C5%AF_WFL1/FeatureServer/3"
   },
   {
@@ -149,7 +153,7 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poskytovatel%C3%A9_soci%C3%A1ln%C3%ADch_slu%C5%BEeb_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
+    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Poskytovatel%C3%A9_soci%C3%A1ln%C3%ADch_slu%C5%BEeb_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -174,6 +178,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_strategick%C3%BDch_dokument%C5%AF_KVK_WFL1/FeatureServer/3"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Seznam_svazk%C5%AF_obc%C3%AD_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
   },
   {
     "name": "ArcGIS GeoService",

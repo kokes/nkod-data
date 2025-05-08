@@ -57,6 +57,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/datasets/KUOK::stavební-úřady-v-olomouckém-kraji-1"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.dataok.cz/datasets/KUOK::střední-školy"
   },
   {
@@ -242,6 +246,10 @@
   {
     "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/99f3e2324c1e47e7ba64c8e2c65d3d96/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/a6a8fb2ff8e84145b7a3118c0742b905/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -489,6 +497,10 @@
   },
   {
     "name": "File Geodatabase",
+    "url": "https://www.dataok.cz/api/download/v1/items/a6a8fb2ff8e84145b7a3118c0742b905/filegdb?layers=0"
+  },
+  {
+    "name": "File Geodatabase",
     "url": "https://www.dataok.cz/api/download/v1/items/aad6d12f8015425fa3fb63f079d2666b/filegdb?layers=5"
   },
   {
@@ -622,6 +634,10 @@
   {
     "name": "GeoJSON",
     "url": "https://www.dataok.cz/api/download/v1/items/99f3e2324c1e47e7ba64c8e2c65d3d96/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/a6a8fb2ff8e84145b7a3118c0742b905/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -829,6 +845,10 @@
   },
   {
     "name": "KML",
+    "url": "https://www.dataok.cz/api/download/v1/items/a6a8fb2ff8e84145b7a3118c0742b905/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://www.dataok.cz/api/download/v1/items/aad6d12f8015425fa3fb63f079d2666b/kml?layers=5"
   },
   {
@@ -1030,6 +1050,10 @@
   {
     "name": "Shapefile",
     "url": "https://www.dataok.cz/api/download/v1/items/99f3e2324c1e47e7ba64c8e2c65d3d96/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.dataok.cz/api/download/v1/items/a6a8fb2ff8e84145b7a3118c0742b905/shapefile?layers=0"
   },
   {
     "name": "Shapefile",

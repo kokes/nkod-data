@@ -305,6 +305,10 @@
   },
   {
     "name": "Excel",
+    "url": "https://www.datalk.cz/api/download/v1/items/66abb2bd10af48c49ef6e067aa1972c7/excel?layers=0"
+  },
+  {
+    "name": "Excel",
     "url": "https://www.datalk.cz/api/download/v1/items/68bd1d885b524391a7c08c91ebf1556c/excel?layers=0"
   },
   {
@@ -425,6 +429,10 @@
   },
   {
     "name": "Feature Collection",
+    "url": "https://www.datalk.cz/api/download/v1/items/66abb2bd10af48c49ef6e067aa1972c7/featureCollection?layers=0"
+  },
+  {
+    "name": "Feature Collection",
     "url": "https://www.datalk.cz/api/download/v1/items/68bd1d885b524391a7c08c91ebf1556c/featureCollection?layers=0"
   },
   {
@@ -542,6 +550,10 @@
   {
     "name": "File Geodatabase",
     "url": "https://www.datalk.cz/api/download/v1/items/5f6e9dc729f54ff9b45cda7a05730927/filegdb?layers=0"
+  },
+  {
+    "name": "File Geodatabase",
+    "url": "https://www.datalk.cz/api/download/v1/items/66abb2bd10af48c49ef6e067aa1972c7/filegdb?layers=0"
   },
   {
     "name": "File Geodatabase",
@@ -793,6 +805,10 @@
   },
   {
     "name": "GeoPackage",
+    "url": "https://www.datalk.cz/api/download/v1/items/66abb2bd10af48c49ef6e067aa1972c7/geoPackage?layers=0"
+  },
+  {
+    "name": "GeoPackage",
     "url": "https://www.datalk.cz/api/download/v1/items/68bd1d885b524391a7c08c91ebf1556c/geoPackage?layers=0"
   },
   {
@@ -1038,6 +1054,10 @@
   {
     "name": "SQLite Geodatabase",
     "url": "https://www.datalk.cz/api/download/v1/items/5f6e9dc729f54ff9b45cda7a05730927/sqlite?layers=0"
+  },
+  {
+    "name": "SQLite Geodatabase",
+    "url": "https://www.datalk.cz/api/download/v1/items/66abb2bd10af48c49ef6e067aa1972c7/sqlite?layers=0"
   },
   {
     "name": "SQLite Geodatabase",

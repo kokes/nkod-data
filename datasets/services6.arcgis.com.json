@@ -129,10 +129,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/chodniky/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/chranena_loziskova_uzemi/FeatureServer/0"
   },
   {
@@ -237,10 +233,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/mestska_pamatkova_rezervace/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/mobiliar_bariery/FeatureServer/0"
   },
   {
@@ -266,14 +258,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/objekty_drobne_architektury/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/od_pentlogram_bus_wgs84/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/fUWVlHWZNxUvTUh8/arcgis/rest/services/od_pentlogram_tramvaj_wgs84/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -517,11 +501,11 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Adres%C3%A1%C5%99_obc%C3%AD/FeatureServer/0"
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Administrativn%C3%AD_%C4%8Dlen%C4%9Bn%C3%AD_obc%C3%AD/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Ambulantn%C3%AD_gynekologov%C3%A9/FeatureServer/0"
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Adres%C3%A1%C5%99_obc%C3%AD/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -537,6 +521,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Botanick%C3%A9_zahrady_a_arboreta/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/C%C3%ADrkevn%C3%AD_pam%C3%A1tky/FeatureServer/0"
   },
   {
@@ -549,6 +537,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Dobrovoln%C3%A9_svazky_obc%C3%AD/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Doj%C3%AD%C5%BE%C4%8Fka_do_st%C5%99edn%C3%ADch_%C5%A1kol/FeatureServer/0"
   },
   {
@@ -557,7 +549,31 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Hospod%C3%A1%C5%99sky_a_soci%C3%A1ln%C4%9B_ohro%C5%BEen%C3%A9_oblasti/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Hrady/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Hranice_Kr%C3%A1lov%C3%A9hradeck%C3%A9ho_kraje/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Hranice_obc%C3%AD_v_Kr%C3%A1lov%C3%A9hradeck%C3%A9m_kraji/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Hranice_okres%C5%AF_v_Kr%C3%A1lov%C3%A9hradeck%C3%A9m_kraji/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Hranice_spr%C3%A1vn%C3%ADch_obvod%C5%AF_obc%C3%AD_s_pov%C4%9B%C5%99en%C3%BDm_obecn%C3%ADm_%C3%BA%C5%99adem_v_Kr%C3%A1lov%C3%A9hradeck%C3%A9m_kraji/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Hranice_spr%C3%A1vn%C3%ADch_obvod%C5%AF_obc%C3%AD_s_roz%C5%A1%C3%AD%C5%99enou_p%C5%AFsobnost%C3%AD_v_Kr%C3%A1lov%C3%A9hradeck%C3%A9m_kraji/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -629,7 +645,15 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Leti%C5%A1t%C4%9B/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Letn%C3%AD_koup%C3%A1n%C3%AD/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/M%C3%ADstn%C3%AD_ak%C4%8Dn%C3%AD_skupiny/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -658,6 +682,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Nadregion%C3%A1ln%C3%AD_a_region%C3%A1ln%C3%AD_%C3%9ASES_vymezen%C3%BD_v_Z%C3%9AR_KHK/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Nemocnice/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -721,19 +749,7 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Pivovary/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Pl%C3%A1n_zimn%C3%AD_%C3%BAdr%C5%BEby_silnic/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Pl%C3%A1novan%C3%A9_opravy_silni%C4%8Dn%C3%AD_infrastruktury_na_rok_2022_bodov%C3%A9/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Pl%C3%A1novan%C3%A9_opravy_silni%C4%8Dn%C3%AD_infrastruktury_na_rok_2022_liniov%C3%A9/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -742,6 +758,14 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Plochy_jejich%C5%BE_vyu%C5%BEit%C3%AD/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Plochy_pro_sportovn%C3%AD_l%C3%A9taj%C3%ADc%C3%AD_za%C5%99%C3%ADzen%C3%AD/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Po%C4%8Det_obydlen%C3%BDch_dom%C5%AF_dle_p%C5%99ipojen%C3%AD_na_kanalizaci_v_obc%C3%ADch/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -754,6 +778,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Po%C4%8Dty_student%C5%AF_v_oborech_vy%C5%A1%C5%A1%C3%ADch_odborn%C3%BDch_%C5%A1kol_z%C5%99izovan%C3%BDch_krajem/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Pod%C3%ADl_obydlen%C3%BDch_dom%C5%AF_dle_p%C5%99ipojen%C3%AD_na_kanalizaci/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -789,6 +817,42 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Schv%C3%A1len%C3%A9_individu%C3%A1ln%C3%AD_a_programov%C3%A9_dotace_do_ORP/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Schv%C3%A1len%C3%A9_individu%C3%A1ln%C3%AD_a_programov%C3%A9_dotace_do_kraje/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Schv%C3%A1len%C3%A9_individu%C3%A1ln%C3%AD_a_programov%C3%A9_dotace_do_okres%C5%AF/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Schv%C3%A1len%C3%A9_individu%C3%A1ln%C3%AD_dotace_do_ORP/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Schv%C3%A1len%C3%A9_individu%C3%A1ln%C3%AD_dotace_do_kraje/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Schv%C3%A1len%C3%A9_individu%C3%A1ln%C3%AD_dotace_do_okres%C5%AF/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Schv%C3%A1len%C3%A9_programov%C3%A9_dotace_do_ORP/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Schv%C3%A1len%C3%A9_programov%C3%A9_dotace_do_kraje/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Schv%C3%A1len%C3%A9_programov%C3%A9_dotace_do_okres%C5%AF/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Seznam_%C5%A1kol_a_%C5%A1kolsk%C3%BDch_za%C5%99%C3%ADzen%C3%AD/FeatureServer/0"
   },
   {
@@ -818,6 +882,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Technick%C3%A9_pam%C3%A1tky/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Turistick%C3%A9_regiony/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -878,6 +946,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Z%C3%A1mky/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/ZOO_a_zooparky/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
