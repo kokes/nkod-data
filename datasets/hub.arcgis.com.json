@@ -1,5 +1,13 @@
 [
   {
+    "name": "Poskytování dat AOPK ČR - Památné stromy bez určení polohy jedinců - linie (Esri Shape, WGS84, 55 kB)",
+    "url": "https://hub.arcgis.com/api/v3/datasets/119bb29912604030946bb592e57ca238_31/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Památné stromy bez určení polohy jedinců - polygony (Esri Shape, WGS84, 55 kB)",
+    "url": "https://hub.arcgis.com/api/v3/datasets/62768537abab426fa676b671046cc4ac_32/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
+  },
+  {
     "name": "Poskytování dat AOPK ČR - Památné stromy s určenou polohou jedinců (Esri Shape, WGS84, 418 kB)",
     "url": "https://hub.arcgis.com/api/v3/datasets/362de39fceee4a9e9ba1f795bd9bffc6_30/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
   },
