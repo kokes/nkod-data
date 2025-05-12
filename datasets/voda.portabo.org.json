@@ -1,0 +1,10 @@
+[
+  {
+    "name": "JSON soubor aktuálních stavů povodňových čidel",
+    "url": "https://voda.portabo.org/api/aktualne.json"
+  },
+  {
+    "name": "JSON soubor hlásičů",
+    "url": "https://voda.portabo.org/api/hlasice.json"
+  }
+]
