@@ -41,6 +41,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::poplatek-za-užívání-veřejného-prostranství"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::pořádání-hudebních-akcí"
   },
   {
@@ -162,6 +166,10 @@
   {
     "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/31be77b07d274c2d8683ae89664a3cf0/csv?layers=19"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/325d54719b1c48349d33b263d913a1c7/csv?layers=56"
   },
   {
     "name": "CSV",
@@ -297,6 +305,10 @@
   },
   {
     "name": "File Geodatabase",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/325d54719b1c48349d33b263d913a1c7/filegdb?layers=56"
+  },
+  {
+    "name": "File Geodatabase",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/38a456b282fd4010b56e2d14764f7745/filegdb?layers=25"
   },
   {
@@ -426,6 +438,10 @@
   {
     "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/31be77b07d274c2d8683ae89664a3cf0/geojson?layers=19"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/325d54719b1c48349d33b263d913a1c7/geojson?layers=56"
   },
   {
     "name": "GeoJSON",
@@ -561,6 +577,10 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/325d54719b1c48349d33b263d913a1c7/kml?layers=56"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/38a456b282fd4010b56e2d14764f7745/kml?layers=25"
   },
   {
@@ -690,6 +710,10 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/31be77b07d274c2d8683ae89664a3cf0/shapefile?layers=19"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/325d54719b1c48349d33b263d913a1c7/shapefile?layers=56"
   },
   {
     "name": "Shapefile",

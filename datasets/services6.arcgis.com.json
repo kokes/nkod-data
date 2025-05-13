@@ -509,6 +509,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Ambulantn%C3%AD_gynekologov%C3%A9/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Architektonick%C3%A9_pam%C3%A1tky/FeatureServer/0"
   },
   {
@@ -746,6 +750,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Pevnosti_a_opevn%C4%9Bn%C3%AD/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services6.arcgis.com/ogJAiK65nXL1mXAW/arcgis/rest/services/Pivovary/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
