@@ -4,6 +4,10 @@
     "url": "https://data.mzp.cz/isoh2/OpenData/HF04/AOS.xml"
   },
   {
+    "name": "Dopravci.xml",
+    "url": "https://data.mzp.cz/isoh2/OpenData/HF10/Dopravci.xml"
+  },
+  {
     "name": "KS.xml",
     "url": "https://data.mzp.cz/isoh2/OpenData/HF05/KS.xml"
   },
@@ -18,6 +22,26 @@
   {
     "name": "KS.xml",
     "url": "https://data.mzp.cz/isoh2/OpenData/HF11/KS.xml"
+  },
+  {
+    "name": "MistaZOPneu.xml",
+    "url": "https://data.mzp.cz/isoh2/OpenData/HF08/MistaZOPneu.xml"
+  },
+  {
+    "name": "Obchodnici.xml",
+    "url": "https://data.mzp.cz/t-isoh2/OpenData/HF09/Obchodnici.xml"
+  },
+  {
+    "name": "Sklady.xml",
+    "url": "https://data.mzp.cz/t-isoh2/OpenData/HF09/Sklady.xml"
+  },
+  {
+    "name": "VyrobciEU.xml",
+    "url": "https://data.mzp.cz/isoh2/OpenData/HF05/VyrobciEU.xml"
+  },
+  {
+    "name": "Zprostredkovatele.xml",
+    "url": "https://data.mzp.cz/isoh2/OpenData/HF12/Zprostredkovatele.xml"
   },
   {
     "name": "aopk_objednavky.csv",

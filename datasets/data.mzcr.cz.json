@@ -188,6 +188,10 @@
     "url": "https://data.mzcr.cz/data/distribuce/372/Otevrena-data-NR-07-01-incidence-prevalence-zhoubne-nadory-regiony-cr-2024-01.csv"
   },
   {
+    "name": "Individuálně připravované léčivé přípravky  dle typu – počty unikátních pacientů",
+    "url": "https://data.mzcr.cz/data/distribuce/450/Otevrena-data-NR-04-73-individualne-pripravovane-lecive-pripravky-typ-ivlp-unikatni-pacienti.csv"
+  },
+  {
     "name": "Individuálně připravované léčivé přípravky – kód SÚKL, měsíc, IČP předpisu, IČZ výdeje",
     "url": "https://data.mzcr.cz/data/distribuce/430/Otevrena-data-NR-04-17-individualne-pripravovane-lecive-pripravky-sukl-mesic-icp-icz.7z"
   },
@@ -486,6 +490,10 @@
   {
     "name": "Zdravotnická technika dle zdravotnických zařízení",
     "url": "https://data.mzcr.cz/data/distribuce/401/Otevrena-data-SSS-04-01-zdravotnicka-technika-zarizeni.csv"
+  },
+  {
+    "name": "Zdravotnické prostředky – kód zdravotní pojišťovny, měsíc, IČP předpisu, IČZ výdeje",
+    "url": "https://data.mzcr.cz/data/distribuce/448/Otevrena-data-NR-04-68-zdravotnicke-prostredky-kod-zp-mesic-icp-predpis-icz-vydej.7z"
   },
   {
     "name": "Zdravotnické prostředky – kód, měsíc, IČZ",
