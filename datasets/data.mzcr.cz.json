@@ -152,6 +152,10 @@
     "url": "https://data.mzcr.cz/data/distribuce/411/Otevrena-data-NR-04-27-hromadne-vyrabene-lecive-pripravky-sukl-atc-vykazani-mesic-icz-2024-01.csv"
   },
   {
+    "name": "Hromadně vyráběné léčivé přípravky dle ATC skupiny – počty unikátních pacientů",
+    "url": "https://data.mzcr.cz/data/distribuce/451/Otevrena-data-NR-04-71-hromadne-vyrabene-lecive-pripravky-atc-unikatni-pacienti.7z"
+  },
+  {
     "name": "Hromadně vyráběné léčivé přípravky dle SÚKL kódu (ATC aktuální)",
     "url": "https://data.mzcr.cz/data/distribuce/416/Otevrena-data-NR-04-20-hromadne-vyrabene-lecive-pripravky-sukl-atc-aktualni-2024-01.csv"
   },
@@ -190,6 +194,10 @@
   {
     "name": "Individuálně připravované léčivé přípravky  dle typu – počty unikátních pacientů",
     "url": "https://data.mzcr.cz/data/distribuce/450/Otevrena-data-NR-04-73-individualne-pripravovane-lecive-pripravky-typ-ivlp-unikatni-pacienti.csv"
+  },
+  {
+    "name": "Individuálně připravované léčivé přípravky dle kódu SÚKL – počty unikátních pacientů",
+    "url": "https://data.mzcr.cz/data/distribuce/452/Otevrena-data-NR-04-72-individualne-pripravovane-lecive-pripravky-sukl-unikatni-pacienti.csv"
   },
   {
     "name": "Individuálně připravované léčivé přípravky – kód SÚKL, měsíc, IČP předpisu, IČZ výdeje",
