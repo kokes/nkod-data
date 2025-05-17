@@ -504,6 +504,14 @@
     "url": "https://data.mzcr.cz/data/distribuce/401/Otevrena-data-SSS-04-01-zdravotnicka-technika-zarizeni.csv"
   },
   {
+    "name": "Zdravotnické prostředky dle kódu – počty unikátních pacientů",
+    "url": "https://data.mzcr.cz/data/distribuce/453/Otevrena-data-NR-04-74-zdravotnicke-prostredky-kod-unikatni-pacienti.csv"
+  },
+  {
+    "name": "Zdravotnické prostředky dle typu – počty unikátních pacientů",
+    "url": "https://data.mzcr.cz/data/distribuce/454/Otevrena-data-NR-04-75-zdravotnicke-prostredky-typ-unikatni-pacienti.csv"
+  },
+  {
     "name": "Zdravotnické prostředky – kód zdravotní pojišťovny, měsíc, IČP předpisu, IČZ výdeje",
     "url": "https://data.mzcr.cz/data/distribuce/448/Otevrena-data-NR-04-68-zdravotnicke-prostredky-kod-zp-mesic-icp-predpis-icz-vydej.7z"
   },
