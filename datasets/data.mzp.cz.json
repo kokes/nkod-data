@@ -32,8 +32,36 @@
     "url": "https://data.mzp.cz/t-isoh2/OpenData/HF09/Obchodnici.xml"
   },
   {
+    "name": "PZ.xml",
+    "url": "https://data.mzp.cz/isoh2/OpenData/HF05/PZ.xml"
+  },
+  {
+    "name": "PZ.xml",
+    "url": "https://data.mzp.cz/isoh2/OpenData/HF07/PZ.xml"
+  },
+  {
+    "name": "PZ.xml",
+    "url": "https://data.mzp.cz/isoh2/OpenData/HF08/PZ.xml"
+  },
+  {
     "name": "Sklady.xml",
     "url": "https://data.mzp.cz/t-isoh2/OpenData/HF09/Sklady.xml"
+  },
+  {
+    "name": "Vyrobci.xml",
+    "url": "https://data.mzp.cz/isoh2/OpenData/HF04/Vyrobci.xml"
+  },
+  {
+    "name": "Vyrobci.xml",
+    "url": "https://data.mzp.cz/isoh2/OpenData/HF05/Vyrobci.xml"
+  },
+  {
+    "name": "Vyrobci.xml",
+    "url": "https://data.mzp.cz/isoh2/OpenData/HF07/Vyrobci.xml"
+  },
+  {
+    "name": "Vyrobci.xml",
+    "url": "https://data.mzp.cz/isoh2/OpenData/HF08/Vyrobci.xml"
   },
   {
     "name": "VyrobciEU.xml",
