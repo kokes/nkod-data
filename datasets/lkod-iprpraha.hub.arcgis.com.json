@@ -369,6 +369,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::změny-územního-plánu-vymezení-změn"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::zookoutky-lesů-hmp-a-dále-farmy-terária-záchranné-stanice-a-další-podobné-objekty-jiných-organizací-na-území-prahy"
   },
   {
@@ -690,6 +694,10 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/a97530a00cec420daf322962a4d0ec2a/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/a9fd0f0b57f04baab4485afab85ed2fe/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -1117,6 +1125,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/a9fd0f0b57f04baab4485afab85ed2fe/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/ad11523f87054026aef34a870d8583ec/geojson?layers=0"
   },
   {
@@ -1541,6 +1553,10 @@
   },
   {
     "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/a9fd0f0b57f04baab4485afab85ed2fe/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/ad11523f87054026aef34a870d8583ec/kml?layers=0"
   },
   {
@@ -1962,6 +1978,10 @@
   {
     "name": "XLSX",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/a97530a00cec420daf322962a4d0ec2a/excel?layers=0"
+  },
+  {
+    "name": "XLSX",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/a9fd0f0b57f04baab4485afab85ed2fe/excel?layers=0"
   },
   {
     "name": "XLSX",
@@ -2654,6 +2674,14 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/a97530a00cec420daf322962a4d0ec2a/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/a9fd0f0b57f04baab4485afab85ed2fe/filegdb?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/a9fd0f0b57f04baab4485afab85ed2fe/shapefile?layers=0"
   },
   {
     "name": "ZIP",
