@@ -128,12 +128,12 @@
     "url": "https://data.mzp.cz/datasets/dataset/geology/mzp_evidence_vydanych_osvedceni_odpovedneho_resitele_geologickych_praci"
   },
   {
-    "name": "gmo-mzp_gmo_uzivatele_riziko_1_a_2.csv",
-    "url": "https://data.mzp.cz/datasets/dataset/gmo/mzp_gmo_uzivatele_riziko_1_a_2"
-  },
-  {
     "name": "gmo-mzp_gmo_uzivatele_riziko_3.csv",
     "url": "https://data.mzp.cz/datasets/dataset/gmo/mzp_gmo_uzivatele_riziko_3"
+  },
+  {
+    "name": "gmo-mzp_uzivatele_s_opravnenim_k_uzavrenemu_nakladani_s_gmo_v_prvni_a_druhe_kategorii_rizika.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/gmo/mzp_uzivatele_s_opravnenim_k_uzavrenemu_nakladani_s_gmo_v_prvni_a_druhe_kategorii_rizika"
   },
   {
     "name": "hnvo-mzp_prehled_osob_poverenych_k_hodnoceni_nebezpecnych_vlastnosti_odpadu.csv",

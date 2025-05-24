@@ -161,6 +161,10 @@
   },
   {
     "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Open_data_RSO/FeatureServer/48"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
     "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Open_data_RSO/FeatureServer/49"
   },
   {
@@ -570,6 +574,10 @@
   {
     "name": "gdb",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/47/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/48/gdb.zip"
   },
   {
     "name": "gdb",
@@ -985,6 +993,10 @@
   },
   {
     "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/48/geojson.zip"
+  },
+  {
+    "name": "geojson",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/49/geojson.zip"
   },
   {
@@ -1397,6 +1409,10 @@
   },
   {
     "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/48/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/49/gpkg.zip"
   },
   {
@@ -1806,6 +1822,10 @@
   {
     "name": "shp",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/47/shp.zip"
+  },
+  {
+    "name": "shp",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/48/shp.zip"
   },
   {
     "name": "shp",

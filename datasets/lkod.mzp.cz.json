@@ -220,6 +220,10 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-ztraty-vody-2023.csv"
   },
   {
+    "name": "mzp-certifi-osoby-biopaliva.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-certifi-osoby-biopaliva-2024.csv"
+  },
+  {
     "name": "mzp-katalog-odpadu.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-katalog-odpadu-2025.csv"
   },
@@ -241,19 +245,11 @@
   },
   {
     "name": "mzp-pripady-ekologicke-ujmy.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-pripady-ekologicke-ujmy-2023.csv"
-  },
-  {
-    "name": "mzp-provozovny-irz-crzp.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-provozovny-irz-crzp-2023.csv"
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-pripady-ekologicke-ujmy-2024.csv"
   },
   {
     "name": "mzp-slozeni-a-vlastnosti-kalu.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-slozeni-a-vlastnosti-kalu-2023.csv"
-  },
-  {
-    "name": "mzp-uniky-prenosy-latek.xlsx",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-uniky-prenosy-latek-2023.xlsx"
   },
   {
     "name": "mzp-zpusoby-nakladani-s-odpady.csv",
