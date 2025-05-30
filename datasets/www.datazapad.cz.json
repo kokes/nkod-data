@@ -4,8 +4,32 @@
     "url": "https://www.datazapad.cz/pages/dalsi-vystupy-analyza-nabidek-prace"
   },
   {
+    "name": "ArcGIS GeoService",
+    "url": "https://www.datazapad.cz/pages/dalsi-vystupy-chytre-mobilni-aplikace"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://www.datazapad.cz/pages/dalsi-vystupy-chytry-region"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://www.datazapad.cz/pages/dalsi-vystupy-vyhodnoceni-predpokladu-rozvoje-chytre-obce"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datazapad.cz/apps/2d4c18ac954d44008f078fe0227ecd39"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datazapad.cz/apps/4d92b6da8ad84852a7ab620155bf8ffe"
+  },
+  {
     "name": "ArcGIS Hub Dataset",
     "url": "https://www.datazapad.cz/apps/c693eb86f1974cc18e6a0bc5ae8d39ee"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datazapad.cz/apps/e8889c6594154e30a4b39a5d8e747f0d"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -137,7 +161,7 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_0"
+    "url": "https://www.datazapad.cz/datasets/5e900a28dedd446aa8ae18d49ac88d70_3"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -405,7 +429,7 @@
   },
   {
     "name": "CSV",
-    "url": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/csv?layers=0"
+    "url": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/csv?layers=3"
   },
   {
     "name": "CSV",
@@ -1181,7 +1205,7 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/geojson?layers=0"
+    "url": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/geojson?layers=3"
   },
   {
     "name": "GeoJSON",
@@ -1605,7 +1629,7 @@
   },
   {
     "name": "KML",
-    "url": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/kml?layers=0"
+    "url": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/kml?layers=3"
   },
   {
     "name": "KML",
@@ -2029,7 +2053,7 @@
   },
   {
     "name": "Shapefile",
-    "url": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/shapefile?layers=0"
+    "url": "https://www.datazapad.cz/api/download/v1/items/5e900a28dedd446aa8ae18d49ac88d70/shapefile?layers=3"
   },
   {
     "name": "Shapefile",
