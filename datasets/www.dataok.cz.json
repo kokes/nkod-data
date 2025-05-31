@@ -89,6 +89,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/datasets/KUOK::zastávky-hromadné-dopravy-v-olomouckém-kraji"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.dataok.cz/datasets/KUOK::zařízení-pro-ústavní-výchovu-1"
   },
   {
@@ -152,6 +156,10 @@
     "url": "https://www.dataok.cz/datasets/KUOK::školská-účelová-zařízení-1"
   },
   {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/datasets/a1f887c679544bd0a011c5006d0e0599_1"
+  },
+  {
     "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/078471c939c74397887e2abfecd1dc0a/csv?layers=4"
   },
@@ -186,6 +194,10 @@
   {
     "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/337d69daf0bb47ecbaaa6825eadc4775/csv?layers=8"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/3e42001252dc42fdbf5f3c8240be779e/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -246,6 +258,10 @@
   {
     "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/99f3e2324c1e47e7ba64c8e2c65d3d96/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/a1f887c679544bd0a011c5006d0e0599/csv?layers=1"
   },
   {
     "name": "CSV",
@@ -441,6 +457,10 @@
   },
   {
     "name": "File Geodatabase",
+    "url": "https://www.dataok.cz/api/download/v1/items/3e42001252dc42fdbf5f3c8240be779e/filegdb?layers=0"
+  },
+  {
+    "name": "File Geodatabase",
     "url": "https://www.dataok.cz/api/download/v1/items/41d3278562cb4cebb2336178d1925011/filegdb?layers=4"
   },
   {
@@ -494,6 +514,10 @@
   {
     "name": "File Geodatabase",
     "url": "https://www.dataok.cz/api/download/v1/items/99f3e2324c1e47e7ba64c8e2c65d3d96/filegdb?layers=0"
+  },
+  {
+    "name": "File Geodatabase",
+    "url": "https://www.dataok.cz/api/download/v1/items/a1f887c679544bd0a011c5006d0e0599/filegdb?layers=1"
   },
   {
     "name": "File Geodatabase",
@@ -577,6 +601,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/3e42001252dc42fdbf5f3c8240be779e/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://www.dataok.cz/api/download/v1/items/41d3278562cb4cebb2336178d1925011/geojson?layers=4"
   },
   {
@@ -634,6 +662,10 @@
   {
     "name": "GeoJSON",
     "url": "https://www.dataok.cz/api/download/v1/items/99f3e2324c1e47e7ba64c8e2c65d3d96/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/a1f887c679544bd0a011c5006d0e0599/geojson?layers=1"
   },
   {
     "name": "GeoJSON",
@@ -785,6 +817,10 @@
   },
   {
     "name": "KML",
+    "url": "https://www.dataok.cz/api/download/v1/items/3e42001252dc42fdbf5f3c8240be779e/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://www.dataok.cz/api/download/v1/items/41d3278562cb4cebb2336178d1925011/kml?layers=4"
   },
   {
@@ -842,6 +878,10 @@
   {
     "name": "KML",
     "url": "https://www.dataok.cz/api/download/v1/items/99f3e2324c1e47e7ba64c8e2c65d3d96/kml?layers=0"
+  },
+  {
+    "name": "KML",
+    "url": "https://www.dataok.cz/api/download/v1/items/a1f887c679544bd0a011c5006d0e0599/kml?layers=1"
   },
   {
     "name": "KML",
@@ -993,6 +1033,10 @@
   },
   {
     "name": "Shapefile",
+    "url": "https://www.dataok.cz/api/download/v1/items/3e42001252dc42fdbf5f3c8240be779e/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
     "url": "https://www.dataok.cz/api/download/v1/items/41d3278562cb4cebb2336178d1925011/shapefile?layers=4"
   },
   {
@@ -1050,6 +1094,10 @@
   {
     "name": "Shapefile",
     "url": "https://www.dataok.cz/api/download/v1/items/99f3e2324c1e47e7ba64c8e2c65d3d96/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.dataok.cz/api/download/v1/items/a1f887c679544bd0a011c5006d0e0599/shapefile?layers=1"
   },
   {
     "name": "Shapefile",

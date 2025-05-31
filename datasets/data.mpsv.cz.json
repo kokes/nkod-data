@@ -4,6 +4,10 @@
     "url": "https://data.mpsv.cz/documents/1749923/7049685/akris.csv"
   },
   {
+    "name": "CSV distribuce",
+    "url": "https://data.mpsv.cz/portal/api/reports/by-table/detske_skupiny_evid_poskyt_seznam_akt_odata/data/csv?fileName=detske_skupiny_evidendce_poskytovatelu_data"
+  },
+  {
     "name": "JSON distribuce",
     "url": "https://data.mpsv.cz/od/soubory/agentury-prace/agentury-prace.json"
   },
@@ -210,6 +214,10 @@
   {
     "name": "JSON distribuce",
     "url": "https://data.mpsv.cz/od/soubory/volna-mista/volna-mista.json"
+  },
+  {
+    "name": "JSON distribuce",
+    "url": "https://data.mpsv.cz/portal/api/reports/by-table/detske_skupiny_evid_poskyt_seznam_akt_odata/data/json?fileName=detske_skupiny_evidendce_poskytovatelu_data"
   },
   {
     "name": "JSON-LD distribuce",
