@@ -5,6 +5,14 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/%C5%A1kolsk%C3%A1_%C3%BA%C4%8Delov%C3%A1_za%C5%99%C3%ADzen%C3%AD/FeatureServer/12"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/%C5%A1kolsk%C3%A1_poradensk%C3%A1_za%C5%99%C3%ADzen%C3%AD/FeatureServer/10"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/KUOK_PO_arealy_b/FeatureServer/1"
   },
   {
@@ -45,7 +53,15 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/konzervato%C5%99e/FeatureServer/4"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/linky_hromadn%C3%A9_dopravy_v_Olomouck%C3%A9m_kraji/FeatureServer/1"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/mate%C5%99sk%C3%A9_%C5%A1koly/FeatureServer/1"
   },
   {
     "name": "ArcGIS GeoService",
@@ -57,7 +73,19 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/s%C3%ADdla_%C5%A1kol_a_%C5%A1kolsk%C3%BDch_za%C5%99%C3%ADzen%C3%AD/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/st%C5%99edn%C3%AD_%C5%A1koly/FeatureServer/3"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/stavebn%C3%AD_%C3%BA%C5%99ady_v_Olomouck%C3%A9m_kraji/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/v%C3%BDchovn%C3%A1_a_ubytovac%C3%AD_za%C5%99%C3%ADzen%C3%AD/FeatureServer/8"
   },
   {
     "name": "ArcGIS GeoService",
@@ -66,6 +94,30 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/ve%C5%99ejn%C3%A9_zak%C3%A1zky_Spr%C3%A1vy_silnic_Olomouck%C3%A9ho_kraje/FeatureServer/1"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/vy%C5%A1%C5%A1%C3%AD_odborn%C3%A9_%C5%A1koly/FeatureServer/5"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/z%C3%A1jmov%C3%A1_a_dal%C5%A1%C3%AD_vzd%C4%9Bl%C3%A1vac%C3%AD_za%C5%99%C3%ADzen%C3%AD/FeatureServer/7"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/z%C3%A1kladn%C3%AD_%C5%A1koly/FeatureServer/2"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/z%C3%A1kladn%C3%AD_um%C4%9Bleck%C3%A9_a_jazykov%C3%A9_%C5%A1koly/FeatureServer/6"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/za%C5%99%C3%ADzen%C3%AD_%C5%A1koln%C3%ADho_stravov%C3%A1n%C3%AD/FeatureServer/11"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/za%C5%99%C3%ADzen%C3%AD_pro_%C3%BAstavn%C3%AD_v%C3%BDchovu/FeatureServer/9"
   },
   {
     "name": "ArcGIS GeoService",
