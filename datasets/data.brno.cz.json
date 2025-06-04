@@ -817,7 +817,11 @@
   },
   {
     "name": "Excel",
-    "url": "https://data.brno.cz/api/download/v1/items/ae127275aea746c7a51700fbf1fd2cd4/excel?layers=0"
+    "url": "https://data.brno.cz/api/download/v1/items/b394fb376f864fd5b9c54ef6110d8f50/excel?layers=0"
+  },
+  {
+    "name": "Excel",
+    "url": "https://data.brno.cz/api/download/v1/items/b408b67db62a48d18a67bd35471ed9ba/excel?layers=0"
   },
   {
     "name": "Excel",
@@ -825,11 +829,11 @@
   },
   {
     "name": "Excel",
-    "url": "https://data.brno.cz/api/download/v1/items/ba8af939bd0f478e8a857919cb471811/excel?layers=0"
+    "url": "https://data.brno.cz/api/download/v1/items/c0442f0fd62a4e99b9c9d21c3ca12aff/excel?layers=0"
   },
   {
     "name": "Excel",
-    "url": "https://data.brno.cz/api/download/v1/items/bc0517d480a248bca1385e8423a3143d/excel?layers=0"
+    "url": "https://data.brno.cz/api/download/v1/items/c1706957c4874512922e0c22a53bdd3f/excel?layers=0"
   },
   {
     "name": "Excel",
@@ -858,10 +862,6 @@
   {
     "name": "Excel",
     "url": "https://data.brno.cz/api/download/v1/items/cfcc180c1c3642109e17cf0b11387a0a/excel?layers=0"
-  },
-  {
-    "name": "Excel",
-    "url": "https://data.brno.cz/api/download/v1/items/d10d58b1349a4d6caae68c6d10db4dd1/excel?layers=0"
   },
   {
     "name": "Excel",
@@ -1209,7 +1209,11 @@
   },
   {
     "name": "Feature Collection",
-    "url": "https://data.brno.cz/api/download/v1/items/ae127275aea746c7a51700fbf1fd2cd4/featureCollection?layers=0"
+    "url": "https://data.brno.cz/api/download/v1/items/b394fb376f864fd5b9c54ef6110d8f50/featureCollection?layers=0"
+  },
+  {
+    "name": "Feature Collection",
+    "url": "https://data.brno.cz/api/download/v1/items/b408b67db62a48d18a67bd35471ed9ba/featureCollection?layers=0"
   },
   {
     "name": "Feature Collection",
@@ -1217,11 +1221,11 @@
   },
   {
     "name": "Feature Collection",
-    "url": "https://data.brno.cz/api/download/v1/items/ba8af939bd0f478e8a857919cb471811/featureCollection?layers=0"
+    "url": "https://data.brno.cz/api/download/v1/items/c0442f0fd62a4e99b9c9d21c3ca12aff/featureCollection?layers=0"
   },
   {
     "name": "Feature Collection",
-    "url": "https://data.brno.cz/api/download/v1/items/bc0517d480a248bca1385e8423a3143d/featureCollection?layers=0"
+    "url": "https://data.brno.cz/api/download/v1/items/c1706957c4874512922e0c22a53bdd3f/featureCollection?layers=0"
   },
   {
     "name": "Feature Collection",
@@ -1250,10 +1254,6 @@
   {
     "name": "Feature Collection",
     "url": "https://data.brno.cz/api/download/v1/items/cfcc180c1c3642109e17cf0b11387a0a/featureCollection?layers=0"
-  },
-  {
-    "name": "Feature Collection",
-    "url": "https://data.brno.cz/api/download/v1/items/d10d58b1349a4d6caae68c6d10db4dd1/featureCollection?layers=0"
   },
   {
     "name": "Feature Collection",
@@ -1617,7 +1617,11 @@
   },
   {
     "name": "File Geodatabase",
-    "url": "https://data.brno.cz/api/download/v1/items/ae127275aea746c7a51700fbf1fd2cd4/filegdb?layers=0"
+    "url": "https://data.brno.cz/api/download/v1/items/b394fb376f864fd5b9c54ef6110d8f50/filegdb?layers=0"
+  },
+  {
+    "name": "File Geodatabase",
+    "url": "https://data.brno.cz/api/download/v1/items/b408b67db62a48d18a67bd35471ed9ba/filegdb?layers=0"
   },
   {
     "name": "File Geodatabase",
@@ -1625,11 +1629,11 @@
   },
   {
     "name": "File Geodatabase",
-    "url": "https://data.brno.cz/api/download/v1/items/ba8af939bd0f478e8a857919cb471811/filegdb?layers=0"
+    "url": "https://data.brno.cz/api/download/v1/items/c0442f0fd62a4e99b9c9d21c3ca12aff/filegdb?layers=0"
   },
   {
     "name": "File Geodatabase",
-    "url": "https://data.brno.cz/api/download/v1/items/bc0517d480a248bca1385e8423a3143d/filegdb?layers=0"
+    "url": "https://data.brno.cz/api/download/v1/items/c1706957c4874512922e0c22a53bdd3f/filegdb?layers=0"
   },
   {
     "name": "File Geodatabase",
@@ -1658,10 +1662,6 @@
   {
     "name": "File Geodatabase",
     "url": "https://data.brno.cz/api/download/v1/items/cfcc180c1c3642109e17cf0b11387a0a/filegdb?layers=0"
-  },
-  {
-    "name": "File Geodatabase",
-    "url": "https://data.brno.cz/api/download/v1/items/d10d58b1349a4d6caae68c6d10db4dd1/filegdb?layers=0"
   },
   {
     "name": "File Geodatabase",
@@ -2553,7 +2553,11 @@
   },
   {
     "name": "GeoPackage",
-    "url": "https://data.brno.cz/api/download/v1/items/ae127275aea746c7a51700fbf1fd2cd4/geoPackage?layers=0"
+    "url": "https://data.brno.cz/api/download/v1/items/b394fb376f864fd5b9c54ef6110d8f50/geoPackage?layers=0"
+  },
+  {
+    "name": "GeoPackage",
+    "url": "https://data.brno.cz/api/download/v1/items/b408b67db62a48d18a67bd35471ed9ba/geoPackage?layers=0"
   },
   {
     "name": "GeoPackage",
@@ -2561,11 +2565,11 @@
   },
   {
     "name": "GeoPackage",
-    "url": "https://data.brno.cz/api/download/v1/items/ba8af939bd0f478e8a857919cb471811/geoPackage?layers=0"
+    "url": "https://data.brno.cz/api/download/v1/items/c0442f0fd62a4e99b9c9d21c3ca12aff/geoPackage?layers=0"
   },
   {
     "name": "GeoPackage",
-    "url": "https://data.brno.cz/api/download/v1/items/bc0517d480a248bca1385e8423a3143d/geoPackage?layers=0"
+    "url": "https://data.brno.cz/api/download/v1/items/c1706957c4874512922e0c22a53bdd3f/geoPackage?layers=0"
   },
   {
     "name": "GeoPackage",
@@ -2594,10 +2598,6 @@
   {
     "name": "GeoPackage",
     "url": "https://data.brno.cz/api/download/v1/items/cfcc180c1c3642109e17cf0b11387a0a/geoPackage?layers=0"
-  },
-  {
-    "name": "GeoPackage",
-    "url": "https://data.brno.cz/api/download/v1/items/d10d58b1349a4d6caae68c6d10db4dd1/geoPackage?layers=0"
   },
   {
     "name": "GeoPackage",
@@ -3477,7 +3477,11 @@
   },
   {
     "name": "SQLite Geodatabase",
-    "url": "https://data.brno.cz/api/download/v1/items/ae127275aea746c7a51700fbf1fd2cd4/sqlite?layers=0"
+    "url": "https://data.brno.cz/api/download/v1/items/b394fb376f864fd5b9c54ef6110d8f50/sqlite?layers=0"
+  },
+  {
+    "name": "SQLite Geodatabase",
+    "url": "https://data.brno.cz/api/download/v1/items/b408b67db62a48d18a67bd35471ed9ba/sqlite?layers=0"
   },
   {
     "name": "SQLite Geodatabase",
@@ -3485,11 +3489,11 @@
   },
   {
     "name": "SQLite Geodatabase",
-    "url": "https://data.brno.cz/api/download/v1/items/ba8af939bd0f478e8a857919cb471811/sqlite?layers=0"
+    "url": "https://data.brno.cz/api/download/v1/items/c0442f0fd62a4e99b9c9d21c3ca12aff/sqlite?layers=0"
   },
   {
     "name": "SQLite Geodatabase",
-    "url": "https://data.brno.cz/api/download/v1/items/bc0517d480a248bca1385e8423a3143d/sqlite?layers=0"
+    "url": "https://data.brno.cz/api/download/v1/items/c1706957c4874512922e0c22a53bdd3f/sqlite?layers=0"
   },
   {
     "name": "SQLite Geodatabase",
@@ -3518,10 +3522,6 @@
   {
     "name": "SQLite Geodatabase",
     "url": "https://data.brno.cz/api/download/v1/items/cfcc180c1c3642109e17cf0b11387a0a/sqlite?layers=0"
-  },
-  {
-    "name": "SQLite Geodatabase",
-    "url": "https://data.brno.cz/api/download/v1/items/d10d58b1349a4d6caae68c6d10db4dd1/sqlite?layers=0"
   },
   {
     "name": "SQLite Geodatabase",

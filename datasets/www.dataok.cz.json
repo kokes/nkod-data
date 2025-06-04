@@ -5,6 +5,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/datasets/KUOK::konzervatoře"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.dataok.cz/datasets/KUOK::linky-hromadné-dopravy-v-olomouckém-kraji"
   },
   {
@@ -154,10 +158,6 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://www.dataok.cz/datasets/KUOK::školská-účelová-zařízení"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://www.dataok.cz/datasets/e2b245041fa94b248deb6a464a64a333_4"
   },
   {
     "name": "CSV",
