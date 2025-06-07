@@ -1,10 +1,54 @@
 [
   {
+    "name": "INSPIRE stahovací služba ATOM pro téma Adresy (AD) - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=AD"
+  },
+  {
+    "name": "INSPIRE stahovací služba ATOM pro téma Budovy (BU) - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=BU"
+  },
+  {
+    "name": "INSPIRE stahovací služba ATOM pro téma Parcely (CP) - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=CP"
+  },
+  {
+    "name": "INSPIRE stahovací služba ATOM pro téma Rozšířené Parcely (CPX) - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=CPX"
+  },
+  {
+    "name": "INSPIRE stahovací služba ATOM pro téma Územní správní jednotky (AU) - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=AU"
+  },
+  {
     "name": "Stahovací služba ATOM pro Mapu ČR 1:1 000 000 - OpenSearch",
     "url": "https://atom.cuzk.gov.cz/get.ashx?theme=MCR1M"
   },
   {
+    "name": "Stahovací služba Atom pro Volební okrsky - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=VO"
+  },
+  {
+    "name": "Stahovací služba Atom pro data RÚIAN ve formátu SHP - obce - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=RUIAN-OBCE-SHP"
+  },
+  {
     "name": "Stahovací služba Atom pro data RÚIAN ve formátu SHP - stát - OpenSearch",
     "url": "https://atom.cuzk.gov.cz/get.ashx?theme=RUIAN-STATY-SHP"
+  },
+  {
+    "name": "Stahovací služba Atom pro historická změnová data RUIAN - základní datová sada - VFR - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=RUIAN-H-ZA-Z"
+  },
+  {
+    "name": "Stahovací služba Atom pro katastrální mapu ČR dělenou po katastrálních územích - DXF - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=KM-KU-DXF"
+  },
+  {
+    "name": "Stahovací služba Atom pro současná změnová data RUIAN - kompletní datová sada - VFR - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=RUIAN-S-K-Z"
+  },
+  {
+    "name": "Stahovací služba Atom pro současná změnová data RUIAN - základní datová sada - VFR - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=RUIAN-S-ZA-Z"
   }
 ]
