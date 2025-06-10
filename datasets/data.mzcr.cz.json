@@ -272,6 +272,14 @@
     "url": "https://data.mzcr.cz/data/distribuce/387/Otevrena-data-nzis-komponenty.csv"
   },
   {
+    "name": "Odvozený číselník IČZ dle údajů pojišťoven v poslední dostupné verzi",
+    "url": "https://data.mzcr.cz/data/distribuce/457/Otevrena-data-OIS-12-02-ciselnik-icz-pojistovny-posledni-dostupne.csv"
+  },
+  {
+    "name": "Odvozený číselník IČZ dle údajů pojišťoven včetně historických hodnot",
+    "url": "https://data.mzcr.cz/data/distribuce/456/Otevrena-data-NR-04-64-ciselnik-icz-pojistovny-historicke.csv"
+  },
+  {
     "name": "Očkování proti HPV podle typu poskytovatele",
     "url": "https://data.mzcr.cz/data/distribuce/433/Otevrena-data-NR-28-06-ockovani-hpv-poskytovatel.csv"
   },
@@ -478,14 +486,6 @@
   {
     "name": "Reprodukční zdraví: Souhrnný číselník",
     "url": "https://data.mzcr.cz/data/distribuce/388/reprodukcni-zdravi-ciselnik.csv"
-  },
-  {
-    "name": "Seznam IČZ dle údajů pojišťoven v poslední dostupné verzi",
-    "url": "https://data.mzcr.cz/data/distribuce/457/Otevrena-data-OIS-12-02-icz-udaje-pojistovny-posledni-dostupne.csv"
-  },
-  {
-    "name": "Seznam IČZ dle údajů pojišťoven včetně historických hodnot",
-    "url": "https://data.mzcr.cz/data/distribuce/456/Otevrena-data-NR-04-64-seznam-icz-udaje-pojistovny-historicke-hodnoty.csv"
   },
   {
     "name": "Vakcinace hrazené z veřejného zdravotního pojištění",

@@ -869,6 +869,18 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/GENDIG01/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/GENDIG02/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/GENDIG03/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ICT01/vybery"
   },
   {
@@ -1409,6 +1421,14 @@
   },
   {
     "name": "Ženy a muži – používání chytrých zařízení",
+    "url": "https://data.csu.gov.cz/opendata/sady/GENDIG03/distribuce/csv"
+  },
+  {
+    "name": "Ženy a muži – používání chytrých zařízení",
+    "url": "https://data.csu.gov.cz/opendata/sady/GENDIG03/distribuce/json"
+  },
+  {
+    "name": "Ženy a muži – používání chytrých zařízení",
     "url": "https://data.csu.gov.cz/opendata/sady/WGEN03C2/distribuce/csv"
   },
   {
@@ -1417,11 +1437,27 @@
   },
   {
     "name": "Ženy a muži – používání internetu",
+    "url": "https://data.csu.gov.cz/opendata/sady/GENDIG01/distribuce/csv"
+  },
+  {
+    "name": "Ženy a muži – používání internetu",
+    "url": "https://data.csu.gov.cz/opendata/sady/GENDIG01/distribuce/json"
+  },
+  {
+    "name": "Ženy a muži – používání internetu",
     "url": "https://data.csu.gov.cz/opendata/sady/WGEN03C/distribuce/csv"
   },
   {
     "name": "Ženy a muži – používání internetu",
     "url": "https://data.csu.gov.cz/opendata/sady/WGEN03C/distribuce/json"
+  },
+  {
+    "name": "Ženy a muži – činnosti vykonávané na internetu",
+    "url": "https://data.csu.gov.cz/opendata/sady/GENDIG02/distribuce/csv"
+  },
+  {
+    "name": "Ženy a muži – činnosti vykonávané na internetu",
+    "url": "https://data.csu.gov.cz/opendata/sady/GENDIG02/distribuce/json"
   },
   {
     "name": "Ženy a muži – činnosti vykonávané na internetu",

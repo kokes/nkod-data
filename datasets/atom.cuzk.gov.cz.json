@@ -36,12 +36,36 @@
     "url": "https://atom.cuzk.gov.cz/get.ashx?theme=RUIAN-STATY-SHP"
   },
   {
+    "name": "Stahovací služba Atom pro data RÚIAN ve formátu csv - adresy děleny po obcích - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=RUIAN-CSV-ADR-OB"
+  },
+  {
+    "name": "Stahovací služba Atom pro data RÚIAN ve formátu csv - adresy pro stát - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=RUIAN-CSV-ADR-ST"
+  },
+  {
+    "name": "Stahovací služba Atom pro data RÚIAN ve formátu csv - hierarchie prvků pro stát - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=RUIAN-CSV-HIE-ST"
+  },
+  {
     "name": "Stahovací služba Atom pro historická změnová data RUIAN - základní datová sada - VFR - OpenSearch",
     "url": "https://atom.cuzk.gov.cz/get.ashx?theme=RUIAN-H-ZA-Z"
   },
   {
     "name": "Stahovací služba Atom pro katastrální mapu ČR dělenou po katastrálních územích - DXF - OpenSearch",
     "url": "https://atom.cuzk.gov.cz/get.ashx?theme=KM-KU-DXF"
+  },
+  {
+    "name": "Stahovací služba Atom pro katastrální mapu ČR dělenou po katastrálních územích - SHP - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=KM-KU-SHP"
+  },
+  {
+    "name": "Stahovací služba Atom pro současná stavová data RUIAN - kompletní datová sada - VFR - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=RUIAN-S-K-U"
+  },
+  {
+    "name": "Stahovací služba Atom pro současná stavová data RUIAN - základní datová sada - VFR - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=RUIAN-S-ZA-U"
   },
   {
     "name": "Stahovací služba Atom pro současná změnová data RUIAN - kompletní datová sada - VFR - OpenSearch",

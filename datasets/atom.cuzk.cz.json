@@ -252,18 +252,6 @@
     "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM50-SJTSK-TIFF"
   },
   {
-    "name": "Stahovací služba Atom pro data RÚIAN ve formátu csv - adresy děleny po obcích - OpenSearch",
-    "url": "https://atom.cuzk.cz/get.ashx?theme=RUIAN-CSV-ADR-OB"
-  },
-  {
-    "name": "Stahovací služba Atom pro data RÚIAN ve formátu csv - adresy pro stát - OpenSearch",
-    "url": "https://atom.cuzk.cz/get.ashx?theme=RUIAN-CSV-ADR-ST"
-  },
-  {
-    "name": "Stahovací služba Atom pro data RÚIAN ve formátu csv - hierarchie prvků pro stát - OpenSearch",
-    "url": "https://atom.cuzk.cz/get.ashx?theme=RUIAN-CSV-HIE-ST"
-  },
-  {
     "name": "Stahovací služba Atom pro data podrobného kvazigeoidu QGZÚ-2013 - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=QGZU"
   },
@@ -276,10 +264,6 @@
     "url": "https://atom.cuzk.cz/get.ashx?theme=RUIAN-H-ZA-U"
   },
   {
-    "name": "Stahovací služba Atom pro katastrální mapu ČR dělenou po katastrálních územích - SHP - OpenSearch",
-    "url": "https://atom.cuzk.cz/get.ashx?theme=KM-KU-SHP"
-  },
-  {
     "name": "Stahovací služba Atom pro katastrální mapu ČR dělenou po katastrálních územích - VFK - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=KM-KU-VFK"
   },
@@ -290,14 +274,6 @@
   {
     "name": "Stahovací služba Atom pro nemovitosti evidované pro nedostatečně identifikovaného vlastníka - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=UZSVM"
-  },
-  {
-    "name": "Stahovací služba Atom pro současná stavová data RUIAN - kompletní datová sada - VFR - OpenSearch",
-    "url": "https://atom.cuzk.cz/get.ashx?theme=RUIAN-S-K-U"
-  },
-  {
-    "name": "Stahovací služba Atom pro současná stavová data RUIAN - základní datová sada - VFR - OpenSearch",
-    "url": "https://atom.cuzk.cz/get.ashx?theme=RUIAN-S-ZA-U"
   },
   {
     "name": "Stahovací služba Atom pro speciální stavová data RUIAN - volební okrsky - VFR - OpenSearch",
