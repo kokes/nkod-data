@@ -89,6 +89,10 @@
   },
   {
     "name": "Číselník v CSV",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.csv"
+  },
+  {
+    "name": "Číselník v CSV",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.csv"
   },
   {
@@ -98,10 +102,6 @@
   {
     "name": "Číselník v CSV",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.csv"
-  },
-  {
-    "name": "Číselník v CSV",
-    "url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.csv"
   },
   {
     "name": "Číselník v HTML+RDFa",
@@ -189,6 +189,10 @@
   },
   {
     "name": "Číselník v HTML+RDFa",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.html"
+  },
+  {
+    "name": "Číselník v HTML+RDFa",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.html"
   },
   {
@@ -198,10 +202,6 @@
   {
     "name": "Číselník v HTML+RDFa",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.html"
-  },
-  {
-    "name": "Číselník v HTML+RDFa",
-    "url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.html"
   },
   {
     "name": "Číselník v JSON-LD",
@@ -289,6 +289,10 @@
   },
   {
     "name": "Číselník v JSON-LD",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.jsonld"
+  },
+  {
+    "name": "Číselník v JSON-LD",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.jsonld"
   },
   {
@@ -298,10 +302,6 @@
   {
     "name": "Číselník v JSON-LD",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.jsonld"
-  },
-  {
-    "name": "Číselník v JSON-LD",
-    "url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.jsonld"
   },
   {
     "name": "Číselník v RDF N-Quads",
@@ -389,6 +389,10 @@
   },
   {
     "name": "Číselník v RDF N-Quads",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.nq"
+  },
+  {
+    "name": "Číselník v RDF N-Quads",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.nq"
   },
   {
@@ -398,10 +402,6 @@
   {
     "name": "Číselník v RDF N-Quads",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.nq"
-  },
-  {
-    "name": "Číselník v RDF N-Quads",
-    "url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.nq"
   },
   {
     "name": "Číselník v RDF N-Triples",
@@ -489,6 +489,10 @@
   },
   {
     "name": "Číselník v RDF N-Triples",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.nt"
+  },
+  {
+    "name": "Číselník v RDF N-Triples",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.nt"
   },
   {
@@ -498,10 +502,6 @@
   {
     "name": "Číselník v RDF N-Triples",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.nt"
-  },
-  {
-    "name": "Číselník v RDF N-Triples",
-    "url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.nt"
   },
   {
     "name": "Číselník v RDF TriG",
@@ -589,6 +589,10 @@
   },
   {
     "name": "Číselník v RDF TriG",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.trig"
+  },
+  {
+    "name": "Číselník v RDF TriG",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.trig"
   },
   {
@@ -598,10 +602,6 @@
   {
     "name": "Číselník v RDF TriG",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.trig"
-  },
-  {
-    "name": "Číselník v RDF TriG",
-    "url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.trig"
   },
   {
     "name": "Číselník v RDF Turtle",
@@ -689,6 +689,10 @@
   },
   {
     "name": "Číselník v RDF Turtle",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.ttl"
+  },
+  {
+    "name": "Číselník v RDF Turtle",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.ttl"
   },
   {
@@ -698,10 +702,6 @@
   {
     "name": "Číselník v RDF Turtle",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.ttl"
-  },
-  {
-    "name": "Číselník v RDF Turtle",
-    "url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.ttl"
   },
   {
     "name": "Číselník v RDF/XML",
@@ -789,6 +789,10 @@
   },
   {
     "name": "Číselník v RDF/XML",
+    "url": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.rdf"
+  },
+  {
+    "name": "Číselník v RDF/XML",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-provedení-digitálního-úkonu.rdf"
   },
   {
@@ -798,9 +802,5 @@
   {
     "name": "Číselník v RDF/XML",
     "url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.rdf"
-  },
-  {
-    "name": "Číselník v RDF/XML",
-    "url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.rdf"
   }
 ]
