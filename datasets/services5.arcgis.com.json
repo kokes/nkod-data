@@ -5,6 +5,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_CYKLOTRASY_L/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_CYKLOZNACKY_B/FeatureServer/0"
   },
   {
@@ -21,7 +25,15 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_TSK_LU_TERMINY_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_TSK_STANI_ZTP_B/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_TSK_ULICUSPAKOM_L/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -37,11 +49,19 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_ZPS_SPEC_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_ZPS_USEKY_P/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_ZPS_ZAS_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/DOP_CUR_DOP_ZPS_ZM_P/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -69,19 +89,7 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/FSV_CUR_KV_OBCHPLNOSORT_B/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/FSV_CUR_KV_POSTY_B/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/FSV_CUR_OV_HRBITOVY_P/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/FSV_CUR_OV_KULTKKC_B/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -105,10 +113,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/GEO_CUR_GEO_JEDNOTKY_P/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/GEO_CUR_GEO_PANGEO_P/FeatureServer/0"
   },
   {
@@ -117,7 +121,7 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/HM_CUR_HM_EKOLA_ADP_PASMA_NOC_P/FeatureServer/0"
+    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/HM_CUR_HM_EKOLA_ADP_PASMA_DEN_P/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -133,7 +137,7 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/HM_CUR_HM_HLUKOCHR_OPERNEZDI_L/FeatureServer/0"
+    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/HM_CUR_HM_HLUKOCHR_VALY_P/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -149,7 +153,15 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/MAP_CUR_MAP_ML_5000_P/FeatureServer/0"
+    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/MAP_CUR_MAP_ML_2000_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/MAP_CUR_MAP_ML_50000_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/MAP_CUR_MAP_ML_500_P/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -181,10 +193,6 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/OVZ_CUR_OVZ_KLIMA_BONITA_P/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/OVZ_CUR_OVZ_KLIMA_OSLUNENI_P/FeatureServer/0"
   },
   {
@@ -193,15 +201,15 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/OVZ_CUR_OVZ_KLIMA_RYCHLVETRU_P/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/OVZ_CUR_OVZ_KLIMA_URBANIZACE_P/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/OVZ_CUR_OVZ_KLIMA_VENTILACE_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/OVZ_CUR_OVZ_KLIMA_ZNECOVZDUSI_P/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -214,10 +222,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/PUP_CUR_PUP_PODNETY_VSE_P/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/PUP_CUR_PUP_UPRAVY_VSE_P/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -277,6 +281,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/TIV_CUR_TIV_VDS_ZAPL_VLT_Q100_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/TIV_CUR_TIV_VDS_ZAPL_VLT_Q20_P/FeatureServer/0"
   },
   {
@@ -285,15 +293,19 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/TIV_CUR_TIV_VDS_ZAPL_VLT_Q5_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/URK_CUR_URK_CENNEURBSOUB_P/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/URK_CUR_URK_RECYKLACEUZEMI_P/FeatureServer/0"
+    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/URK_CUR_URK_HRANYSVAHU_L/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/URK_CUR_URK_SS_NAMESTI_P/FeatureServer/0"
+    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/URK_CUR_URK_RECYKLACEUZEMI_P/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
@@ -350,10 +362,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/ZPK_CUR_ZPK_O_KONT_OBJEMO_B/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services5.arcgis.com/SBTXIEUGWbqzUecw/arcgis/rest/services/ZPK_CUR_ZPK_O_KONT_TOITEM_B/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
