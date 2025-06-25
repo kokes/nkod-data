@@ -513,6 +513,30 @@
   },
   {
     "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190043"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190051"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190065"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190099"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190100"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190101"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
     "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_volbysedvacetctyri/FeatureServer/151057"
   },
   {
@@ -1058,6 +1082,30 @@
   {
     "name": "gdb",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbykzdvacetctyri/FeatureServer/140109/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190043/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190051/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190065/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190099/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190100/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190101/gdb.zip"
   },
   {
     "name": "gdb",
@@ -1609,6 +1657,30 @@
   },
   {
     "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190043/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190051/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190065/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190099/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190100/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190101/geojson.zip"
+  },
+  {
+    "name": "geojson",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbysedvacetctyri/FeatureServer/151057/geojson.zip"
   },
   {
@@ -2154,6 +2226,30 @@
   {
     "name": "gpkg",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbykzdvacetctyri/FeatureServer/140109/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190043/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190051/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190065/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190099/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190100/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_volbypspdvacetjedna/FeatureServer/190101/gpkg.zip"
   },
   {
     "name": "gpkg",
