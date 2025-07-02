@@ -65,6 +65,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/n%C3%A1v%C5%A1t%C4%9Bvnosti_vybran%C3%BDch_turistick%C3%BDch_c%C3%ADl%C5%AF_v_Olomouck%C3%A9m_kraji/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/pohotovostn%C3%AD_slu%C5%BEba_v_Olomouck%C3%A9m_kraji/FeatureServer/0"
   },
   {
@@ -86,6 +90,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/v%C3%BDchovn%C3%A1_a_ubytovac%C3%AD_za%C5%99%C3%ADzen%C3%AD/FeatureServer/8"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/ve%C5%99ejn%C3%A1_poh%C5%99ebi%C5%A1t%C4%9B_v_Olomouck%C3%A9m_kraji/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
