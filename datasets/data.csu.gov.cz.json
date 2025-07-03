@@ -208,6 +208,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/ICT02/distribuce/json"
   },
   {
+    "name": "Katastrální výměry - druhy pozemků",
+    "url": "https://data.csu.gov.cz/opendata/sady/RSO03/distribuce/csv"
+  },
+  {
+    "name": "Katastrální výměry - druhy pozemků",
+    "url": "https://data.csu.gov.cz/opendata/sady/RSO03/distribuce/json"
+  },
+  {
     "name": "Míra inflace",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101H/distribuce/csv"
   },
@@ -1106,6 +1114,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/RSO01/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/RSO03/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",

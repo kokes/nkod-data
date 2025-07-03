@@ -208,6 +208,10 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-ztraty-vody-2023.csv"
   },
   {
+    "name": "hnvo-mzp_prehled_osob_poverenych_k_hodnoceni_nebezpecnych_vlastnosti_odpadu.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-osoby-nebezp-odpady-2024.csv"
+  },
+  {
     "name": "katalog-odpadu-v-json-ld.jsonld",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-katalog-odpadu-2025.jsonld"
   },
@@ -220,24 +224,20 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-katalog-skupiny-elektrozarizeni-2025.csv"
   },
   {
-    "name": "mzp-mnozstvi-kalu-predanych-k-zemedelskemu-vyuziti-2023-202408260956-1-.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-mnozstvi-kalu-predanych-k-zemedelskemu-vyuziti-2023.csv"
+    "name": "mzp-mnozstvi-kalu-predanych-k-zemedelskemu-vyuziti-2023-202410241605.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-mnozstvi-kalu-predanych-k-zemedelskemu-vyuziti-2024.csv"
   },
   {
-    "name": "mzp-mnozstvi-produkovanych-kalu-z-cistiren-odpadnich-vod.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-mnozstvi-produkovanych-kalu-z-cistiren-odpadnich-vod-2023.csv"
+    "name": "mzp-mnozstvi-produkovanych-kalu-z-cistiren-odpadnich-vod-2023-202408261049.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-mnozstvi-produkovanych-kalu-z-cistiren-odpadnich-vod-2024.csv"
   },
   {
-    "name": "mzp-nelegalni-obchod-s-regulovanymi-latkami.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-nelegalni-obchod-s-regulovanymi-latkami-2023.csv"
+    "name": "mzp-nelegalni-obchod-s-regulovanymi-latkami-2023-202408191220.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-nelegalni-obchod-s-regulovanymi-latkami-2024.csv"
   },
   {
     "name": "mzp-pripady-ekologicke-ujmy.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-pripady-ekologicke-ujmy-2024.csv"
-  },
-  {
-    "name": "mzp-slozeni-a-vlastnosti-kalu.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-slozeni-a-vlastnosti-kalu-2023.csv"
   },
   {
     "name": "mzp-zpusoby-nakladani-s-odpady.csv",

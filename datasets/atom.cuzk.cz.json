@@ -260,20 +260,12 @@
     "url": "https://atom.cuzk.cz/get.ashx?theme=GMPL-KU-VFK"
   },
   {
-    "name": "Stahovací služba Atom pro historická stavová data RUIAN - základní datová sada - VFR - OpenSearch",
-    "url": "https://atom.cuzk.cz/get.ashx?theme=RUIAN-H-ZA-U"
-  },
-  {
     "name": "Stahovací služba Atom pro katastrální mapu ČR dělenou po katastrálních územích - VFK - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=KM-KU-VFK"
   },
   {
     "name": "Stahovací služba Atom pro katastrální mapu ČR dělenou po katastrálních územích - VKM - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=KM-KU-VKM"
-  },
-  {
-    "name": "Stahovací služba Atom pro nemovitosti evidované pro nedostatečně identifikovaného vlastníka - OpenSearch",
-    "url": "https://atom.cuzk.cz/get.ashx?theme=UZSVM"
   },
   {
     "name": "Stahovací služba Atom pro speciální stavová data RUIAN - volební okrsky - VFR - OpenSearch",
