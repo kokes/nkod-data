@@ -21,6 +21,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::intenzita-automobilové-dopravy"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::lokality-se-zákazem-konzumace-alkoholu"
   },
   {
@@ -154,6 +158,10 @@
   {
     "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/15abaa84f6e74584a125ca82d7790081/csv?layers=8"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/24eb66961e534890ac0ad30f283d4a3f/csv?layers=66"
   },
   {
     "name": "CSV",
@@ -297,6 +305,10 @@
   },
   {
     "name": "File Geodatabase",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/24eb66961e534890ac0ad30f283d4a3f/filegdb?layers=66"
+  },
+  {
+    "name": "File Geodatabase",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/2d53bb377889486285645921a97dada8/filegdb?layers=27"
   },
   {
@@ -434,6 +446,10 @@
   {
     "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/15abaa84f6e74584a125ca82d7790081/geojson?layers=8"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/24eb66961e534890ac0ad30f283d4a3f/geojson?layers=66"
   },
   {
     "name": "GeoJSON",
@@ -577,6 +593,10 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/24eb66961e534890ac0ad30f283d4a3f/kml?layers=66"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/2d53bb377889486285645921a97dada8/kml?layers=27"
   },
   {
@@ -714,6 +734,10 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/15abaa84f6e74584a125ca82d7790081/shapefile?layers=8"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/24eb66961e534890ac0ad30f283d4a3f/shapefile?layers=66"
   },
   {
     "name": "Shapefile",
