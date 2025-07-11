@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/FD_APSFR/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/FD_FA/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/FD_PFRA/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/NID_GWstat/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/NID_NitrateVulnerableZone/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/NID_SWstat/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/UWWTD_Agglomeration/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/UWWTD_DischargePoint/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/UWWTD_SensitiveArea/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/UWWTD_UWWTPS/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/WFD_GWB/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/WFD_MonitoringSite/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/WFD_ProtectedArea/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/WFD_RiverBasinDistrict/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/WFD_SWBcentreline/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/WFD_SWBline/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/WFD_SWBpoly/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  },
+  {
+    "name": "Stahovací služba WFS",
+    "url": "https://ags.vuv.cz/arcgis/services/inspire_wfs/WFD_Subunit/MapServer/WFSServer?request=GetCapabilities&service=WFS"
+  }
+]
