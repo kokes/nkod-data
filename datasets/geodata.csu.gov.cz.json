@@ -1,6 +1,18 @@
 [
   {
     "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Gridy_SLDB2021/FeatureServer/0"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Gridy_SLDB2021/FeatureServer/2"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Gridy_SLDB2021/FeatureServer/3"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
     "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Open_data_RSO/FeatureServer/1"
   },
   {
@@ -90,6 +102,14 @@
   {
     "name": "feature služba ArcGIS REST",
     "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Open_data_RSO/FeatureServer/31"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Open_data_RSO/FeatureServer/33"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Open_data_RSO/FeatureServer/34"
   },
   {
     "name": "feature služba ArcGIS REST",
@@ -289,10 +309,6 @@
   },
   {
     "name": "feature služba ArcGIS REST",
-    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_byty/FeatureServer/25948"
-  },
-  {
-    "name": "feature služba ArcGIS REST",
     "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_demografie/FeatureServer/70043"
   },
   {
@@ -341,10 +357,6 @@
   },
   {
     "name": "feature služba ArcGIS REST",
-    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_domacnosti/FeatureServer/105948"
-  },
-  {
-    "name": "feature služba ArcGIS REST",
     "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_domy/FeatureServer/30043"
   },
   {
@@ -369,10 +381,6 @@
   },
   {
     "name": "feature služba ArcGIS REST",
-    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_domy/FeatureServer/35948"
-  },
-  {
-    "name": "feature služba ArcGIS REST",
     "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_obyvatelstvo/FeatureServer/10043"
   },
   {
@@ -394,10 +402,6 @@
   {
     "name": "feature služba ArcGIS REST",
     "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_obyvatelstvo/FeatureServer/10101"
-  },
-  {
-    "name": "feature služba ArcGIS REST",
-    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_obyvatelstvo/FeatureServer/15948"
   },
   {
     "name": "feature služba ArcGIS REST",
@@ -665,6 +669,14 @@
   },
   {
     "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/33/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/34/gdb.zip"
+  },
+  {
+    "name": "gdb",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/35/gdb.zip"
   },
   {
@@ -861,10 +873,6 @@
   },
   {
     "name": "gdb",
-    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_byty/FeatureServer/25948/gdb.zip"
-  },
-  {
-    "name": "gdb",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_demografie/FeatureServer/70043/gdb.zip"
   },
   {
@@ -938,10 +946,6 @@
   {
     "name": "gdb",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_domy/FeatureServer/30101/gdb.zip"
-  },
-  {
-    "name": "gdb",
-    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_domy/FeatureServer/35948/gdb.zip"
   },
   {
     "name": "gdb",
@@ -1237,6 +1241,14 @@
   },
   {
     "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/33/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/34/geojson.zip"
+  },
+  {
+    "name": "geojson",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/35/geojson.zip"
   },
   {
@@ -1433,10 +1445,6 @@
   },
   {
     "name": "geojson",
-    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_byty/FeatureServer/25948/geojson.zip"
-  },
-  {
-    "name": "geojson",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_demografie/FeatureServer/70043/geojson.zip"
   },
   {
@@ -1510,10 +1518,6 @@
   {
     "name": "geojson",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_domy/FeatureServer/30101/geojson.zip"
-  },
-  {
-    "name": "geojson",
-    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_domy/FeatureServer/35948/geojson.zip"
   },
   {
     "name": "geojson",
@@ -1809,6 +1813,14 @@
   },
   {
     "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/33/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/34/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/35/gpkg.zip"
   },
   {
@@ -2005,10 +2017,6 @@
   },
   {
     "name": "gpkg",
-    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_byty/FeatureServer/25948/gpkg.zip"
-  },
-  {
-    "name": "gpkg",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_demografie/FeatureServer/70043/gpkg.zip"
   },
   {
@@ -2082,10 +2090,6 @@
   {
     "name": "gpkg",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_domy/FeatureServer/30101/gpkg.zip"
-  },
-  {
-    "name": "gpkg",
-    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_domy/FeatureServer/35948/gpkg.zip"
   },
   {
     "name": "gpkg",
@@ -2366,6 +2370,14 @@
   {
     "name": "shp",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/31/shp.zip"
+  },
+  {
+    "name": "shp",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/33/shp.zip"
+  },
+  {
+    "name": "shp",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/34/shp.zip"
   },
   {
     "name": "shp",
