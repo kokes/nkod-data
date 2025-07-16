@@ -72,6 +72,10 @@
     "url": "https://atom.cuzk.gov.cz/get.ashx?theme=KM-KU-VFK"
   },
   {
+    "name": "Stahovací služba Atom pro katastrální mapu ČR dělenou po katastrálních územích - VKM - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=KM-KU-VKM"
+  },
+  {
     "name": "Stahovací služba Atom pro nemovitosti evidované pro nedostatečně identifikovaného vlastníka - OpenSearch",
     "url": "https://atom.cuzk.gov.cz/get.ashx?theme=UZSVM"
   },

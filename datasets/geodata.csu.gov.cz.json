@@ -13,6 +13,14 @@
   },
   {
     "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/HUZ/FeatureServer/0"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/HUZ/FeatureServer/1"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
     "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Open_data_RSO/FeatureServer/1"
   },
   {
@@ -405,6 +413,34 @@
   },
   {
     "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_res/FeatureServer/110043"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_res/FeatureServer/110051"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_res/FeatureServer/110065"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_res/FeatureServer/110107"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_res/FeatureServer/110108"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_res/FeatureServer/110109"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_res/FeatureServer/115948"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
     "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_volby/FeatureServer/50043"
   },
   {
@@ -574,6 +610,26 @@
   {
     "name": "feature služba ArcGIS REST",
     "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/sldb2021_vyjizdka/FeatureServer/175948"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/0/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/2/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/3/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/HUZ/FeatureServer/0/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/HUZ/FeatureServer/1/gdb.zip"
   },
   {
     "name": "gdb",
@@ -921,10 +977,6 @@
   },
   {
     "name": "gdb",
-    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_domacnosti/FeatureServer/105948/gdb.zip"
-  },
-  {
-    "name": "gdb",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_domy/FeatureServer/30043/gdb.zip"
   },
   {
@@ -973,7 +1025,31 @@
   },
   {
     "name": "gdb",
-    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_obyvatelstvo/FeatureServer/15948/gdb.zip"
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110043/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110051/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110065/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110107/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110108/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110109/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/115948/gdb.zip"
   },
   {
     "name": "gdb",
@@ -1146,6 +1222,26 @@
   {
     "name": "gdb",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_vyjizdka/FeatureServer/175948/gdb.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/0/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/2/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/3/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/HUZ/FeatureServer/0/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/HUZ/FeatureServer/1/geojson.zip"
   },
   {
     "name": "geojson",
@@ -1493,10 +1589,6 @@
   },
   {
     "name": "geojson",
-    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_domacnosti/FeatureServer/105948/geojson.zip"
-  },
-  {
-    "name": "geojson",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_domy/FeatureServer/30043/geojson.zip"
   },
   {
@@ -1545,7 +1637,31 @@
   },
   {
     "name": "geojson",
-    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_obyvatelstvo/FeatureServer/15948/geojson.zip"
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110043/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110051/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110065/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110107/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110108/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110109/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/115948/geojson.zip"
   },
   {
     "name": "geojson",
@@ -1718,6 +1834,26 @@
   {
     "name": "geojson",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_vyjizdka/FeatureServer/175948/geojson.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/0/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/2/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/3/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/HUZ/FeatureServer/0/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/HUZ/FeatureServer/1/gpkg.zip"
   },
   {
     "name": "gpkg",
@@ -2065,10 +2201,6 @@
   },
   {
     "name": "gpkg",
-    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_domacnosti/FeatureServer/105948/gpkg.zip"
-  },
-  {
-    "name": "gpkg",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_domy/FeatureServer/30043/gpkg.zip"
   },
   {
@@ -2117,7 +2249,31 @@
   },
   {
     "name": "gpkg",
-    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_obyvatelstvo/FeatureServer/15948/gpkg.zip"
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110043/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110051/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110065/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110107/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110108/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/110109/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_res/FeatureServer/115948/gpkg.zip"
   },
   {
     "name": "gpkg",
@@ -2290,6 +2446,26 @@
   {
     "name": "gpkg",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/sldb2021_vyjizdka/FeatureServer/175948/gpkg.zip"
+  },
+  {
+    "name": "shp",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/0/shp.zip"
+  },
+  {
+    "name": "shp",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/2/shp.zip"
+  },
+  {
+    "name": "shp",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/3/shp.zip"
+  },
+  {
+    "name": "shp",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/HUZ/FeatureServer/0/shp.zip"
+  },
+  {
+    "name": "shp",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/HUZ/FeatureServer/1/shp.zip"
   },
   {
     "name": "shp",
