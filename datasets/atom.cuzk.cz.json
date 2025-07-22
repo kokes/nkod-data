@@ -1,0 +1,262 @@
+[
+  {
+    "name": "INSPIRE stahovací služba ATOM pro INSPIRE téma Dopravní sítě - lanová dráha (TN_CABLE) - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=TN-CABLE"
+  },
+  {
+    "name": "INSPIRE stahovací služba ATOM pro INSPIRE téma Dopravní sítě - letecká doprava (TN_AIR) - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=TN-AIR"
+  },
+  {
+    "name": "INSPIRE stahovací služba ATOM pro INSPIRE téma Dopravní sítě - silniční doprava (TN_ROAD) - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=TN-ROAD"
+  },
+  {
+    "name": "INSPIRE stahovací služba ATOM pro INSPIRE téma Dopravní sítě - vodní doprava (TN_WATER) - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=TN-WATER"
+  },
+  {
+    "name": "INSPIRE stahovací služba ATOM pro INSPIRE téma Dopravní sítě - železniční doprava (TN_RAIL) - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=TN-RAIL"
+  },
+  {
+    "name": "INSPIRE stahovací služba ATOM pro INSPIRE téma Nadmořská výška (EL) - GRID - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=EL-GRID"
+  },
+  {
+    "name": "INSPIRE stahovací služba ATOM pro INSPIRE téma Nadmořská výška (EL) - TIN - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=EL-TIN"
+  },
+  {
+    "name": "INSPIRE stahovací služba ATOM pro INSPIRE téma Ortofotosnímky (OI) - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=OI"
+  },
+  {
+    "name": "INSPIRE stahovací služba ATOM pro INSPIRE téma Vodstvo - Fyzické vody (HY_P) - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=HY-P"
+  },
+  {
+    "name": "INSPIRE stahovací služba ATOM pro INSPIRE téma Vodstvo - hydrografická síť (HY_NET) - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=HY-NET"
+  },
+  {
+    "name": "INSPIRE stahovací služba ATOM pro INSPIRE téma Využití území (LU) - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=LU"
+  },
+  {
+    "name": "INSPIRE stahovací služba ATOM pro INSPIRE téma Zeměpisná jména (GN) - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=GN"
+  },
+  {
+    "name": "INSPIRE stahovací služba ATOM pro téma Zeměpisné soustavy souřadnicových sítí (GGS) - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=GGS"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Data250 - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=Data250"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Data50 - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=Data50"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Digitální model povrchu České republiky 1. generace v ETRS89-TMzn, EVRS - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=DMP1G-ETRS89"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Digitální model povrchu České republiky 1. generace v S-JTSK, Bpv - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=DMP1G-SJTSK"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Digitální model reliéfu České republiky 4.generace v ETRS89-TMzn, EVRS  - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=DMR4G-ETRS89"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Digitální model reliéfu České republiky 4.generace v S-JTSK, Bpv - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=DMR4G-SJTSK"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Digitální model reliéfu České republiky 5. generace v ETRS89-TMzn, EVRS - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=DMR5G-ETRS89"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Digitální model reliéfu České republiky 5. generace v S-JTSK, Bpv - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=DMR5G-SJTSK"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Mapu ČR 1:500 000 - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=MCR500"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Ortofoto České republiky - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ORTOFOTO"
+  },
+  {
+    "name": "Stahovací služba ATOM pro ZABAGED® - Polohopis - FGDB - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZABAGED-FGDB"
+  },
+  {
+    "name": "Stahovací služba ATOM pro ZABAGED® - Polohopis - GPKG - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZABAGED-GPKG"
+  },
+  {
+    "name": "Stahovací služba ATOM pro ZABAGED® - Výškopis - vrstevnice - DGN - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZABAGED-vyskopis-DGN"
+  },
+  {
+    "name": "Stahovací služba ATOM pro ZABAGED® - Výškopis - vrstevnice - SHP - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZABAGED-vyskopis"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Databáze geografických jmen České republiky (Geonames) - FGDB - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=GEONAMES-FGDB"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Databáze geografických jmen České republiky (Geonames) - GPKG - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=GEONAMES-GPKG"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 10 000 v DGN, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM10-SJTSK-DGN"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 10 000 v PDF, ETRS89-TMzn - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM10-ETRS89-PDF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 10 000 v PDF, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM10-SJTSK-PDF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 10 000 v SHP, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM10-SJTSK-SHP"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 10 000 v TIFF, ETRS89-TMzn - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM10-ETRS89-TIFF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 10 000 v TIFF, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM10-SJTSK-TIFF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 100 000 v DGN, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM100-SJTSK-DGN"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 100 000 v PDF, ETRS89-TMzn - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM100-ETRS89-PDF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 100 000 v PDF, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM100-SJTSK-PDF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 100 000 v SHP, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM100-SJTSK-SHP"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 100 000 v TIFF, ETRS89-TMzn - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM100-ETRS89-TIFF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 100 000 v TIFF, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM100-SJTSK-TIFF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 25 000 v DGN, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM25-SJTSK-DGN"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 25 000 v PDF, ETRS89-TMzn - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM25-ETRS89-PDF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 25 000 v PDF, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM25-SJTSK-PDF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 25 000 v SHP, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM25-SJTSK-SHP"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 25 000 v TIFF, ETRS89-TMzn - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM25-ETRS89-TIFF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 25 000 v TIFF, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM25-SJTSK-TIFF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 250 000 v DGN, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM250-SJTSK-DGN"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 250 000 v PDF, ETRS89-TMzn - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM250-ETRS89-PDF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 250 000 v PDF, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM250-SJTSK-PDF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 250 000 v SHP, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM250-SJTSK-SHP"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 250 000 v TIFF, ETRS89-TMzn - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM250-ETRS89-TIFF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 250 000 v TIFF, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM250-SJTSK-TIFF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 5 000 v DGN, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM5-SJTSK-DGN"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 5 000 v PDF, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM5-SJTSK-PDF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 5 000 v SHP, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM5-SJTSK-SHP"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 5 000 v TIFF, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM5-SJTSK-TIFF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 50 000 v DGN, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM50-SJTSK-DGN"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 50 000 v PDF, ETRS89-TMzn - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM50-ETRS89-PDF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 50 000 v PDF, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM50-SJTSK-PDF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 50 000 v SHP, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM50-SJTSK-SHP"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 50 000 v TIFF, ETRS89-TMzn - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM50-ETRS89-TIFF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 50 000 v TIFF, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM50-SJTSK-TIFF"
+  },
+  {
+    "name": "Stahovací služba Atom pro data podrobného kvazigeoidu QGZÚ-2013 - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=QGZU"
+  },
+  {
+    "name": "Stahovací služba Atom pro Úhrnné hodnoty druhů pozemků - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=UHDP"
+  }
+]
