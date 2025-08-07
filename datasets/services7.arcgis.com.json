@@ -145,22 +145,18 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer/0"
+    "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/zaplavove_uzemi_lk_AZ/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer/1"
+    "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/zaplavove_uzemi_lk_Q100/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer/2"
+    "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/zaplavove_uzemi_lk_Q20/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer/3"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer/4"
+    "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/zaplavove_uzemi_lk_Q500/FeatureServer/0"
   }
 ]
