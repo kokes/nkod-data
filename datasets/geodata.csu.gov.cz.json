@@ -41,6 +41,10 @@
   },
   {
     "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Open_data_RSO/FeatureServer/14"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
     "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Open_data_RSO/FeatureServer/15"
   },
   {
@@ -66,6 +70,10 @@
   {
     "name": "feature služba ArcGIS REST",
     "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Open_data_RSO/FeatureServer/20"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Open_data_RSO/FeatureServer/21"
   },
   {
     "name": "feature služba ArcGIS REST",
@@ -286,6 +294,14 @@
   {
     "name": "feature služba ArcGIS REST",
     "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Open_data_RSO/FeatureServer/8"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Volebni_okrsky_2025_gdb/FeatureServer/0"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Volebni_okrsky_2025_gdb/FeatureServer/1"
   },
   {
     "name": "feature služba ArcGIS REST",
@@ -649,6 +665,10 @@
   },
   {
     "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/14/gdb.zip"
+  },
+  {
+    "name": "gdb",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/15/gdb.zip"
   },
   {
@@ -674,6 +694,10 @@
   {
     "name": "gdb",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/20/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/21/gdb.zip"
   },
   {
     "name": "gdb",
@@ -894,6 +918,14 @@
   {
     "name": "gdb",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/8/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Volebni_okrsky_2025_gdb/FeatureServer/0/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Volebni_okrsky_2025_gdb/FeatureServer/1/gdb.zip"
   },
   {
     "name": "gdb",
@@ -1257,6 +1289,10 @@
   },
   {
     "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/14/geojson.zip"
+  },
+  {
+    "name": "geojson",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/15/geojson.zip"
   },
   {
@@ -1282,6 +1318,10 @@
   {
     "name": "geojson",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/20/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/21/geojson.zip"
   },
   {
     "name": "geojson",
@@ -1502,6 +1542,14 @@
   {
     "name": "geojson",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/8/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Volebni_okrsky_2025_gdb/FeatureServer/0/geojson.zip"
+  },
+  {
+    "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Volebni_okrsky_2025_gdb/FeatureServer/1/geojson.zip"
   },
   {
     "name": "geojson",
@@ -1865,6 +1913,10 @@
   },
   {
     "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/14/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/15/gpkg.zip"
   },
   {
@@ -1890,6 +1942,10 @@
   {
     "name": "gpkg",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/20/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/21/gpkg.zip"
   },
   {
     "name": "gpkg",
@@ -2110,6 +2166,14 @@
   {
     "name": "gpkg",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/8/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Volebni_okrsky_2025_gdb/FeatureServer/0/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Volebni_okrsky_2025_gdb/FeatureServer/1/gpkg.zip"
   },
   {
     "name": "gpkg",
@@ -2469,6 +2533,10 @@
   },
   {
     "name": "shp",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/14/shp.zip"
+  },
+  {
+    "name": "shp",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/15/shp.zip"
   },
   {
@@ -2490,6 +2558,10 @@
   {
     "name": "shp",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/20/shp.zip"
+  },
+  {
+    "name": "shp",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/21/shp.zip"
   },
   {
     "name": "shp",
@@ -2706,5 +2778,13 @@
   {
     "name": "shp",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Open_data_RSO/FeatureServer/8/shp.zip"
+  },
+  {
+    "name": "shp",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Volebni_okrsky_2025_gdb/FeatureServer/0/shp.zip"
+  },
+  {
+    "name": "shp",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Volebni_okrsky_2025_gdb/FeatureServer/1/shp.zip"
   }
 ]
