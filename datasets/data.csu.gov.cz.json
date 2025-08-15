@@ -232,6 +232,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/RSO03/distribuce/json"
   },
   {
+    "name": "Konference v hromadných ubytovacích zařízeních",
+    "url": "https://data.csu.gov.cz/opendata/sady/CRU03/distribuce/csv"
+  },
+  {
+    "name": "Konference v hromadných ubytovacích zařízeních",
+    "url": "https://data.csu.gov.cz/opendata/sady/CRU03/distribuce/json"
+  },
+  {
     "name": "Míra inflace",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101H/distribuce/csv"
   },
@@ -890,6 +898,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CRU02M/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CRU03/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",

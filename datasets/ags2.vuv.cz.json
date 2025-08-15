@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Chráněné oblasti přirozené akumulace vod",
+    "url": "https://ags2.vuv.cz/arcgis/services/isvs_voda/isvs_voda/MapServer/WFSServer"
+  },
+  {
+    "name": "Koupací oblasti WFS služby",
+    "url": "https://ags2.vuv.cz/arcgis/services/isvs_voda/isvs_voda/MapServer/WFSServer"
+  },
+  {
+    "name": "Ochranná pásma vodních zdrojů - WFS služba",
+    "url": "https://ags2.vuv.cz/arcgis/services/isvs_voda/isvs_voda/MapServer/WFSServer"
+  },
+  {
+    "name": "Rybné vody - WFS služba",
+    "url": "https://ags2.vuv.cz/arcgis/services/isvs_voda/isvs_voda/MapServer/WFSServer"
+  },
+  {
+    "name": "Stav útvarů podzemních vod - WFS služba",
+    "url": "https://ags2.vuv.cz/arcgis/services/isvs_voda/isvs_voda/MapServer/WFSServer"
+  },
+  {
+    "name": "Zranitelné oblasti - WFS služba",
+    "url": "https://ags2.vuv.cz/arcgis/services/isvs_voda/isvs_voda/MapServer/WFSServer"
+  },
+  {
+    "name": "Záplavová území - WFS služba",
+    "url": "https://ags2.vuv.cz/arcgis/services/isvs_voda/isvs_voda/MapServer/WFSServer"
+  },
+  {
+    "name": "Útvary podzemních vod - WFS služba",
+    "url": "https://ags2.vuv.cz/arcgis/services/isvs_voda/isvs_voda/MapServer/WFSServer"
+  },
+  {
+    "name": "Útvary povrchových vod - WFS služba",
+    "url": "https://ags2.vuv.cz/arcgis/services/isvs_voda/isvs_voda/MapServer/WFSServer"
+  }
+]
