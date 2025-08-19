@@ -45,10 +45,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://opendata.jihlava.cz/datasets/jihlava::sběrný-dvůr"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.jihlava.cz/datasets/jihlava::volební-místnosti"
   },
   {
@@ -137,10 +133,6 @@
   },
   {
     "name": "CSV",
-    "url": "https://opendata.jihlava.cz/api/download/v1/items/f5b3774d135f481fa633d61856ad81e8/csv?layers=10"
-  },
-  {
-    "name": "CSV",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/f999572585a248a3b49b81acde1cb33c/csv?layers=11"
   },
   {
@@ -198,10 +190,6 @@
   {
     "name": "File Geodatabase",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/eb86ad680b27457b9647a93ea879094d/filegdb?layers=22"
-  },
-  {
-    "name": "File Geodatabase",
-    "url": "https://opendata.jihlava.cz/api/download/v1/items/f5b3774d135f481fa633d61856ad81e8/filegdb?layers=10"
   },
   {
     "name": "File Geodatabase",
@@ -273,10 +261,6 @@
   },
   {
     "name": "GeoJSON",
-    "url": "https://opendata.jihlava.cz/api/download/v1/items/f5b3774d135f481fa633d61856ad81e8/geojson?layers=10"
-  },
-  {
-    "name": "GeoJSON",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/f999572585a248a3b49b81acde1cb33c/geojson?layers=11"
   },
   {
@@ -345,10 +329,6 @@
   },
   {
     "name": "KML",
-    "url": "https://opendata.jihlava.cz/api/download/v1/items/f5b3774d135f481fa633d61856ad81e8/kml?layers=10"
-  },
-  {
-    "name": "KML",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/f999572585a248a3b49b81acde1cb33c/kml?layers=11"
   },
   {
@@ -414,10 +394,6 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.jihlava.cz/api/download/v1/items/eb86ad680b27457b9647a93ea879094d/shapefile?layers=22"
-  },
-  {
-    "name": "Shapefile",
-    "url": "https://opendata.jihlava.cz/api/download/v1/items/f5b3774d135f481fa633d61856ad81e8/shapefile?layers=10"
   },
   {
     "name": "Shapefile",

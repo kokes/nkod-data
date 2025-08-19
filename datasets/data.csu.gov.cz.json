@@ -152,6 +152,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0401/distribuce/json"
   },
   {
+    "name": "Indexy cen průmyslových výrobců (CZ-CPA) - do 2014",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0201D/distribuce/csv"
+  },
+  {
+    "name": "Indexy cen průmyslových výrobců (CZ-CPA) - do 2014",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0201D/distribuce/json"
+  },
+  {
     "name": "Indexy cen průmyslových výrobců (CZ-CPA_2015)",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0201B/distribuce/csv"
   },
@@ -826,6 +834,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0201C/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0201D/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
