@@ -1,7 +1,7 @@
 [
   {
     "name": "DP celá ČR 2015-2025 (XLSX)",
-    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/b64fe62c96f34fbfb2e266a0621bcdef/data"
+    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/a72bf317727c48e481b271ad10e5eb9f/data"
   },
   {
     "name": "DP celá ČR 2019 (SHP EPSG:4258)",
@@ -50,6 +50,14 @@
   {
     "name": "DP celá ČR 2024 (SHP EPSG:5514)",
     "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/1a2517f58b254c739270608d401823a4/data"
+  },
+  {
+    "name": "DP celá ČR 2025 (SHP EPSG:4258)",
+    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/2cac84bb1f5245598f0334c6011ef5a6/data"
+  },
+  {
+    "name": "DP celá ČR 2025 (SHP EPSG:5514)",
+    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/c364a307fe84406fa6d985b8aaf9147a/data"
   },
   {
     "name": "EVP celá ČR 2019 (SHP EPSG:4258)",
@@ -172,16 +180,16 @@
     "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/a6f4193d440b41ea8ce738b316f767b2/data"
   },
   {
+    "name": "LPIS DPB celá ČR 01-08-2025 (SHP EPSG:4258)",
+    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/c58a7d1512bf405ebd6c7dfa58c7d79c/data"
+  },
+  {
+    "name": "LPIS DPB celá ČR 01-08-2025 (SHP EPSG:5514)",
+    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/e7e8f6c652304799b3557faede458bf0/data"
+  },
+  {
     "name": "LPIS DPB celá ČR 2005-2018 (SHP EPSG:5514)",
     "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/69c7a3e134f84b65ac5fa0b0d7abfadc/data"
-  },
-  {
-    "name": "LPIS DPB celá ČR 21-05-2025 (SHP EPSG:4258)",
-    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/8991c344539446f69ea0abc75e790933/data"
-  },
-  {
-    "name": "LPIS DPB celá ČR 21-05-2025 (SHP EPSG:5514)",
-    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/5671a9d4a4384cbea7a69064b19c1b68/data"
   },
   {
     "name": "LPIS DPB celá ČR 31-12-2019 (SHP EPSG:4258)",
