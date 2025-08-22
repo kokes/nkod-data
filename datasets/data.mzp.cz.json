@@ -84,8 +84,16 @@
     "url": "https://data.mzp.cz/datasets/dataset/jasu/aopk_smlouvy_platne_neplatne.csv"
   },
   {
+    "name": "aopk_uhrazene_faktury.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/aopk_uhrazene_faktury.csv"
+  },
+  {
     "name": "cenia_uhrazene_faktury.csv",
     "url": "https://data.mzp.cz/datasets/dataset/jasu/cenia_uhrazene_faktury.csv"
+  },
+  {
+    "name": "cgs_objednavky.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/cgs_objednavky.csv"
   },
   {
     "name": "cgs_smlouvy_platne_neplatne.csv",
@@ -146,6 +154,10 @@
   {
     "name": "mzp_smlouvy_platne_neplatne.csv",
     "url": "https://data.mzp.cz/datasets/dataset/jasu/mzp_smlouvy_platne_neplatne.csv"
+  },
+  {
+    "name": "mzp_uhrazene_faktury.csv",
+    "url": "https://data.mzp.cz/datasets/dataset/jasu/mzp_uhrazene_faktury.csv"
   },
   {
     "name": "sekm-mzp_kontaminovana_mista.csv",
