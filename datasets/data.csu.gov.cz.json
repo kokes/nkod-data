@@ -24,6 +24,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/ENE01/distribuce/json"
   },
   {
+    "name": "Cenové rozpětí vybraných zemědělských výrobků",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0203F/distribuce/csv"
+  },
+  {
+    "name": "Cenové rozpětí vybraných zemědělských výrobků",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0203F/distribuce/json"
+  },
+  {
     "name": "Dlouhodobé časové řady - roční údaje za Českou republiku",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY01CR/distribuce/csv"
   },
@@ -206,6 +214,38 @@
   {
     "name": "Indexy cen vývozu a dovozu, směnné relace podle klasifikace CPA - neočištěné o vliv měnového kurzu",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0301/distribuce/json"
+  },
+  {
+    "name": "Indexy cen zemědělských výrobců (průměr roku 2010 = 100) - od roku 2010 - 2017 ",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN02034/distribuce/csv"
+  },
+  {
+    "name": "Indexy cen zemědělských výrobců (průměr roku 2010 = 100) - od roku 2010 - 2017 ",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN02034/distribuce/json"
+  },
+  {
+    "name": "Indexy cen zemědělských výrobců (průměr roku 2015 = 100) - od roku 2015 - 2022",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN02033/distribuce/csv"
+  },
+  {
+    "name": "Indexy cen zemědělských výrobců (průměr roku 2015 = 100) - od roku 2015 - 2022",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN02033/distribuce/json"
+  },
+  {
+    "name": "Indexy cen zemědělských výrobců (průměr roku 2020 = 100, meziroční index, podíl klouzavých průměrů)",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN02031/distribuce/csv"
+  },
+  {
+    "name": "Indexy cen zemědělských výrobců (průměr roku 2020 = 100, meziroční index, podíl klouzavých průměrů)",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN02031/distribuce/json"
+  },
+  {
+    "name": "Indexy cen zemědělských výrobců podle hlavních zemědělských skupin (předchozí období = 100)",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN02032/distribuce/csv"
+  },
+  {
+    "name": "Indexy cen zemědělských výrobců podle hlavních zemědělských skupin (předchozí období = 100)",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN02032/distribuce/json"
   },
   {
     "name": "Indexy nákladů stavební výroby",
@@ -640,6 +680,22 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0204B/distribuce/json"
   },
   {
+    "name": "Průměrné ceny zemědělských výrobků",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0203B/distribuce/csv"
+  },
+  {
+    "name": "Průměrné ceny zemědělských výrobků",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0203B/distribuce/json"
+  },
+  {
+    "name": "Průměrné jednotkové ceny zemědělských výrobků",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0203D/distribuce/csv"
+  },
+  {
+    "name": "Průměrné jednotkové ceny zemědělských výrobků",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0203D/distribuce/json"
+  },
+  {
     "name": "Průměrné kupní ceny nemovitostí - zdroj dat ČÚZK (od 2019)",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0402/distribuce/csv"
   },
@@ -862,6 +918,34 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0202D/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN02031/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN02032/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN02033/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN02034/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0203B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0203D/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0203F/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
