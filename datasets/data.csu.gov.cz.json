@@ -136,6 +136,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/ICT01/distribuce/json"
   },
   {
+    "name": "Index cen výrobků a služeb vstupujících do zemědělství - klasifikace API",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0203C/distribuce/csv"
+  },
+  {
+    "name": "Index cen výrobků a služeb vstupujících do zemědělství - klasifikace API",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0203C/distribuce/json"
+  },
+  {
     "name": "Indexy cen materiálových vstupů stavební výroby",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0202C/distribuce/csv"
   },
@@ -938,6 +946,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0203B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0203C/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
