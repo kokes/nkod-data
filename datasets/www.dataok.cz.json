@@ -101,6 +101,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/datasets/KUOK::výzkum-kulturní-participace-obyvatel-olomouckého-kraje"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.dataok.cz/datasets/KUOK::zastávky-hromadné-dopravy-v-olomouckém-kraji"
   },
   {
@@ -170,6 +174,10 @@
   {
     "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/054a673e3bf2447d8ee5cace3d6d56fb/csv?layers=10"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/0eeb935da2964336b19535af18b5db7b/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -349,6 +357,10 @@
   },
   {
     "name": "File Geodatabase",
+    "url": "https://www.dataok.cz/api/download/v1/items/0eeb935da2964336b19535af18b5db7b/filegdb?layers=0"
+  },
+  {
+    "name": "File Geodatabase",
     "url": "https://www.dataok.cz/api/download/v1/items/0f49c30be8864514bbc35f626363f1cd/filegdb?layers=2"
   },
   {
@@ -486,6 +498,10 @@
   {
     "name": "GeoJSON",
     "url": "https://www.dataok.cz/api/download/v1/items/054a673e3bf2447d8ee5cace3d6d56fb/geojson?layers=10"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/0eeb935da2964336b19535af18b5db7b/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -661,6 +677,10 @@
   },
   {
     "name": "KML",
+    "url": "https://www.dataok.cz/api/download/v1/items/0eeb935da2964336b19535af18b5db7b/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://www.dataok.cz/api/download/v1/items/0f49c30be8864514bbc35f626363f1cd/kml?layers=2"
   },
   {
@@ -830,6 +850,10 @@
   {
     "name": "Shapefile",
     "url": "https://www.dataok.cz/api/download/v1/items/054a673e3bf2447d8ee5cace3d6d56fb/shapefile?layers=10"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.dataok.cz/api/download/v1/items/0eeb935da2964336b19535af18b5db7b/shapefile?layers=0"
   },
   {
     "name": "Shapefile",

@@ -93,7 +93,7 @@
   },
   {
     "name": "Epidemiologie diabetes mellitus",
-    "url": "https://data.mzcr.cz/data/distribuce/362/Otevrena-data-NR-18-01-diabetes-mellitus-2024-01.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/362/Otevrena-data-NR-18-01-diabetes-mellitus.csv.gz"
   },
   {
     "name": "Epidemiologie srdečního selhání",
@@ -196,6 +196,10 @@
     "url": "https://data.mzcr.cz/data/distribuce/460/Otevrena-data-NR-04-80-hromadne-vyrabene-lecive-pripravky-unikatni-pacienti-vek-diagnoza.7z"
   },
   {
+    "name": "Hypertenze v populaci ČR",
+    "url": "https://data.mzcr.cz/data/distribuce/327/Otevrena-data-OIS-01-04-hypertenze.csv"
+  },
+  {
     "name": "Incidence a prevalence zhoubných nádorů v regionech ČR",
     "url": "https://data.mzcr.cz/data/distribuce/372/Otevrena-data-NR-07-01-incidence-prevalence-zhoubne-nadory-regiony-cr-2024-01.csv"
   },
@@ -218,10 +222,6 @@
   {
     "name": "Individuálně připravované léčivé přípravky – unikátní pacienti dle věku a diagnózy",
     "url": "https://data.mzcr.cz/data/distribuce/461/Otevrena-data-NR-04-81-individualne-pripravovane-lecive-pripravky-unikatni-pacienti-vek-diagnoza.csv"
-  },
-  {
-    "name": "Kardiologie: Hypertenze v populaci ČR",
-    "url": "https://data.mzcr.cz/data/distribuce/327/Otevrena-data-OIS-01-04-Hypertenze-2024-01-01.csv"
   },
   {
     "name": "Kardiologie: Kardiostimulátory a implantabilní kardioverter-defibrilátory",
