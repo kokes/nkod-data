@@ -32,10 +32,6 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-mezinarodni-obchod-s-ohrozenymi-druhy-chranenymi-umluvou-cites-2024.csv"
   },
   {
-    "name": "csv-priroda-indikator-pocet-vydanych-povoleni-cites.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pocet-vydanych-povoleni-cites-2023.csv"
-  },
-  {
     "name": "csv-znecisteni-indikator-pocet-zarizeni-ippc-v-krajich.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pocet-zarizeni-ippc-v-krajich-2023.csv"
   },
@@ -134,6 +130,10 @@
   {
     "name": "data-cenia-indikator-pocet-obci-ktere-maji-adaptacni-plany-2024.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pocet-obci-ktere-maji-adaptacni-plany-2024.csv"
+  },
+  {
+    "name": "data-cenia-indikator-pocet-vydanych-povoleni-cites-2024.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pocet-vydanych-povoleni-cites-2024.csv"
   },
   {
     "name": "data-cenia-indikator-pocet-zvlaste-chranenych-druhu-zivocichu-fauny-cr-ohrozenych-druhu-zivocichu-sv-2023.csv",
