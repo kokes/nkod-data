@@ -61,11 +61,11 @@
   },
   {
     "name": "Ekonomické ukazatele o trhu pevných sítí",
-    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-pevna_sit2024.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-pevna_sit2024.xlsx"
   },
   {
     "name": "Ekonomické ukazatele o trhu pevných sítí",
-    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-pevna_sit2024.xlsx"
+    "url": "https://data.ctu.gov.cz/sites/default/files/ukazatele_o_trhu_elektronickych_komunikaci_v_cr-pevna_sit2024_2.csv"
   },
   {
     "name": "Ekonomické ukazatele o trhu rozhlasového a televizního vysílání",
@@ -397,7 +397,7 @@
   },
   {
     "name": "Ověřování odborné způsobilosti za rok 2019",
-    "url": "https://data.ctu.gov.cz/sites/default/files/overovani-odborne-zpusobilosti-2019.csv"
+    "url": "https://data.ctu.gov.cz/sites/default/files/overovani-odborne-zpusobilosti-2019_oprava.csv"
   },
   {
     "name": "Ověřování odborné způsobilosti za rok 2020",
@@ -418,6 +418,14 @@
   {
     "name": "Ověřování odborné způsobilosti za rok 2023",
     "url": "https://data.ctu.gov.cz/sites/default/files/overovani-odborne-zpusobilosti-2023.xlsx"
+  },
+  {
+    "name": "Ověřování odborné způsobilosti za rok 2024",
+    "url": "https://data.ctu.gov.cz/sites/default/files/overovani-odborne-zpusobilosti-2024.csv"
+  },
+  {
+    "name": "Ověřování odborné způsobilosti za rok 2024",
+    "url": "https://data.ctu.gov.cz/sites/default/files/overovani-odborne-zpusobilosti-2024.xlsx"
   },
   {
     "name": "Oznámená zařízení",
@@ -680,6 +688,14 @@
     "url": "https://data.ctu.gov.cz/sites/default/files/pokryti-oblasti-cr-infrastrukturou-nga-zsj-2023.xlsx"
   },
   {
+    "name": "Pokrytí oblastí ČR infrastrukturou NGA - ZSJ v roce 2024",
+    "url": "https://data.ctu.gov.cz/sites/default/files/pokryti-oblasti-cr-infrastrukturou-nga-zsj-2024.csv"
+  },
+  {
+    "name": "Pokrytí oblastí ČR infrastrukturou NGA - ZSJ v roce 2024",
+    "url": "https://data.ctu.gov.cz/sites/default/files/pokryti-oblasti-cr-infrastrukturou-nga-zsj-2024.xlsx"
+  },
+  {
     "name": "Pokrytí oblastí ČR infrastrukturou NGA - kraje v roce 2021 (dle % pokrytí ZSJ)",
     "url": "https://data.ctu.gov.cz/sites/default/files/pokryti-oblasti-cr-infrastrukturou-nga-kraje-pripojky-procenta-2021_0.csv"
   },
@@ -694,6 +710,14 @@
   {
     "name": "Pokrytí oblastí ČR infrastrukturou NGA - kraje v roce 2023 (dle % pokrytí ZSJ)",
     "url": "https://data.ctu.gov.cz/sites/default/files/pokryti-oblasti-cr-infrastrukturou-nga-kraje-pripojky-procenta-2023_1.xlsx"
+  },
+  {
+    "name": "Pokrytí oblastí ČR infrastrukturou NGA - kraje v roce 2024 (dle % pokrytí ZSJ)",
+    "url": "https://data.ctu.gov.cz/sites/default/files/pokryti-oblasti-cr-infrastrukturou-nga-kraje-pripojky-procenta-2024.csv"
+  },
+  {
+    "name": "Pokrytí oblastí ČR infrastrukturou NGA - kraje v roce 2024 (dle % pokrytí ZSJ)",
+    "url": "https://data.ctu.gov.cz/sites/default/files/pokryti-oblasti-cr-infrastrukturou-nga-kraje-pripojky-procenta-2024.xlsx"
   },
   {
     "name": "Pokrytí oblastí ČR infrastrukturou NGA - krajeZSJBezDom v roce 2014",
@@ -740,12 +764,28 @@
     "url": "https://data.ctu.gov.cz/sites/default/files/pokryti-oblasti-cr-infrastrukturou-100mbit-zsj-2023.xlsx"
   },
   {
+    "name": "Pokrytí oblastí ČR infrastrukturou o rychlosti 100 Mbit/s a vyšší - ZSJ v roce 2024",
+    "url": "https://data.ctu.gov.cz/sites/default/files/pokryti-oblasti-cr-infrastrukturou-100mbit-zsj-2024.csv"
+  },
+  {
+    "name": "Pokrytí oblastí ČR infrastrukturou o rychlosti 100 Mbit/s a vyšší - ZSJ v roce 2024",
+    "url": "https://data.ctu.gov.cz/sites/default/files/pokryti-oblasti-cr-infrastrukturou-100mbit-zsj-2024.xlsx"
+  },
+  {
     "name": "Pokrytí oblastí ČR infrastrukturou o rychlosti 100 Mbit/s a vyšší - kraje v roce 2023 (dle % pokrytí ZSJ)",
     "url": "https://data.ctu.gov.cz/sites/default/files/pokryti-oblasti-cr-infrastrukturou-100mbit-kraje-pripojky-procenta-2023.csv"
   },
   {
     "name": "Pokrytí oblastí ČR infrastrukturou o rychlosti 100 Mbit/s a vyšší - kraje v roce 2023 (dle % pokrytí ZSJ)",
     "url": "https://data.ctu.gov.cz/sites/default/files/pokryti-oblasti-cr-infrastrukturou-100mbit-kraje-pripojky-procenta-2023.xlsx"
+  },
+  {
+    "name": "Pokrytí oblastí ČR infrastrukturou o rychlosti 100 Mbit/s a vyšší - kraje v roce 2024 (dle % pokrytí ZSJ)",
+    "url": "https://data.ctu.gov.cz/sites/default/files/pokryti-oblasti-cr-infrastrukturou-100mbit-kraje-pripojky-procenta-2024.csv"
+  },
+  {
+    "name": "Pokrytí oblastí ČR infrastrukturou o rychlosti 100 Mbit/s a vyšší - kraje v roce 2024 (dle % pokrytí ZSJ)",
+    "url": "https://data.ctu.gov.cz/sites/default/files/pokryti-oblasti-cr-infrastrukturou-100mbit-kraje-pripojky-procenta-2024.xlsx"
   },
   {
     "name": "Pokrytí tranzitních železničních koridorů mobilním signálem - Koridor 1 Děčín-Praha-Břeclav",
