@@ -37,6 +37,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://www.dataok.cz/datasets/KUOK::provozovatelé-kulturně-kreativních-odvětví-v-olomouckém-kraji"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://www.dataok.cz/datasets/KUOK::publikační-plán-olomouckého-kraje"
   },
   {
@@ -190,6 +194,10 @@
   {
     "name": "CSV",
     "url": "https://www.dataok.cz/api/download/v1/items/277f582670524355ae30f57b561d796d/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.dataok.cz/api/download/v1/items/2cb8132b68cf4026a14649a92189d138/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -369,6 +377,10 @@
   },
   {
     "name": "File Geodatabase",
+    "url": "https://www.dataok.cz/api/download/v1/items/2cb8132b68cf4026a14649a92189d138/filegdb?layers=0"
+  },
+  {
+    "name": "File Geodatabase",
     "url": "https://www.dataok.cz/api/download/v1/items/3e42001252dc42fdbf5f3c8240be779e/filegdb?layers=0"
   },
   {
@@ -514,6 +526,10 @@
   {
     "name": "GeoJSON",
     "url": "https://www.dataok.cz/api/download/v1/items/277f582670524355ae30f57b561d796d/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://www.dataok.cz/api/download/v1/items/2cb8132b68cf4026a14649a92189d138/geojson?layers=0"
   },
   {
     "name": "GeoJSON",
@@ -693,6 +709,10 @@
   },
   {
     "name": "KML",
+    "url": "https://www.dataok.cz/api/download/v1/items/2cb8132b68cf4026a14649a92189d138/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://www.dataok.cz/api/download/v1/items/2dc5e4cd156449f6b4627a0ced0ea1e4/kml?layers=8"
   },
   {
@@ -866,6 +886,10 @@
   {
     "name": "Shapefile",
     "url": "https://www.dataok.cz/api/download/v1/items/277f582670524355ae30f57b561d796d/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.dataok.cz/api/download/v1/items/2cb8132b68cf4026a14649a92189d138/shapefile?layers=0"
   },
   {
     "name": "Shapefile",
