@@ -77,6 +77,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/provozovatel%C3%A9_kulturn%C4%9B_kreativn%C3%ADch_odv%C4%9Btv%C3%AD/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/publika%C4%8Dn%C3%AD_pl%C3%A1n_Olomouck%C3%A9ho_kraje/FeatureServer/0"
   },
   {
@@ -90,10 +94,6 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/stavebn%C3%AD_%C3%BA%C5%99ady_v_Olomouck%C3%A9m_kraji/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://gisint.kr-olomoucky.cz/int/rest/services/OpenData/subjekty_kulturn%C4%9B_kreativn%C3%ADch_odv%C4%9Btv%C3%AD/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
