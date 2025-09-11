@@ -720,6 +720,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101J/distribuce/json"
   },
   {
+    "name": "Průměrné spotřebitelské ceny vybraných druhů zboží",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101D/distribuce/csv"
+  },
+  {
+    "name": "Průměrné spotřebitelské ceny vybraných druhů zboží",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101D/distribuce/json"
+  },
+  {
     "name": "Rozklad přírůstků indexů vývozních a dovozních cen podle klasifikace CPA - neočištěné o vliv měnového kurzu",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0305/distribuce/csv"
   },
@@ -874,6 +882,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0101C/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0101D/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
