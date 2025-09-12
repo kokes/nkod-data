@@ -125,10 +125,6 @@
   },
   {
     "name": "Data in CSV",
-    "url": "https://opendata.ostrava.cz/pocet-obcanskych-prukazu-2020-2021"
-  },
-  {
-    "name": "Data in CSV",
     "url": "https://opendata.ostrava.cz/pocet-obcanskych-prukazu-2022"
   },
   {
@@ -186,6 +182,10 @@
   {
     "name": "Data in CSV",
     "url": "https://opendata.ostrava.cz/pocet-pripadu-dle-stavu/"
+  },
+  {
+    "name": "Data in CSV",
+    "url": "https://opendata.ostrava.cz/pocet-psu-oznacenych-cipem/"
   },
   {
     "name": "Data in CSV",

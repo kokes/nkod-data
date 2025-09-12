@@ -233,10 +233,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::pup-cur-vps-l"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::pěší-trasy"
   },
   {
@@ -290,6 +286,10 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::veřejně-prospěšné-stavby-bodové-prvky-územní-plán"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::veřejně-prospěšné-stavby-liniové-prvky-územní-plán"
   },
   {
     "name": "ArcGIS Hub Dataset",
