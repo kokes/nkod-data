@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/DOP_CUR_DOP_CYKLOGENEREL_L/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/DOP_CUR_DOP_CYKLOZNACKY_B/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/FSB_CUR_BEZ_OKRSKYMPP_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/FSV_CUR_OV_KULTSAKRALOBJ_B/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/FSV_CUR_RV_VYBAVENOSTVPP_B/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/MAP_CUR_MAP_MESTSKECASTI_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/OPK_CUR_OPK_PLAN_USES_KRIT_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/OPK_CUR_OPK_PRIRODNIPARKY_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/TIV_CUR_TIV_VDS_ZAPLAVA_DVT_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/TIV_CUR_TIV_VDS_ZAPLAVA_VLT_P/FeatureServer/0"
+  }
+]
