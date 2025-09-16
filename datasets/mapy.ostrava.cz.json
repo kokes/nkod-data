@@ -672,6 +672,34 @@
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_24_WGS84_shp.zip"
   },
   {
+    "name": "Cenová mapa č. 25 (DXF, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_25_JTSK_dxf.zip"
+  },
+  {
+    "name": "Cenová mapa č. 25 (GJSON, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_25_JTSK_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 25 (GJSON, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_25_WGS84_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 25 (GML, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_25_JTSK_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 25 (GML, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_25_WGS84_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 25 (SHP, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_25_JTSK_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 25 (SHP, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_25_WGS84_shp.zip"
+  },
+  {
     "name": "Cyklistické objekty (DXF, S-JTSK)",
     "url": "http://mapy.ostrava.cz/opendata/data/opendata/cyklo_bod_JTSK_dxf.zip"
   },
