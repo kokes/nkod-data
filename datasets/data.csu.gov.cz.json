@@ -208,6 +208,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0202A/distribuce/json"
   },
   {
+    "name": "Indexy cen v tržních službách - do roku 2014",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0204C/distribuce/csv"
+  },
+  {
+    "name": "Indexy cen v tržních službách - do roku 2014",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0204C/distribuce/json"
+  },
+  {
     "name": "Indexy cen v tržních službách - od roku 2015",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0204A/distribuce/csv"
   },
@@ -978,6 +986,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0204B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0204C/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",

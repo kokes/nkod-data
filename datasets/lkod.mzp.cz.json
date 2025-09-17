@@ -1,9 +1,5 @@
 [
   {
-    "name": "csv-doprava-delka-silnicnich-a-zeleznicnich-komunikaci-lezicich-v-zaplavovych-uzemi.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-delka-silnicnich-a-zeleznicnich-komunikaci-lezicich-v-zaplavovych-uzemi-2023.csv"
-  },
-  {
     "name": "csv-doprava-indikator-registrace-novych-vozidel.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-registrace-novych-vozidel-2023.csv"
   },
@@ -78,6 +74,10 @@
   {
     "name": "data-cenia-indikator-cistirny-odpadnich-vod-2023.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-cistirny-odpadnich-vod-2023.csv"
+  },
+  {
+    "name": "data-cenia-indikator-delka-silnicnich-a-zeleznicnich-komunikaci-lezicich-v-zaplavovych-uzemi-2024.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-delka-silnicnich-a-zeleznicnich-komunikaci-lezicich-v-zaplavovych-uzemi-2024.csv"
   },
   {
     "name": "data-cenia-indikator-domaci-materialova-spotreba-2024.csv",
@@ -170,6 +170,10 @@
   {
     "name": "data-cenia-indikator-podil-vzorku-rybnicnich-a-ricnich-sedimentu-prekracujicich-limitni-hodnoty-2024.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-podil-vzorku-rybnicnich-a-ricnich-sedimentu-prekracujicich-limitni-hodnoty-2024.csv"
+  },
+  {
+    "name": "data-cenia-indikator-preprava-veci-a-vykony-nakladni-dopravy-podle-druhu-prepravy-2024.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-preprava-veci-a-vykony-nakladni-dopravy-podle-druhu-prepravy-2024.csv"
   },
   {
     "name": "data-cenia-indikator-pripojeni-obyvatel-na-cistirny-odpadnich-vod-2023.csv",
