@@ -36,10 +36,6 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-mezinarodni-obchod-s-ohrozenymi-druhy-chranenymi-umluvou-cites-2024.csv"
   },
   {
-    "name": "csv-znecisteni-indikator-pocet-zarizeni-ippc-v-krajich.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pocet-zarizeni-ippc-v-krajich-2023.csv"
-  },
-  {
     "name": "data-cenia-indikator-alokace-prostredku-z-fondu-eu-na-projekty-2024.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-alokace-prostredku-z-fondu-eu-na-projekty-2024.csv"
   },
@@ -144,6 +140,10 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pocet-vydanych-povoleni-cites-2024.csv"
   },
   {
+    "name": "data-cenia-indikator-pocet-zarizeni-ippc-v-krajich-2024.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pocet-zarizeni-ippc-v-krajich-2024.csv"
+  },
+  {
     "name": "data-cenia-indikator-pocet-zvlaste-chranenych-druhu-zivocichu-fauny-cr-ohrozenych-druhu-zivocichu-sv-2024.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pocet-zvlaste-chranenych-druhu-zivocichu-fauny-cr-ohrozenych-druhu-zivocichu-sv-2024.csv"
   },
@@ -176,12 +176,12 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-preprava-veci-a-vykony-nakladni-dopravy-podle-druhu-prepravy-2024.csv"
   },
   {
-    "name": "data-cenia-indikator-pripojeni-obyvatel-na-cistirny-odpadnich-vod-2023.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pripojeni-obyvatel-na-cistirny-odpadnich-vod-2023.csv"
+    "name": "data-cenia-indikator-pripojeni-obyvatel-na-cistirny-odpadnich-vod-2024.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pripojeni-obyvatel-na-cistirny-odpadnich-vod-2024.csv"
   },
   {
-    "name": "data-cenia-indikator-prumerna-velikost-dilu-pudnich-bloku-2023.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-prumerna-velikost-dilu-pudnich-bloku-2023.csv"
+    "name": "data-cenia-indikator-prumerna-velikost-dilu-pudnich-bloku-2024.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-prumerna-velikost-dilu-pudnich-bloku-2024.csv"
   },
   {
     "name": "data-cenia-indikator-sanace-kontaminovanych-mist-2023.csv",
@@ -196,12 +196,8 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-spotreba-pripravku-na-ochranu-rostlin-2024.csv"
   },
   {
-    "name": "data-cenia-indikator-spotreba-vody-z-verejneho-vodovodu-2023.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-spotreba-vody-z-verejneho-vodovodu-2023.csv"
-  },
-  {
-    "name": "data-cenia-indikator-spotreba-vody-z-verejneho-vodovodu-v-krajich-2023.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-spotreba-vody-z-verejneho-vodovodu-v-krajich-2023.csv"
+    "name": "data-cenia-indikator-spotreba-vody-z-verejneho-vodovodu-2024.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-spotreba-vody-z-verejneho-vodovodu-2024.csv"
   },
   {
     "name": "data-cenia-indikator-struktura-holin-2024.csv",
@@ -220,12 +216,12 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-verejne-vydaje-na-ochranu-zivotniho-prostredi-z-uzemnich-rozpoctu-2023.csv"
   },
   {
-    "name": "data-cenia-indikator-vypousteni-odpadnich-vod-2023.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-vypousteni-odpadnich-vod-2023.csv"
+    "name": "data-cenia-indikator-vypousteni-odpadnich-vod-2024.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-vypousteni-odpadnich-vod-2024.csv"
   },
   {
-    "name": "data-cenia-indikator-ztraty-vody-2023.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-ztraty-vody-2023.csv"
+    "name": "data-cenia-indikator-ztraty-vody-2024.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-ztraty-vody-2024.csv"
   },
   {
     "name": "hnvo-mzp_prehled_osob_poverenych_k_hodnoceni_nebezpecnych_vlastnosti_odpadu.csv",
