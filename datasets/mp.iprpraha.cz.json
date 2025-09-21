@@ -77,6 +77,14 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/DTMP_CUR_TMBUDOVA_B/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/FSB_CUR_BEZ_OBJEKTMPP_B/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/FSB_CUR_BEZ_OKRSKYMPP_P/FeatureServer/0"
   },
   {
@@ -269,6 +277,26 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/PUP_CUR_PVP_FVUZASTAVITELNE_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/PUP_CUR_PVP_PP_PL_B/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/PUP_CUR_PVP_PP_S_B/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/PUP_CUR_PVP_VELROZVUZEM_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/PUP_CUR_PVP_ZASTAVENEUZEMI_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/PUP_CUR_VPS_B/FeatureServer/0"
   },
   {
@@ -329,6 +357,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/URK_CUR_URK_RECYKLACEUZEMI_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/URK_CUR_URK_SS_NAMESTI_P/FeatureServer/0"
   },
   {
@@ -342,6 +374,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/URK_CUR_URK_SS_VERPRISPROST_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/URK_CUR_URK_SS_VYUZITIZAKL_P/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
