@@ -33,6 +33,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://city-jihlava.hub.arcgis.com/datasets/jihlava::opendata-od-parkoviste-l"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://city-jihlava.hub.arcgis.com/datasets/jihlava::opendata-od-parkoviste-p"
   },
   {
@@ -173,6 +177,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/f368e3bec87940a39903e078b73ec1b3/csv?layers=0"
+  },
+  {
+    "name": "CSV",
     "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/f6f719c8cf5f4d14a76f016c7cf1746c/csv?layers=0"
   },
   {
@@ -258,6 +266,10 @@
   {
     "name": "Excel",
     "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/ee7d9fc0d7e34f3e89e2e894f7ec9b4a/excel?layers=0"
+  },
+  {
+    "name": "Excel",
+    "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/f368e3bec87940a39903e078b73ec1b3/excel?layers=0"
   },
   {
     "name": "Excel",
@@ -349,6 +361,10 @@
   },
   {
     "name": "Feature Collection",
+    "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/f368e3bec87940a39903e078b73ec1b3/featureCollection?layers=0"
+  },
+  {
+    "name": "Feature Collection",
     "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/f6f719c8cf5f4d14a76f016c7cf1746c/featureCollection?layers=0"
   },
   {
@@ -434,6 +450,10 @@
   {
     "name": "File Geodatabase",
     "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/ee7d9fc0d7e34f3e89e2e894f7ec9b4a/filegdb?layers=0"
+  },
+  {
+    "name": "File Geodatabase",
+    "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/f368e3bec87940a39903e078b73ec1b3/filegdb?layers=0"
   },
   {
     "name": "File Geodatabase",
@@ -529,6 +549,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/f368e3bec87940a39903e078b73ec1b3/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/f6f719c8cf5f4d14a76f016c7cf1746c/geojson?layers=0"
   },
   {
@@ -614,6 +638,10 @@
   {
     "name": "GeoPackage",
     "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/ee7d9fc0d7e34f3e89e2e894f7ec9b4a/geoPackage?layers=0"
+  },
+  {
+    "name": "GeoPackage",
+    "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/f368e3bec87940a39903e078b73ec1b3/geoPackage?layers=0"
   },
   {
     "name": "GeoPackage",
@@ -709,6 +737,10 @@
   },
   {
     "name": "KML",
+    "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/f368e3bec87940a39903e078b73ec1b3/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/f6f719c8cf5f4d14a76f016c7cf1746c/kml?layers=0"
   },
   {
@@ -794,6 +826,10 @@
   {
     "name": "SQLite Geodatabase",
     "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/ee7d9fc0d7e34f3e89e2e894f7ec9b4a/sqlite?layers=0"
+  },
+  {
+    "name": "SQLite Geodatabase",
+    "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/f368e3bec87940a39903e078b73ec1b3/sqlite?layers=0"
   },
   {
     "name": "SQLite Geodatabase",
@@ -886,6 +922,10 @@
   {
     "name": "Shapefile",
     "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/ee7d9fc0d7e34f3e89e2e894f7ec9b4a/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://city-jihlava.hub.arcgis.com/api/download/v1/items/f368e3bec87940a39903e078b73ec1b3/shapefile?layers=0"
   },
   {
     "name": "Shapefile",
