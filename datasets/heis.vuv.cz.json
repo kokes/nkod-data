@@ -246,5 +246,13 @@
   {
     "name": "Útvary povrchových vod informační stránka a data ke stažení",
     "url": "https://heis.vuv.cz/isvs/UtvaryPOV"
+  },
+  {
+    "name": "Území zasažené povodní v září 2024 - data ke stažení",
+    "url": "https://heis.vuv.cz/data/webmap/datovesady/db/RozlivPovodne2024/vymezeni_rozlivu_povodne_09_24_SJTSK.zip"
+  },
+  {
+    "name": "Území zasažené povodní v září 2024 - informační stránky a data ke stažení",
+    "url": "https://heis.vuv.cz/db/rozlivpovodne2024"
   }
 ]
