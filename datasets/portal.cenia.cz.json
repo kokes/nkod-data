@@ -8,6 +8,14 @@
     "url": "https://portal.cenia.cz/eiasea/csv/eia100_mimo_cr.csv"
   },
   {
+    "name": "osoby.csv",
+    "url": "https://portal.cenia.cz/eiasea/csv/osoby.csv"
+  },
+  {
+    "name": "osoby_natura.csv",
+    "url": "https://portal.cenia.cz/eiasea/csv/osoby_natura.csv"
+  },
+  {
     "name": "sea100_koncepce.csv",
     "url": "https://portal.cenia.cz/eiasea/csv/sea100_koncepce.csv"
   },
