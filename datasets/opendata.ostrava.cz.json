@@ -165,6 +165,10 @@
   },
   {
     "name": "Data in CSV",
+    "url": "https://opendata.ostrava.cz/pocet-podanych-zadosti-blesk/"
+  },
+  {
+    "name": "Data in CSV",
     "url": "https://opendata.ostrava.cz/pocet-podanych-zadosti-o-cd/"
   },
   {
@@ -198,6 +202,10 @@
   {
     "name": "Data in CSV",
     "url": "https://opendata.ostrava.cz/pocet-uzivatelu-systemu-emia/"
+  },
+  {
+    "name": "Data in CSV",
+    "url": "https://opendata.ostrava.cz/pocet-vydanych-cd-2020-2021"
   },
   {
     "name": "Data in CSV",
@@ -406,5 +414,9 @@
   {
     "name": "Data in CSV",
     "url": "https://opendata.ostrava.cz/verejna-hriste/"
+  },
+  {
+    "name": "Data in CSV",
+    "url": "https://opendata.ostrava.cz/wp-content/uploads/2025/09/Statistika-poctu-prujezdu-2025.csv"
   }
 ]

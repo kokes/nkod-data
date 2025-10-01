@@ -88,6 +88,22 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CRU06A/distribuce/json"
   },
   {
+    "name": "Ekonomický přínos z aktivit na ochranu životního prostředí podle klasifikace ekonomických činností",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR44/distribuce/csv"
+  },
+  {
+    "name": "Ekonomický přínos z aktivit na ochranu životního prostředí podle klasifikace ekonomických činností",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR44/distribuce/json"
+  },
+  {
+    "name": "Ekonomický přínos z aktivit na ochranu životního prostředí podle programového zaměření",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR43/distribuce/csv"
+  },
+  {
+    "name": "Ekonomický přínos z aktivit na ochranu životního prostředí podle programového zaměření",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR43/distribuce/json"
+  },
+  {
     "name": "Emise hlavních znečišťujících látek do ovzduší - REZZO 1 - 4",
     "url": "https://data.csu.gov.cz/opendata/sady/WZPR02/distribuce/csv"
   },
@@ -296,6 +312,70 @@
     "url": "https://data.csu.gov.cz/opendata/sady/ICT02/distribuce/json"
   },
   {
+    "name": "Investice na ochranu životního prostředí",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR31/distribuce/csv"
+  },
+  {
+    "name": "Investice na ochranu životního prostředí",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR31/distribuce/json"
+  },
+  {
+    "name": "Investice na ochranu životního prostředí podle místa investice",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR35/distribuce/csv"
+  },
+  {
+    "name": "Investice na ochranu životního prostředí podle místa investice",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR35/distribuce/json"
+  },
+  {
+    "name": "Investice na ochranu životního prostředí podle programového zaměření a druhu vlastnictví",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR37/distribuce/csv"
+  },
+  {
+    "name": "Investice na ochranu životního prostředí podle programového zaměření a druhu vlastnictví",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR37/distribuce/json"
+  },
+  {
+    "name": "Investice na ochranu životního prostředí podle programového zaměření a klasifikace ekonomických činností",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR36/distribuce/csv"
+  },
+  {
+    "name": "Investice na ochranu životního prostředí podle programového zaměření a klasifikace ekonomických činností",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR36/distribuce/json"
+  },
+  {
+    "name": "Investice na ochranu životního prostředí podle programového zaměření a kraje sídla investora",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR33/distribuce/csv"
+  },
+  {
+    "name": "Investice na ochranu životního prostředí podle programového zaměření a kraje sídla investora",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR33/distribuce/json"
+  },
+  {
+    "name": "Investice na ochranu životního prostředí podle programového zaměření, druhu technologie a zdrojů financování",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR32/distribuce/csv"
+  },
+  {
+    "name": "Investice na ochranu životního prostředí podle programového zaměření, druhu technologie a zdrojů financování",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR32/distribuce/json"
+  },
+  {
+    "name": "Investice na ochranu životního prostředí podle zaměření a I-SECTORU",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR38/distribuce/csv"
+  },
+  {
+    "name": "Investice na ochranu životního prostředí podle zaměření a I-SECTORU",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR38/distribuce/json"
+  },
+  {
+    "name": "Investice na ochranu životního prostředí podle zdroje financování a kraje sídla investora",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR34/distribuce/csv"
+  },
+  {
+    "name": "Investice na ochranu životního prostředí podle zdroje financování a kraje sídla investora",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR34/distribuce/json"
+  },
+  {
     "name": "Katastrální výměry - druhy pozemků",
     "url": "https://data.csu.gov.cz/opendata/sady/RSO03/distribuce/csv"
   },
@@ -494,6 +574,30 @@
   {
     "name": "Navštěvnost hromadných ubytovacích zařízení v lokalitách dle stupně urbanizace",
     "url": "https://data.csu.gov.cz/opendata/sady/CRUHVD2/distribuce/json"
+  },
+  {
+    "name": "Neinvestiční náklady na ochranu životního prostředí podle programového zaměření",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR40/distribuce/csv"
+  },
+  {
+    "name": "Neinvestiční náklady na ochranu životního prostředí podle programového zaměření",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR40/distribuce/json"
+  },
+  {
+    "name": "Neinvestiční náklady na ochranu životního prostředí podle programového zaměření a klasifikace ekonomických činností",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR42/distribuce/csv"
+  },
+  {
+    "name": "Neinvestiční náklady na ochranu životního prostředí podle programového zaměření a klasifikace ekonomických činností",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR42/distribuce/json"
+  },
+  {
+    "name": "Neinvestiční náklady na ochranu životního prostředí podle programového zaměření a kraje sídla investora",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR41/distribuce/csv"
+  },
+  {
+    "name": "Neinvestiční náklady na ochranu životního prostředí podle programového zaměření a kraje sídla investora",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR41/distribuce/json"
   },
   {
     "name": "Národní účty – hlavní souhrnné ukazatele HDP - roční údaje",
@@ -1442,6 +1546,58 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZDR03/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR31/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR32/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR33/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR34/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR35/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR36/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR37/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR38/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR40/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR41/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR42/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR43/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR44/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
