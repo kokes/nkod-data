@@ -197,6 +197,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::podlažnosti-1"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::podněty-na-změny-územního-plánu-1"
   },
   {
@@ -586,6 +590,10 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/6391e7e27ff042a690617195a457f5a8/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/669fb3aca4bf4129b252eac8552f6054/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -1021,6 +1029,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/669fb3aca4bf4129b252eac8552f6054/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/684f561915764e3e9c48800a6b4fdacd/geojson?layers=0"
   },
   {
@@ -1450,6 +1462,10 @@
   {
     "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/6391e7e27ff042a690617195a457f5a8/kml?layers=0"
+  },
+  {
+    "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/669fb3aca4bf4129b252eac8552f6054/kml?layers=0"
   },
   {
     "name": "KML",
@@ -2038,6 +2054,14 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/6391e7e27ff042a690617195a457f5a8/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/669fb3aca4bf4129b252eac8552f6054/filegdb?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/669fb3aca4bf4129b252eac8552f6054/shapefile?layers=0"
   },
   {
     "name": "ZIP",
