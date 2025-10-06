@@ -1,5 +1,13 @@
 [
   {
+    "name": "GeoJson",
+    "url": "https://volby.cz/opendata/kz2024/geo/vol_okrsky_2024g100.geojson"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://volby.cz/opendata/kz2024/geo/vol_okrsky_2024g100.zip"
+  },
+  {
     "name": "Výsledky voleb do zastupitelstev obcí 2014",
     "url": "http://volby.cz/opendata/kv2014/kv2014_opendata.htm"
   },
