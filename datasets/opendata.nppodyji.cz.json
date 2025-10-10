@@ -1,0 +1,10 @@
+[
+  {
+    "name": "export.csv",
+    "url": "https://opendata.nppodyji.cz/faktury.php?export=csv"
+  },
+  {
+    "name": "export.csv",
+    "url": "https://opendata.nppodyji.cz/smlouvy.php?export=csv"
+  }
+]
