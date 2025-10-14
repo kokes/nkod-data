@@ -233,6 +233,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/e70b48cd46d54c30a9a8b12d43c0eaac/csv?layers=0"
+  },
+  {
+    "name": "CSV",
     "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/ec3cdf6b6e1c48c8bada28fa1bc998ed/csv?layers=0"
   },
   {
@@ -486,6 +490,10 @@
   {
     "name": "Excel",
     "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/e21ccc36dd404b10b5a9070a2a9a1068/excel?layers=0"
+  },
+  {
+    "name": "Excel",
+    "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/e70b48cd46d54c30a9a8b12d43c0eaac/excel?layers=0"
   },
   {
     "name": "Excel",
@@ -745,6 +753,10 @@
   },
   {
     "name": "Feature Collection",
+    "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/e70b48cd46d54c30a9a8b12d43c0eaac/featureCollection?layers=0"
+  },
+  {
+    "name": "Feature Collection",
     "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/ec3cdf6b6e1c48c8bada28fa1bc998ed/featureCollection?layers=0"
   },
   {
@@ -998,6 +1010,10 @@
   {
     "name": "File Geodatabase",
     "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/e21ccc36dd404b10b5a9070a2a9a1068/filegdb?layers=0"
+  },
+  {
+    "name": "File Geodatabase",
+    "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/e70b48cd46d54c30a9a8b12d43c0eaac/filegdb?layers=0"
   },
   {
     "name": "File Geodatabase",
@@ -1269,6 +1285,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/e70b48cd46d54c30a9a8b12d43c0eaac/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/ec3cdf6b6e1c48c8bada28fa1bc998ed/geojson?layers=0"
   },
   {
@@ -1522,6 +1542,10 @@
   {
     "name": "GeoPackage",
     "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/e21ccc36dd404b10b5a9070a2a9a1068/geoPackage?layers=0"
+  },
+  {
+    "name": "GeoPackage",
+    "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/e70b48cd46d54c30a9a8b12d43c0eaac/geoPackage?layers=0"
   },
   {
     "name": "GeoPackage",
@@ -1793,6 +1817,10 @@
   },
   {
     "name": "KML",
+    "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/e70b48cd46d54c30a9a8b12d43c0eaac/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/ec3cdf6b6e1c48c8bada28fa1bc998ed/kml?layers=0"
   },
   {
@@ -2046,6 +2074,10 @@
   {
     "name": "SQLite Geodatabase",
     "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/e21ccc36dd404b10b5a9070a2a9a1068/sqlite?layers=0"
+  },
+  {
+    "name": "SQLite Geodatabase",
+    "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/e70b48cd46d54c30a9a8b12d43c0eaac/sqlite?layers=0"
   },
   {
     "name": "SQLite Geodatabase",
@@ -2314,6 +2346,10 @@
   {
     "name": "Shapefile",
     "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/e21ccc36dd404b10b5a9070a2a9a1068/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://datamsk-mskraj.hub.arcgis.com/api/download/v1/items/e70b48cd46d54c30a9a8b12d43c0eaac/shapefile?layers=0"
   },
   {
     "name": "Shapefile",
