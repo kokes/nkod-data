@@ -157,6 +157,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/zaplavove_uzemi_lk_Q5/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/zaplavove_uzemi_lk_Q500/FeatureServer/0"
   }
 ]
