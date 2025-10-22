@@ -752,6 +752,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/RSO01/distribuce/json"
   },
   {
+    "name": "Prodané množství surového dříví pro tuzemsko od nejvýznamnějších společností obchodujících se dřevem",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0205E/distribuce/csv"
+  },
+  {
+    "name": "Prodané množství surového dříví pro tuzemsko od nejvýznamnějších společností obchodujících se dřevem",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0205E/distribuce/json"
+  },
+  {
     "name": "Produkce odpadů a nakládání s odpady",
     "url": "https://data.csu.gov.cz/opendata/sady/WZPR03/distribuce/csv"
   },
@@ -808,6 +816,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0201C/distribuce/json"
   },
   {
+    "name": "Průměrné ceny surového dříví pro tuzemsko za ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0205C/distribuce/csv"
+  },
+  {
+    "name": "Průměrné ceny surového dříví pro tuzemsko za ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0205C/distribuce/json"
+  },
+  {
     "name": "Průměrné ceny vybraných tržních služeb",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0204B/distribuce/csv"
   },
@@ -854,6 +870,30 @@
   {
     "name": "Průměrné spotřebitelské ceny vybraných druhů zboží",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101D/distribuce/json"
+  },
+  {
+    "name": "Průměrný počet členů na domácnost podle kvintilového rozdělení čistých peněžních příjmů na osobu",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR10C/distribuce/csv"
+  },
+  {
+    "name": "Průměrný počet členů na domácnost podle kvintilového rozdělení čistých peněžních příjmů na osobu",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR10C/distribuce/json"
+  },
+  {
+    "name": "Průměrný počet členů na domácnost podle podle počtu vyživovaných dětí",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR11C/distribuce/csv"
+  },
+  {
+    "name": "Průměrný počet členů na domácnost podle podle počtu vyživovaných dětí",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR11C/distribuce/json"
+  },
+  {
+    "name": "Průměrný počet členů na domácnost podle postavení osoby v čele domácnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR09C/distribuce/csv"
+  },
+  {
+    "name": "Průměrný počet členů na domácnost podle postavení osoby v čele domácnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR09C/distribuce/json"
   },
   {
     "name": "Rozklad přírůstků indexů vývozních a dovozních cen podle klasifikace CPA - neočištěné o vliv měnového kurzu",
@@ -936,6 +976,30 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101L/distribuce/json"
   },
   {
+    "name": "Spotřební výdaje domácností podle kvintilového rozdělení čistých peněžních příjmů na osobu",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR10A/distribuce/csv"
+  },
+  {
+    "name": "Spotřební výdaje domácností podle kvintilového rozdělení čistých peněžních příjmů na osobu",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR10A/distribuce/json"
+  },
+  {
+    "name": "Spotřební výdaje domácností podle postavení osoby v čele domácnosti ",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR09A/distribuce/csv"
+  },
+  {
+    "name": "Spotřební výdaje domácností podle postavení osoby v čele domácnosti ",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR09A/distribuce/json"
+  },
+  {
+    "name": "Spotřební výdaje domácností podle počtu vyživovaných dětí",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR11A/distribuce/csv"
+  },
+  {
+    "name": "Spotřební výdaje domácností podle počtu vyživovaných dětí",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR11A/distribuce/json"
+  },
+  {
     "name": "Standardizované míry úmrtnosti",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY04D/distribuce/csv"
   },
@@ -950,6 +1014,30 @@
   {
     "name": "Stav a pohyb obyvatel - předběžné údaje",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY01PD/distribuce/json"
+  },
+  {
+    "name": "Struktura spotřebních výdajů domácností podle kvintilového rozdělení čistých peněžních příjmů na osobu",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR10B/distribuce/csv"
+  },
+  {
+    "name": "Struktura spotřebních výdajů domácností podle kvintilového rozdělení čistých peněžních příjmů na osobu",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR10B/distribuce/json"
+  },
+  {
+    "name": "Struktura spotřebních výdajů domácností podle postavení osoby v čele domácnosti ",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR09B/distribuce/csv"
+  },
+  {
+    "name": "Struktura spotřebních výdajů domácností podle postavení osoby v čele domácnosti ",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR09B/distribuce/json"
+  },
+  {
+    "name": "Struktura spotřebních výdajů domácností podle počtu vyživovaných dětí",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR11B/distribuce/csv"
+  },
+  {
+    "name": "Struktura spotřebních výdajů domácností podle počtu vyživovaných dětí",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZUR11B/distribuce/json"
   },
   {
     "name": "Stěhování - vybrané souhrnné údaje",
@@ -1130,6 +1218,14 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0204D/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0205C/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0205E/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -1646,6 +1742,42 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZUR01O/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZUR09A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZUR09B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZUR09C/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZUR10A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZUR10B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZUR10C/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZUR11A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZUR11B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZUR11C/vybery"
   },
   {
     "name": "Vnitřní stěhování mezi SO ORP podle pohlaví a věku ",

@@ -177,11 +177,11 @@
   },
   {
     "name": "Hromadně vyráběné léčivé přípravky – ATC (aktuální), měsíc, IČP",
-    "url": "https://data.mzcr.cz/data/distribuce/427/Otevrena-data-NR-04-62-hromadne-vyrabene-lecive-pripravky-atc-aktualni-mesic-icp.7z"
+    "url": "https://data.mzcr.cz/data/distribuce/427/Otevrena-data-NR-04-62-hromadne-vyrabene-lecive-pripravky-atc-aktualni-mesic-icp.csv.gz"
   },
   {
     "name": "Hromadně vyráběné léčivé přípravky – kód SÚKL, měsíc, IČP",
-    "url": "https://data.mzcr.cz/data/distribuce/418/Otevrena-data-NR-04-60-hromadne-vyrabene-lecive-pripravky-sukl-mesic-icp.7z"
+    "url": "https://data.mzcr.cz/data/distribuce/418/Otevrena-data-NR-04-60-hromadne-vyrabene-lecive-pripravky-sukl-mesic-icp.csv.gz"
   },
   {
     "name": "Hromadně vyráběné léčivé přípravky – kód SÚKL, měsíc, IČP předpisu, IČZ výdeje",
@@ -189,7 +189,7 @@
   },
   {
     "name": "Hromadně vyráběné léčivé přípravky – název LP, měsíc, IČP",
-    "url": "https://data.mzcr.cz/data/distribuce/426/Otevrena-data-NR-04-61-hromadne-vyrabene-lecive-pripravky-nazev-mesic-icp.7z"
+    "url": "https://data.mzcr.cz/data/distribuce/426/Otevrena-data-NR-04-61-hromadne-vyrabene-lecive-pripravky-nazev-mesic-icp.csv.gz"
   },
   {
     "name": "Hromadně vyráběné léčivé přípravky – unikátní pacienti dle věku a diagnózy",
@@ -213,7 +213,7 @@
   },
   {
     "name": "Individuálně připravované léčivé přípravky – kód SÚKL, měsíc, IČP předpisu, IČZ výdeje",
-    "url": "https://data.mzcr.cz/data/distribuce/430/Otevrena-data-NR-04-17-individualne-pripravovane-lecive-pripravky-sukl-mesic-icp-icz.7z"
+    "url": "https://data.mzcr.cz/data/distribuce/430/Otevrena-data-NR-04-17-individualne-pripravovane-lecive-pripravky-sukl-mesic-icp-predpis-icz-vydej.csv.gz"
   },
   {
     "name": "Individuálně připravované léčivé přípravky – kód SÚKL, měsíc, IČZ",
