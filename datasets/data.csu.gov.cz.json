@@ -1605,6 +1605,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VOLSE/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZO01AM/vybery"
   },
   {
@@ -1818,6 +1822,14 @@
   {
     "name": "Vodovody a kanalizace pro veřejnou potřebu",
     "url": "https://data.csu.gov.cz/opendata/sady/WZPR04/distribuce/json"
+  },
+  {
+    "name": "Volby do Senátu",
+    "url": "https://data.csu.gov.cz/opendata/sady/VOLSE/distribuce/csv"
+  },
+  {
+    "name": "Volby do Senátu",
+    "url": "https://data.csu.gov.cz/opendata/sady/VOLSE/distribuce/json"
   },
   {
     "name": "Vybrané ukazatele finanční statistiky sektoru vládních institucí - roční údaje",

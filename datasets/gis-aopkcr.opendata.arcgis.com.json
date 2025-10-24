@@ -68,10 +68,6 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::územní-obvody-regionálních-pracovišť-aopk.csv"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Hranice územních obvodů RP AOPK ČR (ESRI Shape file, WGS84, 4,8 MB)",
-    "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::územní-obvody-regionálních-pracovišť-aopk.zip"
-  },
-  {
     "name": "Poskytování dat AOPK ČR - Hranice územních obvodů RP AOPK ČR (GeoJson, WGS84, 17,4 MB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::územní-obvody-regionálních-pracovišť-aopk.geojson"
   },
@@ -280,10 +276,6 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::velkoplošná-zvláště-chráněná-území.csv"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Velkoplošná zvláště chráněná území (Esri Shape, WGS84, 2,6 MB)",
-    "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::velkoplošná-zvláště-chráněná-území.zip"
-  },
-  {
     "name": "Poskytování dat AOPK ČR - Velkoplošná zvláště chráněná území (GeoJson, WGS84, 9,4 MB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::velkoplošná-zvláště-chráněná-území.geojson"
   },
@@ -294,10 +286,6 @@
   {
     "name": "Poskytování dat AOPK ČR - Zonace VCHÚ (CSV, WGS84, 11 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::zonace-velkoplošných-zvláště-chráněných-území.csv"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Zonace VCHÚ (Esri Shape, WGS84, 22 MB)",
-    "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::zonace-velkoplošných-zvláště-chráněných-území.zip"
   },
   {
     "name": "Poskytování dat AOPK ČR - Zonace VCHÚ (GeoJson, WGS84, 78,7 MB)",

@@ -12,6 +12,14 @@
     "url": "https://hub.arcgis.com/api/v3/datasets/362de39fceee4a9e9ba1f795bd9bffc6_30/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
   },
   {
+    "name": "Poskytování dat AOPK ČR - Velkoplošná zvláště chráněná území (Esri Shape, WGS84, 2,6 MB)",
+    "url": "https://hub.arcgis.com/api/v3/datasets/494d6b3749444f74ad4f556f67c2db77_0/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Zonace VCHÚ (Esri Shape, WGS84, 22 MB)",
+    "url": "https://hub.arcgis.com/api/v3/datasets/1f82e49b9bf5418a82f076e5f1f7e9cc_1/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
+  },
+  {
     "name": "Poskytování dat AOPK ČR - ÚSES - metodicky sjednocené vymezení územního systému ekologické stability (GeoJson, WGS84, 65 MB)",
     "url": "https://hub.arcgis.com/api/v3/datasets/e8f2f193b5e8418c9ad7257535747573_20/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1"
   },
