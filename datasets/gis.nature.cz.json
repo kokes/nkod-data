@@ -124,10 +124,6 @@
     "url": "https://gis.nature.cz/arcgis/services/UzemniOchrana/Natura2000/MapServer/WmsServer?service=WMS&request=GetCapabilities"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Hranice územních obvodů RP AOPK ČR (ESRI Shape file, WGS84, 4,8 MB)",
-    "url": "https://gis.nature.cz/arcgis/rest/services/Aplikace/Opendata/MapServer/15"
-  },
-  {
     "name": "WFS - Mezinárodně významné části přírody",
     "url": "https://gis.nature.cz/arcgis/services/UzemniOchrana/MezinarodOchrana/MapServer/WFSServer?service=WFS&request=GetCapabilities"
   },
