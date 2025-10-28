@@ -312,6 +312,30 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBC01/distribuce/json"
   },
   {
+    "name": "Indexy tržeb bez DPH ve velkoobchodě a obchodě celkem - neočištěno",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBC02/distribuce/csv"
+  },
+  {
+    "name": "Indexy tržeb bez DPH ve velkoobchodě a obchodě celkem - neočištěno",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBC02/distribuce/json"
+  },
+  {
+    "name": "Indexy tržeb bez DPH ve velkoobchodě a obchodě celkem - očištěno o kalendářní vlivy, není očištěno o sezónní vlivy",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBC02A/distribuce/csv"
+  },
+  {
+    "name": "Indexy tržeb bez DPH ve velkoobchodě a obchodě celkem - očištěno o kalendářní vlivy, není očištěno o sezónní vlivy",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBC02A/distribuce/json"
+  },
+  {
+    "name": "Indexy tržeb bez DPH ve velkoobchodě a obchodě celkem - sezónně očištěno, včetně očištění o kalendářní vlivy",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBC02B/distribuce/csv"
+  },
+  {
+    "name": "Indexy tržeb bez DPH ve velkoobchodě a obchodě celkem - sezónně očištěno, včetně očištění o kalendářní vlivy",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBC02B/distribuce/json"
+  },
+  {
     "name": "Informační a mediální sektor",
     "url": "https://data.csu.gov.cz/opendata/sady/ICT02/distribuce/csv"
   },
@@ -1337,6 +1361,18 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBC02/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBC02A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBC02B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY01A/vybery"
   },
   {
@@ -1602,6 +1638,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0202/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0301/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -1886,6 +1926,14 @@
   {
     "name": "Výdaje za zdravotní péči podle zdroje financování a typu poskytovatele (mil. Kč)",
     "url": "https://data.csu.gov.cz/opendata/sady/ZDR02/distribuce/json"
+  },
+  {
+    "name": "Výzkum a vývoj v ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0301/distribuce/csv"
+  },
+  {
+    "name": "Výzkum a vývoj v ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0301/distribuce/json"
   },
   {
     "name": "Zahraniční obchod se zbožím podle zemí a zbožové nomenklatury KN8 ve finančním vyjádření",
