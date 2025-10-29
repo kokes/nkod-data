@@ -40,6 +40,22 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0203F/distribuce/json"
   },
   {
+    "name": "Ceny elektřiny pro domácnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101K/distribuce/csv"
+  },
+  {
+    "name": "Ceny elektřiny pro domácnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101K/distribuce/json"
+  },
+  {
+    "name": "Ceny plynu pro domácnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101I/distribuce/csv"
+  },
+  {
+    "name": "Ceny plynu pro domácnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101I/distribuce/json"
+  },
+  {
     "name": "Dlouhodobé časové řady - roční údaje za Českou republiku",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY01CR/distribuce/csv"
   },
@@ -888,6 +904,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101J/distribuce/json"
   },
   {
+    "name": "Průměrné spotřebitelské ceny potravin (předběžné měsíční jednorázové šetření v terénu) - od 2019",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101F/distribuce/csv"
+  },
+  {
+    "name": "Průměrné spotřebitelské ceny potravin (předběžné měsíční jednorázové šetření v terénu) - od 2019",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101F/distribuce/json"
+  },
+  {
     "name": "Průměrné spotřebitelské ceny vybraných druhů zboží",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101D/distribuce/csv"
   },
@@ -1145,11 +1169,23 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0101F/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0101H/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0101I/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0101J/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0101K/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
