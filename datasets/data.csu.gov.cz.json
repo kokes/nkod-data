@@ -1761,6 +1761,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR05/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR31/vybery"
   },
   {
@@ -1938,6 +1942,14 @@
   {
     "name": "Výdaje na ochranu životního prostředí ",
     "url": "https://data.csu.gov.cz/opendata/sady/WZPR05/distribuce/json"
+  },
+  {
+    "name": "Výdaje na ochranu životního prostředí ",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR05/distribuce/csv"
+  },
+  {
+    "name": "Výdaje na ochranu životního prostředí ",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR05/distribuce/json"
   },
   {
     "name": "Výdaje za zdravotní péči podle typu poskytovatele a druhu zdravotní péče (mil. Kč)",
