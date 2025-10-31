@@ -133,10 +133,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.datazapad.cz/datasets/0fbcd94c27344fef86d2dafde1230761_0"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://www.datazapad.cz/datasets/0fc741fffbb44c31820304ec60cc2ff0_0"
   },
   {
@@ -158,10 +154,6 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://www.datazapad.cz/datasets/142875a7b4ba49769393c8a3b80cca6d_0"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://www.datazapad.cz/datasets/17a673b7147d45ba8744904cae6afdbb_0"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -210,10 +202,6 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://www.datazapad.cz/datasets/52658b60dacf474f80cf5bb7c8004cc6_3"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://www.datazapad.cz/datasets/52b5d92f7aff4e6282d6838ff338c76b_0"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -321,7 +309,27 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://www.datazapad.cz/datasets/Kakraj::mas-dle-příslušnosti-jednoltivých-obcí-v-karlovarském-kraji-"
+    "url": "https://www.datazapad.cz/datasets/Kakraj::mas-dle-příslušnosti-jednotlivých-obcí-v-karlovarském-kraji-"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datazapad.cz/datasets/Kakraj::matriční-úřady-karlovarského-kraje"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datazapad.cz/datasets/Kakraj::obce-s-rozšířenou-působností-karlovarského-kraje"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datazapad.cz/datasets/Kakraj::seznam-obcí-karlovarského-kraje"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datazapad.cz/datasets/Kakraj::svazky-obcí-dle-příslušnosti-jednotlivých-obcí-v-karlovarském-kraji"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://www.datazapad.cz/datasets/Kakraj::školská-poradenská-zařízení-v-karlovarském-kraji"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -370,10 +378,6 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://www.datazapad.cz/datasets/d27fb764c5a642e2bf2f8c134cbdeca2_3"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
-    "url": "https://www.datazapad.cz/datasets/d3184b2f488f4d099bd56c84ace5ffd0_0"
   },
   {
     "name": "ArcGIS Hub Dataset",
@@ -442,6 +446,10 @@
   {
     "name": "CSV",
     "url": "https://www.datazapad.cz/api/download/v1/items/10bdbfe0cb1341a784f5a1e4ed66b1da/csv?layers=3"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.datazapad.cz/api/download/v1/items/113ff94189844161b0b4b590e155793a/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -1249,6 +1257,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://www.datazapad.cz/api/download/v1/items/113ff94189844161b0b4b590e155793a/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://www.datazapad.cz/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/geojson?layers=0"
   },
   {
@@ -1701,6 +1713,10 @@
   },
   {
     "name": "KML",
+    "url": "https://www.datazapad.cz/api/download/v1/items/113ff94189844161b0b4b590e155793a/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://www.datazapad.cz/api/download/v1/items/11796bcb67ee47bd8d38c0ec271b2787/kml?layers=0"
   },
   {
@@ -2150,6 +2166,10 @@
   {
     "name": "Shapefile",
     "url": "https://www.datazapad.cz/api/download/v1/items/10bdbfe0cb1341a784f5a1e4ed66b1da/shapefile?layers=3"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.datazapad.cz/api/download/v1/items/113ff94189844161b0b4b590e155793a/shapefile?layers=0"
   },
   {
     "name": "Shapefile",
