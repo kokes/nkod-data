@@ -65,11 +65,15 @@
   },
   {
     "name": "Charakteristika hospitalizačních případů akutní lůžkové péče dle typu zařízení",
-    "url": "https://data.mzcr.cz/data/distribuce/365/Otevrena-data-NR-04-09-hospitalizacni-pripady-akutni-pece-typ-zz-2024-01.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/365/Otevrena-data-NR-04-09-hospitalizacni-pripady-akutni-pece-typ-zz.csv.gz"
   },
   {
     "name": "Charakteristika hospitalizačních případů akutní péče s kardiologickou diagnózou",
     "url": "https://data.mzcr.cz/data/distribuce/326/Otevrena-data-OIS-01-05-hospitalizacni-pripady-akutni-pece-kardio-2024-01.csv"
+  },
+  {
+    "name": "Charakteristika hospitalizačních případů následné a dlouhodobé péče",
+    "url": "https://data.mzcr.cz/data/distribuce/391/Otevrena-data-NR-04-39-hospitalizacni-pripady-nasledna-pece.csv"
   },
   {
     "name": "Dlouhodobá péče v psychiatrii",
@@ -101,11 +105,11 @@
   },
   {
     "name": "Hospitalizační případy akutní a intenzivní péče v ČR a jejich charakteristiky – vývoj v čase",
-    "url": "https://data.mzcr.cz/data/distribuce/421/Otevrena-data-NR-23-01-hospitalizacni-pripady-akutni-intezivni-pece-2024-01.csv"
+    "url": "https://data.mzcr.cz/data/distribuce/421/Otevrena-data-NR-23-01-hospitalizacni-pripady-akutni-intezivni-pece.csv.gz"
   },
   {
-    "name": "Hrazené zdravotní služby: Charakteristika hospitalizačních případů následné a dlouhodobé péče",
-    "url": "https://data.mzcr.cz/data/distribuce/391/Otevrena-data-NR-04-39-Hospitalizacni-pripady-nasledna-pece-2024-01.csv"
+    "name": "Hospitalizační případy v ČR v dlouhodobé časové řadě od roku 1994",
+    "url": "https://data.mzcr.cz/data/distribuce/469/Otevrena-data-NR-05-01-hospitalizacni-pripady-dlouhodoba-casova-rada.csv.gz"
   },
   {
     "name": "Hrazené zdravotní služby: Hospitalizační případy akutní péče pro čtyřznakové diagnózy",

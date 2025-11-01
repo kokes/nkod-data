@@ -688,6 +688,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0202D/distribuce/json"
   },
   {
+    "name": "Podniky používající vybrané digitální technologie",
+    "url": "https://data.csu.gov.cz/opendata/sady/ICT0501/distribuce/csv"
+  },
+  {
+    "name": "Podniky používající vybrané digitální technologie",
+    "url": "https://data.csu.gov.cz/opendata/sady/ICT0501/distribuce/json"
+  },
+  {
     "name": "Pohyb zboží přes hranice podle zemí a zbožové nomenklatury KN8 v kilogramech",
     "url": "https://data.csu.gov.cz/opendata/sady/VZO01CM/distribuce/csv"
   },
@@ -1385,6 +1393,14 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ICT0501/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ICT0502/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/NUC06Q/vybery"
   },
   {
@@ -1990,6 +2006,14 @@
   {
     "name": "Zahraniční obchod se zbožím podle zemí a zbožové nomenklatury KN8 ve finančním vyjádření",
     "url": "https://data.csu.gov.cz/opendata/sady/VZO01AM/distribuce/json"
+  },
+  {
+    "name": "Zaměstnanci podniků používající vybrané digitální technologie",
+    "url": "https://data.csu.gov.cz/opendata/sady/ICT0502/distribuce/csv"
+  },
+  {
+    "name": "Zaměstnanci podniků používající vybrané digitální technologie",
+    "url": "https://data.csu.gov.cz/opendata/sady/ICT0502/distribuce/json"
   },
   {
     "name": "Zemřelí podle pohlaví a základních věkových skupin",
