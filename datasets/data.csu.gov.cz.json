@@ -1,5 +1,13 @@
 [
   {
+    "name": " Porovnání cen vybraných zemědělských a průmyslových výrobků a spotřebitelských cen potravinářského zboží",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN02/distribuce/csv"
+  },
+  {
+    "name": " Porovnání cen vybraných zemědělských a průmyslových výrobků a spotřebitelských cen potravinářského zboží",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN02/distribuce/json"
+  },
+  {
     "name": "Agregace indexů cen průmyslových výrobců a vývozu podle klasifikace CPA",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0309/distribuce/csv"
   },
@@ -190,6 +198,14 @@
   {
     "name": "Index cen výrobků a služeb vstupujících do zemědělství - klasifikace API",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0203C/distribuce/json"
+  },
+  {
+    "name": "Index cen výrobků a služeb vstupujících do zemědělství - klasifikace CPA",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0203G/distribuce/csv"
+  },
+  {
+    "name": "Index cen výrobků a služeb vstupujících do zemědělství - klasifikace CPA",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0203G/distribuce/json"
   },
   {
     "name": "Indexy cen materiálových vstupů stavební výroby",
@@ -785,6 +801,14 @@
   },
   {
     "name": "Počet obyvatel podle pohlaví, věku a rodinného stavu",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY02G/distribuce/csv"
+  },
+  {
+    "name": "Počet obyvatel podle pohlaví, věku a rodinného stavu",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY02G/distribuce/json"
+  },
+  {
+    "name": "Počet obyvatel podle pohlaví, věku a rodinného stavu",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY02GHVD/distribuce/csv"
   },
   {
@@ -878,6 +902,14 @@
   {
     "name": "Průměrné ceny vybraných tržních služeb",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0204B/distribuce/json"
+  },
+  {
+    "name": "Průměrné ceny vybraných výrobků vstupujících do zemědělství",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0203E/distribuce/csv"
+  },
+  {
+    "name": "Průměrné ceny vybraných výrobků vstupujících do zemědělství",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0203E/distribuce/json"
   },
   {
     "name": "Průměrné ceny zemědělských výrobků",
@@ -1096,6 +1128,22 @@
     "url": "https://data.csu.gov.cz/opendata/sady/ZUR11B/distribuce/json"
   },
   {
+    "name": "Stálé váhy vývozu a dovozu podle klasifikace CPA",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0310/distribuce/csv"
+  },
+  {
+    "name": "Stálé váhy vývozu a dovozu podle klasifikace CPA",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0310/distribuce/json"
+  },
+  {
+    "name": "Stálé váhy vývozu a dovozu podle klasifikace SITC",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0311/distribuce/csv"
+  },
+  {
+    "name": "Stálé váhy vývozu a dovozu podle klasifikace SITC",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0311/distribuce/json"
+  },
+  {
     "name": "Stěhování - vybrané souhrnné údaje",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY06/distribuce/csv"
   },
@@ -1201,6 +1249,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN02/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0201A/vybery"
   },
   {
@@ -1269,7 +1321,15 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0203E/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0203F/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0203G/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -1318,6 +1378,14 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0309/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0310/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0311/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -1486,6 +1554,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY02FHVD/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY02G/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -1757,6 +1829,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/WZPR06/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZAM06A/vybery"
   },
   {
@@ -1910,6 +1986,14 @@
   {
     "name": "Vnitřní stěhování mezi regiony podle pohlaví a věku ",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY06B/distribuce/json"
+  },
+  {
+    "name": "Vodovody a kanalizace",
+    "url": "https://data.csu.gov.cz/opendata/sady/WZPR06/distribuce/csv"
+  },
+  {
+    "name": "Vodovody a kanalizace",
+    "url": "https://data.csu.gov.cz/opendata/sady/WZPR06/distribuce/json"
   },
   {
     "name": "Vodovody a kanalizace pro veřejnou potřebu",
