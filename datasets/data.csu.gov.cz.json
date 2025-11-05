@@ -272,6 +272,30 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0202A/distribuce/json"
   },
   {
+    "name": "Indexy cen v lesnictví - do 2016",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0205B/distribuce/csv"
+  },
+  {
+    "name": "Indexy cen v lesnictví - do 2016",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0205B/distribuce/json"
+  },
+  {
+    "name": "Indexy cen v lesnictví - od 2017 - 2024",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0205A/distribuce/csv"
+  },
+  {
+    "name": "Indexy cen v lesnictví - od 2017 - 2024",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0205A/distribuce/json"
+  },
+  {
+    "name": "Indexy cen v lesnictví - od 2025",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0205F/distribuce/csv"
+  },
+  {
+    "name": "Indexy cen v lesnictví - od 2025",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0205F/distribuce/json"
+  },
+  {
     "name": "Indexy cen v tržních službách - do roku 2014",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0204C/distribuce/csv"
   },
@@ -374,22 +398,6 @@
   {
     "name": "Informační a mediální sektor",
     "url": "https://data.csu.gov.cz/opendata/sady/ICT02/distribuce/json"
-  },
-  {
-    "name": "Investice na ochranu životního prostředí",
-    "url": "https://data.csu.gov.cz/opendata/sady/ZPR31/distribuce/csv"
-  },
-  {
-    "name": "Investice na ochranu životního prostředí",
-    "url": "https://data.csu.gov.cz/opendata/sady/ZPR31/distribuce/json"
-  },
-  {
-    "name": "Investice na ochranu životního prostředí podle místa investice",
-    "url": "https://data.csu.gov.cz/opendata/sady/ZPR35/distribuce/csv"
-  },
-  {
-    "name": "Investice na ochranu životního prostředí podle místa investice",
-    "url": "https://data.csu.gov.cz/opendata/sady/ZPR35/distribuce/json"
   },
   {
     "name": "Investice na ochranu životního prostředí podle programového zaměření a druhu vlastnictví",
@@ -1201,14 +1209,6 @@
   },
   {
     "name": "Ukazatele věkového složení k 31. 12.",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY02C/distribuce/csv"
-  },
-  {
-    "name": "Ukazatele věkového složení k 31. 12.",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY02C/distribuce/json"
-  },
-  {
-    "name": "Ukazatele věkového složení k 31. 12.",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY02FHVD/distribuce/csv"
   },
   {
@@ -1349,11 +1349,23 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0205A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0205B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0205C/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0205E/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0205F/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -1857,10 +1869,6 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR31/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR32/vybery"
   },
   {
@@ -1870,10 +1878,6 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR34/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR35/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -2146,14 +2150,6 @@
   {
     "name": "Základní údaje o stavu a pohybu obyvatel podle obcí",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY01B01/distribuce/json"
-  },
-  {
-    "name": "Základní údaje o stavu a pohybu obyvatel podle obcí",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY01B01X/distribuce/csv"
-  },
-  {
-    "name": "Základní údaje o stavu a pohybu obyvatel podle obcí",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY01B01X/distribuce/json"
   },
   {
     "name": "Úmrtnostní tabulky",
