@@ -180,20 +180,8 @@
     "url": "https://data.mzcr.cz/data/distribuce/427/Otevrena-data-NR-04-62-hromadne-vyrabene-lecive-pripravky-atc-aktualni-mesic-icp.csv.gz"
   },
   {
-    "name": "Hromadně vyráběné léčivé přípravky – kód SÚKL, měsíc, IČP",
-    "url": "https://data.mzcr.cz/data/distribuce/418/Otevrena-data-NR-04-60-hromadne-vyrabene-lecive-pripravky-sukl-mesic-icp.csv.gz"
-  },
-  {
     "name": "Hromadně vyráběné léčivé přípravky – kód SÚKL, měsíc, IČP předpisu, IČZ výdeje",
     "url": "https://data.mzcr.cz/data/distribuce/432/Otevrena-data-NR-04-65-hromadne-vyrabene-lecive-pripravky-sukl-mesic-icp-predpis-icz-vydej.csv.gz"
-  },
-  {
-    "name": "Hromadně vyráběné léčivé přípravky – kód SÚKL, měsíc, IČZ výdeje nebo podání",
-    "url": "https://data.mzcr.cz/data/distribuce/428/Otevrena-data-NR-04-63-hromadne-vyrabene-lecive-pripravky-sukl-mesic-icz-vydej-podani.csv.gz"
-  },
-  {
-    "name": "Hromadně vyráběné léčivé přípravky – název LP, měsíc, IČP",
-    "url": "https://data.mzcr.cz/data/distribuce/426/Otevrena-data-NR-04-61-hromadne-vyrabene-lecive-pripravky-nazev-mesic-icp.7z"
   },
   {
     "name": "Hromadně vyráběné léčivé přípravky – unikátní pacienti dle věku a diagnózy",
@@ -246,10 +234,6 @@
   {
     "name": "Kolorektální screeningové vyšetření: Pokrytí cílové populace",
     "url": "https://data.mzcr.cz/data/distribuce/62/Otevrena-data-PPS-02-01-kolorektum-screening-pokryti-populace.csv"
-  },
-  {
-    "name": "Kolorektální screeningové vyšetření: TOKS+ a navazující kolonoskopie",
-    "url": "https://data.mzcr.cz/data/distribuce/396/Otevrena-data-PPS-02-05-Kolorektum-TOKS-kolonoskopie-2024-01.csv"
   },
   {
     "name": "Lůžkový fond: Lůžkový fond ČR a jeho využití",
@@ -306,6 +290,10 @@
   {
     "name": "Očkování, pozitivity, hospitalizace pro COVID-19, úmrtí, long covid a komorbidity u osob v ČR",
     "url": "https://data.mzcr.cz/data/distribuce/402/Otevrena-data-NR-26-30-COVID-19-prehled-populace-2024-01.csv"
+  },
+  {
+    "name": "Pacienti ošetření zdravotnickou záchrannou službou",
+    "url": "https://data.mzcr.cz/data/distribuce/435/Otevrena-data-NR-04-22-pacienti-zdravotnicka-zachranna-sluzba.csv.gz"
   },
   {
     "name": "Podíl osob s pozitivním TOKS",
@@ -378,10 +366,6 @@
   {
     "name": "Počty návštěv zdravotnických zařízení dle MKN kategorií, odborností, okresu ZZ  a bydliště pacienta",
     "url": "https://data.mzcr.cz/data/distribuce/434/Otevrena-data-NR-04-21-navstevy-zz-mkn-odbornosti-okresy-migrace.csv"
-  },
-  {
-    "name": "Počty výjezdů zdravotnické záchranné služby",
-    "url": "https://data.mzcr.cz/data/distribuce/435/Otevrena-data-NR-04-22-vyjezdy-zdravotnicka-zachranna-sluzba.csv"
   },
   {
     "name": "Preventivní prohlídky: Preventivní prohlídky u praktických lékařů a stomatologů",
@@ -510,6 +494,10 @@
   {
     "name": "Reprodukční zdraví: Souhrnný číselník",
     "url": "https://data.mzcr.cz/data/distribuce/388/reprodukcni-zdravi-ciselnik.csv"
+  },
+  {
+    "name": "TOKS+ a navazující kolonoskopie",
+    "url": "https://data.mzcr.cz/data/distribuce/396/Otevrena-data-PPS-02-05-Kolorektum-TOKS-kolonoskopie-2024-01.csv"
   },
   {
     "name": "Vakcinace hrazené z veřejného zdravotního pojištění",

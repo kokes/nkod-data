@@ -208,6 +208,54 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0203G/distribuce/json"
   },
   {
+    "name": "Index průmyslové produkce",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU01D/distribuce/csv"
+  },
+  {
+    "name": "Index průmyslové produkce",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU01D/distribuce/json"
+  },
+  {
+    "name": "Index průmyslové produkce: data očištěná o kalendářní vlivy (oddíly CZ-NACE)",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU01B/distribuce/csv"
+  },
+  {
+    "name": "Index průmyslové produkce: data očištěná o kalendářní vlivy (oddíly CZ-NACE)",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU01B/distribuce/json"
+  },
+  {
+    "name": "Index průmyslové produkce: data očištěná sezónně (oddíly CZ-NACE)",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU01C/distribuce/csv"
+  },
+  {
+    "name": "Index průmyslové produkce: data očištěná sezónně (oddíly CZ-NACE)",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU01C/distribuce/json"
+  },
+  {
+    "name": "Index stavební produkce - běžné ceny",
+    "url": "https://data.csu.gov.cz/opendata/sady/STA03A/distribuce/csv"
+  },
+  {
+    "name": "Index stavební produkce - běžné ceny",
+    "url": "https://data.csu.gov.cz/opendata/sady/STA03A/distribuce/json"
+  },
+  {
+    "name": "Index stavební produkce - stálé ceny",
+    "url": "https://data.csu.gov.cz/opendata/sady/STA03/distribuce/csv"
+  },
+  {
+    "name": "Index stavební produkce - stálé ceny",
+    "url": "https://data.csu.gov.cz/opendata/sady/STA03/distribuce/json"
+  },
+  {
+    "name": "Index stavební produkce podle CZ-NACE (stálé ceny)",
+    "url": "https://data.csu.gov.cz/opendata/sady/STA04/distribuce/csv"
+  },
+  {
+    "name": "Index stavební produkce podle CZ-NACE (stálé ceny)",
+    "url": "https://data.csu.gov.cz/opendata/sady/STA04/distribuce/json"
+  },
+  {
     "name": "Indexy cen materiálových vstupů stavební výroby",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0202C/distribuce/csv"
   },
@@ -366,6 +414,38 @@
   {
     "name": "Indexy tržeb bez DPH v maloobchodě a za prodej a opravy motorových vozidel",
     "url": "https://data.csu.gov.cz/opendata/sady/OBC01/distribuce/json"
+  },
+  {
+    "name": "Indexy tržeb bez DPH v maloobchodě a za prodej a opravy motorových vozidel - neočištěno",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBC01A/distribuce/csv"
+  },
+  {
+    "name": "Indexy tržeb bez DPH v maloobchodě a za prodej a opravy motorových vozidel - neočištěno",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBC01A/distribuce/json"
+  },
+  {
+    "name": "Indexy tržeb bez DPH v maloobchodě a za prodej a opravy motorových vozidel - očištěno o kalendářní vlivy, není očištěno o sezónní vlivy",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBC01B/distribuce/csv"
+  },
+  {
+    "name": "Indexy tržeb bez DPH v maloobchodě a za prodej a opravy motorových vozidel - očištěno o kalendářní vlivy, není očištěno o sezónní vlivy",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBC01B/distribuce/json"
+  },
+  {
+    "name": "Indexy tržeb bez DPH v maloobchodě a za prodej a opravy motorových vozidel - sezónně očištěno, včetně očištění o kalendářní vlivy",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBC01C/distribuce/csv"
+  },
+  {
+    "name": "Indexy tržeb bez DPH v maloobchodě a za prodej a opravy motorových vozidel - sezónně očištěno, včetně očištění o kalendářní vlivy",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBC01C/distribuce/json"
+  },
+  {
+    "name": "Indexy tržeb bez DPH ve službách - očištěno o kalendářní vlivy, není očištěno o sezónní vlivy",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLU01A/distribuce/csv"
+  },
+  {
+    "name": "Indexy tržeb bez DPH ve službách - očištěno o kalendářní vlivy, není očištěno o sezónní vlivy",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLU01A/distribuce/json"
   },
   {
     "name": "Indexy tržeb bez DPH ve velkoobchodě a obchodě celkem - neočištěno",
@@ -672,6 +752,46 @@
     "url": "https://data.csu.gov.cz/opendata/sady/ZPR41/distribuce/json"
   },
   {
+    "name": "Neočištěná data: index průmyslové produkce",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU01A/distribuce/csv"
+  },
+  {
+    "name": "Neočištěná data: index průmyslové produkce",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU01A/distribuce/json"
+  },
+  {
+    "name": "Neočištěná data: nové průmyslové zakázky",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU10A/distribuce/csv"
+  },
+  {
+    "name": "Neočištěná data: nové průmyslové zakázky",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU10A/distribuce/json"
+  },
+  {
+    "name": "Neočištěná data: tržby z průmyslové činnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU09A/distribuce/csv"
+  },
+  {
+    "name": "Neočištěná data: tržby z průmyslové činnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU09A/distribuce/json"
+  },
+  {
+    "name": "Nové průmyslové zakázky: indexy očištěné o kalendářní a sezónní vlivy (vybrané oddíly CZ-NACE)",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU10B/distribuce/csv"
+  },
+  {
+    "name": "Nové průmyslové zakázky: indexy očištěné o kalendářní a sezónní vlivy (vybrané oddíly CZ-NACE)",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU10B/distribuce/json"
+  },
+  {
+    "name": "Nové stavební zakázky",
+    "url": "https://data.csu.gov.cz/opendata/sady/STAV112NZ/distribuce/csv"
+  },
+  {
+    "name": "Nové stavební zakázky",
+    "url": "https://data.csu.gov.cz/opendata/sady/STAV112NZ/distribuce/json"
+  },
+  {
     "name": "Národní účty – hlavní souhrnné ukazatele HDP - roční údaje",
     "url": "https://data.csu.gov.cz/opendata/sady/NUC06R/distribuce/csv"
   },
@@ -718,6 +838,22 @@
   {
     "name": "Podniky používající vybrané digitální technologie",
     "url": "https://data.csu.gov.cz/opendata/sady/ICT0501/distribuce/json"
+  },
+  {
+    "name": "Pohyb zboží přes hranice - měsíc",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZOPPM/distribuce/csv"
+  },
+  {
+    "name": "Pohyb zboží přes hranice - měsíc",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZOPPM/distribuce/json"
+  },
+  {
+    "name": "Pohyb zboží přes hranice - čtvrtletí",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZOPPQ/distribuce/csv"
+  },
+  {
+    "name": "Pohyb zboží přes hranice - čtvrtletí",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZOPPQ/distribuce/json"
   },
   {
     "name": "Pohyb zboží přes hranice podle zemí a zbožové nomenklatury KN8 v kilogramech",
@@ -1112,6 +1248,22 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBY01PD/distribuce/json"
   },
   {
+    "name": "Stavební povolení",
+    "url": "https://data.csu.gov.cz/opendata/sady/STA08/distribuce/csv"
+  },
+  {
+    "name": "Stavební povolení",
+    "url": "https://data.csu.gov.cz/opendata/sady/STA08/distribuce/json"
+  },
+  {
+    "name": "Stavební zakázky ke konci období",
+    "url": "https://data.csu.gov.cz/opendata/sady/STAV112SZ/distribuce/csv"
+  },
+  {
+    "name": "Stavební zakázky ke konci období",
+    "url": "https://data.csu.gov.cz/opendata/sady/STAV112SZ/distribuce/json"
+  },
+  {
     "name": "Struktura spotřebních výdajů domácností podle kvintilového rozdělení čistých peněžních příjmů na osobu",
     "url": "https://data.csu.gov.cz/opendata/sady/ZUR10B/distribuce/csv"
   },
@@ -1198,6 +1350,14 @@
   {
     "name": "Sňatky podle věku a rodinného stavu ženicha",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY05A01/distribuce/json"
+  },
+  {
+    "name": "Tržby z průmyslové činnosti: indexy očištěné o kalendářní a sezónní vlivy (oddíly CZ-NACE)",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU09B/distribuce/csv"
+  },
+  {
+    "name": "Tržby z průmyslové činnosti: indexy očištěné o kalendářní a sezónní vlivy (oddíly CZ-NACE)",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU09B/distribuce/json"
   },
   {
     "name": "Ukazatele věkového složení",
@@ -1493,6 +1653,18 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBC01A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBC01B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBC01C/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBC02/vybery"
   },
   {
@@ -1705,6 +1877,38 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/PRU01A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/PRU01B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/PRU01C/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/PRU01D/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/PRU09A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/PRU09B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/PRU10A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/PRU10B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/PRUM201/vybery"
   },
   {
@@ -1765,6 +1969,42 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/SLU01A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/STA03/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/STA03A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/STA04/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/STA08/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/STA09A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/STA09B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/STAV112NZ/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/STAV112SZ/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0101/vybery"
   },
   {
@@ -1798,6 +2038,22 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZO01DM/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZOOM/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZOOQ/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZOPPM/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZOPPQ/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -2088,12 +2344,44 @@
     "url": "https://data.csu.gov.cz/opendata/sady/VAV0301/distribuce/json"
   },
   {
+    "name": "Zahraniční obchod se zbožím - měsíc",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZOOM/distribuce/csv"
+  },
+  {
+    "name": "Zahraniční obchod se zbožím - měsíc",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZOOM/distribuce/json"
+  },
+  {
+    "name": "Zahraniční obchod se zbožím - čtvrtletí",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZOOQ/distribuce/csv"
+  },
+  {
+    "name": "Zahraniční obchod se zbožím - čtvrtletí",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZOOQ/distribuce/json"
+  },
+  {
     "name": "Zahraniční obchod se zbožím podle zemí a zbožové nomenklatury KN8 ve finančním vyjádření",
     "url": "https://data.csu.gov.cz/opendata/sady/VZO01AM/distribuce/csv"
   },
   {
     "name": "Zahraniční obchod se zbožím podle zemí a zbožové nomenklatury KN8 ve finančním vyjádření",
     "url": "https://data.csu.gov.cz/opendata/sady/VZO01AM/distribuce/json"
+  },
+  {
+    "name": "Zahájené a dokončené byty v krajích",
+    "url": "https://data.csu.gov.cz/opendata/sady/STA09B/distribuce/csv"
+  },
+  {
+    "name": "Zahájené a dokončené byty v krajích",
+    "url": "https://data.csu.gov.cz/opendata/sady/STA09B/distribuce/json"
+  },
+  {
+    "name": "Zahájené a dokončené byty v ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/STA09A/distribuce/csv"
+  },
+  {
+    "name": "Zahájené a dokončené byty v ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/STA09A/distribuce/json"
   },
   {
     "name": "Zaměstnanci podniků používající vybrané digitální technologie",
