@@ -208,6 +208,30 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0203G/distribuce/json"
   },
   {
+    "name": "Index produkce ve službách - neočištěno",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLU03B/distribuce/csv"
+  },
+  {
+    "name": "Index produkce ve službách - neočištěno",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLU03B/distribuce/json"
+  },
+  {
+    "name": "Index produkce ve službách - očištěno o kalendářní vlivy, není očištěno o sezónní vlivy",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLU03A/distribuce/csv"
+  },
+  {
+    "name": "Index produkce ve službách - očištěno o kalendářní vlivy, není očištěno o sezónní vlivy",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLU03A/distribuce/json"
+  },
+  {
+    "name": "Index produkce ve službách - sezónně očištěno, včetně očištění o kalendářní vlivy",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLU03C/distribuce/csv"
+  },
+  {
+    "name": "Index produkce ve službách - sezónně očištěno, včetně očištění o kalendářní vlivy",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLU03C/distribuce/json"
+  },
+  {
     "name": "Index průmyslové produkce",
     "url": "https://data.csu.gov.cz/opendata/sady/PRU01D/distribuce/csv"
   },
@@ -440,12 +464,28 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBC01C/distribuce/json"
   },
   {
+    "name": "Indexy tržeb bez DPH ve službách - neočištěno",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLU01B/distribuce/csv"
+  },
+  {
+    "name": "Indexy tržeb bez DPH ve službách - neočištěno",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLU01B/distribuce/json"
+  },
+  {
     "name": "Indexy tržeb bez DPH ve službách - očištěno o kalendářní vlivy, není očištěno o sezónní vlivy",
     "url": "https://data.csu.gov.cz/opendata/sady/SLU01A/distribuce/csv"
   },
   {
     "name": "Indexy tržeb bez DPH ve službách - očištěno o kalendářní vlivy, není očištěno o sezónní vlivy",
     "url": "https://data.csu.gov.cz/opendata/sady/SLU01A/distribuce/json"
+  },
+  {
+    "name": "Indexy tržeb bez DPH ve službách - sezónně očištěno, včetně očištění o kalendářní vlivy",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLU01C/distribuce/csv"
+  },
+  {
+    "name": "Indexy tržeb bez DPH ve službách - sezónně očištěno, včetně očištění o kalendářní vlivy",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLU01C/distribuce/json"
   },
   {
     "name": "Indexy tržeb bez DPH ve velkoobchodě a obchodě celkem - neočištěno",
@@ -814,6 +854,14 @@
   {
     "name": "Návštěvnost hromadných ubytovacích zařízení - měsíční data",
     "url": "https://data.csu.gov.cz/opendata/sady/CRU02M/distribuce/json"
+  },
+  {
+    "name": "Návštěvnost hromadných ubytovacích zařízení - čtvrtletní data",
+    "url": "https://data.csu.gov.cz/opendata/sady/CRU02Q/distribuce/csv"
+  },
+  {
+    "name": "Návštěvnost hromadných ubytovacích zařízení - čtvrtletní data",
+    "url": "https://data.csu.gov.cz/opendata/sady/CRU02Q/distribuce/json"
   },
   {
     "name": "Návštěvnost hromadných ubytovacích zařízení ve statutárních městech a v Praze",
@@ -1581,6 +1629,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CRU02Q/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CRU03/vybery"
   },
   {
@@ -1970,6 +2022,26 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/SLU01A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/SLU01B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/SLU01C/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/SLU03A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/SLU03B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/SLU03C/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
