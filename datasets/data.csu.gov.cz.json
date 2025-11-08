@@ -864,6 +864,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CRU02Q/distribuce/json"
   },
   {
+    "name": "Návštěvnost hromadných ubytovacích zařízení v turistických oblastech DMO - čtvrtletní data",
+    "url": "https://data.csu.gov.cz/opendata/sady/CRU02QDMO/distribuce/csv"
+  },
+  {
+    "name": "Návštěvnost hromadných ubytovacích zařízení v turistických oblastech DMO - čtvrtletní data",
+    "url": "https://data.csu.gov.cz/opendata/sady/CRU02QDMO/distribuce/json"
+  },
+  {
     "name": "Návštěvnost hromadných ubytovacích zařízení ve statutárních městech a v Praze",
     "url": "https://data.csu.gov.cz/opendata/sady/CRUHVD3/distribuce/csv"
   },
@@ -1630,6 +1638,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CRU02Q/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CRU02QDMO/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
