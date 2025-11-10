@@ -120,6 +120,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CRU06/distribuce/json"
   },
   {
+    "name": "Domácí a výjezdový cestovní ruch osob ve věku 15 a více let – muži a ženy - roční data",
+    "url": "https://data.csu.gov.cz/opendata/sady/CRU06AGEN/distribuce/csv"
+  },
+  {
+    "name": "Domácí a výjezdový cestovní ruch osob ve věku 15 a více let – muži a ženy - roční data",
+    "url": "https://data.csu.gov.cz/opendata/sady/CRU06AGEN/distribuce/json"
+  },
+  {
     "name": "Ekonomický přínos z aktivit na ochranu životního prostředí podle klasifikace ekonomických činností",
     "url": "https://data.csu.gov.cz/opendata/sady/ZPR44/distribuce/csv"
   },
@@ -1654,6 +1662,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CRU06A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CRU06AGEN/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
