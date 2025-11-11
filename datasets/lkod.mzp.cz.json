@@ -264,8 +264,16 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=mzp-zpusoby-nakladani-s-odpady-2025.csv"
   },
   {
+    "name": "nove_zamery.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=cenia&f=cenia-nove-odpadove-zamery-cirkularni-ekonomika-strategicke-cile-cr-2025.csv"
+  },
+  {
     "name": "provozovny-popisne.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=mzp&f=provozovny-popisne.csv"
+  },
+  {
+    "name": "rozsirene_zamery.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=cenia&f=cenia-rozsirene-odpadove-zarizeni-cirkularni-ekonomika-strategicke-cile-cr-2025.csv"
   },
   {
     "name": "uniky-prenosy.csv",
