@@ -1,6 +1,6 @@
 [
   {
-    "name": "Poskytování dat AOPK ČR - Biogeografické členění ČR (CSV, WGS84, 1,2 MB)",
+    "name": "Poskytování dat AOPK ČR - Biogeografické členění ČR (CSV, 1,2 MB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::biogeografické-členění-čr.csv"
   },
   {
@@ -12,7 +12,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::biogeografické-členění-čr.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Biosférické rezervace UNESCO (CSV, WGS84, 1 kB)",
+    "name": "Poskytování dat AOPK ČR - Biosférické rezervace UNESCO (CSV, 1 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::biosférické-rezervace-unesco.csv"
   },
   {
@@ -24,7 +24,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::biosférické-rezervace-unesco.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Biotop vybraných zvláště chráněných druhů velkých savců (CSV, WGS84, 41 kB)",
+    "name": "Poskytování dat AOPK ČR - Biotop vybraných zvláště chráněných druhů velkých savců (CSV, 41 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::biotop-zvláště-chráněných-druhů-velkých-savců-1.csv"
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::biotop-zvláště-chráněných-druhů-velkých-savců-1.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Geoparky (CSV, WGS84, 2 kB)",
+    "name": "Poskytování dat AOPK ČR - Geoparky (CSV, 2 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::geoparky.csv"
   },
   {
@@ -48,7 +48,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::geoparky.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Hranice územních obvodů RP AOPK ČR (CSV, WGS84, 3 kB)",
+    "name": "Poskytování dat AOPK ČR - Hranice územních obvodů RP AOPK ČR (CSV, 3 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::územní-obvody-regionálních-pracovišť-aopk.csv"
   },
   {
@@ -60,7 +60,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::územní-obvody-regionálních-pracovišť-aopk.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Klidová území národních parků (CSV, WGS84, 2 kB)",
+    "name": "Poskytování dat AOPK ČR - Klidová území národních parků (CSV, 2 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::klidová-území-národního-parku.csv"
   },
   {
@@ -72,7 +72,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::klidová-území-národního-parku.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Lokality národně významných druhů (CSV, WGS84, 428 kB)",
+    "name": "Poskytování dat AOPK ČR - Lokality národně významných druhů (CSV, 428 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::lokality-národně-významných-druhů.csv"
   },
   {
@@ -84,7 +84,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::lokality-národně-významných-druhů.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Maloplošná zvláště chráněná území (CSV, WGS84, 244 kB)",
+    "name": "Poskytování dat AOPK ČR - Maloplošná zvláště chráněná území (CSV, 244 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::maloplošná-zvláště-chráněná-území.csv"
   },
   {
@@ -96,7 +96,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::maloplošná-zvláště-chráněná-území.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Mapovací sítě (CSV, WGS84, 303 kB)",
+    "name": "Poskytování dat AOPK ČR - Mapovací sítě (CSV, 303 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::mapovací-síť-základní-pole.csv"
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::mapovací-síť-dělení-1-řádu.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Mokřady Ramsarské úmluvy (CSV, WGS84, 10 kB)",
+    "name": "Poskytování dat AOPK ČR - Mokřady Ramsarské úmluvy (CSV, 10 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::mokřady-ramsarské-úmluvy.csv"
   },
   {
@@ -120,7 +120,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::mokřady-ramsarské-úmluvy.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Natura 2000 - Evropsky významné lokality (CSV, WGS84, 120 kB)",
+    "name": "Poskytování dat AOPK ČR - Natura 2000 - Evropsky významné lokality (CSV, 120 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::evropsky-významné-lokality.csv"
   },
   {
@@ -132,7 +132,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::evropsky-významné-lokality.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Natura 2000 - Ptačí oblasti (CSV, WGS84, 5 kB)",
+    "name": "Poskytování dat AOPK ČR - Natura 2000 - Ptačí oblasti (CSV, 5 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::ptačí-oblasti.csv"
   },
   {
@@ -144,7 +144,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::ptačí-oblasti.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Ochranná pásma maloplošných zvláště chráněných území (CSV, WGS84, 238 kB)",
+    "name": "Poskytování dat AOPK ČR - Ochranná pásma maloplošných zvláště chráněných území (CSV, 238 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::ochranná-pásma-mzchú.csv"
   },
   {
@@ -156,7 +156,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::ochranná-pásma-mzchú.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Památné stromy bez určení polohy jedinců - linie (CSV, WGS84, 48 kB)",
+    "name": "Poskytování dat AOPK ČR - Památné stromy bez určení polohy jedinců - linie (CSV, 48 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::památné-stromy-bez-určení-polohy-jedinců-linie.csv"
   },
   {
@@ -168,7 +168,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::památné-stromy-bez-určení-polohy-jedinců-linie.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Památné stromy bez určení polohy jedinců - polygony (CSV, WGS84, 20 kB)",
+    "name": "Poskytování dat AOPK ČR - Památné stromy bez určení polohy jedinců - polygony (CSV, 20 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::památné-stromy-bez-určení-polohy-jedinců-polygony.csv"
   },
   {
@@ -180,7 +180,7 @@
     "url": "ttps://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::památné-stromy-bez-určení-polohy-jedinců-polygony.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Památné stromy s určenou polohou jedinců (CSV, WGS84, 1,5 MB)",
+    "name": "Poskytování dat AOPK ČR - Památné stromy s určenou polohou jedinců (CSV, 1,5 MB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::památné-stromy-s-určenou-polohou-jedinců.csv"
   },
   {
@@ -192,7 +192,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::památné-stromy-s-určenou-polohou-jedinců.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Smluvně chráněná území (CSV, WGS84, 6 kB)",
+    "name": "Poskytování dat AOPK ČR - Smluvně chráněná území (CSV, 6 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::smluvně-chráněná-území.csv"
   },
   {
@@ -204,12 +204,8 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::smluvně-chráněná-území.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Sídla pracovišť AOPK ČR (CSV, WGS84, 5 kB)",
+    "name": "Poskytování dat AOPK ČR - Sídla pracovišť AOPK ČR (CSV, 5 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::sídla-pracovišť-aopk-čr.csv"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Sídla pracovišť AOPK ČR (Esri Shape, WGS84, 4 kB)",
-    "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::sídla-pracovišť-aopk-čr.zip"
   },
   {
     "name": "Poskytování dat AOPK ČR - Sídla pracovišť AOPK ČR (GeoJson, WGS84, 14 kB)",
@@ -220,7 +216,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::sídla-pracovišť-aopk-čr.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Velkoplošná zvláště chráněná území (CSV, WGS84, 4 kB)",
+    "name": "Poskytování dat AOPK ČR - Velkoplošná zvláště chráněná území (CSV, 4 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::velkoplošná-zvláště-chráněná-území.csv"
   },
   {
@@ -232,7 +228,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::velkoplošná-zvláště-chráněná-území.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Zonace VCHÚ (CSV, WGS84, 11 kB)",
+    "name": "Poskytování dat AOPK ČR - Zonace VCHÚ (CSV, 11 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::zonace-velkoplošných-zvláště-chráněných-území.csv"
   },
   {
@@ -244,7 +240,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::zonace-velkoplošných-zvláště-chráněných-území.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Zonace biosférických rezervací UNESCO (CSV, WGS84, 17 kB)",
+    "name": "Poskytování dat AOPK ČR - Zonace biosférických rezervací UNESCO (CSV, 17 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::zonace-biosferických-rezervací.csv"
   },
   {
@@ -256,7 +252,7 @@
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::zonace-biosferických-rezervací.kml"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Zonace národních parků - arondace (CSV, WGS84, 66 kB)",
+    "name": "Poskytování dat AOPK ČR - Zonace národních parků - arondace (CSV, 66 kB)",
     "url": "https://gis-aopkcr.opendata.arcgis.com/datasets/aopkcr::arondace-v-zóně-národního-parku.csv"
   },
   {

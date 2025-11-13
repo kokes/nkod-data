@@ -1,98 +1,10 @@
 [
   {
-    "name": "Poskytování dat AOPK ČR - Biogeografické členění ČR (Esri Shape, WGS84, 11,1 MB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/45daac66258d47e489cbb970fc5f7fd0_35/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Biosférické rezervace UNESCO (Esri Shape, WGS84, 548 kB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/fc48d8c473e444368595ff898fda0038_8/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Biotop vybraných zvláště chráněných druhů velkých savců (Esri Shape, WGS84, 5,8 MB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/e6343a1691604037bec5a47be7b3a2f6_14/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Geoparky (Esri Shape, WGS84, 819 kB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/c71e65b6c21d4c59817bf5dfc880c111_10/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Hranice územních obvodů RP AOPK ČR (ESRI Shape file, WGS84, 3,0 MB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/8b550b303a2b4d2ab396bcd136b3e06d_16/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Klidová území národních parků (Esri Shape, WGS84, 131 kB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/3321a88e793a47e3b906b784a16219dd_28/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Lokality národně významných druhů (Esri Shape, WGS84, 7,4 MB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/83aa89ab135749b08a49f3295e1ff765_18/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Maloplošná zvláště chráněná území (Esri Shape, WGS84, 2,8 MB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/91b1bb5621ae40a58dfddcc4550e147a_2/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Mapovací sítě (ESRI Shape file, WGS84, 273 kB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/66f42cea23504b6e9d3d4515a3be5931_25/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Mokřady Ramsarské úmluvy (Esri Shape, WGS84, 310 kB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/51450a3528274cb397f0ad6783a8261d_11/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Natura 2000 - Evropsky významné lokality (Esri Shape, WGS84, 11,3 MB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/1f6bdc419040480faeec34219f363711_6/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Natura 2000 - Ptačí oblasti (Esri Shape, WGS84, 1,0 MB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/da22575083da4dd6a48e4dd90933fd52_7/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Ochranná pásma maloplošných zvláště chráněných území (Esri Shape, WGS84, 5,4 MB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/918b79361d55441d868a11de90744515_3/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Památné stromy bez určení polohy jedinců - linie (Esri Shape, WGS84, 55 kB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/119bb29912604030946bb592e57ca238_31/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Památné stromy bez určení polohy jedinců - polygony (Esri Shape, WGS84, 55 kB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/62768537abab426fa676b671046cc4ac_32/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Památné stromy s určenou polohou jedinců (Esri Shape, WGS84, 418 kB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/362de39fceee4a9e9ba1f795bd9bffc6_0/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - SES - plan_USES nadregionalnich_biocenter_a plan_USES_v_CHKO (Esri Shape, WGS84, 14 MB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/e8f2f193b5e8418c9ad7257535747573_20/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
     "name": "Poskytování dat AOPK ČR - SES - plan_USES nadregionalnich_biocenter_a plan_USES_v_CHKO (KML, WGS84, 64,4 MB)",
     "url": "https://hub.arcgis.com/api/v3/datasets/e8f2f193b5e8418c9ad7257535747573_20/downloads/data?format=kml&spatialRefId=4326&where=1%3D1"
   },
   {
-    "name": "Poskytování dat AOPK ČR - Smluvně chráněná území (Esri Shape, WGS84, 820 kB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/77475d795ed44bac93d03885a3c7cf5e_4/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Velkoplošná zvláště chráněná území (Esri Shape, WGS84, 1,4 MB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/494d6b3749444f74ad4f556f67c2db77_0/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Zonace VCHÚ (Esri Shape, WGS84, 12 MB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/1f82e49b9bf5418a82f076e5f1f7e9cc_1/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Zonace biosférických rezervací UNESCO (Esri Shape, WGS84, 2,7 MB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/a956cfdef5b74e2d9a5b6f0cb5abe9cf_9/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - Zonace národních parků - arondace (Esri Shape, WGS84, 387 kB)",
-    "url": "https://hub.arcgis.com/api/v3/datasets/c212dc3c58d94108999fccd6b03ceb81_27/downloads/data?format=shp&spatialRefId=5514&where=1%3D1"
-  },
-  {
-    "name": "Poskytování dat AOPK ČR - ÚSES - SES - plan_USES nadregionalnich_biocenter_a plan_USES_v_CHKO (CSV, WGS84, 3,6 MB)",
+    "name": "Poskytování dat AOPK ČR - ÚSES - SES - plan_USES nadregionalnich_biocenter_a plan_USES_v_CHKO (CSV, 3,6 MB)",
     "url": "https://hub.arcgis.com/api/v3/datasets/e8f2f193b5e8418c9ad7257535747573_20/downloads/data?format=csv&spatialRefId=5514&where=1%3D1"
   },
   {

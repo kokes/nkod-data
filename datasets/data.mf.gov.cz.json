@@ -792,14 +792,6 @@
     "url": "https://data.mf.gov.cz/katalog/cs/file/2164/download?token=Xlsdyk01"
   },
   {
-    "name": "Smlouvy - seznam smluv",
-    "url": "https://data.mf.gov.cz/exports/smlouvy/smlouvy.csv"
-  },
-  {
-    "name": "Smlouvy - seznam smluv",
-    "url": "https://data.mf.gov.cz/exports/smlouvy/smlouvy.xlsx"
-  },
-  {
     "name": "Souhrnný výkaz majetku a závazků státu za rok 2015",
     "url": "https://data.mf.gov.cz/katalog/cs/file/1728/download?token=X5Q3FgOp"
   },
@@ -1041,15 +1033,7 @@
   },
   {
     "name": "Uhrazené faktury",
-    "url": "https://data.mf.gov.cz/exports/faktury/faktury.csv"
-  },
-  {
-    "name": "Uhrazené faktury",
     "url": "https://data.mf.gov.cz/exports/faktury/faktury.json"
-  },
-  {
-    "name": "Uhrazené faktury",
-    "url": "https://data.mf.gov.cz/exports/faktury/faktury.xlsx"
   },
   {
     "name": "Uplatněná odčitatelná položka dary",
