@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Kontrolní akce",
+    "url": "https://data.nku.cz/download/kontrolni-akce/prehled_kontrolnich_akci.csv"
+  },
+  {
+    "name": "Kontrolované osoby",
+    "url": "https://data.nku.cz/download/kontrolovane-osoby/kontrolovane_osoby.csv"
+  },
+  {
+    "name": "Koordinované audity",
+    "url": "https://data.nku.cz/download/kontrolni-akce/koordinovane_audity.csv"
+  },
+  {
+    "name": "Personání oblast",
+    "url": "https://data.nku.cz/download/personalni-oblast/personalni_oblast.csv"
+  },
+  {
+    "name": "Plnění závazných ukazatelů",
+    "url": "https://data.nku.cz/download/rozpocet/plneni_zavaznych_ukazatelu.csv"
+  },
+  {
+    "name": "Podání občanů",
+    "url": "https://data.nku.cz/download/podani-obcanu/podani_obcanu.csv"
+  },
+  {
+    "name": "Právní předpisy v kontrolních závěrech NKÚ",
+    "url": "https://data.nku.cz/download/pravni-predpisy/pravni_predpisy_v_kontrolnich_zaverech.csv"
+  },
+  {
+    "name": "Součinnost s orgány činnými v trestním řízení",
+    "url": "https://data.nku.cz/download/soucinnost-organu/soucinnost_s_octr.csv"
+  },
+  {
+    "name": "Veřejné zakázky – data získaná v rámci kontrolní akce NKÚ č. 15/10 (XLSX)",
+    "url": "https://data.nku.cz/download/vystupy-z-kontrol/ka-15-10/dataset-udaju-o-verejnych-zakazkach.xlsx"
+  },
+  {
+    "name": "Údaje z Centrálního registru administrativních budov za rok 2016 dle státních institucí",
+    "url": "https://data.nku.cz/download/vystupy-z-kontrol/ka-16-26/udaje-z-CRAB.xlsx"
+  },
+  {
+    "name": "Členové kolegia",
+    "url": "https://data.nku.cz/download/kolegium/clenove_kolegia.csv"
+  }
+]

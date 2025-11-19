@@ -1,0 +1,22 @@
+[
+  {
+    "name": "INSPIRE stahovací služba WFS pro téma Adresy (AD)",
+    "url": "https://services.cuzk.gov.cz/wfs/inspire-AD-wfs.asp?service=WFS&request=GetCapabilities"
+  },
+  {
+    "name": "INSPIRE stahovací služba WFS pro téma Budovy (BU)",
+    "url": "https://services.cuzk.gov.cz/wfs/inspire-BU-wfs.asp?service=WFS&request=GetCapabilities"
+  },
+  {
+    "name": "INSPIRE stahovací služba WFS pro téma Parcely (CP)",
+    "url": "https://services.cuzk.gov.cz/wfs/inspire-CP-wfs.asp?service=WFS&request=GetCapabilities"
+  },
+  {
+    "name": "INSPIRE stahovací služba WFS pro téma Rozšířené Parcely (CPX)",
+    "url": "https://services.cuzk.gov.cz/wfs/inspire-CPX-wfs.asp?service=WFS&request=GetCapabilities"
+  },
+  {
+    "name": "INSPIRE stahovací služba WFS pro téma Územní správní jednotky (AU)",
+    "url": "https://services.cuzk.gov.cz/wfs/inspire-AU-wfs.asp?service=WFS&request=GetCapabilities"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "faktury-export.csv",
+    "url": "https://www.krnap.cz/umbraco/surface/opendata/DownloadInvoicesDocument?type=csv&searchTerm="
+  },
+  {
+    "name": "smlouvy-export.csv",
+    "url": "https://www.krnap.cz/umbraco/surface/opendata/DownloadContractsDocument?type=csv&searchTerm="
+  }
+]

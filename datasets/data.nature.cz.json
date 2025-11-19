@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Poskytování dat AOPK ČR - Biogeografické členění (BIOCHO, EPSG:5514; 11.3 MB)",
+    "url": "https://data.nature.cz/ds/29/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Biosférické rezervace UNESCO (BIO_RZ, EPSG:5514; 371 KB)",
+    "url": "https://data.nature.cz/ds/9/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Biotop vybraných zvláště chráněných druhů velkých savců (B_ZCHDVS, EPSG:5514; 4,6 MB)",
+    "url": "https://data.nature.cz/ds/53/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Dílčí plochy MZCHÚ (MZCHU_DP, EPSG:5514; 2,3 MB)",
+    "url": "https://data.nature.cz/ds/96/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Geoparky",
+    "url": "https://data.nature.cz/ds/12/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Geoparky (GPAR, EPSG:5514; 871 KB)",
+    "url": "https://data.nature.cz/ds/12/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Jednotná evidence speleologických objektů",
+    "url": "https://data.nature.cz/sds/9"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Klidová území národních parků (NP_KLID, EPSG:5514; 177 KB)",
+    "url": "https://data.nature.cz/ds/55/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Lokality výskytu zvláště chráněných druhů rostlin a živočichů s národním významem (ZCHDNV, EPSG:5514; 6,5 MB)",
+    "url": "https://data.nature.cz/ds/28/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Maloplošná zvláště chráněná území a ochranná pásma MZCHÚ (MZCHU, EPSG:5514; 3 MB)",
+    "url": "https://data.nature.cz/ds/1/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Mapovací sítě (SITMAP, EPSG:5514; 73 KB)",
+    "url": "https://data.nature.cz/ds/30/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Mokřady Ramsarské úmluvy (RAMSAR, EPSG:5514; 307 KB)",
+    "url": "https://data.nature.cz/ds/14/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Mokřady národního významu",
+    "url": "https://data.nature.cz/ds/97/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Natura 2000 - Evropsky významné lokality (EVL, EPSG:5514; 14 MB)",
+    "url": "https://data.nature.cz/ds/8/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Natura 2000 - Ptačí oblasti (PT_OBL, EPSG:5514; 974 KB)",
+    "url": "https://data.nature.cz/ds/7/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - OP MZCHÚ (MZCHU_OP, EPSG:5514; 8.2 MB)",
+    "url": "https://data.nature.cz/ds/2/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Ochranná pásma památných stromů (OP PS, EPSG:5514; 1.9 MB)",
+    "url": "https://data.nature.cz/ds/114/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Opakovaný výskyt vlka dle NDOP",
+    "url": "https://data.nature.cz/ds/107/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Památné stromy bez určení polohy jedinců - linie (PS_L, EPSG:5514; 52 KB)",
+    "url": "https://data.nature.cz/ds/57/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Památné stromy bez určení polohy jedinců - polygony (PS_P, EPSG:5514; 49 KB)",
+    "url": "https://data.nature.cz/ds/58/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Památné stromy s určenou polohou jedinců (PS_B, EPSG:5514; 419 KB)",
+    "url": "https://data.nature.cz/ds/56/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Pracoviště AOPK ČR",
+    "url": "https://data.nature.cz/ds/25/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Smluvně chráněná území (SCHU, EPSG:5514; 139 KB)",
+    "url": "https://data.nature.cz/ds/5/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Světové přírodní dědictví UNESCO (SPD, EPSG:5514; 35 KB)",
+    "url": "https://data.nature.cz/ds/99/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Sídla pracovišť AOPK ČR (SIDLA_RP, EPSG:5514; 4 KB)",
+    "url": "https://data.nature.cz/ds/24/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Velkoplošná zvláště chráněná území a zonace VZCHÚ (VZCHÚ, EPSG:5514; 1,6 MB)",
+    "url": "https://data.nature.cz/ds/3/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Veřejnosti zpřístupněné jeskyně (EPSG:5514, 2,1 KB)",
+    "url": "https://data.nature.cz/ds/33/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Zonace VCHÚ (VZCHU_Z, EPSG:5514; 14,4 MB)",
+    "url": "https://data.nature.cz/ds/4/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Zonace biosférických rezervací UNESCO (BIO_RZZ, EPSG:5514; 1,6 MB)",
+    "url": "https://data.nature.cz/ds/10/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - Zonace národních parků - arondace (NP_Z_ARO, EPSG:5514; 385KB)",
+    "url": "https://data.nature.cz/ds/54/download"
+  },
+  {
+    "name": "Poskytování dat AOPK ČR - ÚSES - SES - plan_USES nadregionalnich_biocenter_a plan_USES_v_CHKO (uses_2024, EPSG:5514; 13,4 MB)",
+    "url": "https://data.nature.cz/ds/111/download"
+  },
+  {
+    "name": "Poskytování dat Opakovaný výskyt vlka dle NDOP s platností do 9. 7. 2024",
+    "url": "https://data.nature.cz/ds/107/download"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Cenový barometr - mobilní internet",
+    "url": "https://ctu.gov.cz/sites/default/files/barometr_mobilni_internet.csv"
+  },
+  {
+    "name": "Cenový barometr - mobilní internet",
+    "url": "https://ctu.gov.cz/sites/default/files/barometr_mobilni_internet.xlsx"
+  },
+  {
+    "name": "Cenový barometr - mobilní průměrná cena za minutu",
+    "url": "https://ctu.gov.cz/sites/default/files/barometr_cena_za_minutu.csv"
+  },
+  {
+    "name": "Cenový barometr - mobilní průměrná cena za minutu",
+    "url": "https://ctu.gov.cz/sites/default/files/barometr_cena_za_minutu.xlsx"
+  },
+  {
+    "name": "Cenový barometr - pevný internet",
+    "url": "https://ctu.gov.cz/sites/default/files/barometr_pevny_internet.csv"
+  },
+  {
+    "name": "Cenový barometr - pevný internet",
+    "url": "https://ctu.gov.cz/sites/default/files/barometr_pevny_internet.xlsx"
+  },
+  {
+    "name": "Individuální oprávnění a volací značky stanic amatérské služby",
+    "url": "https://ctu.gov.cz/vyhledavaci-databaze/databaze-pridelenych-radiovych-kmitoctu-podle-vydanych-pridelu-a-individualnich-opravneni/amateri?hz_from=&hz_to=&export=1&db_sluzby=1&format=xlsx&use_pager=0"
+  },
+  {
+    "name": "Individuální oprávnění a volací značky stanic letecké pohyblivé služby",
+    "url": "https://ctu.gov.cz/vyhledavaci-databaze/databaze-pridelenych-radiovych-kmitoctu-podle-vydanych-pridelu-a-individualnich-opravneni/letci?hz_from=&hz_to=&export=1&db_sluzby=1&format=xlsx&use_pager=0"
+  },
+  {
+    "name": "Individuální oprávnění a volací značky stanic námořní pohyblivé služby",
+    "url": "https://ctu.gov.cz/vyhledavaci-databaze/databaze-pridelenych-radiovych-kmitoctu-podle-vydanych-pridelu-a-individualnich-opravneni/namorni?hz_from=&hz_to=&export=1&db_sluzby=1&format=xlsx&use_pager=0"
+  },
+  {
+    "name": "Podnikatelé v poštovních službách od 1. 1. 2024",
+    "url": "https://ctu.gov.cz/vyhledavaci-databaze/full-export/csv/evidence-provozovatelu-poskytujicich-nebo-zajistujicich-postovni-sluzby-od-2024"
+  },
+  {
+    "name": "Podnikatelé v poštovních službách od 1. 1. 2024",
+    "url": "https://ctu.gov.cz/vyhledavaci-databaze/full-export/xlsx/evidence-provozovatelu-poskytujicich-nebo-zajistujicich-postovni-sluzby-od-2024"
+  },
+  {
+    "name": "Přehled oznámených rozhraní podnikatelů zajišťujících veřejnou telekomunikační síť",
+    "url": "https://ctu.gov.cz/vyhledavaci-databaze/full-export/csv/prehled-oznamenych-rozhrani"
+  },
+  {
+    "name": "Přehled oznámených rozhraní podnikatelů zajišťujících veřejnou telekomunikační síť",
+    "url": "https://ctu.gov.cz/vyhledavaci-databaze/full-export/xlsx/prehled-oznamenych-rozhrani"
+  },
+  {
+    "name": "Stacionární měření mobilního signálu 2G (LTE) - O2",
+    "url": "https://ctu.gov.cz/sites/default/files/applications/ctu_imports/import_stacionarni_mereni/2g_o2_stacionarni/2g_o2_stacionarni.zip"
+  },
+  {
+    "name": "Stacionární měření mobilního signálu 2G (LTE) - TM",
+    "url": "https://ctu.gov.cz/sites/default/files/applications/ctu_imports/import_stacionarni_mereni/2g_tm_stacionarni/2g_tm_stacionarni.zip"
+  },
+  {
+    "name": "Stacionární měření mobilního signálu 2G (LTE) - Vodafone",
+    "url": "https://ctu.gov.cz/sites/default/files/applications/ctu_imports/import_stacionarni_mereni/2g_vf_stacionarni/2g_vf_stacionarni.zip"
+  },
+  {
+    "name": "Stacionární měření mobilního signálu 4G (LTE) - O2",
+    "url": "https://ctu.gov.cz/sites/default/files/applications/ctu_imports/import_stacionarni_mereni/4g_o2_stacionarni/4g_o2_stacionarni.zip"
+  },
+  {
+    "name": "Stacionární měření mobilního signálu 4G (LTE) - TM",
+    "url": "https://ctu.gov.cz/sites/default/files/applications/ctu_imports/import_stacionarni_mereni/4g_tm_stacionarni/4g_tm_stacionarni.zip"
+  },
+  {
+    "name": "Stacionární měření mobilního signálu 4G (LTE) - Vodafone",
+    "url": "https://ctu.gov.cz/sites/default/files/applications/ctu_imports/import_stacionarni_mereni/4g_vf_stacionarni/4g_vf_stacionarni.zip"
+  },
+  {
+    "name": "Stanice bezdrátového místního informačního systému (BMIS)",
+    "url": "https://ctu.gov.cz/vyhledavaci-databaze/evidence-stanic-bezdratoveho-mistniho-informacniho-systemu-bmis/prehled?export=1&format=xlsx&use_pager=0"
+  },
+  {
+    "name": "Televizní vysílače",
+    "url": "https://ctu.gov.cz/vyhledavaci-databaze/prehled-televiznich-vysilacu/opravneni?show_all=0&export=1&use_pager=0&format=xlsx"
+  },
+  {
+    "name": "Úřední deska",
+    "url": "https://ctu.gov.cz/sites/default/files/uredni-deska.json"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "CIS Departures",
+    "url": "https://tabule.portabo.cz/api/v1-tabule/cis/GetStationDeparturesWCount/1734/0/10/0"
+  },
+  {
+    "name": "CIS stations",
+    "url": "https://tabule.portabo.cz/api/v1-tabule/cis/GetStations/"
+  },
+  {
+    "name": "GTFS static",
+    "url": "https://tabule.portabo.cz/api/v1-tabule/cis/GetGtfs/gtfs_duk_all"
+  },
+  {
+    "name": "GTFS static ÚK",
+    "url": "https://tabule.portabo.cz/api/v1-tabule/cis/GetGtfs/gtfs_google_all"
+  },
+  {
+    "name": "Metoda GetCarriers",
+    "url": "https://tabule.portabo.cz/api/v1-tabule/cis/GetCarriers/"
+  },
+  {
+    "name": "Metoda GetStationDeparturesWCount",
+    "url": "https://tabule.portabo.cz/api/v1-tabule/duk/GetStationDeparturesWCount/1734/0/10/0"
+  },
+  {
+    "name": "Metoda GetStationQR",
+    "url": "https://tabule.portabo.cz/api/v1-tabule/duk/GetStationQr/1734/0/0/tabule.portabo.cz/none/light/min/yes/yes/10/basic"
+  },
+  {
+    "name": "Metoda GetStations",
+    "url": "https://tabule.portabo.cz/api/v1-tabule/duk/GetStations/"
+  },
+  {
+    "name": "Metoda GetStations",
+    "url": "https://tabule.portabo.cz/api/v1-tabule/duk/GetStations/dpmul"
+  },
+  {
+    "name": "Metoda GetTraffic",
+    "url": "https://tabule.portabo.cz/api/v1-tabule/cis/GetTraffic/0"
+  },
+  {
+    "name": "Odjezdy ze zastávek ÚK podle času (JSON)",
+    "url": "https://tabule.portabo.cz/api/v1-tabule/cis/GetStationDeparturesWTimeAndCount/1734/0/10/0/2024/5/15/8/10"
+  },
+  {
+    "name": "Polohy vozidel podle nástupiště (JSON)",
+    "url": "https://tabule.portabo.cz/api/v1-tabule/cis/GetTraffic/0/0"
+  },
+  {
+    "name": "QR kódy (PDF)",
+    "url": "https://tabule.portabo.cz/api/v1-tabule/duk/GetStationQrPdf/1734/0/tabule.portabo.cz/none/light/min/yes/yes/10/basic"
+  },
+  {
+    "name": "Zastávky ÚK podle dopravce (JSON)",
+    "url": "https://tabule.portabo.cz/api/v1-tabule/cis/GetStations/dpmul"
+  }
+]
