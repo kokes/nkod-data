@@ -32,6 +32,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBY01CRGEN/distribuce/json"
   },
   {
+    "name": "Bazický index salda indikátoru důvěry",
+    "url": "https://data.csu.gov.cz/opendata/sady/KPR1/distribuce/csv"
+  },
+  {
+    "name": "Bazický index salda indikátoru důvěry",
+    "url": "https://data.csu.gov.cz/opendata/sady/KPR1/distribuce/json"
+  },
+  {
     "name": "Bilance elektrické energie",
     "url": "https://data.csu.gov.cz/opendata/sady/ENE01/distribuce/csv"
   },
@@ -936,6 +944,30 @@
     "url": "https://data.csu.gov.cz/opendata/sady/UNP4/distribuce/json"
   },
   {
+    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – celkem",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201B/distribuce/csv"
+  },
+  {
+    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – celkem",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201B/distribuce/json"
+  },
+  {
+    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – veřejné vysoké školy",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201C/distribuce/csv"
+  },
+  {
+    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – veřejné vysoké školy",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201C/distribuce/json"
+  },
+  {
+    "name": "Patenty udělené pro území Česka – tuzemským a zahraničním přihlašovatelům celkem ",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201A/distribuce/csv"
+  },
+  {
+    "name": "Patenty udělené pro území Česka – tuzemským a zahraničním přihlašovatelům celkem ",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201A/distribuce/json"
+  },
+  {
     "name": "Podniky používající vybrané digitální technologie",
     "url": "https://data.csu.gov.cz/opendata/sady/ICT0501/distribuce/csv"
   },
@@ -1318,6 +1350,14 @@
   {
     "name": "Roční náklady práce",
     "url": "https://data.csu.gov.cz/opendata/sady/UNP3A/distribuce/json"
+  },
+  {
+    "name": "Saldo indikátorů důvěry",
+    "url": "https://data.csu.gov.cz/opendata/sady/KPR2/distribuce/csv"
+  },
+  {
+    "name": "Saldo indikátorů důvěry",
+    "url": "https://data.csu.gov.cz/opendata/sady/KPR2/distribuce/json"
   },
   {
     "name": "Souhrn indexů cen tržních služeb na úrovni oddílů CZ-CPA",
@@ -1789,6 +1829,14 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KPR1/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KPR2/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/NUC06Q/vybery"
   },
   {
@@ -2202,6 +2250,18 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV02/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0201A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0201B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0201C/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
