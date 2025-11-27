@@ -25,6 +25,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Autobusov%C3%A9_zast%C3%A1vky_v_Karlovarsk%C3%A9m_kraji/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Botanick%C3%A9_zahrady_a_arboreta_v_Karlovarsk%C3%A9m_kraji_WFL1/FeatureServer/3"
   },
   {
@@ -221,7 +225,7 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Technick%C3%A9_pam%C3%A1tky_v_KVK_WFL1/FeatureServer/0"
+    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Technick%C3%A9_pam%C3%A1tky_v_KVK_WFL1/FeatureServer/3"
   },
   {
     "name": "ArcGIS GeoService",
@@ -237,7 +241,7 @@
   },
   {
     "name": "ArcGIS GeoService",
-    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Vojensk%C3%A9_a_pietn%C3%AD_pam%C3%A1tky_v_KVK_WFL1/FeatureServer/0"
+    "url": "https://services-eu1.arcgis.com/rWPztfBz4QnSDpfD/arcgis/rest/services/Vojensk%C3%A9_a_pietn%C3%AD_pam%C3%A1tky_v_KVK_WFL1/FeatureServer/3"
   },
   {
     "name": "ArcGIS GeoService",

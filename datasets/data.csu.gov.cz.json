@@ -1280,6 +1280,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/ZUR09C/distribuce/json"
   },
   {
+    "name": "Regionální školství - základní ukazatele",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD01/distribuce/csv"
+  },
+  {
+    "name": "Regionální školství - základní ukazatele",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD01/distribuce/json"
+  },
+  {
     "name": "Rozklad přírůstků indexů vývozních a dovozních cen podle klasifikace CPA - neočištěné o vliv měnového kurzu",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0305/distribuce/csv"
   },
@@ -2277,6 +2285,58 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZD01/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZD02/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZD03/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZD04/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZD05/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZD06/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZD07/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZD09/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZD10/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZD11/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZD12/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZD13/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZD14/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZO01AM/vybery"
   },
   {
@@ -2546,6 +2606,102 @@
   {
     "name": "Vybrané základní ukazatele - relativní údaje",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY01BHVD/distribuce/json"
+  },
+  {
+    "name": "Vysokoškolské vzdělávání - vysoké školy státní",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD14/distribuce/csv"
+  },
+  {
+    "name": "Vysokoškolské vzdělávání - vysoké školy státní",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD14/distribuce/json"
+  },
+  {
+    "name": "Vysokoškolské vzdělávání - vysoké školy veřejné a soukromé - akademičtí pracovníci",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD13/distribuce/csv"
+  },
+  {
+    "name": "Vysokoškolské vzdělávání - vysoké školy veřejné a soukromé - akademičtí pracovníci",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD13/distribuce/json"
+  },
+  {
+    "name": "Vysokoškolské vzdělávání - vysoké školy veřejné a soukromé - poprvé zapsaní a absolventi",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD12/distribuce/csv"
+  },
+  {
+    "name": "Vysokoškolské vzdělávání - vysoké školy veřejné a soukromé - poprvé zapsaní a absolventi",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD12/distribuce/json"
+  },
+  {
+    "name": "Vysokoškolské vzdělávání - vysoké školy veřejné a soukromé - studenti",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD11/distribuce/csv"
+  },
+  {
+    "name": "Vysokoškolské vzdělávání - vysoké školy veřejné a soukromé - studenti",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD11/distribuce/json"
+  },
+  {
+    "name": "Vzdělávání v konzervatořích",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD09/distribuce/csv"
+  },
+  {
+    "name": "Vzdělávání v konzervatořích",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD09/distribuce/json"
+  },
+  {
+    "name": "Vzdělávání v mateřských školách",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD02/distribuce/csv"
+  },
+  {
+    "name": "Vzdělávání v mateřských školách",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD02/distribuce/json"
+  },
+  {
+    "name": "Vzdělávání v základních uměleckých školách",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD06/distribuce/csv"
+  },
+  {
+    "name": "Vzdělávání v základních uměleckých školách",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD06/distribuce/json"
+  },
+  {
+    "name": "Vzdělávání v základních školách (1. a 2. stupeň) - žáci podle pohlaví a vybraných charakteristik",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD05/distribuce/csv"
+  },
+  {
+    "name": "Vzdělávání v základních školách (1. a 2. stupeň) - žáci podle pohlaví a vybraných charakteristik",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD05/distribuce/json"
+  },
+  {
+    "name": "Vzdělávání v základních školách - 1. a 2. stupeň",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD04/distribuce/csv"
+  },
+  {
+    "name": "Vzdělávání v základních školách - 1. a 2. stupeň",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD04/distribuce/json"
+  },
+  {
+    "name": "Vzdělávání v základních školách - přípravné třídy základních škol a přípravný stupeň základní školy speciální",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD03/distribuce/csv"
+  },
+  {
+    "name": "Vzdělávání v základních školách - přípravné třídy základních škol a přípravný stupeň základní školy speciální",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD03/distribuce/json"
+  },
+  {
+    "name": "Vzdělávání ve středních školách (bez konzervatoří)",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD07/distribuce/csv"
+  },
+  {
+    "name": "Vzdělávání ve středních školách (bez konzervatoří)",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD07/distribuce/json"
+  },
+  {
+    "name": "Vzdělávání ve vyšších odborných školách",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD10/distribuce/csv"
+  },
+  {
+    "name": "Vzdělávání ve vyšších odborných školách",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD10/distribuce/json"
   },
   {
     "name": "Výdaje na ochranu životního prostředí ",
