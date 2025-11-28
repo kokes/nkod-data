@@ -4,26 +4,6 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-registrace-novych-vozidel-2023.csv"
   },
   {
-    "name": "csv-ekonomie-cerpani-prostredku-z-opzp.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-cerpani-prostredku-z-opzp-2023.csv"
-  },
-  {
-    "name": "csv-odpady-indikator-celkova-produkce-odpadu-v-krajich.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkova-produkce-odpadu-v-krajich-2023.csv"
-  },
-  {
-    "name": "csv-odpady-indikator-celkova-produkce-odpadu.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkova-produkce-odpadu-2023.csv"
-  },
-  {
-    "name": "csv-odpady-indikator-produkce-komunalnich-odpadu-v-krajich.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-produkce-komunalnich-odpadu-v-krajich-2023.csv"
-  },
-  {
-    "name": "csv-odpady-indikator-produkce-komunalnich-odpadu.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-produkce-komunalnich-odpadu-2023.csv"
-  },
-  {
     "name": "csv-odpady-indikator-produkce-obalovych-odpadu.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-produkce-obalovych-odpadu-2023.csv"
   },
@@ -48,6 +28,14 @@
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkova-a-nahodila-tezba-dreva-v-krajich-2024.csv"
   },
   {
+    "name": "data-cenia-indikator-celkova-produkce-odpadu-2024.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkova-produkce-odpadu-2024.csv"
+  },
+  {
+    "name": "data-cenia-indikator-celkova-produkce-odpadu-v-krajich-2024.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkova-produkce-odpadu-v-krajich-2024.csv"
+  },
+  {
     "name": "data-cenia-indikator-celkova-rozloha-holin-2024.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-celkova-rozloha-holin-2024.csv"
   },
@@ -58,6 +46,10 @@
   {
     "name": "data-cenia-indikator-cerpani-programu-nova-zelena-usporam-2024.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-cerpani-programu-nova-zelena-usporam-2024.csv"
+  },
+  {
+    "name": "data-cenia-indikator-cerpani-prostredku-z-opzp-2024.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-cerpani-prostredku-z-opzp-2024.csv"
   },
   {
     "name": "data-cenia-indikator-cisteni-odpadnich-vod-vypoustenych-do-kanalizace-2023.csv",
@@ -178,6 +170,14 @@
   {
     "name": "data-cenia-indikator-pripojeni-obyvatel-na-cistirny-odpadnich-vod-2024.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-pripojeni-obyvatel-na-cistirny-odpadnich-vod-2024.csv"
+  },
+  {
+    "name": "data-cenia-indikator-produkce-komunalnich-odpadu-2024.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-produkce-komunalnich-odpadu-2024.csv"
+  },
+  {
+    "name": "data-cenia-indikator-produkce-komunalnich-odpadu-v-krajich-2024.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-produkce-komunalnich-odpadu-v-krajich-2024.csv"
   },
   {
     "name": "data-cenia-indikator-prumerna-velikost-dilu-pudnich-bloku-2024.csv",
