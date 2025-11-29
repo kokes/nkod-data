@@ -5,6 +5,10 @@
   },
   {
     "name": "feature služba ArcGIS REST",
+    "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Gridy_SLDB2021/FeatureServer/1"
+  },
+  {
+    "name": "feature služba ArcGIS REST",
     "url": "https://geodata.csu.gov.cz/server/rest/services/Hosted/Gridy_SLDB2021/FeatureServer/2"
   },
   {
@@ -650,6 +654,10 @@
   {
     "name": "gdb",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/0/gdb.zip"
+  },
+  {
+    "name": "gdb",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/1/gdb.zip"
   },
   {
     "name": "gdb",
@@ -1301,6 +1309,10 @@
   },
   {
     "name": "geojson",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/1/geojson.zip"
+  },
+  {
+    "name": "geojson",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/2/geojson.zip"
   },
   {
@@ -1949,6 +1961,10 @@
   },
   {
     "name": "gpkg",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/1/gpkg.zip"
+  },
+  {
+    "name": "gpkg",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/2/gpkg.zip"
   },
   {
@@ -2594,6 +2610,10 @@
   {
     "name": "shp",
     "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/0/shp.zip"
+  },
+  {
+    "name": "shp",
+    "url": "https://geodata.csu.gov.cz/as/data/distribuce/Hosted/Gridy_SLDB2021/FeatureServer/1/shp.zip"
   },
   {
     "name": "shp",
