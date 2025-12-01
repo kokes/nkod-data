@@ -1120,6 +1120,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/WZPR03/distribuce/json"
   },
   {
+    "name": "Produkce vybraných komodit (jejich agregátů) od roku 1993",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU07/distribuce/csv"
+  },
+  {
+    "name": "Produkce vybraných komodit (jejich agregátů) od roku 1993",
+    "url": "https://data.csu.gov.cz/opendata/sady/PRU07/distribuce/json"
+  },
+  {
     "name": "Produkce vybraných průmyslových výrobků a služeb ve struktuře pro Eurostat (dle kódů PRODCOM)",
     "url": "https://data.csu.gov.cz/opendata/sady/PRUM201/distribuce/csv"
   },
@@ -2094,6 +2102,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/PRU01D/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/PRU07/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
