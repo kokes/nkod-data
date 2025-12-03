@@ -20,7 +20,15 @@
     "url": "https://datanzis.uzis.gov.cz/data/NR-01-NRPZS/NR-01-06/Otevrena-data-NR-01-06-nrpzs-mista-poskytovani-zdravotnich-sluzeb.csv"
   },
   {
+    "name": "Novorozenci podle základních sociodemografických charakteristik",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-10-NRRZ-NAR/NR-10-01/Otevrena-data-NR-10-01-novorozenci-sociodemograficke-charakteristiky.csv.gz"
+  },
+  {
     "name": "Reprodukční a vybrané zdravotní události u žen starších 15 let, k nimž došlo na území ČR od roku 1994",
     "url": "https://datanzis.uzis.gov.cz/data/NR-12-NRRZ-ROD/NR-12-17/Otevrena-data-NR-12-17-reprodukcni-a-zdravotni-udalosti.csv.gz"
+  },
+  {
+    "name": "Rodičky podle základních sociodemografických charakteristik",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-12-NRRZ-ROD/NR-12-02/Otevrena-data-NR-12-02-rodicky-sociodemograficke-charakteristiky.csv.gz"
   }
 ]

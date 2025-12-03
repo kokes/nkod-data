@@ -616,6 +616,22 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CRU03/distribuce/json"
   },
   {
+    "name": "Mzdové prostředky a ostatní osobní náklady z čtvrtletního zjišťování - kumulace čtvrtletí",
+    "url": "https://data.csu.gov.cz/opendata/sady/MZDMPKQ/distribuce/csv"
+  },
+  {
+    "name": "Mzdové prostředky a ostatní osobní náklady z čtvrtletního zjišťování - kumulace čtvrtletí",
+    "url": "https://data.csu.gov.cz/opendata/sady/MZDMPKQ/distribuce/json"
+  },
+  {
+    "name": "Mzdové prostředky a ostatní osobní náklady z čtvrtletního zjišťování - čtvrtletí",
+    "url": "https://data.csu.gov.cz/opendata/sady/MZDMPQ/distribuce/csv"
+  },
+  {
+    "name": "Mzdové prostředky a ostatní osobní náklady z čtvrtletního zjišťování - čtvrtletí",
+    "url": "https://data.csu.gov.cz/opendata/sady/MZDMPQ/distribuce/json"
+  },
+  {
     "name": "Míra inflace",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101H/distribuce/csv"
   },
@@ -1264,6 +1280,22 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101D/distribuce/json"
   },
   {
+    "name": "Průměrný evidenční počet zaměstnanců a průměrné hrubé měsíční mzdy z čtvrtletního zjišťování - kumulace čtvrtletí",
+    "url": "https://data.csu.gov.cz/opendata/sady/MZDKQ/distribuce/csv"
+  },
+  {
+    "name": "Průměrný evidenční počet zaměstnanců a průměrné hrubé měsíční mzdy z čtvrtletního zjišťování - kumulace čtvrtletí",
+    "url": "https://data.csu.gov.cz/opendata/sady/MZDKQ/distribuce/json"
+  },
+  {
+    "name": "Průměrný evidenční počet zaměstnanců a průměrné hrubé měsíční mzdy z čtvrtletního zjišťování - čtvrtletí",
+    "url": "https://data.csu.gov.cz/opendata/sady/MZDQ1/distribuce/csv"
+  },
+  {
+    "name": "Průměrný evidenční počet zaměstnanců a průměrné hrubé měsíční mzdy z čtvrtletního zjišťování - čtvrtletí",
+    "url": "https://data.csu.gov.cz/opendata/sady/MZDQ1/distribuce/json"
+  },
+  {
     "name": "Průměrný počet členů na domácnost podle kvintilového rozdělení čistých peněžních příjmů na osobu",
     "url": "https://data.csu.gov.cz/opendata/sady/ZUR10C/distribuce/csv"
   },
@@ -1850,6 +1882,22 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KPR2/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/MZDKQ/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/MZDMPKQ/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/MZDMPQ/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/MZDQ1/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
