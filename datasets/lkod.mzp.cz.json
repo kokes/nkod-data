@@ -1,9 +1,5 @@
 [
   {
-    "name": "csv-doprava-indikator-registrace-novych-vozidel.csv",
-    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-registrace-novych-vozidel-2023.csv"
-  },
-  {
     "name": "csv-odpady-indikator-produkce-obalovych-odpadu.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-produkce-obalovych-odpadu-2023.csv"
   },
@@ -182,6 +178,10 @@
   {
     "name": "data-cenia-indikator-prumerna-velikost-dilu-pudnich-bloku-2024.csv",
     "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-prumerna-velikost-dilu-pudnich-bloku-2024.csv"
+  },
+  {
+    "name": "data-cenia-indikator-registrace-novych-vozidel-2024.csv",
+    "url": "https://lkod.mzp.cz/file_proxy.php?c=envirometr&f=cenia-indikator-registrace-novych-vozidel-2024.csv"
   },
   {
     "name": "data-cenia-indikator-sanace-kontaminovanych-mist-2023.csv",
