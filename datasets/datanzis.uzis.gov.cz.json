@@ -25,10 +25,14 @@
   },
   {
     "name": "Reprodukční a vybrané zdravotní události u žen starších 15 let, k nimž došlo na území ČR od roku 1994",
-    "url": "https://datanzis.uzis.gov.cz/data/NR-12-NRRZ-ROD/NR-12-17/Otevrena-data-NR-12-17-reprodukcni-a-zdravotni-udalosti.csv.gz"
+    "url": "https://datanzis.uzis.gov.cz/data/NR-12-NRRZ-ROD/NR-12-17/Otevrena-data-NR-12-17-reprodukcni-zdravotni-udalosti.csv.gz"
   },
   {
     "name": "Rodičky podle základních sociodemografických charakteristik",
     "url": "https://datanzis.uzis.gov.cz/data/NR-12-NRRZ-ROD/NR-12-02/Otevrena-data-NR-12-02-rodicky-sociodemograficke-charakteristiky.csv.gz"
+  },
+  {
+    "name": "Číselník věkových skupin NZIS",
+    "url": "https://datanzis.uzis.gov.cz/data/OIS-12-CIS/OIS-12-01/Otevrena-data-OIS-12-01-ciselnik-vekove-skupiny.csv"
   }
 ]
