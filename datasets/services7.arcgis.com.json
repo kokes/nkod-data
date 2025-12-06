@@ -21,6 +21,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Cyklotrasy_LK/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Divadla/FeatureServer/0"
   },
   {

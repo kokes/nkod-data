@@ -2041,6 +2041,14 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY03E/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY03F/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY03HVD/vybery"
   },
   {
@@ -2860,11 +2868,11 @@
     "url": "https://data.csu.gov.cz/opendata/sady/ICT0502/distribuce/json"
   },
   {
-    "name": "Zemřelí podle pohlaví a základních věkových skupin",
+    "name": "Zemřelí podle pohlaví a věku",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY04A/distribuce/csv"
   },
   {
-    "name": "Zemřelí podle pohlaví a základních věkových skupin",
+    "name": "Zemřelí podle pohlaví a věku",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY04A/distribuce/json"
   },
   {
@@ -2972,11 +2980,11 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBY03C/distribuce/json"
   },
   {
-    "name": "Živě narození podle pořadí, věku a rodinného stavu matek ",
+    "name": "Živě narození podle pořadí, věku a rodinného stavu matky",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY03B/distribuce/csv"
   },
   {
-    "name": "Živě narození podle pořadí, věku a rodinného stavu matek ",
+    "name": "Živě narození podle pořadí, věku a rodinného stavu matky",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY03B/distribuce/json"
   },
   {
@@ -2986,5 +2994,21 @@
   {
     "name": "Živě narození podle pětiletých věkových skupin matek a otců",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY03A/distribuce/json"
+  },
+  {
+    "name": "Živě narození podle rodinného stavu matky",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY03E/distribuce/csv"
+  },
+  {
+    "name": "Živě narození podle rodinného stavu matky",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY03E/distribuce/json"
+  },
+  {
+    "name": "Živě narození podle věku matky",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY03F/distribuce/csv"
+  },
+  {
+    "name": "Živě narození podle věku matky",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY03F/distribuce/json"
   }
 ]
