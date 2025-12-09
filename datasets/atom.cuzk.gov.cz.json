@@ -24,6 +24,14 @@
     "url": "https://atom.cuzk.gov.cz/get.ashx?theme=MCR1M"
   },
   {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 5 000 v PDF, ETRS89-TMzn - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=ZTM5-ETRS89-PDF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 5 000 v TIFF, ETRS89-TMzn - OpenSearch",
+    "url": "https://atom.cuzk.gov.cz/get.ashx?theme=ZTM5-ETRS89-TIFF"
+  },
+  {
     "name": "Stahovací služba Atom pro Volební okrsky - OpenSearch",
     "url": "https://atom.cuzk.gov.cz/get.ashx?theme=VO"
   },

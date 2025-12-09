@@ -24,12 +24,40 @@
     "url": "https://datanzis.uzis.gov.cz/data/NR-10-NRRZ-NAR/NR-10-01/Otevrena-data-NR-10-01-novorozenci-sociodemograficke-charakteristiky.csv.gz"
   },
   {
+    "name": "Pokrytí cílové populace preventivní prohlídkou",
+    "url": "https://datanzis.uzis.gov.cz/data/PPS-08-PREVENCE/PPS-08-03/Otevrena-data-PPS-08-03-preventivni-prohlidky-pokryti.csv"
+  },
+  {
+    "name": "Pokrytí cílové populace časným záchytem demence v ordinaci praktického lékaře",
+    "url": "https://datanzis.uzis.gov.cz/data/PPS-08-PREVENCE/PPS-08-06/Otevrena-data-PPS-08-06-screening-demence-prakticky-lekar.csv"
+  },
+  {
+    "name": "Pokrytí dospělé cílové populace v kapitaci všeobecných praktických lékařů preventivní prohlídkou",
+    "url": "https://datanzis.uzis.gov.cz/data/PPS-08-PREVENCE/PPS-08-04/Otevrena-data-PPS-08-04-preventivni-prohlidky-pokryti-kapitace.csv"
+  },
+  {
+    "name": "Pokrytí osob screeningem sluchu a podíl dle výsledků u cílové populace",
+    "url": "https://datanzis.uzis.gov.cz/data/PPS-06-SLUCH/PPS-06-01/Otevrena-data-PPS-06-01-screening-sluchu-novorozenci.csv"
+  },
+  {
+    "name": "Potraty podle základních sociodemografických charakteristik",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-11-NRRZ-POT/NR-11-01/Otevrena-data-NR-09-02-asistovana-reprodukce-prubeh-efektivita.csv.gz"
+  },
+  {
+    "name": "Počet oslovených osob v Programu časného záchytu karcinomu plic",
+    "url": "https://datanzis.uzis.gov.cz/data/PPS-04-PLICE/PPS-04-01/Otevrena-data-PPS-04-01-oslovene-osoby-casny-zachyt-karcinom-plic.csv"
+  },
+  {
     "name": "Reprodukční a vybrané zdravotní události u žen starších 15 let, k nimž došlo na území ČR od roku 1994",
     "url": "https://datanzis.uzis.gov.cz/data/NR-12-NRRZ-ROD/NR-12-17/Otevrena-data-NR-12-17-reprodukcni-zdravotni-udalosti.csv.gz"
   },
   {
     "name": "Rodičky podle základních sociodemografických charakteristik",
     "url": "https://datanzis.uzis.gov.cz/data/NR-12-NRRZ-ROD/NR-12-02/Otevrena-data-NR-12-02-rodicky-sociodemograficke-charakteristiky.csv.gz"
+  },
+  {
+    "name": "Zdravotnická technika dle zdravotnických zařízení",
+    "url": "https://datanzis.uzis.gov.cz/data/SSS-04-T101/SSS-04-01/Otevrena-data-SSS-04-01-zdravotnicka-technika-zarizeni.csv"
   },
   {
     "name": "Číselník věkových skupin NZIS",
