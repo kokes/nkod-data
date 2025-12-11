@@ -2089,6 +2089,18 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY04ZEM01/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY04ZEM02/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY04ZEM03/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY05A/vybery"
   },
   {
@@ -2868,6 +2880,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/ICT0502/distribuce/json"
   },
   {
+    "name": "Zemřelí podle měsíců a věkových skupin",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04ZEM01/distribuce/csv"
+  },
+  {
+    "name": "Zemřelí podle měsíců a věkových skupin",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04ZEM01/distribuce/json"
+  },
+  {
     "name": "Zemřelí podle pohlaví a věku",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY04A/distribuce/csv"
   },
@@ -2882,6 +2902,22 @@
   {
     "name": "Zemřelí podle pohlaví, věku a rodinného stavu",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY04E/distribuce/json"
+  },
+  {
+    "name": "Zemřelí podle týdnů a pětiletých věkových skupin",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04ZEM03/distribuce/csv"
+  },
+  {
+    "name": "Zemřelí podle týdnů a pětiletých věkových skupin",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04ZEM03/distribuce/json"
+  },
+  {
+    "name": "Zemřelí podle týdnů a věkových skupin",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04ZEM02/distribuce/csv"
+  },
+  {
+    "name": "Zemřelí podle týdnů a věkových skupin",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04ZEM02/distribuce/json"
   },
   {
     "name": "Zemřelí podle vybraných příčin smrti ",
