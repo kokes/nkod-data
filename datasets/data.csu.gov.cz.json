@@ -800,6 +800,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBY04BHVDCR/distribuce/json"
   },
   {
+    "name": "Nakládání s odpady dle nebezpečnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR67/distribuce/csv"
+  },
+  {
+    "name": "Nakládání s odpady dle nebezpečnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR67/distribuce/json"
+  },
+  {
     "name": "Narození - vybrané souhrnné údaje",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY03/distribuce/csv"
   },
@@ -1134,6 +1142,22 @@
   {
     "name": "Produkce odpadů a nakládání s odpady",
     "url": "https://data.csu.gov.cz/opendata/sady/WZPR03/distribuce/json"
+  },
+  {
+    "name": "Produkce odpadů dle krajů",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR63/distribuce/csv"
+  },
+  {
+    "name": "Produkce odpadů dle krajů",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR63/distribuce/json"
+  },
+  {
+    "name": "Produkce odpadů dle nebezpečnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR61/distribuce/csv"
+  },
+  {
+    "name": "Produkce odpadů dle nebezpečnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR61/distribuce/json"
   },
   {
     "name": "Produkce vybraných komodit (jejich agregátů) od roku 1993",
@@ -2361,6 +2385,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VOLOB/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VOLSE/vybery"
   },
   {
@@ -2561,6 +2589,18 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR61/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR63/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR67/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZUR01B/vybery"
   },
   {
@@ -2662,6 +2702,14 @@
   {
     "name": "Volby do Senátu",
     "url": "https://data.csu.gov.cz/opendata/sady/VOLSE/distribuce/json"
+  },
+  {
+    "name": "Volby do zastupitelstev obcí",
+    "url": "https://data.csu.gov.cz/opendata/sady/VOLOB/distribuce/csv"
+  },
+  {
+    "name": "Volby do zastupitelstev obcí",
+    "url": "https://data.csu.gov.cz/opendata/sady/VOLOB/distribuce/json"
   },
   {
     "name": "Vybrané ukazatele finanční statistiky sektoru vládních institucí - roční údaje",
