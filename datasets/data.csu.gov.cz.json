@@ -968,30 +968,6 @@
     "url": "https://data.csu.gov.cz/opendata/sady/UNP4/distribuce/json"
   },
   {
-    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – celkem",
-    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201B/distribuce/csv"
-  },
-  {
-    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – celkem",
-    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201B/distribuce/json"
-  },
-  {
-    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – veřejné vysoké školy",
-    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201C/distribuce/csv"
-  },
-  {
-    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – veřejné vysoké školy",
-    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201C/distribuce/json"
-  },
-  {
-    "name": "Patenty udělené pro území Česka – tuzemským a zahraničním přihlašovatelům celkem ",
-    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201A/distribuce/csv"
-  },
-  {
-    "name": "Patenty udělené pro území Česka – tuzemským a zahraničním přihlašovatelům celkem ",
-    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201A/distribuce/json"
-  },
-  {
     "name": "Podniky používající vybrané digitální technologie",
     "url": "https://data.csu.gov.cz/opendata/sady/ICT0501/distribuce/csv"
   },
@@ -2362,18 +2338,6 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV02/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0201A/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0201B/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0201C/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",

@@ -1,29 +1,5 @@
 [
   {
-    "name": "ArcGIS GeoService",
-    "url": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/Matricn%C3%ADUrady/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/ObceDleORP/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/Hosted/SeznamObci/FeatureServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/OpenData/ObceDleMAS/MapServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/OpenData/ObceDleSvazku/MapServer/0"
-  },
-  {
-    "name": "ArcGIS GeoService",
-    "url": "https://geo-ags.kr-karlovarsky.cz/arcgis/rest/services/OpenData/SPZ/FeatureServer/0"
-  },
-  {
     "name": "OGC WFS",
     "url": "https://geo-ags.kr-karlovarsky.cz/arcgis/services/OpenData/ObceDleMAS/MapServer/WFSServer?request=GetCapabilities&service=WFS"
   },
