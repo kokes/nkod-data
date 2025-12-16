@@ -136,6 +136,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CRU06AGEN/distribuce/json"
   },
   {
+    "name": "Dovoz odpadů",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR65/distribuce/csv"
+  },
+  {
+    "name": "Dovoz odpadů",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR65/distribuce/json"
+  },
+  {
     "name": "Ekonomický přínos z aktivit na ochranu životního prostředí podle klasifikace ekonomických činností",
     "url": "https://data.csu.gov.cz/opendata/sady/ZPR44/distribuce/csv"
   },
@@ -1112,12 +1120,36 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0205E/distribuce/json"
   },
   {
+    "name": "Produkce komunálních odpadů dle krajů a původu",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR66/distribuce/csv"
+  },
+  {
+    "name": "Produkce komunálních odpadů dle krajů a původu",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR66/distribuce/json"
+  },
+  {
     "name": "Produkce odpadů a nakládání s odpady",
     "url": "https://data.csu.gov.cz/opendata/sady/WZPR03/distribuce/csv"
   },
   {
     "name": "Produkce odpadů a nakládání s odpady",
     "url": "https://data.csu.gov.cz/opendata/sady/WZPR03/distribuce/json"
+  },
+  {
+    "name": "Produkce odpadů dle CZ_NACE",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR62/distribuce/csv"
+  },
+  {
+    "name": "Produkce odpadů dle CZ_NACE",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR62/distribuce/json"
+  },
+  {
+    "name": "Produkce odpadů dle katalogového kódu odpadu",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR60/distribuce/csv"
+  },
+  {
+    "name": "Produkce odpadů dle katalogového kódu odpadu",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR60/distribuce/json"
   },
   {
     "name": "Produkce odpadů dle krajů",
@@ -2553,11 +2585,31 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR60/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR61/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR62/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR63/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR64/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR65/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR66/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -2834,6 +2886,14 @@
   {
     "name": "Výdaje za zdravotní péči podle zdroje financování a typu poskytovatele (mil. Kč)",
     "url": "https://data.csu.gov.cz/opendata/sady/ZDR02/distribuce/json"
+  },
+  {
+    "name": "Vývoz odpadů",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR64/distribuce/csv"
+  },
+  {
+    "name": "Vývoz odpadů",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR64/distribuce/json"
   },
   {
     "name": "Výzkum a vývoj v ČR",
