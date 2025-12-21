@@ -48,6 +48,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/ENE01/distribuce/json"
   },
   {
+    "name": "Celková kriminalita registrovaná Policií ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI10/distribuce/csv"
+  },
+  {
+    "name": "Celková kriminalita registrovaná Policií ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI10/distribuce/json"
+  },
+  {
     "name": "Cenové rozpětí vybraných zemědělských výrobků",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0203F/distribuce/csv"
   },
@@ -206,6 +214,14 @@
   {
     "name": "Hodinové náklady práce dle položek ÚNP",
     "url": "https://data.csu.gov.cz/opendata/sady/UNP2B/distribuce/json"
+  },
+  {
+    "name": "Hospodářská kriminalita registrovaná Policií ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI14/distribuce/csv"
+  },
+  {
+    "name": "Hospodářská kriminalita registrovaná Policií ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI14/distribuce/json"
   },
   {
     "name": "Hranice materiální deprivace a míra materiální deprivace",
@@ -624,6 +640,22 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CRU03/distribuce/json"
   },
   {
+    "name": "Majetková kriminalita registrovaná Policií ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI13/distribuce/csv"
+  },
+  {
+    "name": "Majetková kriminalita registrovaná Policií ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI13/distribuce/json"
+  },
+  {
+    "name": "Mravnostní kriminalita registrovaná Policií ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI12/distribuce/csv"
+  },
+  {
+    "name": "Mravnostní kriminalita registrovaná Policií ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI12/distribuce/json"
+  },
+  {
     "name": "Mzdové prostředky a ostatní osobní náklady z čtvrtletního zjišťování - kumulace čtvrtletí",
     "url": "https://data.csu.gov.cz/opendata/sady/MZDMPKQ/distribuce/csv"
   },
@@ -928,6 +960,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/NUC06Q/distribuce/json"
   },
   {
+    "name": "Násilná kriminalita registrovaná Policií ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI11/distribuce/csv"
+  },
+  {
+    "name": "Násilná kriminalita registrovaná Policií ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI11/distribuce/json"
+  },
+  {
     "name": "Návštěvnost hromadných ubytovacích zařízení - měsíční data",
     "url": "https://data.csu.gov.cz/opendata/sady/CRU02M/distribuce/csv"
   },
@@ -974,6 +1014,14 @@
   {
     "name": "Odpracované a placené neodpracované hodiny",
     "url": "https://data.csu.gov.cz/opendata/sady/UNP4/distribuce/json"
+  },
+  {
+    "name": "Ostatní kriminalita registrovaná Policií ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI15/distribuce/csv"
+  },
+  {
+    "name": "Ostatní kriminalita registrovaná Policií ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI15/distribuce/json"
   },
   {
     "name": "Podniky používající vybrané digitální technologie",
@@ -1914,6 +1962,34 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KPR2/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KRI10/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KRI11/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KRI12/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KRI13/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KRI14/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KRI15/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KRI16/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -2950,6 +3026,14 @@
   {
     "name": "Zaměstnanci podniků používající vybrané digitální technologie",
     "url": "https://data.csu.gov.cz/opendata/sady/ICT0502/distribuce/json"
+  },
+  {
+    "name": "Zbývající kriminalita registrovaná Policií ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI16/distribuce/csv"
+  },
+  {
+    "name": "Zbývající kriminalita registrovaná Policií ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI16/distribuce/json"
   },
   {
     "name": "Zemřelí podle měsíců a věkových skupin",
