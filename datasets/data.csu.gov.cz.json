@@ -144,6 +144,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CRU06AGEN/distribuce/json"
   },
   {
+    "name": "Domácí a výjezdový cestovní ruch osob ve věku 15 a více let – ženy a muži - čtvrtletní data",
+    "url": "https://data.csu.gov.cz/opendata/sady/CRU06GEN/distribuce/csv"
+  },
+  {
+    "name": "Domácí a výjezdový cestovní ruch osob ve věku 15 a více let – ženy a muži - čtvrtletní data",
+    "url": "https://data.csu.gov.cz/opendata/sady/CRU06GEN/distribuce/json"
+  },
+  {
     "name": "Dovoz odpadů",
     "url": "https://data.csu.gov.cz/opendata/sady/ZPR65/distribuce/csv"
   },
@@ -1022,6 +1030,30 @@
   {
     "name": "Ostatní kriminalita registrovaná Policií ČR",
     "url": "https://data.csu.gov.cz/opendata/sady/KRI15/distribuce/json"
+  },
+  {
+    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – celkem",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201B/distribuce/csv"
+  },
+  {
+    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – celkem",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201B/distribuce/json"
+  },
+  {
+    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – veřejné vysoké školy",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201C/distribuce/csv"
+  },
+  {
+    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – veřejné vysoké školy",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201C/distribuce/json"
+  },
+  {
+    "name": "Patenty udělené pro území Česka – tuzemským a zahraničním přihlašovatelům celkem ",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201A/distribuce/csv"
+  },
+  {
+    "name": "Patenty udělené pro území Česka – tuzemským a zahraničním přihlašovatelům celkem ",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201A/distribuce/json"
   },
   {
     "name": "Podniky používající vybrané digitální technologie",
@@ -1909,6 +1941,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CRU06GEN/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CRUHVD1/vybery"
   },
   {
@@ -2446,6 +2482,18 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV02/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0201A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0201B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0201C/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
