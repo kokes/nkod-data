@@ -36,6 +36,14 @@
     "url": "https://ctu.gov.cz/vyhledavaci-databaze/databaze-pridelenych-radiovych-kmitoctu-podle-vydanych-pridelu-a-individualnich-opravneni/namorni?hz_from=&hz_to=&export=1&db_sluzby=1&format=xlsx&use_pager=0"
   },
   {
+    "name": "Jednotný seznam blokovaných internetových stránek",
+    "url": "https://ctu.gov.cz/vyhledavaci-databaze/blokovane-weby/csv"
+  },
+  {
+    "name": "Jednotný seznam blokovaných internetových stránek",
+    "url": "https://ctu.gov.cz/vyhledavaci-databaze/blokovane-weby/xlsx"
+  },
+  {
     "name": "Podnikatelé v poštovních službách od 1. 1. 2024",
     "url": "https://ctu.gov.cz/vyhledavaci-databaze/full-export/csv/evidence-provozovatelu-poskytujicich-nebo-zajistujicich-postovni-sluzby-od-2024"
   },
