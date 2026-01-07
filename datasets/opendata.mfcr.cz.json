@@ -1,57 +1,5 @@
 [
   {
-    "name": "Náklady  státu za právní zastoupení",
-    "url": "https://opendata.mfcr.cz/exports/naklady_zastoupeni/naklady_zastoupeni.csv"
-  },
-  {
-    "name": "Náklady státu za právní zastoupení",
-    "url": "https://opendata.mfcr.cz/exports/naklady_pravniho_zastoupeni/naklady_pravniho_zastoupeni.json"
-  },
-  {
-    "name": "Náklady státu za právní zastoupení",
-    "url": "https://opendata.mfcr.cz/exports/naklady_pravniho_zastoupeni/naklady_pravniho_zastoupeni.xlsx"
-  },
-  {
-    "name": "Objednávky - detail",
-    "url": "https://opendata.mfcr.cz/exports/objednavky_radek/objednavky_radek.csv"
-  },
-  {
-    "name": "Objednávky - detail",
-    "url": "https://opendata.mfcr.cz/exports/objednavky_radek/objednavky_radek.json"
-  },
-  {
-    "name": "Objednávky - detail",
-    "url": "https://opendata.mfcr.cz/exports/objednavky_radek/objednavky_radek.xlsx"
-  },
-  {
-    "name": "Objednávky - seznam objednávek",
-    "url": "https://opendata.mfcr.cz/exports/objednavky/objednavky.csv"
-  },
-  {
-    "name": "Objednávky - seznam objednávek",
-    "url": "https://opendata.mfcr.cz/exports/objednavky/objednavky.json"
-  },
-  {
-    "name": "Objednávky - seznam objednávek",
-    "url": "https://opendata.mfcr.cz/exports/objednavky/objednavky.xlsx"
-  },
-  {
-    "name": "Penzijní připojištění a doplňkové penzijní spoření",
-    "url": "https://opendata.mfcr.cz/exports/penzijni_sporeni/penzijni_sporeni.xlsx"
-  },
-  {
-    "name": "Platba státu za státní pojištěnce",
-    "url": "https://opendata.mfcr.cz/exports/platba_pojistenci/platba_pojistenci.csv"
-  },
-  {
-    "name": "Platba státu za státní pojištěnce",
-    "url": "https://opendata.mfcr.cz/exports/platba_pojistenci/platba_pojistenci.json"
-  },
-  {
-    "name": "Platba státu za státní pojištěnce",
-    "url": "https://opendata.mfcr.cz/exports/platba_pojistenci/platba_pojistenci.xlsx"
-  },
-  {
     "name": "Pokladní plnění státního rozpočtu",
     "url": "https://opendata.mfcr.cz/exports/pokladni_plneni/pokladni_plneni.csv"
   },
@@ -76,30 +24,6 @@
     "url": "https://opendata.mfcr.cz/exports/prezkum/prezkum.xlsx"
   },
   {
-    "name": "SPARQL endpoint",
-    "url": "https://opendata.mfcr.cz/lod/sparql"
-  },
-  {
-    "name": "Smlouvy Ministerstva financí ČR - vazba na faktury",
-    "url": "https://opendata.mfcr.cz/exports/smlouvy_faktura/smlouvy_faktura.csv"
-  },
-  {
-    "name": "Smlouvy Ministerstva financí ČR - vazba na faktury",
-    "url": "https://opendata.mfcr.cz/exports/smlouvy_faktura/smlouvy_faktura.json"
-  },
-  {
-    "name": "Vazební tabulka smluv a faktur Ministerstva financí ČR",
-    "url": "https://opendata.mfcr.cz/exports/smlouvy_faktura/smlouvy_faktura.xlsx"
-  },
-  {
-    "name": "Vývoj penzijního připojištění a doplňkového penzijního spoření",
-    "url": "https://opendata.mfcr.cz/exports/penzijni_sporeni/penzijni_sporeni.csv"
-  },
-  {
-    "name": "Vývoj penzijního připojištění a doplňkového penzijního spoření",
-    "url": "https://opendata.mfcr.cz/exports/penzijni_sporeni/penzijni_sporeni.json"
-  },
-  {
     "name": "Vývoj stavebního spoření",
     "url": "https://opendata.mfcr.cz/exports/stavebni_sporeni/stavebni_sporeni.csv"
   },
@@ -114,29 +38,5 @@
   {
     "name": "Úřední deska",
     "url": "https://opendata.mfcr.cz/uredni-deska/uredni-deska.jsonld"
-  },
-  {
-    "name": "Číselník rozpočtových paragrafů",
-    "url": "https://opendata.mfcr.cz/exports/paragraf/paragraf.csv"
-  },
-  {
-    "name": "Číselník rozpočtových paragrafů",
-    "url": "https://opendata.mfcr.cz/exports/paragraf/paragraf.json"
-  },
-  {
-    "name": "Číselník rozpočtových paragrafů",
-    "url": "https://opendata.mfcr.cz/exports/paragraf/paragraf.xlsx"
-  },
-  {
-    "name": "Číselník rozpočtových položek",
-    "url": "https://opendata.mfcr.cz/exports/polozka/polozka.csv"
-  },
-  {
-    "name": "Číselník rozpočtových položek",
-    "url": "https://opendata.mfcr.cz/exports/polozka/polozka.json"
-  },
-  {
-    "name": "Číselník rozpočtových položek",
-    "url": "https://opendata.mfcr.cz/exports/polozka/polozka.xlsx"
   }
 ]

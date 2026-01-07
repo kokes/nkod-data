@@ -1,9 +1,5 @@
 [
   {
-    "name": "Podprogram operačního programu",
-    "url": "https://red.financnisprava.cz/opendata/dataset/45d5d8aa-f159-4438-8215-ce2c72494884/resource/3645e346-a0fa-4ec8-b1e1-d4d025a1ebec/download/ciselnikpodprogram.csv.gz"
-  },
-  {
     "name": "ReD - Adresa",
     "url": "https://red.financnisprava.cz/opendata/dataset/009e79b3-52e4-48af-89a4-56cc4d4862eb/resource/994f9be6-7b37-4338-857a-2ec1f4404d5f/download/adresa.rdf.n3.gz"
   },
@@ -20,36 +16,12 @@
     "url": "https://red.financnisprava.cz/opendata/dataset/96e09eae-5b16-47d6-9606-416b0d9eab19/resource/cc85f975-5dc8-40f5-938a-edd296ffc6bc/download/dotace.rdf.n3.gz"
   },
   {
-    "name": "ReD - Dotační titul",
-    "url": "https://red.financnisprava.cz/opendata/dataset/65c34243-d788-4ee8-9faf-587f36005440/resource/9b6cc53a-c8c4-45a6-a630-10d041672881/download/ciselnikdotacnititul.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Dotační titul",
-    "url": "https://red.financnisprava.cz/opendata/dataset/65c34243-d788-4ee8-9faf-587f36005440/resource/9d7ec1b7-13f8-4a37-984f-cea7835be8f2/download/ciselnikdotacnititul.csv.gz"
-  },
-  {
     "name": "ReD - Druh dokumentu",
     "url": "https://red.financnisprava.cz/opendata/dataset/433e8962-a087-4331-9208-4206718234c6/resource/14e58a33-eac1-4e96-9338-f2bd9899a841/download/ciselnikdruhdokumentu.rdf.n3.gz"
   },
   {
     "name": "ReD - Druh dokumentu",
     "url": "https://red.financnisprava.cz/opendata/dataset/433e8962-a087-4331-9208-4206718234c6/resource/4b12c08b-0c3d-44eb-b658-838a1f8a9178/download/ciselnikdruhdokumentu.csv.gz"
-  },
-  {
-    "name": "ReD - Etapa",
-    "url": "https://red.financnisprava.cz/opendata/dataset/b836a9bc-cc91-451b-bfa9-6c934dfd1c4f/resource/a069eec3-dab7-48d2-b408-b5a071b94dbb/download/etapa.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Etapa",
-    "url": "https://red.financnisprava.cz/opendata/dataset/b836a9bc-cc91-451b-bfa9-6c934dfd1c4f/resource/c2c20e0f-9529-4646-8edc-124ae7fee601/download/etapa.csv.gz"
-  },
-  {
-    "name": "ReD - Finanční zdroj",
-    "url": "https://red.financnisprava.cz/opendata/dataset/bf459f76-1a69-446c-b30d-ae61aa5bacd2/resource/bb54c84f-70ac-4bba-be9d-bf6ab0068b62/download/ciselnikfinancnizdroj.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Finanční zdroj",
-    "url": "https://red.financnisprava.cz/opendata/dataset/bf459f76-1a69-446c-b30d-ae61aa5bacd2/resource/ee009c4d-81cb-48b5-b747-14d9460aea2f/download/ciselnikfinancnizdroj.csv.gz"
   },
   {
     "name": "ReD - Grantové schéma",
@@ -60,48 +32,12 @@
     "url": "https://red.financnisprava.cz/opendata/dataset/19d052f0-c450-4205-8dd5-7edd0c16ec6e/resource/594c4811-bcf9-4304-bb2f-d5028518c617/download/ciselnikgrantoveschema.rdf.n3.gz"
   },
   {
-    "name": "ReD - Opatření priority",
-    "url": "https://red.financnisprava.cz/opendata/dataset/cbf6bee8-a112-46b9-8882-e2a73672e1c0/resource/31c4dc6b-dbfc-4862-9b24-38e2492b0c4e/download/ciselnikopatreni.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Opatření priority",
-    "url": "https://red.financnisprava.cz/opendata/dataset/cbf6bee8-a112-46b9-8882-e2a73672e1c0/resource/e9cdd301-5973-40c3-8589-85f90a216543/download/ciselnikopatreni.csv.gz"
-  },
-  {
-    "name": "ReD - Operační program",
-    "url": "https://red.financnisprava.cz/opendata/dataset/6119a8d2-b014-464b-b188-74d4a3d307af/resource/ce8d40b2-6ed1-4a84-8014-6832491b1b06/download/ciselnikoperacniprogram.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Operační program",
-    "url": "https://red.financnisprava.cz/opendata/dataset/6119a8d2-b014-464b-b188-74d4a3d307af/resource/fe791513-2d28-45bf-9efd-769297bef5f9/download/ciselnikoperacniprogram.csv.gz"
-  },
-  {
     "name": "ReD - Paragraf rozpočtové skladby",
     "url": "https://red.financnisprava.cz/opendata/dataset/735d03c9-3741-45f3-b351-e979b81a4225/resource/8aa81d29-4f76-43ad-be7a-e3a5202c597d/download/ciselnikrozpoctovaskladbaparagraf.rdf.n3.gz"
   },
   {
     "name": "ReD - Paragraf rozpočtové skladby",
     "url": "https://red.financnisprava.cz/opendata/dataset/735d03c9-3741-45f3-b351-e979b81a4225/resource/b3430747-785d-43d3-b161-b17f6ef5bae4/download/ciselnikrozpoctovaskladbaparagraf.csv.gz"
-  },
-  {
-    "name": "ReD - Podopatření opatření",
-    "url": "https://red.financnisprava.cz/opendata/dataset/d6e8ffdd-3d4a-4d4e-8abf-9d0b35dcc1e6/resource/d80a3f4d-16af-49e4-8a45-9ffbcdb7912b/download/ciselnikpodopatreni.csv.gz"
-  },
-  {
-    "name": "ReD - Podopatření opatření",
-    "url": "https://red.financnisprava.cz/opendata/dataset/d6e8ffdd-3d4a-4d4e-8abf-9d0b35dcc1e6/resource/e120c41e-d623-42bb-85bf-d527ff971d77/download/ciselnikpodopatreni.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Podprogram operačního programu",
-    "url": "https://red.financnisprava.cz/opendata/dataset/45d5d8aa-f159-4438-8215-ce2c72494884/resource/09d20159-3544-42dd-b79f-e791e7329152/download/ciselnikpodprogram.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Položka rozpočtové skladby",
-    "url": "https://red.financnisprava.cz/opendata/dataset/5ac83c23-5c43-4bd9-b0af-b943f3471fc1/resource/62f81234-f1e2-408b-a0df-9c1260722158/download/ciselnikrozpoctovaskladbapolozka.csv.gz"
-  },
-  {
-    "name": "ReD - Položka rozpočtové skladby",
-    "url": "https://red.financnisprava.cz/opendata/dataset/5ac83c23-5c43-4bd9-b0af-b943f3471fc1/resource/c66ca6c0-f791-4097-9f94-43d0b58e53b5/download/ciselnikrozpoctovaskladbapolozka.rdf.n3.gz"
   },
   {
     "name": "ReD - Poskytovatel",
@@ -112,124 +48,12 @@
     "url": "https://red.financnisprava.cz/opendata/dataset/7ce4775c-2095-494f-9d60-2cd4d746c18d/resource/e7bcd819-4e5a-4fca-8f99-9105976559ff/download/ciselnikdotaceposkytovatel.csv.gz"
   },
   {
-    "name": "ReD - Priorita operačního programu",
-    "url": "https://red.financnisprava.cz/opendata/dataset/dfa8f169-11e8-4418-b815-8a5b0b18a6de/resource/042d2e23-e705-4897-9fe8-7f15decdb1c2/download/ciselnikpriorita.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Priorita operačního programu",
-    "url": "https://red.financnisprava.cz/opendata/dataset/dfa8f169-11e8-4418-b815-8a5b0b18a6de/resource/55722181-e0dd-4d54-80c3-a01c634a0425/download/ciselnikpriorita.csv.gz"
-  },
-  {
-    "name": "ReD - Právní forma",
-    "url": "https://red.financnisprava.cz/opendata/dataset/a198c22f-80ff-4299-83d8-9cae646233fa/resource/2de42bfa-b95e-41b2-b4eb-f69d7891640a/download/ciselnikpravniforma.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Právní forma",
-    "url": "https://red.financnisprava.cz/opendata/dataset/a198c22f-80ff-4299-83d8-9cae646233fa/resource/6a426021-e7ee-4219-8127-0282a5e913ab/download/ciselnikpravniforma.csv.gz"
-  },
-  {
-    "name": "ReD - Příjemce pomoci",
-    "url": "https://red.financnisprava.cz/opendata/dataset/5d65bb4d-5694-4166-a69b-579d6ab2f5cb/resource/0112c5f5-c9dd-45e0-b5b2-dab87d68adc4/download/prijemce.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Příjemce pomoci",
-    "url": "https://red.financnisprava.cz/opendata/dataset/5d65bb4d-5694-4166-a69b-579d6ab2f5cb/resource/3f734767-2c06-47fe-87d1-c3bff1d40cd3/download/prijemce.csv.gz"
-  },
-  {
-    "name": "ReD - Rozhodnutí",
-    "url": "https://red.financnisprava.cz/opendata/dataset/eb331c5f-3f4f-4be7-9543-96834d12b924/resource/11a3e5ff-bb8a-43de-870e-80661918fcd9/download/rozhodnuti.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Rozhodnutí",
-    "url": "https://red.financnisprava.cz/opendata/dataset/eb331c5f-3f4f-4be7-9543-96834d12b924/resource/f4d9e003-a3f2-48a3-9cee-b7151d5d1e6d/download/rozhodnuti.csv.gz"
-  },
-  {
-    "name": "ReD - Rozpočtové období",
-    "url": "https://red.financnisprava.cz/opendata/dataset/e4762970-6559-4508-ae79-5def43bf3e1e/resource/c241188e-aaf2-4e21-bf93-e68208c48955/download/rozpoctoveobdobi.csv.gz"
-  },
-  {
-    "name": "ReD - Rozpočtové období",
-    "url": "https://red.financnisprava.cz/opendata/dataset/e4762970-6559-4508-ae79-5def43bf3e1e/resource/c989909d-a421-4ad8-9cd3-16d7052a3d62/download/rozpoctoveobdobi.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Smlouva k rozhodnutí",
-    "url": "https://red.financnisprava.cz/opendata/dataset/af6dbaaf-4b82-45d4-8337-84ba2a42856f/resource/27ad96ca-85cd-43e0-b5bc-3c84034a4146/download/smlouvakrozhodnuti.csv.gz"
-  },
-  {
-    "name": "ReD - Smlouva k rozhodnutí",
-    "url": "https://red.financnisprava.cz/opendata/dataset/af6dbaaf-4b82-45d4-8337-84ba2a42856f/resource/c3552ab7-a970-4768-9674-6d8a0d71a5d5/download/smlouvakrozhodnuti.rdf.n3.gz"
-  },
-  {
     "name": "ReD - Splátkový kalendář",
     "url": "https://red.financnisprava.cz/opendata/dataset/c0753f2b-0a46-4ef1-9e77-4d7daf8e0263/resource/53f76c83-0904-4c81-ab21-334c603b09e9/download/splatkovykalendar.rdf.n3.gz"
   },
   {
     "name": "ReD - Splátkový kalendář",
     "url": "https://red.financnisprava.cz/opendata/dataset/c0753f2b-0a46-4ef1-9e77-4d7daf8e0263/resource/59e86f5b-2745-4007-a409-a6e340d91711/download/splatkovykalendar.csv.gz"
-  },
-  {
-    "name": "ReD - Stát",
-    "url": "https://red.financnisprava.cz/opendata/dataset/c88e2a2c-e30e-4c1b-aed0-3841a22e1f51/resource/017ca5a2-2937-40ba-b2f1-ef290481aca8/download/ciselnikstat.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Stát",
-    "url": "https://red.financnisprava.cz/opendata/dataset/c88e2a2c-e30e-4c1b-aed0-3841a22e1f51/resource/2d650c15-7ebb-4763-905e-6292310b8981/download/ciselnikstat.csv.gz"
-  },
-  {
-    "name": "ReD - Státní rozpočet kapitola",
-    "url": "https://red.financnisprava.cz/opendata/dataset/a54fc946-5b64-4b04-9d1a-7f858702265f/resource/13c153d0-b815-4a18-bdc7-6460e89187ee/download/ciselnikstatnirozpocetkapitola.csv.gz"
-  },
-  {
-    "name": "ReD - Státní rozpočet kapitola",
-    "url": "https://red.financnisprava.cz/opendata/dataset/a54fc946-5b64-4b04-9d1a-7f858702265f/resource/c3e025c6-df73-4d14-af73-4ce57bb33b95/download/ciselnikstatnirozpocetkapitola.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Státní rozpočet ukazatel",
-    "url": "https://red.financnisprava.cz/opendata/dataset/f293b0cb-be4e-4f15-8b4e-0f116cf69f15/resource/3ad9b9a5-5c4e-4495-9b1b-f5324f3a259c/download/ciselnikstatnirozpocetukazatel.csv.gz"
-  },
-  {
-    "name": "ReD - Státní rozpočet ukazatel",
-    "url": "https://red.financnisprava.cz/opendata/dataset/f293b0cb-be4e-4f15-8b4e-0f116cf69f15/resource/b54c0571-e6c0-4748-9ea0-315e5e149072/download/ciselnikstatnirozpocetukazatel.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Vazba dotační titul - účelový znak",
-    "url": "https://red.financnisprava.cz/opendata/dataset/6175b746-333a-448c-ba3e-ce5549eca5fe/resource/cab82577-922d-4a0b-a099-6a05954919db/download/ciselnikucelznak_dotacnititul.csv.gz"
-  },
-  {
-    "name": "ReD - Vazba dotační titul - účelový znak ",
-    "url": "https://red.financnisprava.cz/opendata/dataset/6175b746-333a-448c-ba3e-ce5549eca5fe/resource/bca3ee71-186f-4faa-8f01-6934fa2f66bd/download/ciselnikucelznak_dotacnititul.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Vazba paragraf rozpočtové skladby - dotační titul",
-    "url": "https://red.financnisprava.cz/opendata/dataset/b7f28b2b-51d4-4570-aecb-1d690baa5e5f/resource/ed9c1c46-b4be-4c2d-b6d6-e9b58ada25d9/download/ciselnikdotacetitul_rozpoctovaskladbaparagraf.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Vazba paragraf rozpočtové skladby - dotační titul",
-    "url": "https://red.financnisprava.cz/opendata/dataset/b7f28b2b-51d4-4570-aecb-1d690baa5e5f/resource/f6e6fd45-9102-42af-8591-5a0632b94f79/download/ciselnikdotacetitul_rozpoctovaskladbaparagraf.csv.gz"
-  },
-  {
-    "name": "ReD - Vazba položka rozpočtové skladby - dotační titul",
-    "url": "https://red.financnisprava.cz/opendata/dataset/263322d5-0664-4222-89b6-5505f40232cc/resource/42ae9064-5d11-4af0-a8a0-0be8ee108373/download/ciselnikdotacetitul_rozpoctovaskladbapolozka.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Vazba položka rozpočtové skladby - dotační titul",
-    "url": "https://red.financnisprava.cz/opendata/dataset/263322d5-0664-4222-89b6-5505f40232cc/resource/a5daa795-7ba3-424d-a373-30415847df5c/download/ciselnikdotacetitul_rozpoctovaskladbapolozka.csv.gz"
-  },
-  {
-    "name": "ReD - Vazba ukazatel státního rozpočtu - dotační titul",
-    "url": "https://red.financnisprava.cz/opendata/dataset/412c9633-793e-4937-953a-adbf7f458573/resource/34f0a094-63fc-4fa0-a603-1481257f3a71/download/ciselnikdotacetitul_statnirozpocetukazatel.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Vazba ukazatel státního rozpočtu - dotační titul",
-    "url": "https://red.financnisprava.cz/opendata/dataset/412c9633-793e-4937-953a-adbf7f458573/resource/ad5a02d2-2b40-4590-bce5-a89b83b37818/download/ciselnikdotacetitul_statnirozpocetukazatel.csv.gz"
-  },
-  {
-    "name": "ReD - Územní realizace",
-    "url": "https://red.financnisprava.cz/opendata/dataset/431cf2c9-7781-4c9d-9de3-167fca57f61f/resource/758d3337-5da0-49e5-b86a-370b0aecfcf2/download/uzemnirealizace.rdf.n3.gz"
-  },
-  {
-    "name": "ReD - Územní realizace",
-    "url": "https://red.financnisprava.cz/opendata/dataset/431cf2c9-7781-4c9d-9de3-167fca57f61f/resource/b06889b3-944b-4f88-897b-92b176d7e2a5/download/uzemnirealizace.csv.gz"
   },
   {
     "name": "ReD - Účelový znak",

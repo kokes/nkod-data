@@ -1024,6 +1024,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/UNP4/distribuce/json"
   },
   {
+    "name": "Odsouzené osoby",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI24/distribuce/csv"
+  },
+  {
+    "name": "Odsouzené osoby",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI24/distribuce/json"
+  },
+  {
     "name": "Ostatní kriminalita registrovaná Policií ČR",
     "url": "https://data.csu.gov.cz/opendata/sady/KRI15/distribuce/csv"
   },
@@ -1632,6 +1640,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0311/distribuce/json"
   },
   {
+    "name": "Stíhané a vyšetřované osoby",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI17/distribuce/csv"
+  },
+  {
+    "name": "Stíhané a vyšetřované osoby",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI17/distribuce/json"
+  },
+  {
     "name": "Stěhování - vybrané souhrnné údaje",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY06/distribuce/csv"
   },
@@ -2026,6 +2042,14 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KRI16/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KRI17/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KRI24/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
