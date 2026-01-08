@@ -2229,6 +2229,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY04BCR/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY04BGEN/vybery"
   },
   {
@@ -2238,6 +2242,22 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY04BHVDK/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY04BK/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY04BO/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY04BOR/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY04BRS/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -3186,6 +3206,46 @@
   {
     "name": "Úmrtnostní tabulky",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY04B/distribuce/json"
+  },
+  {
+    "name": "Úmrtnostní tabulky za SO ORP",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04BOR/distribuce/csv"
+  },
+  {
+    "name": "Úmrtnostní tabulky za SO ORP",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04BOR/distribuce/json"
+  },
+  {
+    "name": "Úmrtnostní tabulky za kraje",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04BK/distribuce/csv"
+  },
+  {
+    "name": "Úmrtnostní tabulky za kraje",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04BK/distribuce/json"
+  },
+  {
+    "name": "Úmrtnostní tabulky za okresy",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04BO/distribuce/csv"
+  },
+  {
+    "name": "Úmrtnostní tabulky za okresy",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04BO/distribuce/json"
+  },
+  {
+    "name": "Úmrtnostní tabulky za regiony soudržnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04BRS/distribuce/csv"
+  },
+  {
+    "name": "Úmrtnostní tabulky za regiony soudržnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04BRS/distribuce/json"
+  },
+  {
+    "name": "Úmrtnostní tabulky za ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04BCR/distribuce/csv"
+  },
+  {
+    "name": "Úmrtnostní tabulky za ČR",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04BCR/distribuce/json"
   },
   {
     "name": "Ženy a muži – používání chytrých zařízení",
