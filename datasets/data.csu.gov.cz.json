@@ -8,6 +8,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN02/distribuce/json"
   },
   {
+    "name": " Užitné vzory zapsané pro území Česka tuzemským přihlašovatelům – podniky",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0203E/distribuce/csv"
+  },
+  {
+    "name": " Užitné vzory zapsané pro území Česka tuzemským přihlašovatelům – podniky",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0203E/distribuce/json"
+  },
+  {
     "name": "Agregace indexů cen průmyslových výrobců a vývozu podle klasifikace CPA",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0309/distribuce/csv"
   },
@@ -206,6 +214,14 @@
   {
     "name": "High-tech zboží",
     "url": "https://data.csu.gov.cz/opendata/sady/VAV02/distribuce/json"
+  },
+  {
+    "name": "Hlavní souhrnné ukazatele HDP - roční údaje",
+    "url": "https://data.csu.gov.cz/opendata/sady/NUC06R/distribuce/csv"
+  },
+  {
+    "name": "Hlavní souhrnné ukazatele HDP - roční údaje",
+    "url": "https://data.csu.gov.cz/opendata/sady/NUC06R/distribuce/json"
   },
   {
     "name": "Hodinové náklady práce ",
@@ -952,14 +968,6 @@
     "url": "https://data.csu.gov.cz/opendata/sady/STAV112NZ/distribuce/json"
   },
   {
-    "name": "Národní účty – hlavní souhrnné ukazatele HDP - roční údaje",
-    "url": "https://data.csu.gov.cz/opendata/sady/NUC06R/distribuce/csv"
-  },
-  {
-    "name": "Národní účty – hlavní souhrnné ukazatele HDP - roční údaje",
-    "url": "https://data.csu.gov.cz/opendata/sady/NUC06R/distribuce/json"
-  },
-  {
     "name": "Národní účty – hlavní souhrnné ukazatele HDP - čtvrtletní údaje",
     "url": "https://data.csu.gov.cz/opendata/sady/NUC06Q/distribuce/csv"
   },
@@ -1054,6 +1062,14 @@
   {
     "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – veřejné vysoké školy",
     "url": "https://data.csu.gov.cz/opendata/sady/VAV0201C/distribuce/json"
+  },
+  {
+    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – veřejné výzkumné instituce",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201D/distribuce/csv"
+  },
+  {
+    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – veřejné výzkumné instituce",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201D/distribuce/json"
   },
   {
     "name": "Patenty udělené pro území Česka – tuzemským a zahraničním přihlašovatelům celkem ",
@@ -2541,7 +2557,15 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0201D/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0202/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0203E/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
