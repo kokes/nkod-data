@@ -108,6 +108,14 @@
     "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/8ea01dd26f7041f78a78fc71d501e520/data"
   },
   {
+    "name": "EVP celá ČR 2025 (SHP EPSG:4258)",
+    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/362e75fd98fe4cf887eef1ece7498569/data"
+  },
+  {
+    "name": "EVP celá ČR 2025 (SHP EPSG:5514)",
+    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/3c97166717354ee6874a3c35a3bc0af3/data"
+  },
+  {
     "name": "Evidence objektů podle hospodářství 2022 (SHP EPSG:5514)",
     "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/5e3cba544e9448e4a68b8b946e196570/data"
   },
@@ -120,6 +128,10 @@
     "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/a5bde7bff7e7464c8d4b75a7e51659a5/data"
   },
   {
+    "name": "Evidence objektů podle hospodářství 2025 (SHP EPSG:5514)",
+    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/aeb3146c7a364554ad2fc818ee842632/data"
+  },
+  {
     "name": "Evidence objektů podle hospodářství celá ČR 2022 (SHP EPSG:4258) ",
     "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/17bc22dcb95149e09c7770d9d8060d7f/data"
   },
@@ -130,6 +142,10 @@
   {
     "name": "Evidence objektů podle hospodářství celá ČR 2024 (SHP EPSG:4258) ",
     "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/0bc2c93d34d842ca8c4dcdb1777a89f2/data"
+  },
+  {
+    "name": "Evidence objektů podle hospodářství celá ČR 2025 (SHP EPSG:4258) ",
+    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/263383d28628445ca077ea55070ceeef/data"
   },
   {
     "name": "LPIS DPB celá ČR 01-08-2019 (SHP EPSG:4258)",
@@ -238,6 +254,26 @@
   {
     "name": "LPIS DPB celá ČR 31-12-2024 (SHP EPSG:5514)",
     "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/1a3721fdc0d74202ab9b26190b0cb47c/data"
+  },
+  {
+    "name": "LPIS DPB celá ČR 31-12-2025 (SHP EPSG:4258)",
+    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/2f6c5499792c4394b64d097e8eaacc69/data"
+  },
+  {
+    "name": "LPIS DPB celá ČR 31-12-2025 (SHP EPSG:5514)",
+    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/8fee9fce9f7c43dc950872ea67f826b7/data"
+  },
+  {
+    "name": "Seznam uživatelů LPIS 01-08-2025",
+    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/25c2369fea344057b5447a555ac66cc0/data"
+  },
+  {
+    "name": "Seznam uživatelů LPIS 31-12-2025",
+    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/ece065db53fc4efe952175618aded9ac/data"
+  },
+  {
+    "name": "Viniční tratě LPIS 2025 (SHP EPSG:5514)",
+    "url": "https://agrigis.gov.cz/portal/sharing/rest/content/items/94b01aef827440769b66fab7d00728e9/data"
   },
   {
     "name": "Zóny omezení pyrotechniky 02-01-2026 (EPSG: 5514)",

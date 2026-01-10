@@ -25,6 +25,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://opendata.mesto-most.cz/datasets/mestomost::lokality-s-upravenou-dobou-nočního-klidu"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://opendata.mesto-most.cz/datasets/mestomost::lokality-se-zákazem-konzumace-alkoholu"
   },
   {
@@ -158,6 +162,10 @@
   {
     "name": "CSV",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/15abaa84f6e74584a125ca82d7790081/csv?layers=8"
+  },
+  {
+    "name": "CSV",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/19b65c84f3d8435e9912f6a905720c24/csv?layers=67"
   },
   {
     "name": "CSV",
@@ -305,6 +313,10 @@
   },
   {
     "name": "File Geodatabase",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/19b65c84f3d8435e9912f6a905720c24/filegdb?layers=67"
+  },
+  {
+    "name": "File Geodatabase",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/24eb66961e534890ac0ad30f283d4a3f/filegdb?layers=66"
   },
   {
@@ -446,6 +458,10 @@
   {
     "name": "GeoJSON",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/15abaa84f6e74584a125ca82d7790081/geojson?layers=8"
+  },
+  {
+    "name": "GeoJSON",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/19b65c84f3d8435e9912f6a905720c24/geojson?layers=67"
   },
   {
     "name": "GeoJSON",
@@ -593,6 +609,10 @@
   },
   {
     "name": "KML",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/19b65c84f3d8435e9912f6a905720c24/kml?layers=67"
+  },
+  {
+    "name": "KML",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/24eb66961e534890ac0ad30f283d4a3f/kml?layers=66"
   },
   {
@@ -734,6 +754,10 @@
   {
     "name": "Shapefile",
     "url": "https://opendata.mesto-most.cz/api/download/v1/items/15abaa84f6e74584a125ca82d7790081/shapefile?layers=8"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://opendata.mesto-most.cz/api/download/v1/items/19b65c84f3d8435e9912f6a905720c24/shapefile?layers=67"
   },
   {
     "name": "Shapefile",
