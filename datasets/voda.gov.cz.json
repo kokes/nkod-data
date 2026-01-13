@@ -8,24 +8,128 @@
     "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Akumulace_vod_v_nadrzich_2015-2024.xlsx"
   },
   {
-    "name": "Dílčí povodí",
+    "name": "Akumulace vod ve vodních nádržích 2020 (SHP EPSG:5514)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Akumulace_2020.zip"
+  },
+  {
+    "name": "Akumulace vod ve vodních nádržích 2020 (XLSX)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Akumulace_2020.xlsx"
+  },
+  {
+    "name": "Akumulace vod ve vodních nádržích 2021 (SHP EPSG:5514)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Akumulace_2021.zip"
+  },
+  {
+    "name": "Akumulace vod ve vodních nádržích 2021 (XLSX)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Akumulace_2021.xlsx"
+  },
+  {
+    "name": "Akumulace vod ve vodních nádržích 2022 (SHP EPSG:5514)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Akumulace_2022.zip"
+  },
+  {
+    "name": "Akumulace vod ve vodních nádržích 2022 (XLSX)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Akumulace_vod_v_nadrzich_2022.xlsx"
+  },
+  {
+    "name": "Akumulace vod ve vodních nádržích 2023 (SHP EPSG:5514)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Akumulace_2023.zip"
+  },
+  {
+    "name": "Akumulace vod ve vodních nádržích 2023 (XLSX)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Akumulace_vod_v_nadrzich_2023.xlsx"
+  },
+  {
+    "name": "Akumulace vod ve vodních nádržích 2024 (SHP EPSG:5514)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Akumulace_vod_v_nadrzich_2024.zip"
+  },
+  {
+    "name": "Akumulace vod ve vodních nádržích 2024 (XLSX)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Akumulace_vod_v_nadrzich_2024.xlsx"
+  },
+  {
+    "name": "Dílčí povodí (SHP EPSG:5514)",
     "url": "https://voda.gov.cz/data/ISVSVoda_Mezinarodniadilcipovodi.zip"
   },
   {
-    "name": "Hlavní odvodňovací a závlahová zařízení",
+    "name": "Hlavní odvodňovací a závlahová zařízení (SHP EPSG:5514)",
     "url": "https://voda.gov.cz/data/ISVSVoda_HOZ.zip"
   },
   {
-    "name": "Hráze",
+    "name": "Hráze (SHP EPSG:5514)",
     "url": "https://voda.gov.cz/data/ISVSVoda_Hraze.zip"
   },
   {
-    "name": "Jezy",
+    "name": "Jezy (SHP EPSG:5514)",
     "url": "https://voda.gov.cz/data/ISVSVoda_Jezy.zip"
   },
   {
-    "name": "Objekty v korytě",
+    "name": "Objekty v korytě (SHP EPSG:5514)",
     "url": "https://voda.gov.cz/data/ISVSVoda_Objektyvkoryte.zip"
+  },
+  {
+    "name": "Odběry podzemních vod 2015-2024 (SHP EPSG:5514)",
+    "url": "https://voda.gov.cz/dokumenty/Odbery_podzemnich_vod_2015-2024.zip"
+  },
+  {
+    "name": "Odběry podzemních vod 2015-2024 (XLSX)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Odbery_podzemnich_vod_2015-2024.xlsx"
+  },
+  {
+    "name": "Odběry podzemních vod 2020 (SHP EPSG:5514)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Odbery_podzemnich_vod_2020.zip"
+  },
+  {
+    "name": "Odběry podzemních vod 2020 (XLSX)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Odbery_podzemnich_vod_2020.xlsx"
+  },
+  {
+    "name": "Odběry podzemních vod 2021 (SHP EPSG:5514)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Odbery_podzemnich_vod_2021.zip"
+  },
+  {
+    "name": "Odběry podzemních vod 2021 (XLSX)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Odbery_podzemnich_vod_2021.xlsx"
+  },
+  {
+    "name": "Odběry podzemních vod 2022 (SHP EPSG:5514)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Odbery_podzemnich_vod_2022.zip"
+  },
+  {
+    "name": "Odběry podzemních vod 2022 (XLSX)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Odbery_podzemnich_vod_2022.xlsx"
+  },
+  {
+    "name": "Odběry podzemních vod 2023 (SHP EPSG:5514)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Odbery_podzemnich_vod_2023.zip"
+  },
+  {
+    "name": "Odběry podzemních vod 2023 (XLSX)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Odbery_podzemnich_vod_2023.xlsx"
+  },
+  {
+    "name": "Odběry podzemních vod 2024 (SHP EPSG:5514)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Odbery_podzemnich_vod_2024.zip"
+  },
+  {
+    "name": "Odběry podzemních vod 2024 (XLSX)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Odbery_podzemnich_vod_2024.xlsx"
+  },
+  {
+    "name": "Odběry povrchových vod 2015-2024 (SHP EPSG:5514)",
+    "url": "https://voda.gov.cz/dokumenty/Odbery_povrchovych_vod_2015-2024.zip"
+  },
+  {
+    "name": "Odběry povrchových vod 2015-2024 (XLSX)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Odbery_povrchovych_vod_2015-2024.xlsx"
+  },
+  {
+    "name": "Odběry povrchových vod 2020 (SHP EPSG:5514)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Odbery_povrchovych_vod_2020.zip"
+  },
+  {
+    "name": "Odběry povrchových vod 2020 (XLSX)",
+    "url": "https://voda.gov.cz/dokumenty/ISVSVoda_Odbery_povrchovych_vod_2020.xlsx"
   },
   {
     "name": "Osy vodních linií (SHP EPSG:5514)",
