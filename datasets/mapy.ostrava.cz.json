@@ -700,6 +700,34 @@
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_25_WGS84_shp.zip"
   },
   {
+    "name": "Cenová mapa č. 26 (DXF, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_26_JTSK_dxf.zip"
+  },
+  {
+    "name": "Cenová mapa č. 26 (GJSON, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_26_JTSK_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 26 (GJSON, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_26_WGS84_gjson.zip"
+  },
+  {
+    "name": "Cenová mapa č. 26 (GML, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_26_JTSK_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 26 (GML, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_26_WGS84_gml.zip"
+  },
+  {
+    "name": "Cenová mapa č. 26 (SHP, JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_26_JTSK_shp.zip"
+  },
+  {
+    "name": "Cenová mapa č. 26 (SHP, WGS84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/cenova_mapa_26_WGS84_shp.zip"
+  },
+  {
     "name": "Cyklistické objekty (DXF, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/cyklo_bod_JTSK_dxf.zip"
   },
@@ -810,6 +838,34 @@
   {
     "name": "Generalizovaná mapa v měřítku 1:50 000 (SHP, WGS 84)",
     "url": "http://mapy.ostrava.cz/opendata/data/opendata/gen50_WGS84_shp.zip"
+  },
+  {
+    "name": "Hranice katastrálních území (DXF, S-JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/katastry_JTSK_dxf.zip"
+  },
+  {
+    "name": "Hranice katastrálních území (GML, S-JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/katastry_JTSK_gml.zip"
+  },
+  {
+    "name": "Hranice katastrálních území (GML, WGS 84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/katastry_WGS84_gml.zip"
+  },
+  {
+    "name": "Hranice katastrálních území (GeoJSON, S-JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/katastry_JTSK_gjson.zip"
+  },
+  {
+    "name": "Hranice katastrálních území (GeoJSON, WGS 84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/katastry_WGS84_gjson.zip"
+  },
+  {
+    "name": "Hranice katastrálních území (SHP, S-JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/katastry_JTSK_shp.zip"
+  },
+  {
+    "name": "Hranice katastrálních území (SHP, WGS 84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/katastry_WGS84_shp.zip"
   },
   {
     "name": "Hranice městských obvodů (DXF, S-JTSK)",
@@ -1080,28 +1136,56 @@
     "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_dxf.zip"
   },
   {
+    "name": "Separovaný odpad (DXF, S-JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_dxf.zip"
+  },
+  {
     "name": "Separovaný odpad (GML, S-JTSK)",
     "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_gml.zip"
+  },
+  {
+    "name": "Separovaný odpad (GML, S-JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_gml.zip"
   },
   {
     "name": "Separovaný odpad (GML, WGS 84)",
     "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_gml.zip"
   },
   {
+    "name": "Separovaný odpad (GML, WGS 84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_gml.zip"
+  },
+  {
     "name": "Separovaný odpad (GeoJSON, S-JTSK)",
     "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_gjson.zip"
+  },
+  {
+    "name": "Separovaný odpad (GeoJSON, S-JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_gjson.zip"
   },
   {
     "name": "Separovaný odpad (GeoJSON, WGS 84)",
     "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_gjson.zip"
   },
   {
+    "name": "Separovaný odpad (GeoJSON, WGS 84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_gjson.zip"
+  },
+  {
     "name": "Separovaný odpad (SHP, S-JTSK)",
     "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_shp.zip"
   },
   {
+    "name": "Separovaný odpad (SHP, S-JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_shp.zip"
+  },
+  {
     "name": "Separovaný odpad (SHP, WGS 84)",
     "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_shp.zip"
+  },
+  {
+    "name": "Separovaný odpad (SHP, WGS 84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_shp.zip"
   },
   {
     "name": "Sportoviště (DXF, JTSK)",

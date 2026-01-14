@@ -168,6 +168,30 @@
     "url": "https://data.csu.gov.cz/opendata/sady/ZPR65/distribuce/json"
   },
   {
+    "name": "Ekonomické subjekty podle institucionálního sektoru -  roční data",
+    "url": "https://data.csu.gov.cz/opendata/sady/RES04R/distribuce/csv"
+  },
+  {
+    "name": "Ekonomické subjekty podle institucionálního sektoru -  roční data",
+    "url": "https://data.csu.gov.cz/opendata/sady/RES04R/distribuce/json"
+  },
+  {
+    "name": "Ekonomické subjekty podle počtu zaměstnanců -  roční data",
+    "url": "https://data.csu.gov.cz/opendata/sady/RES03R/distribuce/csv"
+  },
+  {
+    "name": "Ekonomické subjekty podle počtu zaměstnanců -  roční data",
+    "url": "https://data.csu.gov.cz/opendata/sady/RES03R/distribuce/json"
+  },
+  {
+    "name": "Ekonomické subjekty podle počtu zaměstnanců - čtvrtletní data",
+    "url": "https://data.csu.gov.cz/opendata/sady/RES03Q/distribuce/csv"
+  },
+  {
+    "name": "Ekonomické subjekty podle počtu zaměstnanců - čtvrtletní data",
+    "url": "https://data.csu.gov.cz/opendata/sady/RES03Q/distribuce/json"
+  },
+  {
     "name": "Ekonomický přínos z aktivit na ochranu životního prostředí podle klasifikace ekonomických činností",
     "url": "https://data.csu.gov.cz/opendata/sady/ZPR44/distribuce/csv"
   },
@@ -1736,6 +1760,30 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBY02FHVD/distribuce/json"
   },
   {
+    "name": "Užitné vzory zapsané pro území Česka tuzemským přihlašovatelům – fyzické osoby",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0203F/distribuce/csv"
+  },
+  {
+    "name": "Užitné vzory zapsané pro území Česka tuzemským přihlašovatelům – fyzické osoby",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0203F/distribuce/json"
+  },
+  {
+    "name": "Užitné vzory zapsané pro území Česka zahraničním přihlašovatelům",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0203I/distribuce/csv"
+  },
+  {
+    "name": "Užitné vzory zapsané pro území Česka zahraničním přihlašovatelům",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0203I/distribuce/json"
+  },
+  {
+    "name": "Užitné vzory zapsané pro území Česka – podle země původce vynálezu celkem",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0203G/distribuce/csv"
+  },
+  {
+    "name": "Užitné vzory zapsané pro území Česka – podle země původce vynálezu celkem",
+    "url": "https://data.csu.gov.cz/opendata/sady/VAV0203G/distribuce/json"
+  },
+  {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0101C/vybery"
   },
@@ -2062,6 +2110,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KRI17/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KRI20/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -2401,6 +2453,18 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/RES03Q/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/RES03R/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/RES04R/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/RSO01/vybery"
   },
   {
@@ -2566,6 +2630,18 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0203E/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0203F/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0203G/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0203I/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -3094,6 +3170,14 @@
   {
     "name": "Výzkum a vývoj v ČR",
     "url": "https://data.csu.gov.cz/opendata/sady/VAV0301/distribuce/json"
+  },
+  {
+    "name": "Vězněné osoby",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI20/distribuce/csv"
+  },
+  {
+    "name": "Vězněné osoby",
+    "url": "https://data.csu.gov.cz/opendata/sady/KRI20/distribuce/json"
   },
   {
     "name": "Zahraniční obchod se zbožím - měsíc",
