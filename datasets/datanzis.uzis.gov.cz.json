@@ -1,5 +1,9 @@
 [
   {
+    "name": "Hromadně vyráběné léčivé přípravky dle názvu – noví pacienti",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-87/Otevrena-data-NR-04-87-hromadne-vyrabene-lecive-pripravky-nazev-novi-pacienti.csv.gz"
+  },
+  {
     "name": "Hromadně vyráběné léčivé přípravky – kód SÚKL, měsíc, IČP",
     "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-60/Otevrena-data-NR-04-60-hromadne-vyrabene-lecive-pripravky-sukl-mesic-icp.csv.gz"
   },
@@ -74,6 +78,10 @@
   {
     "name": "Zdravotnická technika dle zdravotnických zařízení",
     "url": "https://datanzis.uzis.gov.cz/data/SSS-04-T101/SSS-04-01/Otevrena-data-SSS-04-01-zdravotnicka-technika-zarizeni.csv"
+  },
+  {
+    "name": "Zvlášť účtované léčivé přípravky a signální výkony spojené s jejich podáním",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-85/Otevrena-data-NR-04-85-zvlast-uctovane-lecive-pripravky-signalni-vykony.csv"
   },
   {
     "name": "Číselník věkových skupin NZIS",
