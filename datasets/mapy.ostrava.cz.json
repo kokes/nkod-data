@@ -1133,15 +1133,7 @@
   },
   {
     "name": "Separovaný odpad (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_dxf.zip"
-  },
-  {
-    "name": "Separovaný odpad (DXF, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_dxf.zip"
-  },
-  {
-    "name": "Separovaný odpad (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_gml.zip"
   },
   {
     "name": "Separovaný odpad (GML, S-JTSK)",
@@ -1149,15 +1141,7 @@
   },
   {
     "name": "Separovaný odpad (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_gml.zip"
-  },
-  {
-    "name": "Separovaný odpad (GML, WGS 84)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_gml.zip"
-  },
-  {
-    "name": "Separovaný odpad (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_gjson.zip"
   },
   {
     "name": "Separovaný odpad (GeoJSON, S-JTSK)",
@@ -1165,23 +1149,11 @@
   },
   {
     "name": "Separovaný odpad (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_gjson.zip"
-  },
-  {
-    "name": "Separovaný odpad (GeoJSON, WGS 84)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_gjson.zip"
   },
   {
     "name": "Separovaný odpad (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_shp.zip"
-  },
-  {
-    "name": "Separovaný odpad (SHP, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_JTSK_shp.zip"
-  },
-  {
-    "name": "Separovaný odpad (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/kontejnery_na_separovany_odpad_WGS84_shp.zip"
   },
   {
     "name": "Separovaný odpad (SHP, WGS 84)",

@@ -1376,6 +1376,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0203E/distribuce/json"
   },
   {
+    "name": "Průměrné ceny zemědělské půdy",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0203H/distribuce/csv"
+  },
+  {
+    "name": "Průměrné ceny zemědělské půdy",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0203H/distribuce/json"
+  },
+  {
     "name": "Průměrné ceny zemědělských výrobků",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0203B/distribuce/csv"
   },
@@ -1905,6 +1913,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0203H/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0204A/vybery"
   },
   {
@@ -2326,10 +2338,6 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY04BRS/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY04C/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -3274,14 +3282,6 @@
   {
     "name": "Zemřelí podle týdnů a věkových skupin",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY04ZEM02/distribuce/json"
-  },
-  {
-    "name": "Zemřelí podle vybraných příčin smrti ",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY04C/distribuce/csv"
-  },
-  {
-    "name": "Zemřelí podle vybraných příčin smrti ",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY04C/distribuce/json"
   },
   {
     "name": "Základní údaje o stavu a pohybu obyvatel - roční údaje",

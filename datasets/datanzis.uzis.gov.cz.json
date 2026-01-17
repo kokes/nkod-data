@@ -32,6 +32,14 @@
     "url": "https://datanzis.uzis.gov.cz/data/NR-10-NRRZ-NAR/NR-10-01/Otevrena-data-NR-10-01-novorozenci-sociodemograficke-charakteristiky.csv.gz"
   },
   {
+    "name": "Podíl mužů s hodnotou PSA ≥ 3 µg/l v rámci Programu časného záchytu karcinomu prostaty",
+    "url": "https://datanzis.uzis.gov.cz/data/PPS-05-PROSTATA/PPS-05-03/Otevrena-data-PPS-05-03-prostata-podil-pozitivnich-psa-program.csv"
+  },
+  {
+    "name": "Podíl mužů s provedeným vyšetřením na prostatický specifický antigen (PSA)",
+    "url": "https://datanzis.uzis.gov.cz/data/PPS-05-PROSTATA/PPS-05-01/Otevrena-data-PPS-05-01-prostata-podil-vystrenych-psa.csv"
+  },
+  {
     "name": "Pokrytí cílové populace kolorektálním screeningem v tříletém intervalu",
     "url": "https://datanzis.uzis.gov.cz/data/PPS-02-KRK/PPS-02-08/Otevrena-data-PPS-02-08-kolorektum-screening-pokryti-populace-trilete.csv"
   },
@@ -58,6 +66,10 @@
   {
     "name": "Potraty podle základních sociodemografických charakteristik",
     "url": "https://datanzis.uzis.gov.cz/data/NR-11-NRRZ-POT/NR-11-01/Otevrena-data-NR-11-01-potraty-sociodemograficke-charakteristiky.csv.gz"
+  },
+  {
+    "name": "Počet mužů oslovených do Programu časného záchytu karcinomu prostaty",
+    "url": "https://datanzis.uzis.gov.cz/data/PPS-05-PROSTATA/PPS-05-02/Otevrena-data-PPS-05-02-prostata-pocet-oslovenych-program.csv"
   },
   {
     "name": "Počet oslovených osob v Programu časného záchytu karcinomu plic",
