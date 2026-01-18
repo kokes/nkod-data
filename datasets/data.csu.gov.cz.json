@@ -2341,6 +2341,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY04C/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY04D/vybery"
   },
   {
@@ -3282,6 +3286,14 @@
   {
     "name": "Zemřelí podle týdnů a věkových skupin",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY04ZEM02/distribuce/json"
+  },
+  {
+    "name": "Zemřelí podle vybraných příčin smrti ",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04C/distribuce/csv"
+  },
+  {
+    "name": "Zemřelí podle vybraných příčin smrti ",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY04C/distribuce/json"
   },
   {
     "name": "Základní údaje o stavu a pohybu obyvatel - roční údaje",
