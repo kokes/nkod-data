@@ -8,14 +8,6 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN02/distribuce/json"
   },
   {
-    "name": " Užitné vzory zapsané pro území Česka tuzemským přihlašovatelům – podniky",
-    "url": "https://data.csu.gov.cz/opendata/sady/VAV0203E/distribuce/csv"
-  },
-  {
-    "name": " Užitné vzory zapsané pro území Česka tuzemským přihlašovatelům – podniky",
-    "url": "https://data.csu.gov.cz/opendata/sady/VAV0203E/distribuce/json"
-  },
-  {
     "name": "Agregace indexů cen průmyslových výrobců a vývozu podle klasifikace CPA",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0309/distribuce/csv"
   },
@@ -1070,38 +1062,6 @@
   {
     "name": "Ostatní kriminalita registrovaná Policií ČR",
     "url": "https://data.csu.gov.cz/opendata/sady/KRI15/distribuce/json"
-  },
-  {
-    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – celkem",
-    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201B/distribuce/csv"
-  },
-  {
-    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – celkem",
-    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201B/distribuce/json"
-  },
-  {
-    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – veřejné vysoké školy",
-    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201C/distribuce/csv"
-  },
-  {
-    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – veřejné vysoké školy",
-    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201C/distribuce/json"
-  },
-  {
-    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – veřejné výzkumné instituce",
-    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201D/distribuce/csv"
-  },
-  {
-    "name": "Patenty udělené pro území Česka tuzemským přihlašovatelům – veřejné výzkumné instituce",
-    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201D/distribuce/json"
-  },
-  {
-    "name": "Patenty udělené pro území Česka – tuzemským a zahraničním přihlašovatelům celkem ",
-    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201A/distribuce/csv"
-  },
-  {
-    "name": "Patenty udělené pro území Česka – tuzemským a zahraničním přihlašovatelům celkem ",
-    "url": "https://data.csu.gov.cz/opendata/sady/VAV0201A/distribuce/json"
   },
   {
     "name": "Podniky používající vybrané digitální technologie",
@@ -2621,27 +2581,7 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0201A/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0201B/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0201C/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0201D/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0202/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VAV0203E/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
