@@ -1,17 +1,5 @@
 [
   {
-    "name": "Pokladní plnění státního rozpočtu",
-    "url": "https://opendata.mfcr.cz/exports/pokladni_plneni/pokladni_plneni.csv"
-  },
-  {
-    "name": "Pokladní plnění státního rozpočtu",
-    "url": "https://opendata.mfcr.cz/exports/pokladni_plneni/pokladni_plneni.json"
-  },
-  {
-    "name": "Pokladní plnění státního rozpočtu",
-    "url": "https://opendata.mfcr.cz/exports/pokladni_plneni/pokladni_plneni.xlsx"
-  },
-  {
     "name": "Přezkoumání hospodaření",
     "url": "https://opendata.mfcr.cz/exports/prezkum/prezkum.csv"
   },
@@ -22,25 +10,5 @@
   {
     "name": "Přezkoumání hospodaření",
     "url": "https://opendata.mfcr.cz/exports/prezkum/prezkum.xlsx"
-  },
-  {
-    "name": "SPARQL endpoint",
-    "url": "https://opendata.mfcr.cz/lod/sparql"
-  },
-  {
-    "name": "Vývoj stavebního spoření",
-    "url": "https://opendata.mfcr.cz/exports/stavebni_sporeni/stavebni_sporeni.csv"
-  },
-  {
-    "name": "Vývoj stavebního spoření",
-    "url": "https://opendata.mfcr.cz/exports/stavebni_sporeni/stavebni_sporeni.json"
-  },
-  {
-    "name": "Vývoj stavebního spoření",
-    "url": "https://opendata.mfcr.cz/exports/stavebni_sporeni/stavebni_sporeni.xlsx"
-  },
-  {
-    "name": "Úřední deska",
-    "url": "https://opendata.mfcr.cz/uredni-deska/uredni-deska.jsonld"
   }
 ]
