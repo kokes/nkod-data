@@ -45,6 +45,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://services8.arcgis.com/jfWD14yYevYeDEj7/arcgis/rest/services/cz_ko_znecisteni_ovzdusi/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://services8.arcgis.com/jfWD14yYevYeDEj7/arcgis/rest/services/cz_svk_odpadove_hospodarstvi/FeatureServer/0"
   },
   {
@@ -158,6 +162,10 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://services8.arcgis.com/jfWD14yYevYeDEj7/arcgis/rest/services/nk_sk_vymezeni_dso/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://services8.arcgis.com/jfWD14yYevYeDEj7/arcgis/rest/services/nk_sk_vymezeni_mas/FeatureServer/0"
   },
   {
     "name": "ArcGIS GeoService",
