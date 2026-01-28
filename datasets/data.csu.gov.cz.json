@@ -1672,6 +1672,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBY06A/distribuce/json"
   },
   {
+    "name": "Střední školy (bez konzervatoří)",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD07/distribuce/csv"
+  },
+  {
+    "name": "Střední školy (bez konzervatoří)",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD07/distribuce/json"
+  },
+  {
     "name": "Sňatky - vybrané souhrnné údaje",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY05A/distribuce/csv"
   },
@@ -3050,14 +3058,6 @@
   {
     "name": "Vzdělávání v základních školách - přípravné třídy základních škol a přípravný stupeň základní školy speciální",
     "url": "https://data.csu.gov.cz/opendata/sady/VZD03/distribuce/json"
-  },
-  {
-    "name": "Vzdělávání ve středních školách (bez konzervatoří)",
-    "url": "https://data.csu.gov.cz/opendata/sady/VZD07/distribuce/csv"
-  },
-  {
-    "name": "Vzdělávání ve středních školách (bez konzervatoří)",
-    "url": "https://data.csu.gov.cz/opendata/sady/VZD07/distribuce/json"
   },
   {
     "name": "Vzdělávání ve vyšších odborných školách",
