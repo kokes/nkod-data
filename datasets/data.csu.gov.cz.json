@@ -688,6 +688,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/KRI13/distribuce/json"
   },
   {
+    "name": "Mateřské školy",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD02/distribuce/csv"
+  },
+  {
+    "name": "Mateřské školy",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD02/distribuce/json"
+  },
+  {
     "name": "Mravnostní kriminalita registrovaná Policií ČR",
     "url": "https://data.csu.gov.cz/opendata/sady/KRI12/distribuce/csv"
   },
@@ -3012,20 +3020,20 @@
     "url": "https://data.csu.gov.cz/opendata/sady/VZD11/distribuce/json"
   },
   {
+    "name": "Vyšší odborné školy",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD10/distribuce/csv"
+  },
+  {
+    "name": "Vyšší odborné školy",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD10/distribuce/json"
+  },
+  {
     "name": "Vzdělávání v konzervatořích",
     "url": "https://data.csu.gov.cz/opendata/sady/VZD09/distribuce/csv"
   },
   {
     "name": "Vzdělávání v konzervatořích",
     "url": "https://data.csu.gov.cz/opendata/sady/VZD09/distribuce/json"
-  },
-  {
-    "name": "Vzdělávání v mateřských školách",
-    "url": "https://data.csu.gov.cz/opendata/sady/VZD02/distribuce/csv"
-  },
-  {
-    "name": "Vzdělávání v mateřských školách",
-    "url": "https://data.csu.gov.cz/opendata/sady/VZD02/distribuce/json"
   },
   {
     "name": "Vzdělávání v základních uměleckých školách",
@@ -3044,28 +3052,12 @@
     "url": "https://data.csu.gov.cz/opendata/sady/VZD05/distribuce/json"
   },
   {
-    "name": "Vzdělávání v základních školách - 1. a 2. stupeň",
-    "url": "https://data.csu.gov.cz/opendata/sady/VZD04/distribuce/csv"
-  },
-  {
-    "name": "Vzdělávání v základních školách - 1. a 2. stupeň",
-    "url": "https://data.csu.gov.cz/opendata/sady/VZD04/distribuce/json"
-  },
-  {
     "name": "Vzdělávání v základních školách - přípravné třídy základních škol a přípravný stupeň základní školy speciální",
     "url": "https://data.csu.gov.cz/opendata/sady/VZD03/distribuce/csv"
   },
   {
     "name": "Vzdělávání v základních školách - přípravné třídy základních škol a přípravný stupeň základní školy speciální",
     "url": "https://data.csu.gov.cz/opendata/sady/VZD03/distribuce/json"
-  },
-  {
-    "name": "Vzdělávání ve vyšších odborných školách",
-    "url": "https://data.csu.gov.cz/opendata/sady/VZD10/distribuce/csv"
-  },
-  {
-    "name": "Vzdělávání ve vyšších odborných školách",
-    "url": "https://data.csu.gov.cz/opendata/sady/VZD10/distribuce/json"
   },
   {
     "name": "Výdaje na ochranu životního prostředí ",
@@ -3258,6 +3250,14 @@
   {
     "name": "Základní údaje o stavu a pohybu obyvatel podle obcí",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY01B01/distribuce/json"
+  },
+  {
+    "name": "Základní školy - 1. a 2. stupeň",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD04/distribuce/csv"
+  },
+  {
+    "name": "Základní školy - 1. a 2. stupeň",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZD04/distribuce/json"
   },
   {
     "name": "Úmrtnostní tabulky",

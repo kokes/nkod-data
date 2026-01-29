@@ -100,6 +100,30 @@
     "url": "https://datanzis.uzis.gov.cz/data/NR-12-NRRZ-ROD/NR-12-16/Otevrena-data-NR-12-16-rodicky-cesko.csv.gz"
   },
   {
+    "name": "Výkony zdravotní péče dle formy péče a odbornosti pracoviště",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-66/Otevrena-data-NR-04-66-vykony-zdravotni-pece-forma-odbornost.csv"
+  },
+  {
+    "name": "Výkony zdravotní péče dle hlavní diagnózy",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-77/Otevrena-data-NR-04-77-vykony-diagnoza.csv.gz"
+  },
+  {
+    "name": "Výkony zdravotní péče vykázané v rámci veřejného zdravotního pojištění dle měsíců vykázání a zdravotní pojišťovny",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-23/Otevrena-data-NR-04-23-vykony-rok-mesic-zp.csv.gz"
+  },
+  {
+    "name": "Výkony zdravotní péče vykázané v rámci veřejného zdravotního pojištění dle měsíců vykázání, poskytovatelů zdravotních služeb a odborností",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-24/Otevrena-data-NR-04-24-vykony-rok-mesic-icz-odbornost.csv.gz"
+  },
+  {
+    "name": "Výkony zdravotní péče vykázané v rámci veřejného zdravotního pojištění u jednotlivých poskytovatelů zdravotních služeb včetně hlavní diagnózy",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-02/Otevrena-data-NR-04-02-vykony-ico.csv.gz"
+  },
+  {
+    "name": "Výkony zdravotní péče vykázané v rámci veřejného zdravotního pojištění ",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-01/Otevrena-data-NR-04-01-vykony.csv.gz"
+  },
+  {
     "name": "Zdravotnická technika dle zdravotnických zařízení",
     "url": "https://datanzis.uzis.gov.cz/data/SSS-04-T101/SSS-04-01/Otevrena-data-SSS-04-01-zdravotnicka-technika-zarizeni.csv"
   },
