@@ -65,6 +65,10 @@
   },
   {
     "name": "ArcGIS GeoService",
+    "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/DOP_CUR_DOP_ZPS_ZONYSTANI_P/FeatureServer/0"
+  },
+  {
+    "name": "ArcGIS GeoService",
     "url": "https://mp.iprpraha.cz/arcgis/rest/services/Hosted/DOP_CUR_DOP_ZPS_ZTP_RZ_P/FeatureServer/0"
   },
   {
