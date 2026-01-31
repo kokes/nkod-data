@@ -1176,6 +1176,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBY02D/distribuce/json"
   },
   {
+    "name": "Počet obyvatel podle pohlaví a základních věkových skupin",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY02E/distribuce/csv"
+  },
+  {
+    "name": "Počet obyvatel podle pohlaví a základních věkových skupin",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY02E/distribuce/json"
+  },
+  {
     "name": "Počet obyvatel podle pohlaví, věku a rodinného stavu",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY02G/distribuce/csv"
   },
@@ -1720,6 +1728,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/PRU09B/distribuce/json"
   },
   {
+    "name": "Ukazatele věkového složení",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY02F/distribuce/csv"
+  },
+  {
+    "name": "Ukazatele věkového složení",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY02F/distribuce/json"
+  },
+  {
     "name": "Ukazatele věkového složení k 31. 12.",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY02FHVD/distribuce/csv"
   },
@@ -2194,6 +2210,14 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY02D/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY02E/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY02F/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
