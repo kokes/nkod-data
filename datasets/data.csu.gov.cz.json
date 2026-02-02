@@ -288,6 +288,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/ICT01/distribuce/json"
   },
   {
+    "name": "ICT zboží",
+    "url": "https://data.csu.gov.cz/opendata/sady/ICT06/distribuce/csv"
+  },
+  {
+    "name": "ICT zboží",
+    "url": "https://data.csu.gov.cz/opendata/sady/ICT06/distribuce/json"
+  },
+  {
     "name": "Index cen výrobků a služeb vstupujících do zemědělství - klasifikace API",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0203C/distribuce/csv"
   },
@@ -2061,6 +2069,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ICT06/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/KPR1/vybery"
   },
   {
@@ -2853,6 +2865,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR70/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZUR01B/vybery"
   },
   {
@@ -3306,6 +3322,14 @@
   {
     "name": "Úmrtnostní tabulky za ČR",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY04BCR/distribuce/json"
+  },
+  {
+    "name": "Účet emisí do ovzduší",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR70/distribuce/csv"
+  },
+  {
+    "name": "Účet emisí do ovzduší",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR70/distribuce/json"
   },
   {
     "name": "Ženy a muži – používání chytrých zařízení",
