@@ -84,7 +84,27 @@
     "url": "https://atom.cuzk.cz/get.ashx?theme=DMR5G-SJTSK"
   },
   {
-    "name": "Stahovací služba ATOM pro Mapu ČR 1:500 000 - OpenSearch",
+    "name": "Stahovací služba ATOM pro Mapu České republiky 1 : 1 000 000 - PDF - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=MCR1M-PDF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Mapu České republiky 1 : 1 000 000 - TIFF - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=MCR1M"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Mapu České republiky 1 : 2 000 000 - PDF - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=MCR2M-PDF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Mapu České republiky 1 : 2 000 000 - TIFF - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=MCR2M"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Mapu České republiky 1 : 500 000 - PDF - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=MCR500-PDF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Mapu České republiky 1 : 500 000 - TIFF - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=MCR500"
   },
   {
@@ -250,6 +270,18 @@
   {
     "name": "Stahovací služba ATOM pro data Základní topografické mapy České republiky 1 : 50 000 v TIFF, S-JTSK - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=ZTM50-SJTSK-TIFF"
+  },
+  {
+    "name": "Stahovací služba Atom pro Mapu krajů České republiky 1 : 250 000 (MK 250) - PDF, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=MK250"
+  },
+  {
+    "name": "Stahovací služba Atom pro Mapy obcí s rozšířenou působností 1 : 50 000 (MORP 50) - PDF, S-JTSK - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=MORP50"
+  },
+  {
+    "name": "Stahovací služba Atom pro data Mapy správního rozdělení České republiky 1 : 250 000 - PDF, S-JTSK  - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=MSR250"
   },
   {
     "name": "Stahovací služba Atom pro data podrobného kvazigeoidu QGZÚ-2013 - OpenSearch",

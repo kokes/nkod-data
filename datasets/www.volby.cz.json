@@ -48,28 +48,12 @@
     "url": "https://www.volby.cz/pls/kv2022/vysledky"
   },
   {
-    "name": "Data za volební okrsky - T4 jako CSV soubor",
-    "url": "https://www.volby.cz/opendata/ps2025/csv_od/pst4.csv"
-  },
-  {
-    "name": "Data za volební okrsky - T4 jako JSON soubor",
-    "url": "https://www.volby.cz/opendata/ps2025/json/pst4.json"
-  },
-  {
-    "name": "Data za volební okrsky - T4 jako XLSX soubor",
-    "url": "https://www.volby.cz/opendata/ps2025/excel/pst4.xlsx"
-  },
-  {
-    "name": "Data za volební okrsky - T4 jako XML soubor",
-    "url": "https://www.volby.cz/opendata/ps2025/xml/pst4.xml"
-  },
-  {
     "name": "Data za volební okrsky - výsledky za strany a kandidáty - T4p jako CSV soubor",
-    "url": "https://www.volby.cz/opendata/ps2025/csv_od/pst4p.csv"
+    "url": "https://www.volby.cz/opendata/ps2025/csv_od/pst4p.zip"
   },
   {
     "name": "Data za volební okrsky - výsledky za strany a kandidáty - T4p jako JSON soubor",
-    "url": "https://www.volby.cz/opendata/ps2025/json/pst4p.json"
+    "url": "https://www.volby.cz/opendata/ps2025/json/pst4p.zip"
   },
   {
     "name": "Data za volební okrsky - výsledky za strany a kandidáty - T4p jako XLSX soubor",
@@ -77,7 +61,7 @@
   },
   {
     "name": "Data za volební okrsky - výsledky za strany a kandidáty - T4p jako XML soubor",
-    "url": "https://www.volby.cz/opendata/ps2025/xml/pst4p.xml"
+    "url": "https://www.volby.cz/opendata/ps2025/xml/pst4p.zip"
   },
   {
     "name": "GeoJson",
