@@ -1,7 +1,23 @@
 [
   {
+    "name": "Hromadně vyráběné léčivé přípravky dle ATC skupiny – počty unikátních pacientů",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-71/Otevrena-data-NR-04-71-hromadne-vyrabene-lecive-pripravky-atc-unikatni-pacienti.csv.gz"
+  },
+  {
+    "name": "Hromadně vyráběné léčivé přípravky dle kódu SÚKL – počty unikátních pacientů",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-69/Otevrena-data-NR-04-69-hromadne-vyrabene-lecive-pripravky-sukl-unikatni-pacienti.csv.gz"
+  },
+  {
     "name": "Hromadně vyráběné léčivé přípravky dle názvu – noví pacienti",
     "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-87/Otevrena-data-NR-04-87-hromadne-vyrabene-lecive-pripravky-nazev-novi-pacienti.csv.gz"
+  },
+  {
+    "name": "Hromadně vyráběné léčivé přípravky dle názvu – počty unikátních pacientů",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-70/Otevrena-data-NR-04-70-hromadne-vyrabene-lecive-pripravky-nazev-unikatni-pacienti.csv.gz"
+  },
+  {
+    "name": "Hromadně vyráběné léčivé přípravky – ATC (aktuální), měsíc, IČP",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-62/Otevrena-data-NR-04-62-hromadne-vyrabene-lecive-pripravky-atc-aktualni-mesic-icp.csv.gz"
   },
   {
     "name": "Hromadně vyráběné léčivé přípravky – kód SÚKL, měsíc, IČP",
@@ -18,6 +34,22 @@
   {
     "name": "Hromadně vyráběné léčivé přípravky – název LP, měsíc, IČP",
     "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-61/Otevrena-data-NR-04-61-hromadne-vyrabene-lecive-pripravky-nazev-mesic-icp.csv.gz"
+  },
+  {
+    "name": "Hromadně vyráběné léčivé přípravky – unikátní pacienti dle věku a diagnózy",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-80/Otevrena-data-NR-04-80-hromadne-vyrabene-lecive-pripravky-unikatni-pacienti-vek-diagnoza.csv.gz"
+  },
+  {
+    "name": "Individuálně připravované léčivé přípravky  dle typu – počty unikátních pacientů",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-73/Otevrena-data-NR-04-73-individualne-pripravovane-lecive-pripravky-typ-ivlp-unikatni-pacienti.csv"
+  },
+  {
+    "name": "Individuálně připravované léčivé přípravky dle kódu SÚKL – počty unikátních pacientů",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-72/Otevrena-data-NR-04-72-individualne-pripravovane-lecive-pripravky-sukl-unikatni-pacienti.csv"
+  },
+  {
+    "name": "Individuálně připravované léčivé přípravky – kód SÚKL, měsíc, IČP předpisu, IČZ výdeje",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-17/Otevrena-data-NR-04-17-individualne-pripravovane-lecive-pripravky-sukl-mesic-icp-predpis-icz-vydej.csv.gz"
   },
   {
     "name": "Infekční nemoci v ČR",
@@ -130,6 +162,22 @@
   {
     "name": "Zdravotnická technika dle zdravotnických zařízení",
     "url": "https://datanzis.uzis.gov.cz/data/SSS-04-T101/SSS-04-01/Otevrena-data-SSS-04-01-zdravotnicka-technika-zarizeni.csv"
+  },
+  {
+    "name": "Zdravotnické prostředky dle kódu – měsíc, IČP předpisu, IČZ výdeje",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-68/Otevrena-data-NR-04-68-zdravotnicke-prostredky-kod-zp-mesic-icp-predpis-icz-vydej.csv.gz"
+  },
+  {
+    "name": "Zdravotnické prostředky dle kódu – počty unikátních pacientů",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-74/Otevrena-data-NR-04-74-zdravotnicke-prostredky-kod-unikatni-pacienti.csv.gz"
+  },
+  {
+    "name": "Zdravotnické prostředky dle typu – počty unikátních pacientů",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-75/Otevrena-data-NR-04-75-zdravotnicke-prostredky-typ-unikatni-pacienti.csv"
+  },
+  {
+    "name": "Zdravotnické prostředky – unikátní pacienti dle věku a diagnózy",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-82/Otevrena-data-NR-04-82-zdravotnicke-prostredky-unikatni-pacienti-vek-diagnoza.csv.gz"
   },
   {
     "name": "Zvlášť účtované léčivé přípravky a signální výkony spojené s jejich podáním",

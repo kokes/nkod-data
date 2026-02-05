@@ -1096,6 +1096,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/VZOPPM/distribuce/json"
   },
   {
+    "name": "Pohyb zboží přes hranice - rok",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZOPPR/distribuce/csv"
+  },
+  {
+    "name": "Pohyb zboží přes hranice - rok",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZOPPR/distribuce/json"
+  },
+  {
     "name": "Pohyb zboží přes hranice - čtvrtletí",
     "url": "https://data.csu.gov.cz/opendata/sady/VZOPPQ/distribuce/csv"
   },
@@ -1174,22 +1182,6 @@
   {
     "name": "Počet obyvatel podle pohlaví a jednotek věku k 31. 12.",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY02BHVD/distribuce/json"
-  },
-  {
-    "name": "Počet obyvatel podle pohlaví a pětiletých věkových skupin",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY02D/distribuce/csv"
-  },
-  {
-    "name": "Počet obyvatel podle pohlaví a pětiletých věkových skupin",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY02D/distribuce/json"
-  },
-  {
-    "name": "Počet obyvatel podle pohlaví a základních věkových skupin",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY02E/distribuce/csv"
-  },
-  {
-    "name": "Počet obyvatel podle pohlaví a základních věkových skupin",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY02E/distribuce/json"
   },
   {
     "name": "Počet obyvatel podle pohlaví, věku a rodinného stavu",
@@ -1712,22 +1704,6 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBY05A03/distribuce/json"
   },
   {
-    "name": "Sňatky podle věku a rodinného stavu nevěsty",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY05A02/distribuce/csv"
-  },
-  {
-    "name": "Sňatky podle věku a rodinného stavu nevěsty",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY05A02/distribuce/json"
-  },
-  {
-    "name": "Sňatky podle věku a rodinného stavu ženicha",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY05A01/distribuce/csv"
-  },
-  {
-    "name": "Sňatky podle věku a rodinného stavu ženicha",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY05A01/distribuce/json"
-  },
-  {
     "name": "Tržby z průmyslové činnosti: indexy očištěné o kalendářní a sezónní vlivy (oddíly CZ-NACE)",
     "url": "https://data.csu.gov.cz/opendata/sady/PRU09B/distribuce/csv"
   },
@@ -2221,14 +2197,6 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY02D/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY02E/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY02F/vybery"
   },
   {
@@ -2329,10 +2297,6 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY04C/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY04D/vybery"
   },
   {
@@ -2358,14 +2322,6 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY05A/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY05A01/vybery"
-  },
-  {
-    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
-    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY05A02/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -2718,6 +2674,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZOPPQ/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZOPPR/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -3234,14 +3194,6 @@
   {
     "name": "Zemřelí podle týdnů a věkových skupin",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY04ZEM02/distribuce/json"
-  },
-  {
-    "name": "Zemřelí podle vybraných příčin smrti ",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY04C/distribuce/csv"
-  },
-  {
-    "name": "Zemřelí podle vybraných příčin smrti ",
-    "url": "https://data.csu.gov.cz/opendata/sady/OBY04C/distribuce/json"
   },
   {
     "name": "Základní údaje o stavu a pohybu obyvatel - roční údaje",

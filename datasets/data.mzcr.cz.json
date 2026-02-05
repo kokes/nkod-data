@@ -152,10 +152,6 @@
     "url": "https://data.mzcr.cz/data/distribuce/411/Otevrena-data-NR-04-27-hromadne-vyrabene-lecive-pripravky-sukl-atc-vykazani-mesic-icz.7z"
   },
   {
-    "name": "Hromadně vyráběné léčivé přípravky dle ATC skupiny – počty unikátních pacientů",
-    "url": "https://data.mzcr.cz/data/distribuce/451/Otevrena-data-NR-04-71-hromadne-vyrabene-lecive-pripravky-atc-unikatni-pacienti.csv.gz"
-  },
-  {
     "name": "Hromadně vyráběné léčivé přípravky dle SÚKL kódu (ATC aktuální)",
     "url": "https://data.mzcr.cz/data/distribuce/416/Otevrena-data-NR-04-20-hromadne-vyrabene-lecive-pripravky-sukl-atc-aktualni.csv"
   },
@@ -164,24 +160,8 @@
     "url": "https://data.mzcr.cz/data/distribuce/415/Otevrena-data-NR-04-18-hromadne-vyrabene-lecive-pripravky-sukl-atc-vykazani.csv"
   },
   {
-    "name": "Hromadně vyráběné léčivé přípravky dle kódu SÚKL – počty unikátních pacientů",
-    "url": "https://data.mzcr.cz/data/distribuce/447/Otevrena-data-NR-04-69-hromadne-vyrabene-lecive-pripravky-sukl-unikatni-pacienti.csv.gz"
-  },
-  {
-    "name": "Hromadně vyráběné léčivé přípravky dle názvu – počty unikátních pacientů",
-    "url": "https://data.mzcr.cz/data/distribuce/449/Otevrena-data-NR-04-70-hromadne-vyrabene-lecive-pripravky-nazev-unikatni-pacienti.csv.gz"
-  },
-  {
     "name": "Hromadně vyráběné léčivé přípravky dle typu subjektu (IČZ) a dokladu",
     "url": "https://data.mzcr.cz/data/distribuce/406/Otevrena-data-NR-04-57-hromadne-vyrabene-lecive-pripravky-icz-doklad.csv"
-  },
-  {
-    "name": "Hromadně vyráběné léčivé přípravky – ATC (aktuální), měsíc, IČP",
-    "url": "https://data.mzcr.cz/data/distribuce/427/Otevrena-data-NR-04-62-hromadne-vyrabene-lecive-pripravky-atc-aktualni-mesic-icp.csv.gz"
-  },
-  {
-    "name": "Hromadně vyráběné léčivé přípravky – unikátní pacienti dle věku a diagnózy",
-    "url": "https://data.mzcr.cz/data/distribuce/460/Otevrena-data-NR-04-80-hromadne-vyrabene-lecive-pripravky-unikatni-pacienti-vek-diagnoza.csv.gz"
   },
   {
     "name": "Hypertenze v populaci ČR",
@@ -190,18 +170,6 @@
   {
     "name": "Incidence a prevalence zhoubných nádorů v regionech ČR",
     "url": "https://data.mzcr.cz/data/distribuce/372/Otevrena-data-NR-07-01-incidence-prevalence-zhoubne-nadory-regiony-cr-2024-01.csv"
-  },
-  {
-    "name": "Individuálně připravované léčivé přípravky  dle typu – počty unikátních pacientů",
-    "url": "https://data.mzcr.cz/data/distribuce/450/Otevrena-data-NR-04-73-individualne-pripravovane-lecive-pripravky-typ-ivlp-unikatni-pacienti.csv"
-  },
-  {
-    "name": "Individuálně připravované léčivé přípravky dle kódu SÚKL – počty unikátních pacientů",
-    "url": "https://data.mzcr.cz/data/distribuce/452/Otevrena-data-NR-04-72-individualne-pripravovane-lecive-pripravky-sukl-unikatni-pacienti.csv"
-  },
-  {
-    "name": "Individuálně připravované léčivé přípravky – kód SÚKL, měsíc, IČP předpisu, IČZ výdeje",
-    "url": "https://data.mzcr.cz/data/distribuce/430/Otevrena-data-NR-04-17-individualne-pripravovane-lecive-pripravky-sukl-mesic-icp-predpis-icz-vydej.csv.gz"
   },
   {
     "name": "Individuálně připravované léčivé přípravky – kód SÚKL, měsíc, IČZ",
@@ -496,28 +464,12 @@
     "url": "https://data.mzcr.cz/data/distribuce/458/Otevrena-data-NR-04-84-asthma-bronchiale.csv"
   },
   {
-    "name": "Zdravotnické prostředky dle kódu – měsíc, IČP předpisu, IČZ výdeje",
-    "url": "https://data.mzcr.cz/data/distribuce/448/Otevrena-data-NR-04-68-zdravotnicke-prostredky-kod-zp-mesic-icp-predpis-icz-vydej.csv.gz"
-  },
-  {
-    "name": "Zdravotnické prostředky dle kódu – počty unikátních pacientů",
-    "url": "https://data.mzcr.cz/data/distribuce/453/Otevrena-data-NR-04-74-zdravotnicke-prostredky-kod-unikatni-pacienti.csv.gz"
-  },
-  {
-    "name": "Zdravotnické prostředky dle typu – počty unikátních pacientů",
-    "url": "https://data.mzcr.cz/data/distribuce/454/Otevrena-data-NR-04-75-zdravotnicke-prostredky-typ-unikatni-pacienti.csv"
-  },
-  {
     "name": "Zdravotnické prostředky – kód, měsíc, IČZ",
     "url": "https://data.mzcr.cz/data/distribuce/422/Otevrena-data-NR-04-31-zdravotnicke-prostredky-kod-mesic-icz.csv"
   },
   {
     "name": "Zdravotnické prostředky – kód, měsíc, pojišťovna",
     "url": "https://data.mzcr.cz/data/distribuce/419/Otevrena-data-NR-04-30-zdravotnicke-prostredky-kod-mesic-pojistovna.csv"
-  },
-  {
-    "name": "Zdravotnické prostředky – unikátní pacienti dle věku a diagnózy",
-    "url": "https://data.mzcr.cz/data/distribuce/462/Otevrena-data-NR-04-82-zdravotnicke-prostredky-unikatni-pacienti-vek-diagnoza.csv.gz"
   },
   {
     "name": "Zvlášť účtované léčivé přípravky dle SÚKL kódu a diagnózy (ATC aktuální)",
