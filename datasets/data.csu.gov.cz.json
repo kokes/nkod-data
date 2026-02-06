@@ -2669,6 +2669,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZOOR/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VZOPPM/vybery"
   },
   {
@@ -3106,6 +3110,14 @@
   {
     "name": "Zahraniční obchod se zbožím - měsíc",
     "url": "https://data.csu.gov.cz/opendata/sady/VZOOM/distribuce/json"
+  },
+  {
+    "name": "Zahraniční obchod se zbožím - rok",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZOOR/distribuce/csv"
+  },
+  {
+    "name": "Zahraniční obchod se zbožím - rok",
+    "url": "https://data.csu.gov.cz/opendata/sady/VZOOR/distribuce/json"
   },
   {
     "name": "Zahraniční obchod se zbožím - čtvrtletí",

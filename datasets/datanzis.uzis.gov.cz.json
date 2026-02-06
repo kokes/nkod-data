@@ -41,7 +41,7 @@
   },
   {
     "name": "Individuálně připravované léčivé přípravky  dle typu – počty unikátních pacientů",
-    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-73/Otevrena-data-NR-04-73-individualne-pripravovane-lecive-pripravky-typ-ivlp-unikatni-pacienti.csv"
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-73/Otevrena-data-NR-04-73-individualne-pripravovane-lecive-pripravky-typ-unikatni-pacienti.csv"
   },
   {
     "name": "Individuálně připravované léčivé přípravky dle kódu SÚKL – počty unikátních pacientů",
@@ -58,6 +58,10 @@
   {
     "name": "Jednotlivá úmrtí v ČR – sociodemografické charakteristiky a příčiny smrti",
     "url": "https://datanzis.uzis.gov.cz/data/NR-06-LPZ/NR-06-34/Otevrena-data-NR-06-34-jednotliva-umrti-sociodemo-charakteristiky-priciny.csv.gz"
+  },
+  {
+    "name": "Kardiostimulátory a implantabilní kardioverter-defibrilátory",
+    "url": "https://datanzis.uzis.gov.cz/data/OIS-01-NKIS/OIS-01-06/Otevrena-data-OIS-01-06-kardiostimulatory-implantabilni-kardioverter-defibrilatory.csv"
   },
   {
     "name": "Lůžkový fond ČR a jeho využití",
@@ -132,6 +136,14 @@
     "url": "https://datanzis.uzis.gov.cz/data/NR-12-NRRZ-ROD/NR-12-16/Otevrena-data-NR-12-16-rodicky-cesko.csv.gz"
   },
   {
+    "name": "Roční výkazy 2024: (A) Ambulantní péče",
+    "url": "https://datanzis.uzis.gov.cz/data/SSS-07-A-VYKAZY/SSS-07-32/Otevrena-data-SSS-07-32-rocni-vykazy-ambulantni-pece.csv"
+  },
+  {
+    "name": "Screening sluchu ve věku 5 let: Pokrytí cílové populace a výsledek vyšetření",
+    "url": "https://datanzis.uzis.gov.cz/data/PPS-06-SLUCH/PPS-06-02/Otevrena-data-PPS-06-02-sluch-screening-pokryti-populace.csv"
+  },
+  {
     "name": "Výkony zdravotní péče dle formy péče a odbornosti pracoviště",
     "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-66/Otevrena-data-NR-04-66-vykony-zdravotni-pece-forma-odbornost.csv"
   },
@@ -182,6 +194,10 @@
   {
     "name": "Zvlášť účtované léčivé přípravky a signální výkony spojené s jejich podáním",
     "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-85/Otevrena-data-NR-04-85-zvlast-uctovane-lecive-pripravky-signalni-vykony.csv"
+  },
+  {
+    "name": "Zátěž populace ČR kardiovaskulárními onemocněními",
+    "url": "https://datanzis.uzis.gov.cz/data/OIS-01-NKIS/OIS-01-01/Otevrena-data-OIS-01-01-kardiovaskularni-onemocneni-zatez-ceska-republika.csv"
   },
   {
     "name": "Úrazy při dopravních nehodách – charakteristika úrazu dle okresu zařízení",
