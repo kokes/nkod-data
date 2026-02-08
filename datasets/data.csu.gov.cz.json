@@ -536,6 +536,22 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0202B/distribuce/json"
   },
   {
+    "name": "Indexy spotřebitelských cen podle klasifikace COICOP - od 1996 do 2017",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101B/distribuce/csv"
+  },
+  {
+    "name": "Indexy spotřebitelských cen podle klasifikace COICOP - od 1996 do 2017",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101B/distribuce/json"
+  },
+  {
+    "name": "Indexy spotřebitelských cen podle klasifikace ECOICOP - od 2018 do 2025",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101A/distribuce/csv"
+  },
+  {
+    "name": "Indexy spotřebitelských cen podle klasifikace ECOICOP - od 2018 do 2025",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101A/distribuce/json"
+  },
+  {
     "name": "Indexy tržeb bez DPH v maloobchodě a za prodej a opravy motorových vozidel",
     "url": "https://data.csu.gov.cz/opendata/sady/OBC01/distribuce/csv"
   },
@@ -1793,6 +1809,14 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0101A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0101B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0101C/vybery"
   },
   {
@@ -2649,11 +2673,19 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VOLEP/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VOLKR/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VOLOB/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/VOLPR/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -2994,6 +3026,22 @@
   {
     "name": "Vodovody a kanalizace pro veřejnou potřebu",
     "url": "https://data.csu.gov.cz/opendata/sady/WZPR04/distribuce/json"
+  },
+  {
+    "name": "Volba prezidenta republiky",
+    "url": "https://data.csu.gov.cz/opendata/sady/VOLPR/distribuce/csv"
+  },
+  {
+    "name": "Volba prezidenta republiky",
+    "url": "https://data.csu.gov.cz/opendata/sady/VOLPR/distribuce/json"
+  },
+  {
+    "name": "Volby do Evropského parlamentu",
+    "url": "https://data.csu.gov.cz/opendata/sady/VOLEP/distribuce/csv"
+  },
+  {
+    "name": "Volby do Evropského parlamentu",
+    "url": "https://data.csu.gov.cz/opendata/sady/VOLEP/distribuce/json"
   },
   {
     "name": "Volby do Senátu",
