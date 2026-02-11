@@ -61,6 +61,10 @@
   },
   {
     "name": "CSV",
+    "url": "https://www.datazapad.cz/api/download/v1/items/197c67d6a8604a78a57335fcabe4b4d2/csv?layers=0"
+  },
+  {
+    "name": "CSV",
     "url": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/csv?layers=3"
   },
   {
@@ -385,6 +389,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://www.datazapad.cz/api/download/v1/items/197c67d6a8604a78a57335fcabe4b4d2/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/geojson?layers=3"
   },
   {
@@ -693,6 +701,10 @@
   },
   {
     "name": "KML",
+    "url": "https://www.datazapad.cz/api/download/v1/items/197c67d6a8604a78a57335fcabe4b4d2/kml?layers=0"
+  },
+  {
+    "name": "KML",
     "url": "https://www.datazapad.cz/api/download/v1/items/1e64adf22f8448a693f638c9f1334dc9/kml?layers=3"
   },
   {
@@ -998,6 +1010,10 @@
   {
     "name": "Shapefile",
     "url": "https://www.datazapad.cz/api/download/v1/items/17a673b7147d45ba8744904cae6afdbb/shapefile?layers=0"
+  },
+  {
+    "name": "Shapefile",
+    "url": "https://www.datazapad.cz/api/download/v1/items/197c67d6a8604a78a57335fcabe4b4d2/shapefile?layers=0"
   },
   {
     "name": "Shapefile",

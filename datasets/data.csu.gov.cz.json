@@ -936,14 +936,6 @@
     "url": "https://data.csu.gov.cz/opendata/sady/OBY03HVD/distribuce/json"
   },
   {
-    "name": "Navštěvnost hromadných ubytovacích zařízení podle rezidence",
-    "url": "https://data.csu.gov.cz/opendata/sady/CRUHVD1/distribuce/csv"
-  },
-  {
-    "name": "Navštěvnost hromadných ubytovacích zařízení podle rezidence",
-    "url": "https://data.csu.gov.cz/opendata/sady/CRUHVD1/distribuce/json"
-  },
-  {
     "name": "Navštěvnost hromadných ubytovacích zařízení v lokalitách dle stupně urbanizace",
     "url": "https://data.csu.gov.cz/opendata/sady/CRUHVD2/distribuce/csv"
   },
@@ -1046,6 +1038,14 @@
   {
     "name": "Návštěvnost hromadných ubytovacích zařízení - čtvrtletní data",
     "url": "https://data.csu.gov.cz/opendata/sady/CRU02Q/distribuce/json"
+  },
+  {
+    "name": "Návštěvnost hromadných ubytovacích zařízení podle rezidence",
+    "url": "https://data.csu.gov.cz/opendata/sady/CRUHVD1/distribuce/csv"
+  },
+  {
+    "name": "Návštěvnost hromadných ubytovacích zařízení podle rezidence",
+    "url": "https://data.csu.gov.cz/opendata/sady/CRUHVD1/distribuce/json"
   },
   {
     "name": "Návštěvnost hromadných ubytovacích zařízení v krajských městech",

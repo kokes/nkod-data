@@ -6,5 +6,9 @@
   {
     "name": "ArcGIS GeoService",
     "url": "https://gis2.msk.cz/arcgis/rest/services/public/life_coala_miseklima/MapServer/41"
+  },
+  {
+    "name": "ArcGIS GeoService",
+    "url": "https://gis2.msk.cz/arcgis/rest/services/public/organizace_msk/MapServer/0"
   }
 ]
