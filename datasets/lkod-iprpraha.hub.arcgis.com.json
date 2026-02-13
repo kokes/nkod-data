@@ -137,6 +137,10 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::městské-části-test-2"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::naučné-stezky-na-území-hl-m-prahy-ve-správě-odboru-ochrany-prostředí-mhmp-1"
   },
   {
@@ -558,6 +562,10 @@
   {
     "name": "CSV",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4c027c068e3c439bba79aa25fa2ef267/csv?layers=0"
+  },
+  {
+    "name": "CSV",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4df83d4d0a8348218fd6b35ba8667947/csv?layers=0"
   },
   {
     "name": "CSV",
@@ -997,6 +1005,10 @@
   },
   {
     "name": "GeoJSON",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4df83d4d0a8348218fd6b35ba8667947/geojson?layers=0"
+  },
+  {
+    "name": "GeoJSON",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/519cbdad40d242cbb765ea71f0392fb2/geojson?layers=0"
   },
   {
@@ -1430,6 +1442,10 @@
   {
     "name": "KML",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4c027c068e3c439bba79aa25fa2ef267/kml?layers=0"
+  },
+  {
+    "name": "KML",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4df83d4d0a8348218fd6b35ba8667947/kml?layers=0"
   },
   {
     "name": "KML",
@@ -1990,6 +2006,14 @@
   {
     "name": "ZIP",
     "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4c027c068e3c439bba79aa25fa2ef267/shapefile?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4df83d4d0a8348218fd6b35ba8667947/filegdb?layers=0"
+  },
+  {
+    "name": "ZIP",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/api/download/v1/items/4df83d4d0a8348218fd6b35ba8667947/shapefile?layers=0"
   },
   {
     "name": "ZIP",

@@ -68,12 +68,36 @@
     "url": "https://atom.cuzk.cz/get.ashx?theme=DMP1G-SJTSK"
   },
   {
-    "name": "Stahovací služba ATOM pro Digitální model reliéfu České republiky 4.generace v ETRS89-TMzn, EVRS  - OpenSearch",
+    "name": "Stahovací služba ATOM pro Digitální model povrchu České republiky z obrazové korelace - LAZ, ETRS89-TMzn, EVRS  - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=DMPOK-ETRS89-LAZ"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Digitální model povrchu České republiky z obrazové korelace - LAZ, S-JTSK, Bpv - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=DMPOK-SJTSK-LAZ"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Digitální model povrchu České republiky z obrazové korelace - TIFF, ETRS89-TMzn, EVRS  - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=DMPOK-ETRS89-TIFF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Digitální model povrchu České republiky z obrazové korelace - TIFF, S-JTSK, Bpv - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=DMPOK-SJTSK-TIFF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Digitální model reliéfu České republiky 4.generace - LAZ, ETRS89-TMzn, EVRS  - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=DMR4G-ETRS89"
   },
   {
-    "name": "Stahovací služba ATOM pro Digitální model reliéfu České republiky 4.generace v S-JTSK, Bpv - OpenSearch",
+    "name": "Stahovací služba ATOM pro Digitální model reliéfu České republiky 4.generace - LAZ, S-JTSK, Bpv - OpenSearch",
     "url": "https://atom.cuzk.cz/get.ashx?theme=DMR4G-SJTSK"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Digitální model reliéfu České republiky 4.generace - TIFF, ETRS89-TMzn, EVRS  - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=DMR4G-ETRS89-TIFF"
+  },
+  {
+    "name": "Stahovací služba ATOM pro Digitální model reliéfu České republiky 4.generace - TIFF, S-JTSK, Bpv - OpenSearch",
+    "url": "https://atom.cuzk.cz/get.ashx?theme=DMR4G-SJTSK-TIFF"
   },
   {
     "name": "Stahovací služba ATOM pro Digitální model reliéfu České republiky 5. generace v ETRS89-TMzn, EVRS - OpenSearch",

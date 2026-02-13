@@ -1217,15 +1217,7 @@
   },
   {
     "name": "Tramvajové koleje (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_JTSK_dxf.zip"
-  },
-  {
-    "name": "Tramvajové koleje (DXF, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_JTSK_dxf.zip"
-  },
-  {
-    "name": "Tramvajové koleje (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_JTSK_gml.zip"
   },
   {
     "name": "Tramvajové koleje (GML, S-JTSK)",
@@ -1233,15 +1225,7 @@
   },
   {
     "name": "Tramvajové koleje (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_WGS84_gml.zip"
-  },
-  {
-    "name": "Tramvajové koleje (GML, WGS 84)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_WGS84_gml.zip"
-  },
-  {
-    "name": "Tramvajové koleje (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_JTSK_gjson.zip"
   },
   {
     "name": "Tramvajové koleje (GeoJSON, S-JTSK)",
@@ -1249,15 +1233,7 @@
   },
   {
     "name": "Tramvajové koleje (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_WGS84_gjson.zip"
-  },
-  {
-    "name": "Tramvajové koleje (GeoJSON, WGS 84)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_WGS84_gjson.zip"
-  },
-  {
-    "name": "Tramvajové koleje (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_JTSK_shp.zip"
   },
   {
     "name": "Tramvajové koleje (SHP, S-JTSK)",
@@ -1265,15 +1241,7 @@
   },
   {
     "name": "Tramvajové koleje (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_WGS84_shp.zip"
-  },
-  {
-    "name": "Tramvajové koleje (SHP, WGS 84)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_WGS84_shp.zip"
-  },
-  {
-    "name": "Tramvajové koleje - osy (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_JTSK_dxf.zip"
   },
   {
     "name": "Tramvajové koleje - osy (DXF, S-JTSK)",
@@ -1281,15 +1249,7 @@
   },
   {
     "name": "Tramvajové koleje - osy (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_JTSK_gml.zip"
-  },
-  {
-    "name": "Tramvajové koleje - osy (GML, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_JTSK_gml.zip"
-  },
-  {
-    "name": "Tramvajové koleje - osy (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_WGS84_gml.zip"
   },
   {
     "name": "Tramvajové koleje - osy (GML, WGS 84)",
@@ -1297,15 +1257,7 @@
   },
   {
     "name": "Tramvajové koleje - osy (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_JTSK_gjson.zip"
-  },
-  {
-    "name": "Tramvajové koleje - osy (GeoJSON, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_JTSK_gjson.zip"
-  },
-  {
-    "name": "Tramvajové koleje - osy (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_WGS84_gjson.zip"
   },
   {
     "name": "Tramvajové koleje - osy (GeoJSON, WGS 84)",
@@ -1313,15 +1265,7 @@
   },
   {
     "name": "Tramvajové koleje - osy (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_JTSK_shp.zip"
-  },
-  {
-    "name": "Tramvajové koleje - osy (SHP, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_JTSK_shp.zip"
-  },
-  {
-    "name": "Tramvajové koleje - osy (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_tram_osy_WGS84_shp.zip"
   },
   {
     "name": "Tramvajové koleje - osy (SHP, WGS 84)",
@@ -1385,15 +1329,7 @@
   },
   {
     "name": "Volné pobíhání psů (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_JTSK_dxf.zip"
-  },
-  {
-    "name": "Volné pobíhání psů (DXF, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_JTSK_dxf.zip"
-  },
-  {
-    "name": "Volné pobíhání psů (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_JTSK_gml.zip"
   },
   {
     "name": "Volné pobíhání psů (GML, S-JTSK)",
@@ -1401,15 +1337,7 @@
   },
   {
     "name": "Volné pobíhání psů (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_WGS84_gml.zip"
-  },
-  {
-    "name": "Volné pobíhání psů (GML, WGS 84)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_WGS84_gml.zip"
-  },
-  {
-    "name": "Volné pobíhání psů (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_JTSK_gjson.zip"
   },
   {
     "name": "Volné pobíhání psů (GeoJSON, S-JTSK)",
@@ -1417,15 +1345,7 @@
   },
   {
     "name": "Volné pobíhání psů (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_WGS84_gjson.zip"
-  },
-  {
-    "name": "Volné pobíhání psů (GeoJSON, WGS 84)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_WGS84_gjson.zip"
-  },
-  {
-    "name": "Volné pobíhání psů (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_JTSK_shp.zip"
   },
   {
     "name": "Volné pobíhání psů (SHP, S-JTSK)",
@@ -1433,15 +1353,7 @@
   },
   {
     "name": "Volné pobíhání psů (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_WGS84_shp.zip"
-  },
-  {
-    "name": "Volné pobíhání psů (SHP, WGS 84)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/volne_pobihani_psu_WGS84_shp.zip"
-  },
-  {
-    "name": "Vrstevnice (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_JTSK_dxf.zip"
   },
   {
     "name": "Vrstevnice (DXF, S-JTSK)",
@@ -1449,15 +1361,7 @@
   },
   {
     "name": "Vrstevnice (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_JTSK_gml.zip"
-  },
-  {
-    "name": "Vrstevnice (GML, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_JTSK_gml.zip"
-  },
-  {
-    "name": "Vrstevnice (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_WGS84_gml.zip"
   },
   {
     "name": "Vrstevnice (GML, WGS 84)",
@@ -1465,15 +1369,7 @@
   },
   {
     "name": "Vrstevnice (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_JTSK_gjson.zip"
-  },
-  {
-    "name": "Vrstevnice (GeoJSON, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_JTSK_gjson.zip"
-  },
-  {
-    "name": "Vrstevnice (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_WGS84_gjson.zip"
   },
   {
     "name": "Vrstevnice (GeoJSON, WGS 84)",
@@ -1481,15 +1377,7 @@
   },
   {
     "name": "Vrstevnice (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_JTSK_shp.zip"
-  },
-  {
-    "name": "Vrstevnice (SHP, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_JTSK_shp.zip"
-  },
-  {
-    "name": "Vrstevnice (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/vrst_2008_WGS84_shp.zip"
   },
   {
     "name": "Vrstevnice (SHP, WGS 84)",
@@ -1497,15 +1385,7 @@
   },
   {
     "name": "Výškové kóty (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_JTSK_dxf.zip"
-  },
-  {
-    "name": "Výškové kóty (DXF, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/koty_JTSK_dxf.zip"
-  },
-  {
-    "name": "Výškové kóty (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_JTSK_gml.zip"
   },
   {
     "name": "Výškové kóty (GML, S-JTSK)",
@@ -1513,15 +1393,7 @@
   },
   {
     "name": "Výškové kóty (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_WGS84_gml.zip"
-  },
-  {
-    "name": "Výškové kóty (GML, WGS 84)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/koty_WGS84_gml.zip"
-  },
-  {
-    "name": "Výškové kóty (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_JTSK_gjson.zip"
   },
   {
     "name": "Výškové kóty (GeoJSON, S-JTSK)",
@@ -1529,15 +1401,7 @@
   },
   {
     "name": "Výškové kóty (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_WGS84_gjson.zip"
-  },
-  {
-    "name": "Výškové kóty (GeoJSON, WGS 84)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/koty_WGS84_gjson.zip"
-  },
-  {
-    "name": "Výškové kóty (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_JTSK_shp.zip"
   },
   {
     "name": "Výškové kóty (SHP, S-JTSK)",
@@ -1545,15 +1409,7 @@
   },
   {
     "name": "Výškové kóty (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koty_WGS84_shp.zip"
-  },
-  {
-    "name": "Výškové kóty (SHP, WGS 84)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/koty_WGS84_shp.zip"
-  },
-  {
-    "name": "Zastávky MHD (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_JTSK_dxf.zip"
   },
   {
     "name": "Zastávky MHD (DXF, S-JTSK)",
@@ -1561,15 +1417,7 @@
   },
   {
     "name": "Zastávky MHD (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_JTSK_gml.zip"
-  },
-  {
-    "name": "Zastávky MHD (GML, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_JTSK_gml.zip"
-  },
-  {
-    "name": "Zastávky MHD (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_WGS84_gml.zip"
   },
   {
     "name": "Zastávky MHD (GML, WGS 84)",
@@ -1577,15 +1425,7 @@
   },
   {
     "name": "Zastávky MHD (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_JTSK_gjson.zip"
-  },
-  {
-    "name": "Zastávky MHD (GeoJSON, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_JTSK_gjson.zip"
-  },
-  {
-    "name": "Zastávky MHD (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_WGS84_gjson.zip"
   },
   {
     "name": "Zastávky MHD (GeoJSON, WGS 84)",
@@ -1593,15 +1433,7 @@
   },
   {
     "name": "Zastávky MHD (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_JTSK_shp.zip"
-  },
-  {
-    "name": "Zastávky MHD (SHP, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_JTSK_shp.zip"
-  },
-  {
-    "name": "Zastávky MHD (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/zastavky_MHD_WGS84_shp.zip"
   },
   {
     "name": "Zastávky MHD (SHP, WGS 84)",

@@ -1,14 +1,46 @@
 [
   {
-    "name": "Přezkoumání hospodaření",
-    "url": "https://opendata.mfcr.cz/exports/prezkum/prezkum.csv"
+    "name": "Objednávky - detail",
+    "url": "https://opendata.mfcr.cz/exports/objednavky_radek/objednavky_radek.csv"
   },
   {
-    "name": "Přezkoumání hospodaření",
-    "url": "https://opendata.mfcr.cz/exports/prezkum/prezkum.json"
+    "name": "Objednávky - detail",
+    "url": "https://opendata.mfcr.cz/exports/objednavky_radek/objednavky_radek.json"
   },
   {
-    "name": "Přezkoumání hospodaření",
-    "url": "https://opendata.mfcr.cz/exports/prezkum/prezkum.xlsx"
+    "name": "Objednávky - detail",
+    "url": "https://opendata.mfcr.cz/exports/objednavky_radek/objednavky_radek.xlsx"
+  },
+  {
+    "name": "SPARQL endpoint",
+    "url": "https://opendata.mfcr.cz/lod/sparql"
+  },
+  {
+    "name": "Smlouvy Ministerstva financí ČR - vazba na faktury",
+    "url": "https://opendata.mfcr.cz/exports/smlouvy_faktura/smlouvy_faktura.csv"
+  },
+  {
+    "name": "Smlouvy Ministerstva financí ČR - vazba na faktury",
+    "url": "https://opendata.mfcr.cz/exports/smlouvy_faktura/smlouvy_faktura.json"
+  },
+  {
+    "name": "Vazební tabulka smluv a faktur Ministerstva financí ČR",
+    "url": "https://opendata.mfcr.cz/exports/smlouvy_faktura/smlouvy_faktura.xlsx"
+  },
+  {
+    "name": "Úřední deska",
+    "url": "https://opendata.mfcr.cz/uredni-deska/uredni-deska.jsonld"
+  },
+  {
+    "name": "Číselník rozpočtových paragrafů",
+    "url": "https://opendata.mfcr.cz/exports/paragraf/paragraf.csv"
+  },
+  {
+    "name": "Číselník rozpočtových paragrafů",
+    "url": "https://opendata.mfcr.cz/exports/paragraf/paragraf.json"
+  },
+  {
+    "name": "Číselník rozpočtových paragrafů",
+    "url": "https://opendata.mfcr.cz/exports/paragraf/paragraf.xlsx"
   }
 ]

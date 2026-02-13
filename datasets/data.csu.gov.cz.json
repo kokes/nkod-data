@@ -1032,6 +1032,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CRU02M/distribuce/json"
   },
   {
+    "name": "Návštěvnost hromadných ubytovacích zařízení - roční data",
+    "url": "https://data.csu.gov.cz/opendata/sady/CRU02R/distribuce/csv"
+  },
+  {
+    "name": "Návštěvnost hromadných ubytovacích zařízení - roční data",
+    "url": "https://data.csu.gov.cz/opendata/sady/CRU02R/distribuce/json"
+  },
+  {
     "name": "Návštěvnost hromadných ubytovacích zařízení - čtvrtletní data",
     "url": "https://data.csu.gov.cz/opendata/sady/CRU02Q/distribuce/csv"
   },
@@ -2042,6 +2050,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CRU02QDMO/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CRU02R/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
