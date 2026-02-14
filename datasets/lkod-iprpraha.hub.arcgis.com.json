@@ -137,10 +137,6 @@
   },
   {
     "name": "ArcGIS Hub Dataset",
-    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::městské-části-test-2"
-  },
-  {
-    "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::naučné-stezky-na-území-hl-m-prahy-ve-správě-odboru-ochrany-prostředí-mhmp-1"
   },
   {
@@ -382,6 +378,10 @@
   {
     "name": "ArcGIS Hub Dataset",
     "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::změny-územního-plánu-vymezení-změn-1"
+  },
+  {
+    "name": "ArcGIS Hub Dataset",
+    "url": "https://lkod-iprpraha.hub.arcgis.com/datasets/iprpraha::zpa-cur-geoporttest-1"
   },
   {
     "name": "ArcGIS Hub Dataset",

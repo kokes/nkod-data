@@ -544,6 +544,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101B/distribuce/json"
   },
   {
+    "name": "Indexy spotřebitelských cen podle klasifikace COICOP 2018 - od 2026",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101E/distribuce/csv"
+  },
+  {
+    "name": "Indexy spotřebitelských cen podle klasifikace COICOP 2018 - od 2026",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101E/distribuce/json"
+  },
+  {
     "name": "Indexy spotřebitelských cen podle klasifikace ECOICOP - od 2018 do 2025",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101A/distribuce/csv"
   },
@@ -1264,6 +1272,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0205E/distribuce/json"
   },
   {
+    "name": "Produkce environmentálního zboží a služeb",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR71/distribuce/csv"
+  },
+  {
+    "name": "Produkce environmentálního zboží a služeb",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR71/distribuce/json"
+  },
+  {
     "name": "Produkce komunálních odpadů dle krajů a původu",
     "url": "https://data.csu.gov.cz/opendata/sady/ZPR66/distribuce/csv"
   },
@@ -1432,6 +1448,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101J/distribuce/json"
   },
   {
+    "name": "Průměrné spotřebitelské ceny pohonných hmot - měsíční od 2026",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101O/distribuce/csv"
+  },
+  {
+    "name": "Průměrné spotřebitelské ceny pohonných hmot - měsíční od 2026",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101O/distribuce/json"
+  },
+  {
     "name": "Průměrné spotřebitelské ceny pohonných hmot - týdenní",
     "url": "https://data.csu.gov.cz/opendata/sady/CENPHMT/distribuce/csv"
   },
@@ -1462,6 +1486,14 @@
   {
     "name": "Průměrné spotřebitelské ceny vybraných druhů zboží",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101D/distribuce/json"
+  },
+  {
+    "name": "Průměrné spotřebitelské ceny vybraných druhů zboží - od 2026",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101N/distribuce/csv"
+  },
+  {
+    "name": "Průměrné spotřebitelské ceny vybraných druhů zboží - od 2026",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0101N/distribuce/json"
   },
   {
     "name": "Průměrný evidenční počet zaměstnanců a průměrné hrubé měsíční mzdy z čtvrtletního zjišťování - kumulace čtvrtletí",
@@ -1833,6 +1865,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0101E/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0101F/vybery"
   },
   {
@@ -1858,6 +1894,14 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0101L/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0101N/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0101O/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -2945,6 +2989,14 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR71/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZPR72/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZUR01B/vybery"
   },
   {
@@ -3438,6 +3490,14 @@
   {
     "name": "Účet emisí do ovzduší",
     "url": "https://data.csu.gov.cz/opendata/sady/ZPR70/distribuce/json"
+  },
+  {
+    "name": "Účty fyzických energetických toků",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR72/distribuce/csv"
+  },
+  {
+    "name": "Účty fyzických energetických toků",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZPR72/distribuce/json"
   },
   {
     "name": "Ženy a muži – používání chytrých zařízení",

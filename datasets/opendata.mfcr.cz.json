@@ -1,5 +1,17 @@
 [
   {
+    "name": "Náklady  státu za právní zastoupení",
+    "url": "https://opendata.mfcr.cz/exports/naklady_zastoupeni/naklady_zastoupeni.csv"
+  },
+  {
+    "name": "Náklady státu za právní zastoupení",
+    "url": "https://opendata.mfcr.cz/exports/naklady_pravniho_zastoupeni/naklady_pravniho_zastoupeni.json"
+  },
+  {
+    "name": "Náklady státu za právní zastoupení",
+    "url": "https://opendata.mfcr.cz/exports/naklady_pravniho_zastoupeni/naklady_pravniho_zastoupeni.xlsx"
+  },
+  {
     "name": "Objednávky - detail",
     "url": "https://opendata.mfcr.cz/exports/objednavky_radek/objednavky_radek.csv"
   },
@@ -10,6 +22,30 @@
   {
     "name": "Objednávky - detail",
     "url": "https://opendata.mfcr.cz/exports/objednavky_radek/objednavky_radek.xlsx"
+  },
+  {
+    "name": "Objednávky - seznam objednávek",
+    "url": "https://opendata.mfcr.cz/exports/objednavky/objednavky.csv"
+  },
+  {
+    "name": "Objednávky - seznam objednávek",
+    "url": "https://opendata.mfcr.cz/exports/objednavky/objednavky.json"
+  },
+  {
+    "name": "Objednávky - seznam objednávek",
+    "url": "https://opendata.mfcr.cz/exports/objednavky/objednavky.xlsx"
+  },
+  {
+    "name": "Přezkoumání hospodaření",
+    "url": "https://opendata.mfcr.cz/exports/prezkum/prezkum.csv"
+  },
+  {
+    "name": "Přezkoumání hospodaření",
+    "url": "https://opendata.mfcr.cz/exports/prezkum/prezkum.json"
+  },
+  {
+    "name": "Přezkoumání hospodaření",
+    "url": "https://opendata.mfcr.cz/exports/prezkum/prezkum.xlsx"
   },
   {
     "name": "SPARQL endpoint",
@@ -42,5 +78,17 @@
   {
     "name": "Číselník rozpočtových paragrafů",
     "url": "https://opendata.mfcr.cz/exports/paragraf/paragraf.xlsx"
+  },
+  {
+    "name": "Číselník rozpočtových položek",
+    "url": "https://opendata.mfcr.cz/exports/polozka/polozka.csv"
+  },
+  {
+    "name": "Číselník rozpočtových položek",
+    "url": "https://opendata.mfcr.cz/exports/polozka/polozka.json"
+  },
+  {
+    "name": "Číselník rozpočtových položek",
+    "url": "https://opendata.mfcr.cz/exports/polozka/polozka.xlsx"
   }
 ]
