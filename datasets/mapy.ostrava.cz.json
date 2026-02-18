@@ -1585,15 +1585,7 @@
   },
   {
     "name": "Železniční koleje (DXF, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_JTSK_dxf.zip"
-  },
-  {
-    "name": "Železniční koleje (DXF, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_JTSK_dxf.zip"
-  },
-  {
-    "name": "Železniční koleje (GML, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_JTSK_gml.zip"
   },
   {
     "name": "Železniční koleje (GML, S-JTSK)",
@@ -1601,15 +1593,7 @@
   },
   {
     "name": "Železniční koleje (GML, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_WGS84_gml.zip"
-  },
-  {
-    "name": "Železniční koleje (GML, WGS 84)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_WGS84_gml.zip"
-  },
-  {
-    "name": "Železniční koleje (GeoJSON, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_JTSK_gjson.zip"
   },
   {
     "name": "Železniční koleje (GeoJSON, S-JTSK)",
@@ -1617,23 +1601,11 @@
   },
   {
     "name": "Železniční koleje (GeoJSON, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_WGS84_gjson.zip"
-  },
-  {
-    "name": "Železniční koleje (GeoJSON, WGS 84)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_WGS84_gjson.zip"
   },
   {
     "name": "Železniční koleje (SHP, S-JTSK)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_JTSK_shp.zip"
-  },
-  {
-    "name": "Železniční koleje (SHP, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_JTSK_shp.zip"
-  },
-  {
-    "name": "Železniční koleje (SHP, WGS 84)",
-    "url": "http://mapy.ostrava.cz/opendata/data/opendata/koleje_vlak_WGS84_shp.zip"
   },
   {
     "name": "Železniční koleje (SHP, WGS 84)",

@@ -124,6 +124,10 @@
     "url": "https://datanzis.uzis.gov.cz/data/PPS-05-PROSTATA/PPS-05-02/Otevrena-data-PPS-05-02-prostata-pocet-oslovenych-program.csv"
   },
   {
+    "name": "Počet mužů s provedeným ultrazvukovým vyšetřením v rámci Programu časného záchytu výdutě břišní aorty",
+    "url": "https://datanzis.uzis.gov.cz/data/PPS-08-PREVENCE/PPS-08-07/Otevrena-data-PPS-08-07-aorta-muzi-ultrazvukove-vysetreni.csv"
+  },
+  {
     "name": "Počet oslovených osob v Programu časného záchytu karcinomu plic",
     "url": "https://datanzis.uzis.gov.cz/data/PPS-04-PLICE/PPS-04-01/Otevrena-data-PPS-04-01-oslovene-osoby-casny-zachyt-karcinom-plic.csv"
   },
@@ -164,6 +168,10 @@
     "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-78/Otevrena-data-NR-04-78-vykony-diagnoza-odbornost.csv.gz"
   },
   {
+    "name": "Výkony zdravotní péče vykázané v rámci veřejného zdravotního pojištění dle IČZ, okresu zdravotnického zařízení, okresu pacienta a hlavní diagnózy",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-86/Otevrena-data-NR-04-86-vykony-icz-okres-diagnoza.csv.gz"
+  },
+  {
     "name": "Výkony zdravotní péče vykázané v rámci veřejného zdravotního pojištění dle měsíců vykázání a zdravotní pojišťovny",
     "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-23/Otevrena-data-NR-04-23-vykony-rok-mesic-zp.csv.gz"
   },
@@ -178,6 +186,10 @@
   {
     "name": "Výkony zdravotní péče vykázané v rámci veřejného zdravotního pojištění ",
     "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-01/Otevrena-data-NR-04-01-vykony.csv.gz"
+  },
+  {
+    "name": "Včasný záchyt očních vad: Pokrytí cílové populace",
+    "url": "https://datanzis.uzis.gov.cz/data/PPS-09-DETI/PPS-09-01/Otevrena-data-PPS-09-01-ocni-vady-pokryti-cilove-populace.csv"
   },
   {
     "name": "Zdravotnická technika dle zdravotnických zařízení",
