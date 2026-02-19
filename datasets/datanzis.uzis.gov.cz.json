@@ -88,6 +88,14 @@
     "url": "https://datanzis.uzis.gov.cz/data/PPS-05-PROSTATA/PPS-05-01/Otevrena-data-PPS-05-01-prostata-podil-vystrenych-psa.csv"
   },
   {
+    "name": "Podíl žen s pozitivním hr-HPV testem v cílových věkových skupinách",
+    "url": "https://datanzis.uzis.gov.cz/data/PPS-03-CERVIX/PPS-03-06/Otevrena-data-PPS-03-06-cervix-podil-pozitivnich-hpv.csv"
+  },
+  {
+    "name": "Podíl žen s provedeným hr-HPV testem v cílových věkových skupinách",
+    "url": "https://datanzis.uzis.gov.cz/data/PPS-03-CERVIX/PPS-03-05/Otevrena-data-PPS-03-05-cervix-podil-hpv.csv"
+  },
+  {
     "name": "Pohlavní nemoci v ČR",
     "url": "https://datanzis.uzis.gov.cz/data/NR-29-RPN/NR-29-01/Otevrena-data-NR-29-01-pohlavni-nemoci.csv"
   },
@@ -125,7 +133,7 @@
   },
   {
     "name": "Počet mužů s provedeným ultrazvukovým vyšetřením v rámci Programu časného záchytu výdutě břišní aorty",
-    "url": "https://datanzis.uzis.gov.cz/data/PPS-08-PREVENCE/PPS-08-07/Otevrena-data-PPS-08-07-aorta-muzi-ultrazvukove-vysetreni.csv"
+    "url": "https://datanzis.uzis.gov.cz/data/PPS-08-PREVENCE/PPS-08-07/Otevrena-data-PPS-08-07-casny-zachyt-vydut-brisni-aorty-pocet-vysetreni.csv"
   },
   {
     "name": "Počet oslovených osob v Programu časného záchytu karcinomu plic",
