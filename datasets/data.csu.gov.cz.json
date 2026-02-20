@@ -16,6 +16,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0309/distribuce/json"
   },
   {
+    "name": "Agregované indexy cen výrobců",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN02A/distribuce/csv"
+  },
+  {
+    "name": "Agregované indexy cen výrobců",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN02A/distribuce/json"
+  },
+  {
     "name": "Aktivní (poskytnuté) licence",
     "url": "https://data.csu.gov.cz/opendata/sady/VAV0202/distribuce/csv"
   },
@@ -2026,6 +2034,10 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0205F/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN02A/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",

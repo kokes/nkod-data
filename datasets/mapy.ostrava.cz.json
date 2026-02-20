@@ -28,6 +28,30 @@
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/3Dmodel_WGS84_shp.zip"
   },
   {
+    "name": "3D model budov v LOD 2.3 (DGN, S-JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/3D_model_budov_LOD_2.3_JTSK_dgn.zip"
+  },
+  {
+    "name": "3D model budov v LOD 2.3 (DWG, S-JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/3D_model_budov_LOD_2.3_JTSK_dwg.zip"
+  },
+  {
+    "name": "3D model budov v LOD 2.3 (SHP, S-JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/3D_model_budov_LOD_2.3_JTSK_shp.zip"
+  },
+  {
+    "name": "3D model budov v LOD 2.3 (SHP, WGS 84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/3D_model_budov_LOD_2.3_WGS84_shp.zip"
+  },
+  {
+    "name": "3D model budov v LOD 2.3 (VRML, S-JTSK)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/3D_model_budov_LOD_2.3_JTSK_wrl.zip"
+  },
+  {
+    "name": "3D model budov v LOD 2.3 (VRML, WGS 84)",
+    "url": "https://mapy.ostrava.cz/opendata/data/opendata/3D_model_budov_LOD_2.3_WGS84_wrl.zip"
+  },
+  {
     "name": "Adresní body (DXF, S-JTSK)",
     "url": "https://mapy.ostrava.cz/opendata/data/opendata/adrbod_JTSK_dxf.zip"
   },

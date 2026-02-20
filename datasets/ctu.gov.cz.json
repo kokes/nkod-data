@@ -60,6 +60,10 @@
     "url": "https://ctu.gov.cz/vyhledavaci-databaze/full-export/xlsx/prehled-oznamenych-rozhrani"
   },
   {
+    "name": "Rozhlasové vysílače",
+    "url": "https://ctu.gov.cz/vyhledavaci-databaze/prehled-rozhlasovych-vysilacu/opravneni?show_all=0&export=1&use_pager=0&format=xlsx"
+  },
+  {
     "name": "Stacionární měření mobilního signálu 2G (LTE) - O2",
     "url": "https://ctu.gov.cz/sites/default/files/applications/ctu_imports/import_stacionarni_mereni/2g_o2_stacionarni/2g_o2_stacionarni.zip"
   },
