@@ -88,6 +88,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101I/distribuce/json"
   },
   {
+    "name": "Demografické události cizinců",
+    "url": "https://data.csu.gov.cz/opendata/sady/CIZ0102/distribuce/csv"
+  },
+  {
+    "name": "Demografické události cizinců",
+    "url": "https://data.csu.gov.cz/opendata/sady/CIZ0102/distribuce/json"
+  },
+  {
     "name": "Dlouhodobé časové řady - roční údaje za Českou republiku",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY01CR/distribuce/csv"
   },
@@ -1096,6 +1104,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CRUHVD3/distribuce/json"
   },
   {
+    "name": "Obyvatelstvo podle státního občanství, věku, pohlaví, druhu pobytu a způsobu bydlení",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLD21A011/distribuce/csv"
+  },
+  {
+    "name": "Obyvatelstvo podle státního občanství, věku, pohlaví, druhu pobytu a způsobu bydlení",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLD21A011/distribuce/json"
+  },
+  {
     "name": "Odhad indexu cen stavebních prací a index cen materiálových vstupů stavební výroby",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0202D/distribuce/csv"
   },
@@ -2093,6 +2109,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CIZ0102/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CRU02KR/vybery"
   },
   {
@@ -2630,6 +2650,14 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/SILC02F/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/SLD21A011/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/SLD21A048/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -3358,6 +3386,14 @@
   {
     "name": "Zaměstnanci podniků používající vybrané digitální technologie",
     "url": "https://data.csu.gov.cz/opendata/sady/ICT0502/distribuce/json"
+  },
+  {
+    "name": "Zaměstnaní podle postavení v zaměstnání, ekonomické aktivity, věku, pohlaví a velikostních skupin obcí",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLD21A048/distribuce/csv"
+  },
+  {
+    "name": "Zaměstnaní podle postavení v zaměstnání, ekonomické aktivity, věku, pohlaví a velikostních skupin obcí",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLD21A048/distribuce/json"
   },
   {
     "name": "Zbývající kriminalita registrovaná Policií ČR",
