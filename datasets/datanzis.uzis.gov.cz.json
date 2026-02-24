@@ -1,5 +1,9 @@
 [
   {
+    "name": "Anesteziologická péče v ČR",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-24-NISAP/NR-24-01/Otevrena-data-NR-24-01-anesteziologicka-pece-prehled.csv"
+  },
+  {
     "name": "Hromadně vyráběné léčivé přípravky dle ATC skupiny – počty unikátních pacientů",
     "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-71/Otevrena-data-NR-04-71-hromadne-vyrabene-lecive-pripravky-atc-unikatni-pacienti.csv.gz"
   },
@@ -194,6 +198,10 @@
   {
     "name": "Výkony zdravotní péče vykázané v rámci veřejného zdravotního pojištění ",
     "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-01/Otevrena-data-NR-04-01-vykony.csv.gz"
+  },
+  {
+    "name": "Vývoj počtu dispenzarizovaných pacientů s alergickou rýmou",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-89/Otevrena-data-NR-04-89-alergicka-ryma.csv"
   },
   {
     "name": "Včasný záchyt očních vad: Pokrytí cílové populace",

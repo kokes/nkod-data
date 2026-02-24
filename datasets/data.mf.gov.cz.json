@@ -1,9 +1,5 @@
 [
   {
-    "name": " Vyměřená daň v Kč 2023",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/2218/download?token=OPpHyT6v"
-  },
-  {
     "name": "( Množství meziproduktů dopravených na daňové území České republiky v režimu podmíněného osvobození od daně v roce 2023 v členění dle jednotlivých členských států odeslání a příslušného kalendářního měsíce",
     "url": "https://data.mf.gov.cz/katalog/cs/file/2228/download?token=9L6yBCL5"
   },
@@ -94,10 +90,6 @@
   {
     "name": "Daňová povinnost",
     "url": "https://data.mf.gov.cz/katalog/cs/file/2276/download?token=Fhv3bZQF"
-  },
-  {
-    "name": "Daňové úlevy",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/79/download?token=3ADBgkGa"
   },
   {
     "name": "Doprava pivo 2023 měsíce Ex",
@@ -284,10 +276,6 @@
     "url": "https://data.mf.gov.cz/katalog/cs/file/1609/download?token=5jlq9Bk1"
   },
   {
-    "name": "Konvergenční program 2015",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1610/download?token=97W12tem"
-  },
-  {
     "name": "Konvergenční program 2016",
     "url": "https://data.mf.gov.cz/katalog/cs/file/1611/download?token=V5IGB7rv"
   },
@@ -302,6 +290,10 @@
   {
     "name": "Konvergenční program 2019",
     "url": "https://data.mf.gov.cz/katalog/cs/file/1614/download?token=iC_0PmZ1"
+  },
+  {
+    "name": "Konvergenční program 2020",
+    "url": "https://data.mf.gov.cz/katalog/cs/file/1615/download?token=EwPFKiRS"
   },
   {
     "name": "Konvergenční program 2021",
@@ -348,10 +340,6 @@
     "url": "https://data.mf.gov.cz/katalog/cs/file/2472/download?token=Ksuy9p3H"
   },
   {
-    "name": "MO - 10 největších ICT dodavatelů za rok 2014",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/2471/download?token=LinyQhK-"
-  },
-  {
     "name": "MO - ICT náklady na HW a SW v letech 2008-2015",
     "url": "https://data.mf.gov.cz/katalog/cs/file/2470/download?token=Oynp7iFB"
   },
@@ -366,10 +354,6 @@
   {
     "name": "Makroekonomická predikce 1Q 2015",
     "url": "https://data.mf.gov.cz/katalog/cs/file/1639/download?token=ZtnvX55b"
-  },
-  {
-    "name": "Makroekonomická predikce 1Q 2016",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1641/download?token=2VIVDm4U"
   },
   {
     "name": "Makroekonomická predikce 1Q 2017",
@@ -440,10 +424,6 @@
     "url": "https://data.mf.gov.cz/katalog/cs/file/2182/download?token=JEyX4AXX"
   },
   {
-    "name": "Makroekonomická predikce 2Q 2024",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/2395/download?token=49dvrdAy"
-  },
-  {
     "name": "Makroekonomická predikce 2Q 2025",
     "url": "https://data.mf.gov.cz/katalog/cs/file/2398/download?token=nKsNYl0i"
   },
@@ -490,10 +470,6 @@
   {
     "name": "Makroekonomická predikce 3Q 2025",
     "url": "https://data.mf.gov.cz/katalog/cs/file/2399/download?token=eGwjfk-U"
-  },
-  {
-    "name": "Makroekonomická predikce 4Q 2015",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1640/download?token=GxwRvVMI"
   },
   {
     "name": "Makroekonomická predikce 4Q 2016",
@@ -576,8 +552,8 @@
     "url": "https://data.mf.gov.cz/katalog/cs/file/2234/download?token=WaLmyRM1"
   },
   {
-    "name": "Množství šumivého vína dopraveného na daňové území České republiky v režimu podmíněného osvobození od daně v roce 2023 v členění dle jednotlivých členských států odeslání a příslušného kalendářního měsíce",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/2230/download?token=gCsYt08Y"
+    "name": "Množství výrobků uvedených pod KN 2204, 2205 a 2206 vyvezených z daňového území České republiky do zemí mimo daňové území EU v roce 2023 (v hektolitrech) v členění dle jednotlivých států a příslušného kalendářního měsíce",
+    "url": "https://data.mf.gov.cz/katalog/cs/file/2233/download?token=uQ3rGtB4"
   },
   {
     "name": "Množství šumivého vína dopravovaného z daňového území České republiky v režimu podmíněného osvobození od daně v roce 2023 v členění dle jednotlivých členských států určení a příslušného kalendářního měsíce",
@@ -768,14 +744,6 @@
     "url": "https://data.mf.gov.cz/katalog/cs/file/2292/download?token=xMzi4L15"
   },
   {
-    "name": "Přehled převodů odvodů za porušení rozpočtové kázně do státních fondů",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/2102/download?token=TajAYV38"
-  },
-  {
-    "name": "Přehled převodů odvodů za porušení rozpočtové kázně do státních fondů",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/2103/download?token=EqWZy36f"
-  },
-  {
     "name": "Přehled vybraných hodnot daňových nedoplatků",
     "url": "https://data.mf.gov.cz/katalog/cs/file/2126/download?token=fsokoKyh"
   },
@@ -932,10 +900,6 @@
     "url": "https://data.mf.gov.cz/katalog/cs/file/1737/download?token=Gif59_Js"
   },
   {
-    "name": "Souhrnný výkaz nákladů a výnosů státu za rok 2020",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1862/download?token=osWUsN6d"
-  },
-  {
     "name": "Souhrnný výkaz nákladů a výnosů státu za rok 2021",
     "url": "https://data.mf.gov.cz/katalog/cs/file/2039/download?token=2g-pqxmC"
   },
@@ -954,14 +918,6 @@
   {
     "name": "Spotřební daň na elektřinu",
     "url": "https://data.mf.gov.cz/katalog/cs/file/2198/download?token=UHq5Ap65"
-  },
-  {
-    "name": "Statistika dražeb dle FÚ",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/2311/download?token=35IWjjvj"
-  },
-  {
-    "name": "Statistika dražeb dle FÚ",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/2312/download?token=zUI5yvEc"
   },
   {
     "name": "Statistika žádostí podle zákona 106/1999 Sb.",
@@ -1006,118 +962,6 @@
   {
     "name": "Struktura zaměstnanců dle věku",
     "url": "https://data.mf.gov.cz/katalog/cs/file/2320/download?token=98yBW9EU"
-  },
-  {
-    "name": "Státní rozpočet na rok 2015 - příloha 4",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/83/download?token=rF8LauJV"
-  },
-  {
-    "name": "Státní rozpočet na rok 2015 - přílohy 1, 2 a 3",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/82/download?token=cwSun2ds"
-  },
-  {
-    "name": "Státní rozpočet na rok 2015 - přílohy 5, 6 a 7",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/84/download?token=w3_cK71L"
-  },
-  {
-    "name": "Státní rozpočet na rok 2016 - příloha 4",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/476/download?token=OvZqVbU4"
-  },
-  {
-    "name": "Státní rozpočet na rok 2016 - přílohy 1, 2 a 3",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/475/download?token=-S9Ze_RK"
-  },
-  {
-    "name": "Státní rozpočet na rok 2016 - přílohy 5, 6 a 7",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/477/download?token=J5njWLTo"
-  },
-  {
-    "name": "Státní rozpočet na rok 2017 - příloha 1",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/861/download?token=-0iZkhkF"
-  },
-  {
-    "name": "Státní rozpočet na rok 2017 - příloha 2",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/862/download?token=FJw6aPUa"
-  },
-  {
-    "name": "Státní rozpočet na rok 2017 - příloha 3",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/863/download?token=Lm8Bse7J"
-  },
-  {
-    "name": "Státní rozpočet na rok 2017 - příloha 4",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/864/download?token=d5yi-nDr"
-  },
-  {
-    "name": "Státní rozpočet na rok 2017 - přílohy 5, 6 a 7",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/865/download?token=sJsuoBfp"
-  },
-  {
-    "name": "Státní rozpočet na rok 2018 - příloha 1",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1044/download?token=FKkUQKHP"
-  },
-  {
-    "name": "Státní rozpočet na rok 2018 - příloha 2",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1045/download?token=dYoNM9UO"
-  },
-  {
-    "name": "Státní rozpočet na rok 2018 - příloha 3",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1046/download?token=lhe4LuD9"
-  },
-  {
-    "name": "Státní rozpočet na rok 2018 - příloha 4",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1047/download?token=hElPdv9X"
-  },
-  {
-    "name": "Státní rozpočet na rok 2018 - příloha 5, 6 a 7",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1048/download?token=kIiUfV69"
-  },
-  {
-    "name": "Státní rozpočet na rok 2019 - příloha 1",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1177/download?token=pUhCos7p"
-  },
-  {
-    "name": "Státní rozpočet na rok 2019 - příloha 2",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1178/download?token=2X14VvV9"
-  },
-  {
-    "name": "Státní rozpočet na rok 2019 - příloha 3",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1179/download?token=bOYAhJEZ"
-  },
-  {
-    "name": "Státní rozpočet na rok 2019 - příloha 4",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1180/download?token=oqu-VWXt"
-  },
-  {
-    "name": "Státní rozpočet na rok 2019 - příloha 5, 6 a 7",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1181/download?token=ubMjc4H_"
-  },
-  {
-    "name": "Státní rozpočet na rok 2020 - příloha 1",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1500/download?token=AodmzhCj"
-  },
-  {
-    "name": "Státní rozpočet na rok 2020 - příloha 2",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1501/download?token=peD3SFno"
-  },
-  {
-    "name": "Státní rozpočet na rok 2020 - příloha 3",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1502/download?token=mM7ZWEu-"
-  },
-  {
-    "name": "Státní rozpočet na rok 2020 - příloha 4",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1503/download?token=QLWs9pmk"
-  },
-  {
-    "name": "Státní rozpočet na rok 2020 - příloha 5, 6 a 7",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/1504/download?token=4_rmSZkr"
-  },
-  {
-    "name": "UZSVM - 10 nějvětších dodavatelů ICT za rok 2014",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/2463/download?token=lQu1nfbd"
-  },
-  {
-    "name": "UZSVM - ICT náklady za HW a SW v letech 2008-2015",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/2462/download?token=_O6Mz4SU"
   },
   {
     "name": "Uhrazené faktury",
@@ -1222,14 +1066,6 @@
   {
     "name": "Vyměřená daň v Kč 2023",
     "url": "https://data.mf.gov.cz/katalog/cs/file/2212/download?token=MojcXd1d"
-  },
-  {
-    "name": "Vyměřená daň v Kč 2023",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/2225/download?token=w9Wakp4w"
-  },
-  {
-    "name": "Vyměřené nároky na vrácení daně v Kč (bez daně vyměřené při dovozu ze třetích zemí 2023",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/2219/download?token=fByg1FMH"
   },
   {
     "name": "Vyměřené nároky na vrácení daně v Kč (bez daně vyměřené při dovozu ze třetích zemí) 2023",
@@ -1344,23 +1180,11 @@
     "url": "https://data.mf.gov.cz/katalog/cs/file/2350/download?token=JDwr7qC0"
   },
   {
-    "name": "Úhrady ze zajištění zajišťovacím příkazem",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/2131/download?token=9P0ll3wS"
-  },
-  {
-    "name": "Úhrady ze zajištění zajišťovacím příkazem",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/2133/download?token=9-YFwA7l"
-  },
-  {
     "name": "Časové řady vývoje státních záruk",
     "url": "https://data.mf.gov.cz/katalog/cs/file/1599/download?token=L8e3wy0E"
   },
   {
     "name": "Časové řady vývoje státních záruk",
     "url": "https://data.mf.gov.cz/katalog/cs/file/92/download?token=JB9-sQS9"
-  },
-  {
-    "name": "Čistá pozice ČR vůči EU",
-    "url": "https://data.mf.gov.cz/katalog/cs/file/2389/download?token=KSJGQqGr"
   }
 ]
