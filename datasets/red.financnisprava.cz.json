@@ -230,5 +230,13 @@
   {
     "name": "ReD - Účelový znak",
     "url": "https://red.financnisprava.cz/opendata/dataset/5c705a92-37ce-44fe-b815-09985474d902/resource/f4e21fbd-b4d5-4c5b-a0b0-35ab9ddaa124/download/ciselnikucelznak.rdf.n3.gz"
+  },
+  {
+    "name": "ReD - Členění finančních prostředků",
+    "url": "https://red.financnisprava.cz/opendata/dataset/69dc89cd-e9ef-4054-bf33-3e1cffdd81e2/resource/132a67a7-55e7-48c1-93e3-3bfa4b14acee/download/ciselnikfinancniprostredekcleneni.csv.gz"
+  },
+  {
+    "name": "ReD - Členění finančních prostředků",
+    "url": "https://red.financnisprava.cz/opendata/dataset/69dc89cd-e9ef-4054-bf33-3e1cffdd81e2/resource/93497b33-815d-47e1-98fe-1c43906d542c/download/ciselnikfinancniprostredekcleneni.rdf.n3.gz"
   }
 ]

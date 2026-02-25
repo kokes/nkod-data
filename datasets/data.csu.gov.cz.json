@@ -2661,6 +2661,10 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/SLD21A050/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/SLU01A/vybery"
   },
   {
@@ -3386,6 +3390,14 @@
   {
     "name": "Zaměstnanci podniků používající vybrané digitální technologie",
     "url": "https://data.csu.gov.cz/opendata/sady/ICT0502/distribuce/json"
+  },
+  {
+    "name": "Zaměstnaní podle postavení v zaměstnání, věku, pohlaví, odvětví ekonomické činnosti, nejvyššího dosaženého vzdělání a místa pracoviště",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLD21A050/distribuce/csv"
+  },
+  {
+    "name": "Zaměstnaní podle postavení v zaměstnání, věku, pohlaví, odvětví ekonomické činnosti, nejvyššího dosaženého vzdělání a místa pracoviště",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLD21A050/distribuce/json"
   },
   {
     "name": "Zaměstnaní podle postavení v zaměstnání, ekonomické aktivity, věku, pohlaví a velikostních skupin obcí",
