@@ -8,6 +8,22 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN02/distribuce/json"
   },
   {
+    "name": " Sklizeň zeleniny",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM03G/distribuce/csv"
+  },
+  {
+    "name": " Sklizeň zeleniny",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM03G/distribuce/json"
+  },
+  {
+    "name": " Sklizeň zemědělských plodin",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM03A/distribuce/csv"
+  },
+  {
+    "name": " Sklizeň zemědělských plodin",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM03A/distribuce/json"
+  },
+  {
     "name": "Agregace indexů cen průmyslových výrobců a vývozu podle klasifikace CPA",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0309/distribuce/csv"
   },
@@ -224,11 +240,11 @@
     "url": "https://data.csu.gov.cz/opendata/sady/WZPR02/distribuce/json"
   },
   {
-    "name": "Harmonizovaný index spotřebitelských cen (HICP)  - od 2000",
+    "name": "Harmonizovaný index spotřebitelských cen (HICP) - od 2000 do 2025",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101C/distribuce/csv"
   },
   {
-    "name": "Harmonizovaný index spotřebitelských cen (HICP)  - od 2000",
+    "name": "Harmonizovaný index spotřebitelských cen (HICP) - od 2000 do 2025",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0101C/distribuce/json"
   },
   {
@@ -1104,6 +1120,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CRUHVD3/distribuce/json"
   },
   {
+    "name": "Obhospodařovaná zemědělská půda k 31. 5.",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM03B/distribuce/csv"
+  },
+  {
+    "name": "Obhospodařovaná zemědělská půda k 31. 5.",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM03B/distribuce/json"
+  },
+  {
     "name": "Obyvatelstvo podle státního občanství, věku, pohlaví, druhu pobytu a způsobu bydlení",
     "url": "https://data.csu.gov.cz/opendata/sady/SLD21A011/distribuce/csv"
   },
@@ -1120,6 +1144,14 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0202D/distribuce/json"
   },
   {
+    "name": "Odhad osevních ploch ozimých plodin k 30. 11. pro sklizeň v následujícím roce",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM03E/distribuce/csv"
+  },
+  {
+    "name": "Odhad osevních ploch ozimých plodin k 30. 11. pro sklizeň v následujícím roce",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM03E/distribuce/json"
+  },
+  {
     "name": "Odpracované a placené neodpracované hodiny",
     "url": "https://data.csu.gov.cz/opendata/sady/UNP4/distribuce/csv"
   },
@@ -1134,6 +1166,14 @@
   {
     "name": "Odsouzené osoby",
     "url": "https://data.csu.gov.cz/opendata/sady/KRI24/distribuce/json"
+  },
+  {
+    "name": "Osevní plochy zemědělských plodin k 31. 5.",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM03C/distribuce/csv"
+  },
+  {
+    "name": "Osevní plochy zemědělských plodin k 31. 5.",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM03C/distribuce/json"
   },
   {
     "name": "Ostatní kriminalita registrovaná Policií ČR",
@@ -1646,6 +1686,22 @@
   {
     "name": "Saldo indikátorů důvěry",
     "url": "https://data.csu.gov.cz/opendata/sady/KPR2/distribuce/json"
+  },
+  {
+    "name": "Sklizeň ovoce",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM03D/distribuce/csv"
+  },
+  {
+    "name": "Sklizeň ovoce",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM03D/distribuce/json"
+  },
+  {
+    "name": "Sklizeň vybraných plodin včetně odhadu za domácnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM03F/distribuce/csv"
+  },
+  {
+    "name": "Sklizeň vybraných plodin včetně odhadu za domácnosti",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM03F/distribuce/json"
   },
   {
     "name": "Souhrn indexů cen tržních služeb na úrovni oddílů CZ-CPA",
@@ -2946,6 +3002,34 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZDR03/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZEM03A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZEM03B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZEM03C/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZEM03D/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZEM03E/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZEM03F/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZEM03G/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",

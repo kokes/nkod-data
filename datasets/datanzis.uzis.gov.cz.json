@@ -72,6 +72,22 @@
     "url": "https://datanzis.uzis.gov.cz/data/OIS-01-NKIS/OIS-01-06/Otevrena-data-OIS-01-06-kardiostimulatory-implantabilni-kardioverter-defibrilatory.csv"
   },
   {
+    "name": "Lázeňská péče – charakteristika pacientů s hrazenou péčí",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-92/Otevrena-data-NR-04-92-lazenska-pece-charakteristika-pacientu-hrazena-pece.csv"
+  },
+  {
+    "name": "Lázeňská péče – léčebné výkony",
+    "url": "https://datanzis.uzis.gov.cz/data/SSS-07-A-VYKAZY/SSS-07-29/Otevrena-data-SSS-07-29-lazenska-pece-lecebne-vykony.csv"
+  },
+  {
+    "name": "Lázeňská péče – ošetřovací dny",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-91/Otevrena-data-NR-04-91-lazenska-pece-osetrovaci-dny.csv"
+  },
+  {
+    "name": "Lázeňská péče – pacienti",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-04-NRHZS/NR-04-90/Otevrena-data-NR-04-90-lazenska-pece-pacienti.csv"
+  },
+  {
     "name": "Lůžkový fond ČR a jeho využití",
     "url": "https://datanzis.uzis.gov.cz/data/SSS-05-LUZKA/SSS-05-01/Otevrena-data-SSS-05-01-luzkovy-fond-vyuziti.csv"
   },
@@ -118,6 +134,10 @@
   {
     "name": "Pokrytí dospělé cílové populace v kapitaci všeobecných praktických lékařů preventivní prohlídkou",
     "url": "https://datanzis.uzis.gov.cz/data/PPS-08-PREVENCE/PPS-08-04/Otevrena-data-PPS-08-04-preventivni-prohlidky-pokryti-kapitace.csv"
+  },
+  {
+    "name": "Pokrytí dvouletých dětí včasným záchytem poruch autistického spektra",
+    "url": "https://datanzis.uzis.gov.cz/data/PPS-09-DETI/PPS-09-02/Otevrena-data-PPS-09-02-vcasny-zachyt-poruchy-autistickeho-spektra.csv"
   },
   {
     "name": "Pokrytí novorozenců screeningem sluchu a podíl dle výsledků u cílové populace",
