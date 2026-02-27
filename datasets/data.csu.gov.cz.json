@@ -528,6 +528,22 @@
     "url": "https://data.csu.gov.cz/opendata/sady/CEN0301/distribuce/json"
   },
   {
+    "name": "Indexy cen vývozu a dovozu, směnné relace podle klasifikace CPA - očištěné o vliv měnového kurzu",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0302/distribuce/csv"
+  },
+  {
+    "name": "Indexy cen vývozu a dovozu, směnné relace podle klasifikace CPA - očištěné o vliv měnového kurzu",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0302/distribuce/json"
+  },
+  {
+    "name": "Indexy cen vývozu a dovozu, směnné relace podle klasifikace SITC - očištěné o vliv měnového kurzu",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0304/distribuce/csv"
+  },
+  {
+    "name": "Indexy cen vývozu a dovozu, směnné relace podle klasifikace SITC - očištěné o vliv měnového kurzu",
+    "url": "https://data.csu.gov.cz/opendata/sady/CEN0304/distribuce/json"
+  },
+  {
     "name": "Indexy cen zemědělských výrobců (průměr roku 2010 = 100) - od roku 2010 - 2017 ",
     "url": "https://data.csu.gov.cz/opendata/sady/CEN02034/distribuce/csv"
   },
@@ -1128,6 +1144,22 @@
     "url": "https://data.csu.gov.cz/opendata/sady/ZEM03B/distribuce/json"
   },
   {
+    "name": "Obyvatelstvo pode způsobu bydlení a pohlaví",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLDZOB11/distribuce/csv"
+  },
+  {
+    "name": "Obyvatelstvo pode způsobu bydlení a pohlaví",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLDZOB11/distribuce/json"
+  },
+  {
+    "name": "Obyvatelstvo podle pohlaví",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLDZOB01/distribuce/csv"
+  },
+  {
+    "name": "Obyvatelstvo podle pohlaví",
+    "url": "https://data.csu.gov.cz/opendata/sady/SLDZOB01/distribuce/json"
+  },
+  {
     "name": "Obyvatelstvo podle státního občanství, věku, pohlaví, druhu pobytu a způsobu bydlení",
     "url": "https://data.csu.gov.cz/opendata/sady/SLD21A011/distribuce/csv"
   },
@@ -1238,6 +1270,22 @@
   {
     "name": "Pohyb zboží přes hranice podle zemí a zbožové nomenklatury KN8 ve finančním vyjádření ",
     "url": "https://data.csu.gov.cz/opendata/sady/VZO01BM/distribuce/json"
+  },
+  {
+    "name": "Porážky hospodářských zvířat mimo jatka",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM0202C/distribuce/csv"
+  },
+  {
+    "name": "Porážky hospodářských zvířat mimo jatka",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM0202C/distribuce/json"
+  },
+  {
+    "name": "Porážky hospodářských zvířat na jatkách",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM0202B/distribuce/csv"
+  },
+  {
+    "name": "Porážky hospodářských zvířat na jatkách",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM0202B/distribuce/json"
   },
   {
     "name": "Používání ICT osobami",
@@ -1654,6 +1702,22 @@
   {
     "name": "Rozvody podle délky trvání manželství",
     "url": "https://data.csu.gov.cz/opendata/sady/OBY05B03/distribuce/json"
+  },
+  {
+    "name": "Rozvody podle délky trvání manželství a počtu nezletilých dětí",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY05B07/distribuce/csv"
+  },
+  {
+    "name": "Rozvody podle délky trvání manželství a počtu nezletilých dětí",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY05B07/distribuce/json"
+  },
+  {
+    "name": "Rozvody podle roku uzavření sňatku",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY05B08/distribuce/csv"
+  },
+  {
+    "name": "Rozvody podle roku uzavření sňatku",
+    "url": "https://data.csu.gov.cz/opendata/sady/OBY05B08/distribuce/json"
   },
   {
     "name": "Rozvody podle věku mužů",
@@ -2117,6 +2181,14 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0302/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0304/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/CEN0305/vybery"
   },
   {
@@ -2577,6 +2649,14 @@
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY05B07/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY05B08/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/OBY06/vybery"
   },
   {
@@ -2718,6 +2798,14 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/SLD21A050/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/SLDZOB01/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/SLDZOB11/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -3002,6 +3090,18 @@
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
     "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZDR03/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZEM0202A/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZEM0202B/vybery"
+  },
+  {
+    "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
+    "url": "https://data.csu.gov.cz/api/katalog/v1/sady/ZEM0202C/vybery"
   },
   {
     "name": "Veřejné rozhraní datových sad a výběrů v DataStatu",
@@ -3394,6 +3494,14 @@
   {
     "name": "Výdaje za zdravotní péči podle zdroje financování a typu poskytovatele (mil. Kč)",
     "url": "https://data.csu.gov.cz/opendata/sady/ZDR02/distribuce/json"
+  },
+  {
+    "name": "Výroba masa",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM0202A/distribuce/csv"
+  },
+  {
+    "name": "Výroba masa",
+    "url": "https://data.csu.gov.cz/opendata/sady/ZEM0202A/distribuce/json"
   },
   {
     "name": "Vývoz odpadů",

@@ -136,10 +136,6 @@
     "url": "https://datanzis.uzis.gov.cz/data/PPS-08-PREVENCE/PPS-08-04/Otevrena-data-PPS-08-04-preventivni-prohlidky-pokryti-kapitace.csv"
   },
   {
-    "name": "Pokrytí dvouletých dětí včasným záchytem poruch autistického spektra",
-    "url": "https://datanzis.uzis.gov.cz/data/PPS-09-DETI/PPS-09-02/Otevrena-data-PPS-09-02-vcasny-zachyt-poruchy-autistickeho-spektra.csv"
-  },
-  {
     "name": "Pokrytí novorozenců screeningem sluchu a podíl dle výsledků u cílové populace",
     "url": "https://datanzis.uzis.gov.cz/data/PPS-06-SLUCH/PPS-06-01/Otevrena-data-PPS-06-01-screening-sluchu-novorozenci.csv"
   },
@@ -160,8 +156,16 @@
     "url": "https://datanzis.uzis.gov.cz/data/PPS-08-PREVENCE/PPS-08-07/Otevrena-data-PPS-08-07-casny-zachyt-vydut-brisni-aorty-pocet-vysetreni.csv"
   },
   {
+    "name": "Počet operací totálních endoprotéz",
+    "url": "https://datanzis.uzis.gov.cz/data/NR-19-NRKN/NR-19-05/Otevrena-data-NR-19-05-totalni-endoprotezy-pocet.csv"
+  },
+  {
     "name": "Počet oslovených osob v Programu časného záchytu karcinomu plic",
     "url": "https://datanzis.uzis.gov.cz/data/PPS-04-PLICE/PPS-04-01/Otevrena-data-PPS-04-01-oslovene-osoby-casny-zachyt-karcinom-plic.csv"
+  },
+  {
+    "name": "Počet unikátních pacientů s vykázanou péčí odbornosti 929 nebo DRG markery",
+    "url": "https://datanzis.uzis.gov.cz/data/OIS-05-NISPP/OIS-05-06/Otevrena-data-OIS-05-06-unikatni-pacienti-vykazana-pece-odbornost-929-drg-markery.csv"
   },
   {
     "name": "Přehled vykázaných hlavních diagnóz dle odbornosti",
@@ -226,6 +230,10 @@
   {
     "name": "Včasný záchyt očních vad: Pokrytí cílové populace",
     "url": "https://datanzis.uzis.gov.cz/data/PPS-09-DETI/PPS-09-01/Otevrena-data-PPS-09-01-ocni-vady-pokryti-cilove-populace.csv"
+  },
+  {
+    "name": "Včasný záchyt poruch autistického spektra ve věku 2 let: pokrytí cílové populace",
+    "url": "https://datanzis.uzis.gov.cz/data/PPS-09-DETI/PPS-09-02/Otevrena-data-PPS-09-02-vcasny-zachyt-poruchy-autistickeho-spektra.csv"
   },
   {
     "name": "Zdravotnická technika dle zdravotnických zařízení",
